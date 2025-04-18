@@ -1,0 +1,57 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  rating: number;
+  author: {
+    name: string;
+    image: string;
+  };
+  publishDate: string;
+  updateDate?: string;
+  product: {
+    name: string;
+    brand: string;
+    image: string;
+    price: number;
+  };
+}
+
+const { title, description, rating, author, publishDate, updateDate, product } = Astro.props;
+
+const schema = {
+  "@context": "https://schema.org/",
+  "@type": "Review",
+  "name": title,
+  "description": description,
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": rating,
+    "bestRating": "10",
+    "worstRating": "0"
+  },
+  "author": {
+    "@type": "Person",
+    "name": author.name,
+    "image": author.image
+  },
+  "datePublished": publishDate,
+  ...(updateDate && { "dateModified": updateDate }),
+  "itemReviewed": {
+    "@type": "Product",
+    "name": product.name,
+    "brand": {
+      "@type": "Brand",
+      "name": product.brand
+    },
+    "image": product.image,
+    "offers": {
+      "@type": "Offer",
+      "price": product.price,
+      "priceCurrency": "USD"
+    }
+  }
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

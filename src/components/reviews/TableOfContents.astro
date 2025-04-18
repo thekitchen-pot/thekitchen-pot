@@ -1,0 +1,30 @@
+---
+interface Props {
+  headings: {
+    depth: number;
+    slug: string;
+    text: string;
+  }[];
+}
+
+const { headings } = Astro.props;
+
+// Only include h2 and h3 headings
+const toc = headings.filter(heading => heading.depth === 2 || heading.depth === 3);
+---
+
+<nav class="border rounded-lg p-6">
+  <h2 class="font-bold text-lg mb-4">Table of Contents</h2>
+  <ul class="space-y-3">
+    {toc.map(heading => (
+      <li class={`${heading.depth === 3 ? "ml-4" : ""}`}>
+        <a
+          href={`#${heading.slug}`}
+          class="text-muted-foreground hover:text-primary transition-colors"
+        >
+          {heading.text}
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>

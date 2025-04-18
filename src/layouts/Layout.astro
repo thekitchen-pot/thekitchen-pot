@@ -1,0 +1,94 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '@fontsource-variable/montserrat';
+import '@fontsource/bebas-neue';
+import "@fontsource/open-sans";
+import '@/styles/globals.css';
+
+interface Props {
+    title: string;
+    description?: string;
+    image?: string;
+    article?: boolean;
+    robots?: string;
+}
+
+const {
+  title,
+  image = "/images/default-cover.jpg",
+    article = false,
+  description = "The Kitchen Pot - Your ultimate guide to modernizing your kitchen on a budget. Expert reviews, latest cookware, and interesting discoveries."
+} = Astro.props;
+
+// Base URL for canonical links and OG images
+// Base URL for canonical links and OG images
+const baseUrl = "https://thekitchenpot.com";
+const canonicalURL = new URL(Astro.url.pathname, baseUrl).href;
+const socialImageURL = new URL(image, baseUrl).href;
+
+// Organization Schema
+const organizationSchema = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "The Kitchen Pot",
+    url: baseUrl,
+    logo: `${baseUrl}/logo.png`,
+    description: "A blog about modernizing your kitchen on a budget.",
+    address: {
+        "@type": "PostalAddress",
+        addressLocality: "Texas",
+        addressCountry: "US",
+    },
+    sameAs: [
+        "https://facebook.com/thekitchenpot",
+        "https://twitter.com/thekitchenpot",
+        "https://linkedin.com/company/thekitchenpot",
+        "https://instagram.com/thekitchenpot",
+    ],
+};
+---
+
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8" />
+    <title>{title} | The Kitchen Pot</title>
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="alternate" type="application/atom+xml" title={title} href="/rss.xml" />
+
+    <!-- SEO and Social Media Meta Tags -->
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={article ? "article" : "website"} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:image" content={socialImageURL} />
+    <meta property="og:site_name" content="MTBNZ" />
+    <meta property="article:publisher" content="https://thekitchenpot.com" />
+
+    <!-- Twitter Card Metadata -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+
+
+
+    <!-- Schema.org Markup -->
+     <script
+        type="application/ld+json"
+        set:html={JSON.stringify(organizationSchema)}
+    />
+</head>
+<body class="antialiased">
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+</body>
+</html>

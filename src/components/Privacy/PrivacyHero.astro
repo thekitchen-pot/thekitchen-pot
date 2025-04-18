@@ -1,0 +1,22 @@
+---
+// src/components/Privacy/PolicyHero.astro
+import { Image } from 'astro:assets';
+
+---
+<section class="relative min-h-[60vh] flex items-center overflow-hidden">
+  {/* Parallax Background */}
+  <div class="absolute inset-0 bg-[url('/images/privacy-bg.jpg')] bg-fixed bg-cover bg-center scale-110"></div>
+
+  {/* Glassmorphism Overlay */}
+  <div class="absolute inset-0 bg-black/30 backdrop-blur-sm"></div>
+
+  <div class="relative z-10 container mx-auto px-4 text-center">
+    <h1 class="text-4xl md:text-6xl font-bold text-white mb-6 drop-shadow-lg">
+      Your Data,<br/>
+      <span class="text-orange-300">Our Recipe</span> for Protection
+    </h1>
+    <p class="text-xl text-orange-100 max-w-2xl mx-auto">
+      Transparent ingredients for digital trust
+    </p>
+  </div>
+</section>

@@ -1,0 +1,93 @@
+---
+import { Card } from "@/components/ui/card";
+import { ArrowRight } from 'lucide-react';
+import { getCollection } from 'astro:content';
+import { Icon } from 'astro-icon/components';
+import { Image } from 'astro:assets';
+
+
+type Post = { data: { image: string; title: string; pubDate: string; excerpt: string; slug: string; } };
+// Fetch all blog posts
+const allPosts = await getCollection('blog');
+
+// Sort posts by pubDate (newest first)
+const sortedPosts = allPosts.sort((a, b) => {
+  return new Date(b.data.pubDate || '').getTime() - new Date(a.data.pubDate || '').getTime();
+});
+
+// Get unique tags
+const allTags = [...new Set(sortedPosts.flatMap(post => post.data.tags || []))];
+
+// Group posts by tag
+const postsByTag: Record<string, Post[]> = allTags.reduce((acc, tag) => {
+  acc[tag] = sortedPosts.filter(post => post.data.tags?.includes(tag));
+  return acc;
+}, {} as Record<string, Post[]>);
+
+// Pagination
+const postsPerPage = 9;
+const currentPage = Number(Astro.url.searchParams.get('page') || 1);
+const totalPages = Math.ceil(sortedPosts.length / postsPerPage);
+const paginatedPosts = sortedPosts.slice((currentPage - 1) * postsPerPage, currentPage * postsPerPage);
+
+
+// Get featured posts (taking the first 3 most recent posts)
+// Get featured posts (skipping first 2 and taking next 3 posts)
+const featuredPosts = sortedPosts.slice(2, 5);
+
+// Helper function to format date
+function formatDate(dateString: string | undefined) {
+  if (!dateString) return '';
+  return new Date(dateString).toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+}
+
+---
+
+<section class="py-20 bg-silver">
+  <div class="container mx-auto px-4">
+    <div class="flex justify-between items-center mb-12">
+      <h2 class="font-display text-4xl text-accent">FEATURED STORIES</h2>
+      <a href="/blog/" class="text-secondary hover:text-primary font-medium flex items-center gap-2 transition-colors">
+        View All Articles
+        <ArrowRight className="h-4 w-4" />
+      </a>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {featuredPosts.map((post) => (
+        <a href={`/blog/${post.id}`} class="block group">
+          <Card className="overflow-hidden hover:shadow-lg transition-shadow h-full">
+            <div class="relative overflow-hidden">
+              <Image
+                src={post.data.image}
+                alt={post.data.title}
+                width={800}
+                height={400}
+                class="w-full h-48 object-cover transition-transform duration-300 group-hover:scale-105"
+              />
+              <span class="absolute top-4 left-4 px-3 py-1 bg-primary text-white text-sm font-medium rounded">
+                {post.data.category || 'Article'}
+              </span>
+            </div>
+            <div class="p-6">
+              <h3 class="text-xl font-bold mt-2 mb-3 group-hover:text-primary transition-colors">
+                {post.data.title}
+              </h3>
+              <p class="text-gray-600 mb-4 line-clamp-2">
+                {post.data.description || post.data.excerpt}
+              </p>
+              <span class="text-secondary font-medium group-hover:text-primary inline-flex items-center gap-2 transition-colors">
+                Read More
+                <ArrowRight className="h-4 w-4" />
+              </span>
+            </div>
+          </Card>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>

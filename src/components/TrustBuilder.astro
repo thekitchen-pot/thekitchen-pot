@@ -1,0 +1,45 @@
+---
+// src/components/Homepage/TrustBuilder.astro
+import { Image } from "astro:assets";
+import { Icon } from "astro-icon/components";
+import founderImage from "@/data/assets/images/founder.jpeg";
+---
+
+<section class="py-12 sm:py-20 bg-teal-100 overflow-hidden " aria-labelledby="tiny-kitchen-solutions">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="grid md:grid-cols-2 gap-12">
+      <div class="space-y-8">
+        <h2 class="text-3xl font-bold text-gray-900">Real Tiny Kitchen Warriors</h2>
+
+        <div class="bg-white p-6 rounded-lg shadow-sm">
+          <Icon name="mdi:format-quote-open" class="text-primary-600 w-8 h-8 mb-4" />
+          <p class="text-gray-700 mb-4">"I can actually SEE my countertop now!"</p>
+          <div class="flex items-center gap-4">
+            <div class="w-12 h-12 rounded-full bg-gray-200"></div>
+            <div>
+              <p class="font-medium">Jamie, NYC</p>
+              <p class="text-sm text-gray-500">200 sq.ft studio survivor</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <div class="bg-white p-8 rounded-lg shadow-sm">
+          <Image
+            src={founderImage}
+            alt="Founder Mia Rodriguez"
+            class="rounded-full w-32 h-32 mb-6 mx-auto"
+            width={128}
+            height={128}
+          />
+          <h3 class="text-2xl font-bold text-center mb-4">Meet Our Founder</h3>
+          <p class="text-gray-600 mb-4">5 years in a 90 sq.ft NYC kitchenette taught me...</p>
+          <div class="flex justify-center">
+            <a href="/story" class="text-primary-600 font-medium">Read Full Story →</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

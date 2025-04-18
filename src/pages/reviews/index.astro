@@ -1,0 +1,74 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { Card } from "@/components/ui/card";
+import { ArrowRight } from 'lucide-react';
+
+const reviews = await getCollection('reviews');
+const categories = [...new Set(reviews.map(review => review.data.category))];
+
+// Group reviews by category
+const reviewsByCategory = categories.map(category => ({
+  category,
+  reviews: reviews.filter(review => review.data.category === category)
+}));
+---
+
+<Layout title="Mountain Bike Reviews - Expert Analysis & Insights">
+  <div class="bg-hero-pattern bg-cover bg-center py-20 text-white relative">
+    <div class="absolute inset-0 bg-black/50"></div>
+    <div class="container mx-auto px-4 relative">
+      <h1 class="font-display text-5xl md:text-6xl mb-6">MOUNTAIN BIKE REVIEWS</h1>
+      <p class="text-xl max-w-2xl">Expert analysis, in-depth testing, and honest opinions on the latest mountain bikes and gear.</p>
+    </div>
+  </div>
+
+  <main class="container mx-auto px-4 py-12">
+    {reviewsByCategory.map(({ category, reviews }) => (
+      <section class="mb-16">
+        <div class="flex justify-between items-center mb-8">
+          <h2 class="font-display text-3xl">{category.toUpperCase()}</h2>
+          <a
+            href={`/reviews/${category.toLowerCase()}`}
+            class="text-secondary hover:text-primary font-medium flex items-center gap-2 transition-colors"
+          >
+            View All {category} Reviews
+            <ArrowRight className="h-4 w-4" />
+          </a>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {reviews.slice(0, 3).map(review => (
+            <Card className="overflow-hidden group hover:shadow-lg transition-shadow">
+              <div class="relative aspect-video overflow-hidden">
+                <img
+                  src={review.data.image}
+                  alt={review.data.title}
+                  class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                />
+                <span class="absolute top-4 left-4 px-3 py-1 bg-primary text-white text-sm font-medium rounded">
+                  {review.data.category}
+                </span>
+              </div>
+              <div class="p-6">
+                <h3 class="text-xl font-bold mb-3 group-hover:text-primary transition-colors line-clamp-2">
+                  {review.data.title}
+                </h3>
+                <p class="text-muted-foreground mb-4 line-clamp-2">
+                  {review.data.description}
+                </p>
+                <a
+                  href={`/reviews/${review.id}`}
+                  class="text-secondary font-medium hover:text-primary inline-flex items-center gap-2 transition-colors"
+                >
+                  Read Review
+                  <ArrowRight className="h-4 w-4" />
+                </a>
+              </div>
+            </Card>
+          ))}
+        </div>
+      </section>
+    ))}
+  </main>
+</Layout>

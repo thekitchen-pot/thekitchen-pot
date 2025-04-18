@@ -1,0 +1,85 @@
+---
+import { Icon } from 'astro-icon/components';
+
+interface Props {
+  title: string;
+  icon: string;
+  content: string;
+  accentColor?: string;
+  layoutStyle?: 'iconTop' | 'iconLeft' | 'iconRight' | 'iconBottom' | 'iconCenter' | 'iconCenterTop' | 'iconCenterBottom' | 'iconCenterLeft' | 'iconCenterRight' | 'noIcon' | 'default';
+}
+
+const { title, icon, layoutStyle = "iconTop", content, accentColor = 'orange' } = Astro.props;
+
+const iconPositions = {
+  iconTop: 'top-0 left-1/2 -translate-x-1/2 -translate-y-1/2',
+  iconLeft: 'top-1/2 left-0 -translate-x-1/2 -translate-y-1/2',
+  iconRight: 'top-1/2 right-0 translate-x-1/2 -translate-y-1/2',
+  iconBottom: 'bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2',
+  iconCenter: 'top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2',
+  iconCenterTop: 'top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2',
+  iconCenterBottom: 'bottom-1/4 left-1/2 -translate-x-1/2 translate-y-1/2',
+  iconCenterLeft: 'top-1/2 left-1/4 -translate-y-1/2',
+  iconCenterRight: 'top-1/2 right-1/4 -translate-y-1/2',
+  default: 'top-0 left-1/2 -translate-x-1/2 -translate-y-1/2'
+};
+---
+<section>
+
+<div
+  class={`relative container p-10 sm:p-12 max-w-prose mx-auto
+          rounded-[2.5rem] shadow-2xl border-8
+          transform hover:-translate-y-2 transition-all duration-300
+          border-teal-100/30 bg-gradient-to-tl from-teal-600/30 via-teal-200/60 to-gray-200/20`}
+>
+  {layoutStyle !== 'noIcon' && (
+    <div
+      class={`absolute flex-shrink-0 w-20 h-20 bg-gradient-to-bl from-orange-600/90 via-orange-600/80 to-orange-600/90
+              rounded-full flex items-center justify-center shadow-xl
+              transform hover:scale-110 transition-all duration-300 hover:rotate-3
+              ring-4 ring-${accentColor}-200/50 backdrop-blur-sm
+              ${iconPositions[layoutStyle]}`}
+    >
+      <Icon name={icon} class="w-10 h-10 text-gray-100" />
+    </div>
+  )}
+
+  <div class="flex flex-col items-center gap-6 pt-6">
+    <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 tracking-tight">
+      {title}
+    </h3>
+    <p class="text-gray-600 leading-relaxed text-center max-w-[85%] mx-auto">
+      {content}
+    </p>
+  </div>
+</div>
+</section>
+
+<style>
+  section {
+    container-type: inline-size;
+    backdrop-filter: blur(8px);
+  }
+
+  section:hover {
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+  }
+
+  @container (min-width: 400px) {
+    section {
+      padding: 3rem;
+    }
+  }
+</style>
+
+<style>
+  section {
+    container-type: inline-size;
+  }
+
+  @container (min-width: 400px) {
+    section {
+      padding: 2.5rem;
+    }
+  }
+</style>

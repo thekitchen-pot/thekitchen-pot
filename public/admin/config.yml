@@ -1,0 +1,733 @@
+backend:
+  name: git-gateway
+  repo: affilirator/thekitchen-pot
+  branch: main
+  base_url: https://thekitchenpot.com
+  # client_secret: 7f474a98bd6b11bd307723d6bc699e353dc0bca2
+  #NecClientScr=Iv23liGxmTCwuyoQb5kz
+  #Newcleitdsrc=53969d5e88980cb7dcd9ed73701c6ca8ee77970c
+
+site_url: https://thekitchenpot.com
+display_url: thekitchenpot.com
+# logo_url: https://www.bestofvacuum.com/images/logo.svg
+show_preview_links: true
+publish_mode: editorial_workflow
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "blog"
+    label: "WordPress Posts"
+    label_singular: "Article"
+    preview_path: "/blog/{{slug}}/"
+    folder: "src/content/blog"
+    description: "Blog posts imported from WordPress. Edits only - create new posts in 'New CMS Posts'."
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "date",
+          widget: "hidden",
+          default: "{{fields.pubDate}}",
+        }
+      - {
+          label: "Source",
+          name: "source",
+          widget: "string",
+          default: "wordpress",
+        }
+      - { label: "URL Slug", name: "slug", widget: "string", required: true }
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "../../layouts/BlogLayout.astro",
+        }
+      - {
+          label: "Publication Date",
+          name: "pubDate",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+        }
+      - {
+          label: "Modified Date",
+          name: "modDate",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Description", name: "excerpt", widget: "text" }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Show Table of Contents",
+          name: "showTableOfContents",
+          widget: "boolean",
+          default: true,
+        }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Author Bio", name: "authorBio", widget: "text" }
+      - {
+          label: "Author Image",
+          name: "authorImage",
+          widget: "image",
+          required: false,
+        }
+      - {
+          label: "Author Image Alt Text",
+          name: "authorImageAlt",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Cover Alt Text",
+          name: "coverAlt",
+          widget: "string",
+          required: false,
+        }
+
+  - name: "static-blog"
+    label: "New Posts"
+    label_singular: "Article"
+    preview_path: "/blog/{{slug}}/"
+    folder: "src/content/blog"
+    media_folder: "src/content/blog/images"
+    public_folder: "/src/content/blog/images"
+    filter: { field: "source", value: "decap" }
+    description: "New articles added via CMS"
+    create: true
+    slug: "{{fields.slug}}"
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          pattern: [".{20,}", "Must have at least 20 characters"],
+        }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+          required: true,
+          pattern: ["^[a-zA-Z0-9-]+$", "Only alphanumeric and hyphens allowed"],
+          hint: "Auto-generated from title (editable)",
+        }
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "../../layouts/BlogLayout.astro",
+        }
+      - {
+          label: "Publication Date",
+          name: "pubDate",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+        }
+      - {
+          label: "Modified Date",
+          name: "modDate",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          default: "{{now}}",
+        }
+      - {
+          label: "Post Author",
+          name: "postAuthor",
+          widget: "relation",
+          collection: "authors",
+          file: "boniface-muriuki",
+          search_fields: ["author", "slug"],
+          value_field: "slug",
+          display_fields: ["author"],
+          default: "boniface-muriuki",
+          required: true,
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: true,
+          hint: "Optimal size: 1200x630px",
+          media_library: { config: { multiple: false } },
+          default: "/images/blog/default-cover.jpg",
+        }
+      - {
+          label: "Description",
+          name: "excerpt",
+          widget: "text",
+          pattern: [".{50,160}", "SEO description (50-160 characters)"],
+        }
+      - {
+          label: "Category",
+          name: "category",
+          widget: "relation",
+          collection: "categories",
+          search_fields: ["slug", "title"],
+          value_field: "slug",
+          display_fields: ["title"],
+          default: "kitchenware",
+          required: true,
+        }
+      - label: "Tags"
+        name: "tags"
+        label_singular: "Tag"
+        widget: "list"
+        summary: "{{fields.tag}}"
+        field: { label: Tag, name: tag, widget: string }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Guest Author"
+        name: "guestAuthor"
+        widget: "relation"
+        collection: "Guestauthors"
+        search_fields: ["slug", "fullname"]
+        value_field: "slug"
+        display_fields: ["fullname", "title"]
+        required: false
+        hint: "Optional - only for articles with guest authors"
+      - {
+          label: "Show Table of Contents",
+          name: "showTableOfContents",
+          widget: "boolean",
+          default: true,
+        }
+      - {
+          label: "Source",
+          name: "source",
+          widget: "hidden",
+          default: "decap",
+          hint: "Content origin - do not modify",
+        }
+
+  - name: "legalpages"
+    label: "Legal Pages"
+    publish: false
+    files:
+      - name: "privacy_policy"
+        label: "Privacy Policy"
+        file: "src/content/legal/privacy-policy.md"
+        fields:
+          - { name: "title", label: "Page Title", widget: "string" }
+          - { name: "last_updated", label: "Last Updated", widget: "datetime" }
+          - name: "sections"
+            label: "Policy Sections"
+            widget: "list"
+            fields:
+              - { name: "id", label: "Section ID", widget: "string" }
+              - { name: "title", label: "Section Title", widget: "string" }
+              - { name: "content", label: "Content", widget: "markdown" }
+          - name: "contact"
+            label: "Contact Information"
+            widget: "object"
+            fields:
+              - { name: "email", label: "Contact Email", widget: "string" }
+              - { name: "address", label: "Mailing Address", widget: "text" }
+
+  - name: "categories"
+    label: "Categories"
+    label_singular: "Category"
+    folder: "src/content/categories"
+    identifier_field: "title"
+    slug: "{{slug}}"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+          pattern: ["^[a-zA-Z0-9-]+$", "Alphanumeric and hyphens only"],
+        }
+      - { label: "Description", name: "body", widget: "markdown" }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          media_folder: "/public/images/categories",
+          public_folder: "/images/categories",
+          media_library:
+            {
+              max_file_size: 512000,
+              allowed_file_types: ["image/jpeg", "image/png", "image/webp"],
+            },
+          required: false,
+        }
+      - {
+          label: "SEO Description",
+          name: "seoDescription",
+          widget: "text",
+          required: false,
+          pattern:
+            [
+              ".{50,160}",
+              "SEO description should be between 50 and 160 characters",
+            ],
+        }
+      - {
+          label: "SEO Keywords",
+          name: "seoKeywords",
+          widget: "list",
+          required: false,
+          summary: "{{fields.keyword}}",
+          field: { label: "Keyword", name: "keyword", widget: "string" },
+        }
+
+  - name: "authors"
+    label: "Authors"
+    files:
+      - name: "boniface-muriuki"
+        label: "Boniface Muriuki"
+        file: "src/content/authors/boniface-muriuki.yml"
+        fields:
+          - {
+              label: "Full Name",
+              name: "author",
+              widget: "string",
+              pattern: [".{3,}", "Name must have at least 3 characters"],
+            }
+          - {
+              label: "Slug",
+              name: "slug",
+              widget: "string",
+              pattern:
+                [
+                  "^[a-zA-Z0-9-]+$",
+                  "Only alphanumeric characters and hyphens allowed",
+                ],
+            }
+          - {
+              label: "Short Bio",
+              name: "authorBio",
+              widget: "text",
+              pattern:
+                [".{50,500}", "Bio should be between 50 and 500 characters"],
+              hint: "A brief professional description that appears under articles",
+            }
+          - {
+              label: "Profile Image",
+              name: "authorImage",
+              widget: "image",
+              media_folder: "/public/images/authors",
+              public_folder: "/images/authors",
+              media_library:
+                {
+                  max_file_size: 512000,
+                  allowed_file_types: ["image/jpeg", "image/png", "image/webp"],
+                },
+              hint: "Professional headshot (1:1 ratio recommended)",
+            }
+          - {
+              label: "Professional Title",
+              name: "title",
+              widget: "string",
+              hint: "Current professional position or role",
+            }
+          - {
+              label: "Expertise Areas",
+              name: "expertise",
+              widget: "list",
+              summary: "{{fields.area}}",
+              field: { label: "Area", name: "area", widget: "string" },
+              hint: "Main areas of expertise (e.g., Kitchen Appliances, Cooking, Food Safety)",
+              max: 5,
+            }
+          - {
+              label: "Credentials",
+              name: "credentials",
+              widget: "list",
+              fields:
+                [
+                  {
+                    label: "Qualification",
+                    name: "qualification",
+                    widget: "string",
+                  },
+                  {
+                    label: "Institution",
+                    name: "institution",
+                    widget: "string",
+                  },
+                  { label: "Year", name: "year", widget: "number" },
+                ],
+              hint: "Academic qualifications, certifications, or relevant training",
+            }
+          - {
+              label: "Years of Experience",
+              name: "yearsOfExperience",
+              widget: "number",
+              value_type: "int",
+              min: 0,
+              max: 100,
+            }
+          - {
+              label: "Detailed Biography",
+              name: "longBio",
+              widget: "markdown",
+              hint: "Detailed professional background, experience, and achievements",
+            }
+          - {
+              label: "Social Profiles",
+              name: "socialProfiles",
+              widget: "object",
+              fields:
+                [
+                  {
+                    label: "LinkedIn",
+                    name: "linkedin",
+                    widget: "string",
+                    required: false,
+                    pattern:
+                      [
+                        "^https://www\\.linkedin\\.com/.*",
+                        "Must be a valid LinkedIn URL",
+                      ],
+                  },
+                  {
+                    label: "Twitter/X",
+                    name: "twitter",
+                    widget: "string",
+                    required: false,
+                    pattern:
+                      [
+                        "^https://twitter\\.com/.*",
+                        "Must be a valid Twitter URL",
+                      ],
+                  },
+                  {
+                    label: "Personal Website",
+                    name: "website",
+                    widget: "string",
+                    required: false,
+                    pattern: ["^https?://.*", "Must be a valid URL"],
+                  },
+                ],
+            }
+          - {
+              label: "Featured Publications",
+              name: "publications",
+              widget: "list",
+              required: false,
+              fields:
+                [
+                  { label: "Title", name: "title", widget: "string" },
+                  { label: "Publisher", name: "publisher", widget: "string" },
+                  {
+                    label: "URL",
+                    name: "url",
+                    widget: "string",
+                    pattern: ["^https?://.*", "Must be a valid URL"],
+                  },
+                  { label: "Year", name: "year", widget: "number" },
+                ],
+            }
+          - {
+              label: "Schema.org Type",
+              name: "schemaType",
+              widget: "select",
+              options:
+                ["Person", "Journalist", "Researcher", "ProfessionalService"],
+              default: "Person",
+              hint: "Used for structured data markup",
+            }
+
+  - name: "Guestauthors"
+    label: "Guest Authors"
+    label_singular: "Guest Author"
+    folder: "src/content/GuestAuthors"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: "slug"
+    fields:
+      - {
+          label: "Full Name",
+          name: "author",
+          widget: "string",
+          pattern: [".{3,}", "Name must have at least 3 characters"],
+        }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+          pattern:
+            [
+              "^[a-zA-Z0-9-]+$",
+              "Only alphanumeric characters and hyphens allowed",
+            ],
+        }
+      - {
+          label: "Short Bio",
+          name: "authorBio",
+          widget: "text",
+          pattern: [".{50,500}", "Bio should be between 50 and 500 characters"],
+          hint: "A brief professional description that appears under articles",
+        }
+      - {
+          label: "Profile Image",
+          name: "authorImage",
+          widget: "image",
+          media_folder: "/public/images/authors",
+          public_folder: "/images/authors",
+          media_library:
+            {
+              max_file_size: 512000,
+              allowed_file_types: ["image/jpeg", "image/png", "image/webp"],
+            },
+          hint: "Professional headshot (1:1 ratio recommended)",
+        }
+      - {
+          label: "Professional Title",
+          name: "title",
+          widget: "string",
+          hint: "Current professional position or role",
+        }
+      - {
+          label: "Expertise Areas",
+          name: "expertise",
+          widget: "list",
+          summary: "{{fields.area}}",
+          field: { label: "Area", name: "area", widget: "string" },
+          hint: "Main areas of expertise (e.g., Kitchen Appliances, Cooking, Food Safety)",
+          max: 5,
+        }
+      - {
+          label: "Credentials",
+          name: "credentials",
+          widget: "list",
+          fields:
+            [
+              {
+                label: "Qualification",
+                name: "qualification",
+                widget: "string",
+              },
+              { label: "Institution", name: "institution", widget: "string" },
+              { label: "Year", name: "year", widget: "number" },
+            ],
+          hint: "Academic qualifications, certifications, or relevant training",
+        }
+      - {
+          label: "Years of Experience",
+          name: "yearsOfExperience",
+          widget: "number",
+          value_type: "int",
+          min: 0,
+          max: 100,
+        }
+      - {
+          label: "Detailed Biography",
+          name: "longBio",
+          widget: "markdown",
+          hint: "Detailed professional background, experience, and achievements",
+        }
+      - {
+          label: "Social Profiles",
+          name: "socialProfiles",
+          widget: "object",
+          fields:
+            [
+              {
+                label: "LinkedIn",
+                name: "linkedin",
+                widget: "string",
+                required: false,
+                pattern:
+                  [
+                    "^https://www\\.linkedin\\.com/.*",
+                    "Must be a valid LinkedIn URL",
+                  ],
+              },
+              {
+                label: "Twitter/X",
+                name: "twitter",
+                widget: "string",
+                required: false,
+                pattern:
+                  ["^https://twitter\\.com/.*", "Must be a valid Twitter URL"],
+              },
+              {
+                label: "Personal Website",
+                name: "website",
+                widget: "string",
+                required: false,
+                pattern: ["^https?://.*", "Must be a valid URL"],
+              },
+            ],
+        }
+      - {
+          label: "Featured Publications",
+          name: "publications",
+          widget: "list",
+          required: false,
+          fields:
+            [
+              { label: "Title", name: "title", widget: "string" },
+              { label: "Publisher", name: "publisher", widget: "string" },
+              {
+                label: "URL",
+                name: "url",
+                widget: "string",
+                pattern: ["^https?://.*", "Must be a valid URL"],
+              },
+              { label: "Year", name: "year", widget: "number" },
+            ],
+        }
+      - {
+          label: "Schema.org Type",
+          name: "schemaType",
+          widget: "select",
+          options:
+            ["Person", "Journalist", "Researcher", "ProfessionalService"],
+          default: "Person",
+          hint: "Used for structured data markup",
+        }
+
+  - name: "reviews"
+    label: "Reviews"
+    label_singular: "Review"
+    folder: "src/content/reviews"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "../../layouts/MainLayout.astro",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+          pattern: ["^[a-zA-Z0-9-]+$", "Alphanumeric and hyphens only"],
+        }
+      - { label: "Subtitle", name: "subtitle", widget: "string" }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Publication Date", name: "date", widget: "datetime" }
+      - {
+          label: "Modified Date",
+          name: "modDate",
+          widget: "datetime",
+          default: "{{now}}",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "relation",
+          collection: "authors",
+          file: "boniface-muriuki",
+          search_fields: ["author", "slug"],
+          value_field: "slug",
+          display_fields: ["author"],
+        }
+      - {
+          label: "Category",
+          name: "category",
+          widget: "relation",
+          collection: "categories",
+          search_fields: ["slug"],
+          value_field: "slug",
+          display_fields: ["slug", "name"],
+        }
+      - name: "product"
+        label: "Product Details"
+        widget: "object"
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Brand", name: "brand", widget: "string" }
+          - { label: "Model", name: "model", widget: "string" }
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Description", name: "description", widget: "text" }
+          - {
+              label: "Price",
+              name: "price",
+              widget: "number",
+              value_type: "float",
+            }
+          - { label: "Product URL", name: "url", widget: "string" }
+          - { label: "Features", name: "features", widget: "list" }
+          - name: "specs"
+            label: "Specifications"
+            widget: "object"
+            fields:
+              - { label: "Dimensions", name: "dimensions", widget: "string" }
+              - { label: "Weight", name: "weight", widget: "string" }
+              - { label: "Battery Life", name: "batteryLife", widget: "string" }
+      - name: "rating"
+        label: "Ratings"
+        widget: "object"
+        fields:
+          - {
+              label: "Overall",
+              name: "overall",
+              widget: "number",
+              min: 0,
+              max: 5,
+              step: 0.1,
+            }
+          - {
+              label: "Value",
+              name: "valueForMoney",
+              widget: "number",
+              min: 0,
+              max: 5,
+              step: 0.1,
+            }
+      - {
+          label: "Pros",
+          name: "pros",
+          widget: "list",
+          hint: "Positive aspects",
+        }
+      - {
+          label: "Cons",
+          name: "cons",
+          widget: "list",
+          hint: "Negative aspects",
+        }
+      - { label: "Verdict", name: "verdict", widget: "text" }
+
+  - name: "team"
+    label: "Team Members"
+    folder: "src/content/team"
+    create: true
+    slug: "{{name | slug}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Bio", name: "bio", widget: "text" }
+      - { label: "Image", name: "image", widget: "image", required: false }
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/content/pages/about.md"
+        label: "About Page"
+        name: "about"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Founded Year", name: "foundedYear", widget: "number" }
+          - { label: "Content", name: "body", widget: "markdown" }
+
+      - file: "src/content/pages/contact.md"
+        label: "Contact Page"
+        name: "contact"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Address", name: "address", widget: "string" }
+          - name: "officeHours"
+            label: "Office Hours"
+            widget: "list"
+            fields:
+              - { label: "Day", name: "day", widget: "string" }
+              - { label: "Hours", name: "hours", widget: "string" }

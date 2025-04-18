@@ -1,0 +1,65 @@
+---
+// src/components/Homepage/ProblemSolvers.astro
+import { Image } from "astro:assets";
+import { Icon } from "astro-icon/components";
+import productImage from "@/data/assets/images/foldable-dish-rack.jpg";
+import foldableChoppingBoardImg from "@/data/assets/images/foldable-silicone-chopping-board.jpg";
+---
+
+<section class="py-12 sm:py-20 bg-teal-100 overflow-hidden " aria-labelledby="tiny-kitchen-solutions">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="mb-12">
+      <h2 class="text-3xl text-center font-bold text-gray-900 mb-4">Your Tiny Kitchen Problems - Solved</h2>
+    </div>
+
+    <div class="space-y-20">
+      <div class="flex flex-col md:flex-row gap-8 items-center">
+        <div class="md:w-1/3">
+          <h3 class="text-2xl font-semibold mb-4 inline-block text-center"> <Icon name="mdi:countertop" class="w-8 h-8 text-primary-400 inline-block" />"I have ZERO counter space!"</h3>
+
+        </div>
+
+        <div class="md:w-2/3 grid gap-6 md:grid-cols-2">
+          <div class="product-card bg-card border p-4 rounded-lg">
+            <Image
+              src={foldableChoppingBoardImg}
+              alt="Foldable dish rack"
+              class="mb-4 rounded"
+              width={300}
+              height={200}
+            />
+            <div class="flex items-center gap-2 mb-2">
+              <Icon name="mdi:fire" class="text-destructive" />
+              <span class="font-medium">Featured Pick</span>
+            </div>
+            <h4 class="text-lg font-semibold">Foldable Silicone Cutting Board</h4>
+            <p class="text-gray-600 mb-4">Clips onto cabinet doors, rolls up for storage</p>
+            <a href="#" class="text-primary-600 font-medium">Shop Now →</a>
+          </div>
+
+          <div class="product-card bg-card border p-4 rounded-lg">
+            <Image
+              src={foldableChoppingBoardImg}
+              alt="Foldable dish rack"
+              class="mb-4 rounded"
+              width={300}
+              height={200}
+            />
+            <div class="flex items-center gap-2 mb-2">
+              <Icon name="mdi:fire" class="text-destructive" />
+              <span class="font-medium">Featured Pick</span>
+            </div>
+            <h4 class="text-lg font-semibold">Foldable Silicone Cutting Board</h4>
+            <p class="text-gray-600 mb-4">Clips onto cabinet doors, rolls up for storage</p>
+            <a href="#" class="text-primary-600 font-medium">Shop Now →</a>
+          </div>
+
+
+          <!-- Add more product cards -->
+        </div>
+      </div>
+
+      <!-- Repeat for other problem sections -->
+    </div>
+  </div>
+</section>

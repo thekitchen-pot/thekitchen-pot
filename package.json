@@ -1,0 +1,52 @@
+{
+  "name": "mtbnz-website",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^12.5.0",
+    "@astrojs/netlify": "^6.3.0",
+    "@astrojs/react": "^4.2.4",
+    "@astrojs/sitemap": "^3.3.0",
+    "@astrojs/tailwind": "^5.1.5",
+    "@auth/core": "^0.37.4",
+    "@fontsource-variable/montserrat": "^5.2.5",
+    "@fontsource/bebas-neue": "^5.2.5",
+    "@fontsource/open-sans": "^5.2.5",
+    "@hookform/resolvers": "^3.10.0",
+    "@iconify-json/mdi": "^1.2.3",
+    "@radix-ui/react-accordion": "^1.2.4",
+    "@radix-ui/react-dialog": "^1.1.7",
+    "@radix-ui/react-dropdown-menu": "^2.1.7",
+    "@radix-ui/react-navigation-menu": "^1.2.6",
+    "@radix-ui/react-slot": "^1.2.0",
+    "astro": "^5.7.2",
+    "astro-decap-cms-oauth": "^0.5.1",
+    "astro-icon": "^1.1.5",
+    "auth-astro": "^4.2.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "decap-cms-app": "^3.6.2",
+    "lucide-react": "^0.358.0",
+    "netlify-identity-widget": "^1.9.2",
+    "prettier": "^3.5.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
+    "sharp": "^0.33.5",
+    "tailwind-merge": "^2.6.0",
+    "tailwindcss": "^3.4.17",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "@types/node": "^22.14.1"
+  }
+}

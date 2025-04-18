@@ -1,0 +1,39 @@
+---
+import { Menu } from 'lucide-react';
+import Logo from "../components/Logo.astro";
+import MobileNav from "./MobileNav.astro";
+---
+
+<header class="fixed w-full bg-white/95 backdrop-blur-sm z-50 border-b border-silver-dark">
+  <div class="container mx-auto px-4">
+    <div class="flex items-center justify-between h-20">
+      <Logo />
+
+      <!-- Desktop Navigation -->
+      <nav class="hidden md:flex space-x-8">
+        <a href="/bikes" class="text-accent hover:text-primary font-medium transition-colors">Bikes</a>
+        <a href="/gear" class="text-accent hover:text-primary font-medium transition-colors">Gear</a>
+        <a href="/trails" class="text-accent hover:text-primary font-medium transition-colors">Trails</a>
+        <a href="/news" class="text-accent hover:text-primary font-medium transition-colors">News</a>
+        <a href="/reviews" class="text-accent hover:text-primary font-medium transition-colors">Reviews</a>
+      </nav>
+
+      <!-- Mobile Menu Button -->
+      <button class="md:hidden text-accent hover:text-primary" aria-label="Toggle menu" data-mobile-menu>
+        <Menu className="h-6 w-6" />
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile Navigation -->
+  <MobileNav />
+</header>
+
+<script>
+  const mobileMenuBtn = document.querySelector('[data-mobile-menu]');
+  const mobileNav = document.querySelector('[data-mobile-nav]');
+
+  mobileMenuBtn?.addEventListener('click', () => {
+    mobileNav?.classList.toggle('translate-x-full');
+  });
+</script>

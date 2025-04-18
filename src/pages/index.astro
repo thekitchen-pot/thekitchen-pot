@@ -1,0 +1,30 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Hero from '@/components/Hero.astro';
+import FeaturedArticles from '@/components/FeaturedArticles.astro';
+import Newsletter from '@/components/Newsletter.astro';
+import WhyChooseUs from '@/components/WhyChooseUs.astro';
+import { Image } from 'astro:assets';
+
+
+import heroImage from "@/data/assets/images/multipurpose-kitchen-appliances.jpg"
+import PainPoints from '@/components/PainPoints.astro';
+import ProblemSolvers from '@/components/ProblemSolvers.astro';
+import TrustBuilder from '@/components/TrustBuilder.astro';
+import SizeComparator from '@/components/homepage/SizeComparator.astro';
+import StorageQuiz from '@/components/homepage/StorageQuiz.astro';
+import SpaceCalculator from '@/components/homepage/SpaceCalculator.astro';
+import SeasonalCarousel from '@/components/homepage/SeasonalCarousel.astro';
+---
+
+<Layout title="Modern Kitchens for Modern Families - The Kitchen Pot">
+
+  <Hero />
+  <PainPoints />
+  <SeasonalCarousel />
+  <ProblemSolvers />
+  <TrustBuilder />
+  <WhyChooseUs />
+  <FeaturedArticles />
+  <Newsletter />
+</Layout>

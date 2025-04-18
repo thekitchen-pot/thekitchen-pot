@@ -1,0 +1,31 @@
+---
+import { X } from 'lucide-react';
+---
+
+<nav
+  data-mobile-nav
+  class="fixed top-0 right-0 h-full w-80 bg-white shadow-lg transform translate-x-full transition-transform duration-200 ease-in-out md:hidden z-50"
+>
+  <div class="p-6">
+    <button class="absolute top-6 right-6 text-accent hover:text-primary" aria-label="Close menu" data-mobile-close>
+      <X className="h-6 w-6" />
+    </button>
+    
+    <div class="mt-12 flex flex-col space-y-6">
+      <a href="/bikes" class="text-accent hover:text-primary font-medium text-lg">Bikes</a>
+      <a href="/gear" class="text-accent hover:text-primary font-medium text-lg">Gear</a>
+      <a href="/trails" class="text-accent hover:text-primary font-medium text-lg">Trails</a>
+      <a href="/news" class="text-accent hover:text-primary font-medium text-lg">News</a>
+      <a href="/reviews" class="text-accent hover:text-primary font-medium text-lg">Reviews</a>
+    </div>
+  </div>
+</nav>
+
+<script>
+  const closeBtn = document.querySelector('[data-mobile-close]');
+  const mobileNav = document.querySelector('[data-mobile-nav]');
+
+  closeBtn?.addEventListener('click', () => {
+    mobileNav?.classList.add('translate-x-full');
+  });
+</script>

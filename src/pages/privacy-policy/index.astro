@@ -1,0 +1,53 @@
+---
+// src/pages/privacy-policy.astro
+import PolicyHero from '@/components/Privacy/PrivacyHero.astro';
+import PolicySection from '@/components/Privacy/PolicySection.astro';
+import PolicyTOC from '@/components/Privacy/PolicyTOC.astro';
+import ConsentManager from '@/components/Privacy/ConsentManager.astro';
+
+import PrivacyPolicies from '@/data/content/PrivacyPolicies.json';
+
+import Layout from '@/layouts/Layout.astro';
+
+const sections = [
+  {
+    id: 'data-collection',
+    title: 'Ingredients We Gather',
+    icon: 'mdi:clipboard-list',
+    content: `We collect only essential data...`
+  },
+  {
+    id: 'data-use',
+    title: 'Our Recipe for Data Usage',
+    icon: 'mdi:chef-hat',
+    content: `Your information helps us...`
+  }
+];
+---
+
+<Layout title="Privacy Policy" description="" robots="index, follow">
+
+  <PolicyHero />
+
+  <div class="container mx-auto px-4 py-16 lg:flex gap-8">
+    <main class="flex-1 space-y-16">
+        <div class="space-y-12">
+      {PrivacyPolicies.map((policy, index) => (
+        <PolicySection
+          id={policy.slug}
+          title={policy.title}
+          icon={policy.icon}
+          content={policy.content}
+          index={index}
+        >
+      <Fragment set:html={policy.content} />
+        </PolicySection>
+      ))}
+    </div>
+
+      <ConsentManager />
+    </main>
+
+    <PolicyTOC />
+  </div>
+</Layout>

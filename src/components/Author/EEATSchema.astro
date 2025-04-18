@@ -1,0 +1,38 @@
+---
+// src/components/Author/EEATSchema.astro
+import BonifaceImg from "@/data/assets/images/founder.jpeg"
+
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Boniface Muriuki",
+  "jobTitle": "Executive Chef & Tiny Kitchen Expert",
+  "description": "15+ year culinary expert specializing in small-space cooking solutions, Le Cordon Bleu graduate, and bestselling cookbook author",
+  "image": BonifaceImg.src,
+  // ... rest of the schema
+  "sameAs": [
+    "[LinkedIn URL]",
+    "[Twitter URL]",
+    "[Professional Website]"
+  ],
+  "award": [
+    "2020 James Beard Award Nominee - Best Chef: Northeast"
+  ],
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Le Cordon Bleu Paris"
+  },
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "Culinary Arts Degree"
+  },
+  "memberOf": {
+    "@type": "Organization",
+    "name": "American Culinary Federation"
+  }
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema, null, 2)}>
+</script>

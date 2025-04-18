@@ -1,0 +1,37 @@
+---
+interface SpecItem {
+  label: string;
+  value: string;
+}
+
+interface SpecCategory {
+  category: string;
+  items: SpecItem[];
+}
+
+interface Props {
+  specs: SpecCategory[];
+}
+
+const { specs } = Astro.props;
+---
+
+<div class="border rounded-lg p-6 mb-12">
+  <h2 class="font-bold text-2xl mb-6">Technical Specifications</h2>
+  
+  <div class="space-y-8">
+    {specs.map(category => (
+      <div>
+        <h3 class="font-bold text-lg mb-4">{category.category}</h3>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {category.items.map(item => (
+            <div class="flex justify-between gap-4 py-2 border-b border-accent/10">
+              <span class="text-muted-foreground">{item.label}</span>
+              <span class="font-medium">{item.value}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+</div>

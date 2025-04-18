@@ -1,0 +1,142 @@
+---
+import { Icon } from "astro-icon/components";
+
+const quizQuestions = [
+  {
+    id: 1,
+    question: "How do you currently store spices?",
+    options: [
+      { id: "a", text: "Jumbled in a drawer", score: 1 },
+      { id: "b", text: "Falling off the fridge", score: 2 },
+      { id: "c", text: "What are spices?", score: 3 }
+    ]
+  },
+  {
+    id: 2,
+    question: "Your biggest kitchen storage challenge?",
+    options: [
+      { id: "a", text: "Too many appliances", score: 3 },
+      { id: "b", text: "Limited cabinet space", score: 2 },
+      { id: "c", text: "Messy drawers", score: 1 }
+    ]
+  }
+  // Add more questions as needed
+];
+---
+
+<section class="py-16 bg-background">
+  <div class="container mx-auto px-4">
+    <div class="max-w-2xl mx-auto text-center">
+      <h2 class="text-3xl font-bold mb-6 text-accent">What's Your Storage Personality?</h2>
+      <p class="text-muted-foreground mb-8">Take our 30-second quiz to get personalized solutions</p>
+
+      <div class="bg-card p-8 rounded-xl shadow-sm" id="quiz-container">
+        <div class="mb-6">
+          <p class="text-lg font-medium mb-4 question-text"></p>
+          <div class="space-y-3 options-container"></div>
+        </div>
+
+        <div class="flex items-center justify-between">
+          <div class="text-sm text-muted-foreground progress-text"></div>
+          <div class="h-2 bg-muted rounded-full w-3/4">
+            <div class="h-full bg-primary rounded-full progress-bar"></div>
+          </div>
+        </div>
+      </div>
+
+      <div id="results" class="hidden mt-8 p-6 bg-primary/10 rounded-xl">
+        <h3 class="text-xl font-bold mb-4 text-primary">Your Storage Personality:</h3>
+        <p class="text-accent mb-4 result-text"></p>
+        <a href="/solutions" class="inline-block bg-primary text-white px-6 py-3 rounded-lg hover:bg-primary/90 transition-colors">
+          View Recommended Solutions
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script define:vars={{ quizQuestions }}>
+  class QuizManager {
+    constructor(questions) {
+      this.currentQuestion = 0;
+      this.score = 0;
+      this.questions = questions;
+      this.container = document.getElementById('quiz-container');
+      this.resultsDiv = document.getElementById('results');
+      this.initQuiz();
+    }
+
+    initQuiz() {
+      this.showQuestion();
+      this.updateProgress();
+    }
+
+    showQuestion() {
+      const question = this.questions[this.currentQuestion];
+      const questionText = this.container.querySelector('.question-text');
+      const optionsContainer = this.container.querySelector('.options-container');
+
+      if (questionText && optionsContainer) {
+        questionText.textContent = question.question;
+        optionsContainer.innerHTML = '';
+
+        question.options.forEach(option => {
+          const button = document.createElement('button');
+          button.className = 'w-full p-4 bg-card border rounded-lg hover:border-primary hover:bg-primary/5 transition-colors text-left';
+          button.textContent = `➔ ${option.text}`;
+          button.addEventListener('click', () => this.handleAnswer(option.score));
+          optionsContainer.appendChild(button);
+        });
+      }
+    }
+
+    handleAnswer(score) {
+      this.score += score;
+      this.currentQuestion++;
+
+      if (this.currentQuestion < this.questions.length) {
+        this.showQuestion();
+      } else {
+        this.showResults();
+      }
+      this.updateProgress();
+    }
+
+    updateProgress() {
+      const progressText = this.container.querySelector('.progress-text');
+      const progressBar = this.container.querySelector('.progress-bar');
+
+      if (progressText && progressBar) {
+        progressText.textContent = `Question ${this.currentQuestion + 1} of ${this.questions.length}`;
+        const progress = ((this.currentQuestion + 1) / this.questions.length) * 100;
+        progressBar.style.width = `${progress}%`;
+      }
+    }
+
+    showResults() {
+      this.container.classList.add('hidden');
+      this.resultsDiv.classList.remove('hidden');
+
+      const resultText = this.resultsDiv.querySelector('.result-text');
+      const averageScore = this.score / this.questions.length;
+
+      let personality = '';
+      if (averageScore <= 1.5) {
+        personality = "The Minimalist Organizer";
+      } else if (averageScore <= 2.5) {
+        personality = "The Practical Stacker";
+      } else {
+        personality = "The Creative Space-Maker";
+      }
+
+      if (resultText) {
+        resultText.textContent = personality;
+      }
+    }
+  }
+
+  // Initialize quiz when the page loads
+  document.addEventListener('DOMContentLoaded', () => {
+    new QuizManager(quizQuestions);
+  });
+</script>

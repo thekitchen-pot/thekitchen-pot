@@ -1,0 +1,92 @@
+---
+import { Image } from "astro:assets";
+
+import MultipurposeImg from "@/data/assets/images/multipurpose-kitchen-appliances.jpg";
+import SilentImg from "@/data/assets/images/quitest-kitchen-appliances.jpg";
+import FitImg from "@/data/assets/images/tiny-kitchen-will-this-fit.jpg";
+
+
+const reasons = [
+    {
+        title: "Will This Even Fit?",
+        description: "Every product we recommend is hand-measured for spaces ≤500 sq. ft. Too big for a studio apartment? We’ll tell you before you click 'buy.'.",
+        image: FitImg,
+    },
+    {
+        title: "Quiet Enough for Roommates",
+        description:
+            "We test decibel levels so your blender won’t wake your sleeping roommate—or trigger a noise complaint.",
+        image: SilentImg,
+    },
+    {
+        title: "Multipurpose or Bust",
+        description: "If it can’t do at least 3 jobs (looking at you, Instant Pot + yogurt maker + rice cooker), we won’t waste your precious cabinet space.",
+        image: MultipurposeImg,
+    },
+];
+---
+
+<section
+    class="py-12 sm:py-20 bg-teal-100 overflow-hidden"
+    aria-labelledby="why-choose-us-title"
+>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-8 sm:mb-16">
+            <h2
+                id="why-choose-us-title"
+                class="text-3xl sm:text-4xl font-display font-medium text-muted-700 mb-4"
+                data-aos="fade-down"
+            >
+                We Don’t Just Review Gadgets
+                <br>We Solve Your Tiny Kitchen Nightmares
+            </h2>
+            <p
+                class="text-lg sm:text-xl text-gray-700 max-w-2xl mx-auto"
+                data-aos="fade-up"
+            >
+                No fluff, no filler—just curated tools, tested tricks, and tough-love advice to turn your pint-sized kitchen into a productivity powerhouse.
+            </p>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-8">
+            {
+                reasons.map((reason, index) => (
+                    <div
+                        class="group relative overflow-hidden rounded-lg focus-within:ring-2 focus-within:ring-teal-500"
+                        data-aos="fade-up"
+                        data-aos-delay={index * 100}
+                        role="article"
+                    >
+                         <Image
+                            src={reason.image}
+                            alt={`${reason.title} product category`}
+                            width={800}
+                            height={600}
+                            format="avif"
+                            fetchpriority={"low"}
+                             class="w-full h-48 sm:h-64 object-cover transform group-hover:scale-110 transition-transform duration-500 brightness-75"
+                        />
+                        <div
+                            class="absolute inset-0 bg-gradient-to-t from-teal-900/90 to-transparent group-hover:from-teal-800/90 transition-colors duration-300"
+                            aria-hidden="true"
+                        />
+                        <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-6 text-white">
+                            <h4 class="text-lg sm:text-xl font-bold mb-2">
+                                {reason.title}
+                            </h3>
+                            <p class="text-sm sm:text-base text-white/90">{reason.description}</p>
+                        </div>
+                       {/* <a
+                            href={`/category/${reason.title.toLowerCase().replace(/\s+/g, '-')}`}
+                            class="absolute inset-0"
+                            aria-label={`Learn more about ${reason.title}`}
+                        >
+                            <span class="sr-only">Learn more about {reason.title}</span>
+                        </a>
+                        */}
+                    </div>
+                ))
+            }
+        </div>
+    </div>
+</section>

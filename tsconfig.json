@@ -1,0 +1,19 @@
+{
+  "extends": "astro/tsconfigs/base",
+  "compilerOptions": {
+    "lib": ["dom", "esnext"],
+    "strict": true,
+    "strictNullChecks": true, // add if using `base` template
+    "allowJs": true, // required, and included with all Astro templates
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@/components/*": ["./src/components/*"], // Path for components
+      "@/layouts/*": ["./src/layouts/*"], // Path for layouts
+      "@/pages/*": ["./src/pages/*"],
+      "@/styles/*": ["./src/styles/*"]
+    }
+  }
+}

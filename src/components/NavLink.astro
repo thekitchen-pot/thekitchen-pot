@@ -1,0 +1,10 @@
+---
+// NavLink Component for reusability
+import { useEffect } from 'react';
+
+const { href, children } = Astro.props;
+---
+
+<a href={href} class="text-accent hover:text-primary font-medium transition-colors">
+  {children}
+</a>

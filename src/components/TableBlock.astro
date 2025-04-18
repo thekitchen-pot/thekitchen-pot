@@ -1,0 +1,45 @@
+---
+// src/pages/[slug].astro
+import Layout from '@/layouts/Layout.astro';
+const { page } = Astro.props;
+---
+
+<Layout title='' description=''>
+  {page.layout.map((block) => {
+    if (block.blockType === 'table') {
+      return (
+        <table class="w-full">
+          <tbody>
+            {block.rows.map((row, rowIndex) => (
+              <tr key={rowIndex}>
+                {row.cells.map((cell, cellIndex) => (
+                  <td key={cellIndex} class="p-2 border">
+                    {cell.cellType === 'text' && cell.textContent}
+
+                    {cell.cellType === 'image' && cell.image && (
+                      <img
+                        src={cell.image.url}
+                        alt={cell.image.alt || 'Table image'}
+                        class="max-w-[200px]"
+                      />
+                    )}
+
+                    {cell.cellType === 'link' && (
+                      <a
+                        href={cell.linkUrl}
+                        class="text-blue-500 hover:underline"
+                      >
+                        {cell.linkText || 'Link'}
+                      </a>
+                    )}
+                  </td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      );
+    }
+    // Handle other block types here
+  })}
+</Layout>

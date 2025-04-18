@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+
+    /* Main Brand Colors 15 118 110 / 0.7 */
+    --primary: 175 78% 26%;    /* rgb(15 118 110 / 0.7) */    /* Teal */
+    --secondary: 183 66% 40%;  /* rgb(35,165,171) */  /* Deep Blue */
+    --accent: 0 0% 11%;        /* #696969 */       /* Dark Gray */
+
+    /* Background Colors */
+    --background: 0 0% 100%;    /* Pure White */
+    --card: 0 0% 100%;         /* Card Background */
+    --popover: 0 0% 100%;      /* Popover Background */
+
+    /* Text Colors */
+    --foreground: 0 0% 3.9%;   /* Almost Black */
+    --card-foreground: 0 0% 3.9%;
+    --popover-foreground: 0 0% 3.9%;
+    --primary-foreground: 0 0% 98%;
+    --secondary-foreground: 0 0% 98%;
+    --accent-foreground: 0 0% 98%;
+
+
+
+
+    /* UI Element Colors */
+    --muted: 0 0% 96.1%;       /* Light Gray */
+    --muted-foreground: 0 0% 45.1%;
+    --border: 0 0% 89.8%;      /* Border Gray */
+    --input: 0 0% 89.8%;       /* Input Field */
+    --ring: 0 0% 3.9%;         /* Focus Ring */
+
+    /* Accent Colors */
+
+
+
+    /* Destructive Colors */
+    --destructive: 0 84.2% 60.2%; /* Error Red */
+    --destructive-foreground: 0 0% 98%;
+
+    /* Border Radius */
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 0 0% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 0 0% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 0 0% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 0 72% 51%;
+    --primary-foreground: 0 0% 9%;
+    --secondary: 225 100% 25%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 14.9%;
+    --muted-foreground: 0 0% 63.9%;
+    --accent: 0 0% 23%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 14.9%;
+    --input: 0 0% 14.9%;
+    --ring: 0 0% 83.1%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  h1, h2, h3, .header-nav {
+
+    @apply font-display;
+  }
+}

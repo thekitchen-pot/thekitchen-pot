@@ -1,0 +1,82 @@
+---
+import { Facebook, Instagram, Youtube, Twitter } from 'lucide-react';
+import { Icon } from 'astro-icon/components';
+import Logo from "./Logo.astro";
+---
+
+<footer class="bg-accent text-white py-16">
+  <div class="container mx-auto px-4">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+      <!-- Brand -->
+      <div class="space-y-6">
+        <Logo />
+        <p class="text-silver/80">
+
+          We’re here to help you maximize every inch, gadget, and moment in your compact culinary kingdom. Forget bulky appliances and sprawling setups—we curate only the most space-smart, multifunctional, and apartment-approved kitchen tools on Amazon.
+        </p>
+        <div class="flex space-x-4">
+          <a href="#" class="text-silver hover:text-primary transition-colors">
+            <Icon name="mdi:facebook" class="h-5 w-5" />
+          </a>
+          <a href="#" class="text-silver hover:text-primary transition-colors">
+            <Icon name="mdi:instagram" class="h-5 w-5" />
+          </a>
+          <a href="#" class="text-silver hover:text-primary transition-colors">
+            <Icon name="mdi:youtube" class="h-5 w-5" />
+          </a>
+          <a href="#" class="text-silver hover:text-primary transition-colors">
+            <Icon name="mdi:twitter" class="h-5 w-5" />
+          </a>
+        </div>
+      </div>
+
+      <!-- Quick Links -->
+      <div>
+        <h3 class="font-display text-xl mb-6">QUICK LINKS</h3>
+        <ul class="space-y-4">
+          <li><a href="/about" class="text-silver/80 hover:text-primary transition-colors">About Us</a></li>
+          <li><a href="/contact" class="text-silver/80 hover:text-primary transition-colors">Contact</a></li>
+          <li><a href="/advertise" class="text-silver/80 hover:text-primary transition-colors">Advertise</a></li>
+          <li><a href="/careers" class="text-silver/80 hover:text-primary transition-colors">Careers</a></li>
+        </ul>
+      </div>
+
+      <!-- Categories -->
+      <div>
+        <h3 class="font-display text-xl mb-6">CATEGORIES</h3>
+        <ul class="space-y-4">
+          <li><a href="/bikes" class="text-silver/80 hover:text-primary transition-colors">Bakeware</a></li>
+          <li><a href="/gear" class="text-silver/80 hover:text-primary transition-colors">Gear</a></li>
+          <li><a href="/trails" class="text-silver/80 hover:text-primary transition-colors">Cookware</a></li>
+          <li><a href="/news" class="text-silver/80 hover:text-primary transition-colors">Kitchenware</a></li>
+        </ul>
+      </div>
+
+      <!-- Newsletter -->
+      <div>
+        <h3 class="font-display text-xl mb-6">NEWSLETTER</h3>
+        <p class="text-silver/80 mb-4">Subscribe to get the latest updates and news.</p>
+        <form class="space-y-4">
+          <input
+            type="email"
+            placeholder="Your email"
+            class="w-full px-4 py-2 rounded bg-white/10 border border-white/20 text-white placeholder:text-silver/60 focus:outline-none focus:ring-2 focus:ring-primary"
+          />
+          <button
+            type="submit"
+            class="w-full bg-primary hover:bg-primary/90 text-white py-2 rounded transition-colors"
+          >
+            Subscribe
+          </button>
+        </form>
+      </div>
+    </div>
+
+    <div class="mt-16 pt-8 border-t border-white/10 text-center text-silver/60">
+      <p>&copy; {new Date().getFullYear()} The Kitchen Pot. All rights reserved.</p>
+      <p>The Kitchen Pot (this website and its owners) is a participant in the Amazon Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate, we earn from qualifying purchases. This means that we may receive a small commission when you make a purchase through links on our website, at no additional cost to you.</p>
+
+<p>We only recommend products that we believe will add value to our readers. All opinions expressed are our own..</p>
+    </div>
+  </div>
+</footer>

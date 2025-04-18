@@ -1,0 +1,45 @@
+---
+// src/components/Privacy/PolicySection.astro
+import { Icon } from 'astro-icon/components';
+
+import PrivacyPolicies from "@/data/content/PrivacyPolicies.json";
+
+
+interface Props {
+  title: string;
+  icon: string;
+  content: string;
+  index: number;
+  id?: string;
+}
+
+const { title, icon, content, index, id } = Astro.props;
+---
+
+<section
+  class="relative py-16"
+  style={`--parallax-speed: ${0.2 + (index * 0.1)}`}
+>
+  {/* Parallax Layer */}
+  <div
+    class="absolute inset-0 bg-[url('/images/kitchen-texture.png')] bg-fixed opacity-10"
+    style="transform: translateY(calc(var(--scroll) * var(--parallax-speed) * 1px))"
+  ></div>
+
+  <div class="backdrop-blur-lg bg-white/80 rounded-3xl p-8 shadow-xl max-w-4xl mx-auto">
+    <div class="flex items-start gap-6 mb-6">
+      <div class="w-16 h-16 bg-orange-100 rounded-2xl flex items-center justify-center">
+        <Icon name={icon} class="w-8 h-8 text-orange-600" />
+      </div>
+      <h2 class="text-3xl font-bold text-gray-900">{title}</h2>
+    </div>
+
+    <div class="prose prose-orange max-w-none">
+      <slot>{content}</slot>
+    </div>
+
+    {/* Decorative Elements */}
+    <div class="absolute -top-6 -right-6 w-24 h-24 bg-orange-100/30 rounded-full"></div>
+    <div class="absolute -bottom-6 -left-6 w-16 h-16 bg-orange-100/30 rotate-45"></div>
+  </div>
+</section>
