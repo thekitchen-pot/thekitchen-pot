@@ -102,10 +102,11 @@ While Teflon pans offer convenience, they come with notable drawbacks:
 ## **Should I Get Rid of My Teflon Pans?**
 
 If your Teflon pans are in good condition, used at recommended temperatures, and handled gently, they are generally safe for home use. However, you should consider replacing them if:
-•	The coating is scratched, chipped, or peeling
-•	You frequently cook at high temperatures
-•	You have pet birds in your home
-•	You are concerned about environmental or long-term health impacts
+
+* The coating is scratched, chipped, or peeling
+* You frequently cook at high temperatures
+* You have pet birds in your home
+* You are concerned about environmental or long-term health impacts
 
 
 Teflon may reduce the amount of fat we cook with, make washing up easier... but it is a frivolous and unnecessary substance the benefits of which pale beside the possibility of killing beloved pets and raising your risk of heart disease, diabetes, birth defects and cancer.
