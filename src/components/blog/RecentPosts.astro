@@ -1,0 +1,39 @@
+---
+import { Image } from 'astro:assets';
+interface Props {
+  posts: any[];
+}
+
+const { posts } = Astro.props;
+---
+
+<ul class="space-y-4">
+  {posts.map((post) => (
+    <li class="group">
+      <a href={`/blog/${post.id}/`} class="flex gap-3 items-start">
+        {post.data.image && (
+          <Image
+            src={post.data.image.src}
+            alt={post.data.title}
+            width={80}
+            height={80}
+            format='webp'
+            class="w-20 h-20 object-cover rounded-md group-hover:opacity-90 transition-opacity"
+          />
+        )}
+        <div class="flex-1">
+          <h3 class="text-sm font-medium text-gray-900 group-hover:text-blue-600 line-clamp-2">
+            {post.data.title}
+          </h3>
+          <time class="text-xs text-gray-500">
+            {new Date(post.data.modDate).toLocaleDateString('en-US', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric'
+            })}
+          </time>
+        </div>
+      </a>
+    </li>
+  ))}
+</ul>

@@ -1,19 +1,35 @@
 ---
-title: "Xtrema Cookware Review -Is it Really Non-Toxic?"
-slug: "xtrema-cookware-review"
-pubDate: "2021-03-19"
-modDate: "2025-01-30"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/b8ab755f8711fe53cb72cf04ede49c5c-1.jpg"
-coverAlt: "Xtrema Cookware Review -Is it Really Non-Toxic?"
-description: "If you're a passionate cook concerned about the safety of non-stick pans, navigating the debate on their safety can be overwhelming. Finding a balance between performance and safety while shopping for non-toxic cookware can be challenging. Consider exploring Xtrema"
-tags: ["abbio-cookware", "blue-diamond-cookware", "xtrema-cookware"]
-category: "Cookware Equipment"
-seo: "This xtrema cookware review offers an honest, first-hand analysis of the cookware marketed as non-toxic. Is it truly safe for use? Let's find out together."
+title: Xtrema Cookware Review -Is it Really Non-Toxic?
+slug: xtrema-cookware-review
+pubDate: 2021-03-19
+modDate: 2025-01-30
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/b8ab755f8711fe53cb72cf04ede49c5c-1.jpg
+coverAlt: Xtrema Cookware Review -Is it Really Non-Toxic?
+description: >-
+  If you're a passionate cook concerned about the safety of non-stick pans,
+  navigating the debate on their safety can be overwhelming. Finding a balance
+  between performance and safety while shopping for non-toxic cookware can be
+  challenging. Consider exploring Xtrema
+tags:
+  - abbio-cookware
+  - blue-diamond-cookware
+  - xtrema-cookware
+category: Cookware Equipment
+seo: >-
+  This xtrema cookware review offers an honest, first-hand analysis of the
+  cookware marketed as non-toxic. Is it truly safe for use? Let's find out
+  together.
 ---
 
 If you’re a passionate cook who values healthy meals, you must have found yourself in a quagmire about the [safety of non-stick pans](https://www.healthline.com/nutrition/nonstick-cookware-safety). The debate about the safety of these pans, especially when used under high temperatures, has been rife.

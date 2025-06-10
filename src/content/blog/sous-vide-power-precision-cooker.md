@@ -1,19 +1,34 @@
 ---
-title: "10 Best Sous Vide Power Precision Cooker - Everything You Need to Know"
-slug: "sous-vide-power-precision-cooker"
-pubDate: "2020-04-12"
-modDate: "2025-02-25"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Featured.jpg"
-coverAlt: "10 Best Sous Vide Power Precision Cooker - Everything You Need to Know"
-description: "Have you ever wondered how fancy hotels achieve moist, flavorful, and evenly cooked meals so easily? Well, the secret is in the Sous Vide power precision cooker. Sous Vide is a French phrase meaning “underwater”. It allows you to slowly cook any"
-tags: ["anova-power-precision", "power-precision-cooker", "sous-vide"]
-category: "Cookware Equipment"
-seo: "Sous Vide Power Precision Cooker is a sure way of getting soft, well-flavored, and adequately cooked meals. Here's a comprehensive guide on how to buy one"
+title: 10 Best Sous Vide Power Precision Cooker - Everything You Need to Know
+slug: sous-vide-power-precision-cooker
+pubDate: 2020-04-12
+modDate: 2025-02-25
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Featured.jpg
+coverAlt: 10 Best Sous Vide Power Precision Cooker - Everything You Need to Know
+description: >-
+  Have you ever wondered how fancy hotels achieve moist, flavorful, and evenly
+  cooked meals so easily? Well, the secret is in the Sous Vide power precision
+  cooker. Sous Vide is a French phrase meaning “underwater”. It allows you to
+  slowly cook any
+tags:
+  - anova-power-precision
+  - power-precision-cooker
+  - sous-vide
+category: Cookware Equipment
+seo: >-
+  Sous Vide Power Precision Cooker is a sure way of getting soft, well-flavored,
+  and adequately cooked meals. Here's a comprehensive guide on how to buy one
 ---
 
 Have you ever wondered how fancy hotels achieve **moist, flavorful, and evenly cooked meals** so easily? Well, the secret is in the Sous Vide power precision cooker.

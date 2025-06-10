@@ -1,18 +1,30 @@
 ---
-title: "How to Bake Cookies in a Convection Oven Perfectly - A Detailed Guide"
-slug: "how-to-bake-cookies-in-a-convection-oven"
-pubDate: "2020-06-01"
-modDate: "2025-02-22"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/true-convection-oven.jpg"
-coverAlt: "How to Bake Cookies in a Convection Oven Perfectly - A Detailed Guide"
-description: "If you're looking to bake perfect cookies in a convection oven, this article offers valuable tips on achieving the best results. From preparing the ingredients to baking the cookies at the right temperature, each step is essential for a successful outcome. Remember to follow"
-tags: ["benefits-of-convection-oven", "how-to-bake-cookies-on-convection-oven"]
-category: "How To Guides"
+title: How to Bake Cookies in a Convection Oven Perfectly - A Detailed Guide
+slug: how-to-bake-cookies-in-a-convection-oven
+pubDate: 2020-06-01
+modDate: 2025-02-22
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/true-convection-oven.jpg
+coverAlt: How to Bake Cookies in a Convection Oven Perfectly - A Detailed Guide
+description: >-
+  If you're looking to bake perfect cookies in a convection oven, this article
+  offers valuable tips on achieving the best results. From preparing the
+  ingredients to baking the cookies at the right temperature, each step is
+  essential for a successful outcome. Remember to follow
+tags:
+  - benefits-of-convection-oven
+  - how-to-bake-cookies-on-convection-oven
+category: How To Guides
 ---
 
 Do you want to learn exceptional tips on how to bake cookies in a convection oven? Well, the art of achieving perfect baked cookies lies in several aspects, including mixing the ingredients, convection oven temperature, dough items, kneading, cookie-cutter pans, and baking procedure.

@@ -1,19 +1,36 @@
 ---
-title: "5 Best Air Fryers under $100"
-slug: "best-air-fryers-under-100"
-pubDate: "2020-04-08"
-modDate: "2025-02-03"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/best-air-fryers-under-100.jpg"
-coverAlt: "5 Best Air Fryers under $100"
-description: "Are you tired of lengthy cooking processes and looking for a healthier lifestyle? The best air fryers under $100 are here to revolutionize your kitchen experience and help you enjoy scrumptious meals without excess fat or cholesterol. With options like the Ninja"
-tags: ["air-fryers", "best", "under-100"]
-category: "Cookware Equipment"
-seo: "Are you looking for the best air fryers under $100? This article will offer a comprehensive buying guide with a well-researched list of the 5 best air fryers."
+title: 5 Best Air Fryers under title - 5 Best Air Fryers under $100
+slug: best-air-fryers-under-100
+pubDate: 2020-04-08
+modDate: 2025-02-03
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/best-air-fryers-under-100.jpg
+coverAlt: 5 Best Air Fryers under $100
+description: >-
+  Are you tired of lengthy cooking processes and looking for a healthier
+  lifestyle? The best air fryers under $100 are here to revolutionize your
+  kitchen experience and help you enjoy scrumptious meals without excess fat or
+  cholesterol. With options like the Ninja
+tags:
+  - air-fryers
+  - best
+  - under-100
+category: Cookware Equipment
+seo: >-
+  Are you looking for the best air fryers under $100? This article will offer a
+  comprehensive buying guide with a well-researched list of the 5 best air
+  fryers.00
+
 ---
 
 Are you tired of long cooking procedures? Well, best [air fryers](https://en.wikipedia.org/wiki/Air_fryer) under $100 will definitely revolutionize your kitchen experience!

@@ -1,19 +1,34 @@
 ---
-title: "8 Best Iced Tea Maker With a Glass Pitcher"
-slug: "best-iced-tea-maker"
-pubDate: "2020-06-01"
-modDate: "2025-01-26"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/best-iced-tea.jpg"
-coverAlt: "8 Best Iced Tea Maker With a Glass Pitcher"
-description: "When summer visitors arrive, welcoming them with refreshing iced tea is a great gesture. The process can be made hassle-free with the best iced tea maker, saving time and ensuring satisfaction for your family and guests. Not only is this a practical choice"
-tags: ["coffee-maker", "iced-tea", "iced-tea-maker"]
-category: "Beverages Equipment"
-seo: "Looking for the best iced tea maker? Well, this article offers a comprehensive guide on what you should consider before selecting one. Read on to get more!"
+title: 8 Best Iced Tea Maker With a Glass Pitcher
+slug: best-iced-tea-maker
+pubDate: 2020-06-01
+modDate: 2025-01-26
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/best-iced-tea.jpg
+coverAlt: 8 Best Iced Tea Maker With a Glass Pitcher
+description: >-
+  When summer visitors arrive, welcoming them with refreshing iced tea is a
+  great gesture. The process can be made hassle-free with the best iced tea
+  maker, saving time and ensuring satisfaction for your family and guests. Not
+  only is this a practical choice
+tags:
+  - coffee-maker
+  - iced-tea
+  - iced-tea-maker
+category: Beverages Equipment
+seo: >-
+  Looking for the best iced tea maker? Well, this article offers a comprehensive
+  guide on what you should consider before selecting one. Read on to get more!
 ---
 
 What happens when you get visitors during the summer? Well, one of the best ways to welcome them is by serving iced tea. To achieve this, you need the best iced tea maker.

@@ -1,19 +1,34 @@
 ---
-title: "6 Best Mini Fridge for Beer for the Most Refreshing Beers"
-slug: "best-mini-fridge-for-beer"
-pubDate: "2020-06-15"
-modDate: "2025-02-22"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-mini-fridge-for-beer.jpg"
-coverAlt: "6 Best Mini Fridge for Beer for the Most Refreshing Beers"
-description: "If you love enjoying a cold beer on a hot summer day, having the best mini fridge for beer is essential for keeping your beverages chilled. With various top models available in the market, it's crucial to consider factors like capacity, temperature control, adjust"
-tags: ["how-to-store-cold-beer-in-summer", "mini-fridge-for-beer"]
-category: "Kitchenware"
-seo: "Are you looking for the best mini fridge for beer? Well, there are different brands in the market. This guide analyzes several brands in the market and their features. Read on."
+title: "6 Best Mini Fridge for Beer\_for the Most Refreshing Beers"
+slug: best-mini-fridge-for-beer
+pubDate: 2020-06-15
+modDate: 2025-02-22
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-mini-fridge-for-beer.jpg
+coverAlt: "6 Best Mini Fridge for Beer\_for the Most Refreshing Beers"
+description: >-
+  If you love enjoying a cold beer on a hot summer day, having the best mini
+  fridge for beer is essential for keeping your beverages chilled. With various
+  top models available in the market, it's crucial to consider factors like
+  capacity, temperature control, adjust
+tags:
+  - how-to-store-cold-beer-in-summer
+  - mini-fridge-for-beer
+category: Kitchenware
+seo: >-
+  Are you looking for the best mini fridge for beer? Well, there are different
+  brands in the market. This guide analyzes several brands in the market and
+  their features. Read on.
 ---
 
 If you love cold beer, the you’ll opine that nothing tastes better than a cold beer in a hot summer! However, getting that chilled beer can be a hassle unless you get the best mini fridge for beer. 

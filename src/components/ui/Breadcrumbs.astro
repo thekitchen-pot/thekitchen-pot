@@ -62,7 +62,7 @@ type Props = {
 const { classes } = Astro.props;
 ---
 
-<nav aria-label="Breadcrumb" class:list={['breadcrumbs', { [`${classes}`]: classes }]} itemscope itemtype="http://schema.org/BreadcrumbList">
+<nav aria-label="Breadcrumb" class:list={['breadcrumbs', { [`${classes}`]: classes }]} itemscope itemtype="http://schema.org/BreadcrumbList" itemid=`${Astro.request.url}#rich-snippet`,>
     <ol class="breadcrumbs__list">
         {breadcrumbs.map((segment, index) => {
     const isTag = tags?.includes(segment);

@@ -1,19 +1,34 @@
 ---
-title: "Blue Diamond Cookware Review- Everything You Need to Know"
-slug: "blue-diamond-cookware-review"
-pubDate: "2021-03-03"
-modDate: "2025-01-18"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Blue-Diamond.jpg"
-coverAlt: "Blue Diamond Cookware Review- Everything You Need to Know"
-description: "Owning a high-quality cookware set like Blue Diamond can enhance your cooking experience. With its unique diamond-infused ceramic coatings, Blue Diamond offers top-notch nonstick properties and safety for your kitchen. While the handles may not provide a cool grip"
-tags: ["best-nonstick-pans", "how-to-clean-nonstick-pans", "nonstick-pans-for-pancakes"]
-category: "Cookware Equipment"
-seo: "This Blue Diamond Cookware review highlights its pros and cons to help you make an informed decision. Is the set worthwhile? Find out here."
+title: Blue Diamond Cookware Review- Everything You Need to Know
+slug: blue-diamond-cookware-review
+pubDate: 2021-03-03
+modDate: 2025-01-18
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Blue-Diamond.jpg
+coverAlt: Blue Diamond Cookware Review- Everything You Need to Know
+description: >-
+  Owning a high-quality cookware set like Blue Diamond can enhance your cooking
+  experience. With its unique diamond-infused ceramic coatings, Blue Diamond
+  offers top-notch nonstick properties and safety for your kitchen. While the
+  handles may not provide a cool grip
+tags:
+  - best-nonstick-pans
+  - how-to-clean-nonstick-pans
+  - nonstick-pans-for-pancakes
+category: Cookware Equipment
+seo: >-
+  This Blue Diamond Cookware review highlights its pros and cons to help you
+  make an informed decision. Is the set worthwhile? Find out here.
 ---
 
 Owning an elegant and efficient cookware set is a dream of every cooking enthusiast. It gives unmatched satisfaction and creates an insatiable urge to test different recipes.

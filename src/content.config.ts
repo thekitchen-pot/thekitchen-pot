@@ -7,7 +7,26 @@ import { glob, file } from "astro/loaders";
 // 3. Define your collection(s)
 const blog = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/blog" }),
-  /* ... */
+  schema: ({ image }) => z.object({
+    title: z.string(),
+    slug: z.string(),
+    pubDate: z.date(),
+    modDate: z.date(),
+    author: z.string(),
+    authorBio: z.string().optional(),
+    authorId: z.string().optional(),
+    authorImage: z.string().optional(),
+    authorImageAlt: z.string().optional(),
+    coverAlt: z.string().optional(),
+    description: z.string(),
+    tags: z.array(z.string()),
+    category: z.string(),
+    seo: z.string().optional(),
+    image: image()
+
+
+
+  })
 });
 
 const reviews = defineCollection({
@@ -51,4 +70,4 @@ const reviews = defineCollection({
 });
 
 // 4. Export a single `collections` object to register your collection(s)
-export const collections = { blog, reviews };
+export const collections = { blog };

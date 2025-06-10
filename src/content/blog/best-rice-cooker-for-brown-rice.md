@@ -1,19 +1,35 @@
 ---
-title: "7 Best Rice Cooker for Brown Rice - With a Buying Guide"
-slug: "best-rice-cooker-for-brown-rice"
-pubDate: "2020-03-22"
-modDate: "2025-01-23"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-Rice-Cooker-for-Brown-Rice.jpg"
-coverAlt: "7 Best Rice Cooker for Brown Rice - With a Buying Guide"
-description: "If you love cooking but struggle with preparing brown rice, you're not alone. Cooking brown rice can be tricky due to the water to rice ratio and heat maintenance required. Investing in the best rice cooker for brown rice, like the Instant Pot Duo,"
-tags: ["best-rice-cookers", "brown-rice", "rice-cookers"]
-category: "Cookware Equipment"
-seo: "If you love cooking, you'll opine that preparing brown rice is one of the trickiest exercise. This article enumerate the best rice cooker for brown rice, giving unique shopping tips that will make picking the best a breeze."
+title: 7 Best Rice Cooker for Brown Rice - With a Buying Guide
+slug: best-rice-cooker-for-brown-rice
+pubDate: 2020-03-22
+modDate: 2025-01-23
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-Rice-Cooker-for-Brown-Rice.jpg
+coverAlt: 7 Best Rice Cooker for Brown Rice - With a Buying Guide
+description: >-
+  If you love cooking but struggle with preparing brown rice, you're not alone.
+  Cooking brown rice can be tricky due to the water to rice ratio and heat
+  maintenance required. Investing in the best rice cooker for brown rice, like
+  the Instant Pot Duo,
+tags:
+  - best-rice-cookers
+  - brown-rice
+  - rice-cookers
+category: Cookware Equipment
+seo: >-
+  If you love cooking, you'll opine that preparing brown rice is one of the
+  trickiest exercise. This article enumerate the best rice cooker for brown
+  rice, giving unique shopping tips that will make picking the best a breeze.
 ---
 
 If you love cooking, you’ll agree that preparing brown rice for your family is one of the trickiest exercise, right?

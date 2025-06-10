@@ -1,29 +1,127 @@
 ---
-// src/components/Homepage/PainPoints.astro
+// src/components/PainPoints.astro
 import { Icon } from "astro-icon/components";
+import { Image } from "astro:assets";
+import kitchenClutterImg from "@/assets/images/the-kitchen-pot-bakeware.png";
 ---
 
-<section class="py-12 sm:py-20 bg-teal-100 overflow-hidden " aria-labelledby="tiny-kitchen-problems">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    <h2 class="text-2xl font-bold text-gray-900 mb-8 text-center">
-      Cooking in a cramped kitchen feels like...
-    </h2>
+<section class="relative py-16 sm:py-24 overflow-hidden" aria-labelledby="tiny-kitchen-problems">
+  <!-- Background decorative elements -->
+  <div class="absolute inset-0 bg-gradient-to-br from-purple-900/5 to-cyan-900/5"></div>
+  <div class="absolute top-0 right-0 w-1/3 h-1/3 bg-cyan-300/20 rounded-full blur-3xl -z-10"></div>
+  <div class="absolute bottom-0 left-0 w-1/2 h-1/2 bg-purple-300/10 rounded-full blur-3xl -z-10"></div>
+  
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+    <div class="text-center mb-12">
+      <h2 class="text-3xl md:text-4xl font-bold tracking-tight mb-4">
+        <span class="bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-teal-500">
+          Cooking in a cramped kitchen feels like...
+        </span>
+      </h2>
+      <div class="w-24 h-1 bg-gradient-to-r from-purple-500 to-teal-400 mx-auto rounded-full"></div>
+    </div>
 
-    <div class="grid md:grid-cols-3 gap-8">
-      <div class="bg-red-50 p-6 rounded-lg flex items-start gap-4">
-        <Icon name="mdi:account-hard-hat" class="text-teal-600 w-8 h-8 flex-shrink-0" />
-        <p class="text-gray-700">Battling countertop clutter just to chop an onion</p>
+    <div class="grid md:grid-cols-3 gap-6 lg:gap-10">
+      <!-- Card 1 -->
+      <div class="group relative">
+        <div class="absolute inset-0 bg-gradient-to-br from-purple-600/20 to-purple-400/5 rounded-2xl blur-sm -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+        <div class="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-lg border border-purple-100 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 overflow-hidden">
+          <div class="flex items-start gap-5">
+            <div class="relative">
+              <div class="absolute inset-0 bg-gradient-to-br from-purple-400 to-purple-600 rounded-xl blur-md opacity-50 group-hover:opacity-70 transition-opacity duration-300"></div>
+              <div class="relative w-14 h-14 bg-gradient-to-br from-purple-500 to-purple-700 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-105 transition-transform duration-300">
+                <Icon name="mdi:account-hard-hat" class="text-white w-8 h-8" />
+              </div>
+            </div>
+            <div>
+              <h3 class="text-xl font-semibold text-gray-800 mb-2 group-hover:text-purple-700 transition-colors duration-300">Countertop Battlefield</h3>
+              <p class="text-gray-600">Battling countertop clutter just to chop an onion</p>
+            </div>
+          </div>
+          <div class="absolute -bottom-12 -right-12 w-32 h-32 bg-purple-200/30 rounded-full blur-2xl -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+        </div>
       </div>
 
-      <div class="bg-yellow-50 p-6 rounded-lg flex items-start gap-4">
-        <Icon name="mdi:package-variant" class="text-yellow-600 w-8 h-8 flex-shrink-0" />
-        <p class="text-gray-700">Playing Tetris with your pots and appliances</p>
+      <!-- Card 2 -->
+      <div class="group relative mt-8 md:mt-0">
+        <div class="absolute inset-0 bg-gradient-to-br from-cyan-600/20 to-cyan-400/5 rounded-2xl blur-sm -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+        <div class="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-lg border border-cyan-100 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 overflow-hidden">
+          <div class="flex items-start gap-5">
+            <div class="relative">
+              <div class="absolute inset-0 bg-gradient-to-br from-cyan-400 to-cyan-600 rounded-xl blur-md opacity-50 group-hover:opacity-70 transition-opacity duration-300"></div>
+              <div class="relative w-14 h-14 bg-gradient-to-br from-cyan-500 to-cyan-700 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-105 transition-transform duration-300">
+                <Icon name="mdi:package-variant" class="text-white w-8 h-8" />
+              </div>
+            </div>
+            <div>
+              <h3 class="text-xl font-semibold text-gray-800 mb-2 group-hover:text-cyan-700 transition-colors duration-300">Storage Tetris</h3>
+              <p class="text-gray-600">Playing Tetris with your pots and appliances</p>
+            </div>
+          </div>
+          <div class="absolute -bottom-12 -right-12 w-32 h-32 bg-cyan-200/30 rounded-full blur-2xl -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+        </div>
       </div>
 
-      <div class="bg-blue-50 p-6 rounded-lg flex items-start gap-4">
-        <Icon name="mdi:water" class="text-blue-600 w-8 h-8 flex-shrink-0" />
-        <p class="text-gray-700">Scrubbing dishes in a sink smaller than your laptop</p>
+      <!-- Card 3 -->
+      <div class="group relative mt-8 md:mt-16">
+        <div class="absolute inset-0 bg-gradient-to-br from-teal-600/20 to-teal-400/5 rounded-2xl blur-sm -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+        <div class="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-lg border border-teal-100 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 overflow-hidden">
+          <div class="flex items-start gap-5">
+            <div class="relative">
+              <div class="absolute inset-0 bg-gradient-to-br from-teal-400 to-teal-600 rounded-xl blur-md opacity-50 group-hover:opacity-70 transition-opacity duration-300"></div>
+              <div class="relative w-14 h-14 bg-gradient-to-br from-teal-500 to-teal-700 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-105 transition-transform duration-300">
+                <Icon name="mdi:water" class="text-white w-8 h-8" />
+              </div>
+            </div>
+            <div>
+              <h3 class="text-xl font-semibold text-gray-800 mb-2 group-hover:text-teal-700 transition-colors duration-300">Micro Sink Struggles</h3>
+              <p class="text-gray-600">Scrubbing dishes in a sink smaller than your laptop</p>
+            </div>
+          </div>
+          <div class="absolute -bottom-12 -right-12 w-32 h-32 bg-teal-200/30 rounded-full blur-2xl -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bottom illustration -->
+    <div class="mt-16 relative max-w-3xl mx-auto">
+      <div class="absolute inset-0 bg-gradient-to-r from-purple-600/20 to-teal-600/20 rounded-3xl blur-md"></div>
+      <div class="relative bg-white/70 backdrop-blur-md p-6 rounded-3xl shadow-lg border border-purple-100/50 overflow-hidden">
+        <div class="absolute -bottom-20 -right-20 w-40 h-40 bg-gradient-to-br from-cyan-400/20 to-purple-400/20 rounded-full blur-3xl"></div>
+        <div class="absolute -top-20 -left-20 w-40 h-40 bg-gradient-to-tr from-teal-400/20 to-purple-400/20 rounded-full blur-3xl"></div>
+        
+        <div class="flex flex-col md:flex-row items-center gap-6 md:gap-10">
+          <div class="md:w-1/2">
+            <h3 class="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-teal-500 mb-4">Ready for a solution?</h3>
+            <p class="text-gray-700 mb-6">Our space-saving kitchen tools are designed specifically for tiny kitchens, so you can cook with joy, not frustration.</p>
+            <a href="/about/" class="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 to-teal-500 text-white font-medium py-3 px-6 rounded-full hover:shadow-lg hover:shadow-purple-200/50 transition-all duration-300 hover:-translate-y-1">
+              <span>Discover Solutions</span>
+              <Icon name="mdi:arrow-right" class="w-5 h-5" />
+            </a>
+          </div>
+          <div class="md:w-1/2 rounded-2xl overflow-hidden shadow-lg">
+            <div class="relative aspect-[4/3] w-full">
+              <div class="absolute inset-0 bg-gradient-to-tr from-purple-500/20 to-teal-500/20 mix-blend-overlay"></div>
+              <Image 
+                src={kitchenClutterImg} 
+                alt="Cluttered tiny kitchen" 
+                format={'webp'}
+                class="w-full h-full object-cover"
+                width={400}
+                height={300}
+              />
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </section>
+
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+</style>

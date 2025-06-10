@@ -1,19 +1,35 @@
 ---
-title: "8 Best Smoker Box for Gas Grill"
-slug: "best-smoker-box-for-gas-grills"
-pubDate: "2020-04-27"
-modDate: "2025-01-20"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Smoker-box-for-gas-grills.jpg"
-coverAlt: "8 Best Smoker Box for Gas Grill"
-description: "Did you know that you can turn your gas grill into smokers with the best smoker box for gas grills? This helpful guide will walk you through the process and factors to consider before making a purchase. Transform your cooking experience and achieve irresistible meals with the"
-tags: ["best-smoker-box-for-gas-grills", "gas-grills", "smoker-box"]
-category: "Gas And Charcoal Grills"
-seo: "Did you know that you can turn your gas grill into smokers? Well, the best smoker box for gas grills will help you achieve that smoky flavor in your meat. Here's a comprehensive guide"
+title: 8 Best Smoker Box for Gas Grill
+slug: best-smoker-box-for-gas-grills
+pubDate: 2020-04-27
+modDate: 2025-01-20
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Smoker-box-for-gas-grills.jpg
+coverAlt: 8 Best Smoker Box for Gas Grill
+description: >-
+  Did you know that you can turn your gas grill into smokers with the best
+  smoker box for gas grills? This helpful guide will walk you through the
+  process and factors to consider before making a purchase. Transform your
+  cooking experience and achieve irresistible meals with the
+tags:
+  - best-smoker-box-for-gas-grills
+  - gas-grills
+  - smoker-box
+category: Gas And Charcoal Grills
+seo: >-
+  Did you know that you can turn your gas grill into smokers? Well, the best
+  smoker box for gas grills will help you achieve that smoky flavor in your
+  meat. Here's a comprehensive guide
 ---
 
 Did you know that you can turn your gas grill into [smokers](https://www.recipetips.com/glossary-term/t--38705/smoker-box.asp)? Well, the best smoker box for gas grills will help you achieve that smoky flavor in your barbecue!

@@ -1,19 +1,35 @@
 ---
-title: "How to Clean Stainless Steel Pans - 5 Unique Methods"
-slug: "how-to-clean-stainless-steel-pans"
-pubDate: "2020-09-09"
-modDate: "2025-02-17"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/How-to-clean-stainless-steel-pans.jpg"
-coverAlt: "How to Clean Stainless Steel Pans - 5 Unique Methods"
-description: "Taking care of your stainless steel pans is crucial for their longevity and efficiency. If you're unsure about how to clean discolored stainless steel pans, this guide is here to help! Follow the step-by-step instructions and easy tips provided to ensure your"
-tags: ["best-ceramic-cookware", "season-copper-pans", "season-stainless-steel-pans"]
-category: "How To Guides"
-seo: "How to clean stainless steel pans? Well, cleaning the pans is one of the most important maintenance routine that you must muster. This guide offers insights on how to care for your pans."
+title: How to Clean Stainless Steel Pans - 5 Unique Methods
+slug: how-to-clean-stainless-steel-pans
+pubDate: 2020-09-09
+modDate: 2025-02-17
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/How-to-clean-stainless-steel-pans.jpg
+coverAlt: How to Clean Stainless Steel Pans - 5 Unique Methods
+description: >-
+  Taking care of your stainless steel pans is crucial for their longevity and
+  efficiency. If you're unsure about how to clean discolored stainless steel
+  pans, this guide is here to help! Follow the step-by-step instructions and
+  easy tips provided to ensure your
+tags:
+  - best-ceramic-cookware
+  - season-copper-pans
+  - season-stainless-steel-pans
+category: How To Guides
+seo: >-
+  How to clean stainless steel pans? Well, cleaning the pans is one of the most
+  important maintenance routine that you must muster. This guide offers insights
+  on how to care for your pans.
 ---
 
 Cleaning your stainless steel pans is an essential maintenance activity that enhances their durability and efficacy. 

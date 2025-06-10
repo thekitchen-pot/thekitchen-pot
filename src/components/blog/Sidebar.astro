@@ -1,0 +1,39 @@
+---
+import SearchBar from './SearchBar.astro';
+import CategoryList from './CategoryList.astro';
+import RecentPosts from './RecentPosts.astro';
+import NewsletterSignup from './NewsletterSignup.astro';
+
+interface Props {
+  allPosts: any[];
+  currentCategory?: string;
+}
+
+const { allPosts, currentCategory } = Astro.props;
+
+// Get recent posts (latest 7)
+const recentPosts = allPosts
+  .sort((a, b) => new Date(b.data.modDate).getTime() - new Date(a.data.pubDate).getTime())
+  .slice(0, 7);
+
+// Get categories from posts
+const categories = [...new Set(allPosts.map(post => post.data.category))].filter(Boolean);
+---
+
+<aside class="w-full lg:w-1/4 space-y-8">
+  <SearchBar />
+  
+  <div class="bg-white rounded-lg shadow-md p-6">
+    <h2 class="text-xl font-semibold mb-4">Categories</h2>
+    <CategoryList categories={categories} currentCategory={currentCategory} />
+  </div>
+
+  <div class="bg-white rounded-lg shadow-md p-6">
+    <h2 class="text-xl font-semibold mb-4">Recent Posts</h2>
+    <RecentPosts posts={recentPosts} />
+  </div>
+
+  <div class="bg-white rounded-lg shadow-md p-6">
+    <NewsletterSignup />
+  </div>
+</aside>

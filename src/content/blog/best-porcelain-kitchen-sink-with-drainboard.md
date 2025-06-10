@@ -1,19 +1,32 @@
 ---
-title: "The Best Porcelain Kitchen Sink With Drainboard"
-slug: "best-porcelain-kitchen-sink-with-drainboard"
-pubDate: "2023-01-18"
-modDate: "2025-03-01"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/default-cover.jpg"
-coverAlt: "The Best Porcelain Kitchen Sink With Drainboard"
-description: "Looking for a new kitchen sink can be overwhelming, but with the right research, you can find the perfect one to suit your needs and add beauty to your kitchen. Porcelain kitchen sinks are a popular choice for many homeowners due to their style and durability"
-tags: ["Featured"]
-category: "Kitchenware"
-seo: "Looking for the best porcelain kitchen sink with drainboard? Here are all the details you need to know before settling for one. Read on"
+title: The Best Porcelain Kitchen Sink With Drainboard
+slug: best-porcelain-kitchen-sink-with-drainboard
+pubDate: 2023-01-18
+modDate: 2025-03-01
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/default-cover.jpg
+coverAlt: The Best Porcelain Kitchen Sink With Drainboard
+description: >-
+  Looking for a new kitchen sink can be overwhelming, but with the right
+  research, you can find the perfect one to suit your needs and add beauty to
+  your kitchen. Porcelain kitchen sinks are a popular choice for many homeowners
+  due to their style and durability
+tags:
+  - Featured
+category: Kitchenware
+seo: >-
+  Looking for the best porcelain kitchen sink with drainboard? Here are all the
+  details you need to know before settling for one. Read on
 ---
 
 Buying a **[kitchen sink](https://thekitchenpot.com/blog/best-white-undermount-kitchen-sink//)** should not be a difficult thing to do. With the right research, you will get the perfect sink that suits your needs and add beauty to your kitchen.

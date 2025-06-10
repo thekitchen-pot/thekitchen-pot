@@ -1,19 +1,34 @@
 ---
-title: "5 Best Ice Maker for Home Use - Why You Should Own One"
-slug: "best-ice-maker-for-home-use"
-pubDate: "2020-06-25"
-modDate: "2025-02-04"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Top-5-Ice-Makers.jpg"
-coverAlt: "5 Best Ice Maker for Home Use - Why You Should Own One"
-description: "If you find yourself constantly needing ice, investing in the best ice maker for home use could be a game-changer for you. These machines can produce fresh ice cubes, adding a new level of convenience to how you enjoy your beverages. When considering purchasing"
-tags: ["best-mini-fridge", "blenders", "ice-makers"]
-category: "Beverages Equipment"
-seo: "If you have a big family, then you should invest in the best ice maker for home use. Read on all the benefits you'll accrue by owning one"
+title: 5 Best Ice Maker for Home Use - Why You Should Own One
+slug: best-ice-maker-for-home-use
+pubDate: 2020-06-25
+modDate: 2025-02-04
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Top-5-Ice-Makers.jpg
+coverAlt: 5 Best Ice Maker for Home Use - Why You Should Own One
+description: >-
+  If you find yourself constantly needing ice, investing in the best ice maker
+  for home use could be a game-changer for you. These machines can produce fresh
+  ice cubes, adding a new level of convenience to how you enjoy your beverages.
+  When considering purchasing
+tags:
+  - best-mini-fridge
+  - blenders
+  - ice-makers
+category: Beverages Equipment
+seo: >-
+  If you have a big family, then you should invest in the best ice maker for
+  home use. Read on all the benefits you'll accrue by owning one
 ---
 
 If you are in constant need of ice, then you should invest in the best [ice maker](https://en.wikipedia.org/wiki/Icemaker) for home use. The machine will make fresh ice cubes, which will revolutionize how you take your beverages.

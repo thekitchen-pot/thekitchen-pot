@@ -1,19 +1,36 @@
 ---
-title: "Forged vs. Stamped Knives: Which is Better for You?"
-slug: "forged-vs-stamped-knives"
-pubDate: "2021-01-30"
-modDate: "2025-02-23"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/stamped.jpg"
-coverAlt: "Forged vs. Stamped Knives: Which is Better for You?"
-description: "Investing in a good knife set is essential for any homeowner, as knives play a crucial role in food preparation and even self-defense. When choosing between forged and stamped knives, factors like construction materials, edge retention, and ergonomic design should be considered."
-tags: ["best-knife-set-under-100", "best-knife-sharpener", "how-to-sharpen-ceramic-knives", "wusthof-knives"]
-category: "Kitchenware"
-seo: "Forged vs. stamped knives: what's the difference. Here is a comprehensive guide on the features, functionality, and differences between the two main knife types. Read on for a detailed analysis"
+title: 'Forged vs. Stamped Knives: Which is Better for You?'
+slug: forged-vs-stamped-knives
+pubDate: 2021-01-30
+modDate: 2025-02-23
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/stamped.jpg
+coverAlt: 'Forged vs. Stamped Knives: Which is Better for You?'
+description: >-
+  Investing in a good knife set is essential for any homeowner, as knives play a
+  crucial role in food preparation and even self-defense. When choosing between
+  forged and stamped knives, factors like construction materials, edge
+  retention, and ergonomic design should be considered.
+tags:
+  - best-knife-set-under-100
+  - best-knife-sharpener
+  - how-to-sharpen-ceramic-knives
+  - wusthof-knives
+category: Kitchenware
+seo: >-
+  Forged vs. stamped knives: what's the difference. Here is a comprehensive
+  guide on the features, functionality, and differences between the two main
+  knife types. Read on for a detailed analysis
 ---
 
 Buying a good **[knife set](https://thekitchenpot.com/blog/best-knife-set-under-100//)** should be a priority for any homeowner. Knives are instrumental in easing your food prep and, to some extent, **[self defense.](https://selfdefensecorp.com/how-to-use-a-pocket-knife-for-self-defense/)**

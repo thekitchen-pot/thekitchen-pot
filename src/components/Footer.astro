@@ -14,18 +14,42 @@ import Logo from "./Logo.astro";
 
           We’re here to help you maximize every inch, gadget, and moment in your compact culinary kingdom. Forget bulky appliances and sprawling setups—we curate only the most space-smart, multifunctional, and apartment-approved kitchen tools on Amazon.
         </p>
-        <div class="flex space-x-4">
-          <a href="#" class="text-silver hover:text-primary transition-colors">
-            <Icon name="mdi:facebook" class="h-5 w-5" />
+        <div class="flex space-x-6">
+          <a 
+            href="https://facebook.com/thekitchenpot" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            class="text-silver hover:text-primary transition-colors transform hover:scale-110"
+            aria-label="Follow us on Facebook"
+          >
+            <Icon name="mdi:facebook" class="h-6 w-6" />
           </a>
-          <a href="#" class="text-silver hover:text-primary transition-colors">
-            <Icon name="mdi:instagram" class="h-5 w-5" />
+          <a 
+            href="https://instagram.com/thekitchenpot" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            class="text-silver hover:text-primary transition-colors transform hover:scale-110"
+            aria-label="Follow us on Instagram"
+          >
+            <Icon name="mdi:instagram" class="h-6 w-6" />
           </a>
-          <a href="#" class="text-silver hover:text-primary transition-colors">
-            <Icon name="mdi:youtube" class="h-5 w-5" />
+          <a 
+            href="https://youtube.com/thekitchenpot" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            class="text-silver hover:text-primary transition-colors transform hover:scale-110"
+            aria-label="Subscribe to our YouTube channel"
+          >
+            <Icon name="mdi:youtube" class="h-6 w-6" />
           </a>
-          <a href="#" class="text-silver hover:text-primary transition-colors">
-            <Icon name="mdi:twitter" class="h-5 w-5" />
+          <a 
+            href="https://pinterest.com/thekitchenpot" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            class="text-silver hover:text-primary transition-colors transform hover:scale-110"
+            aria-label="Follow us on Pinterest"
+          >
+            <Icon name="mdi:pinterest" class="h-6 w-6" />
           </a>
         </div>
       </div>
@@ -34,10 +58,46 @@ import Logo from "./Logo.astro";
       <div>
         <h3 class="font-display text-xl mb-6">QUICK LINKS</h3>
         <ul class="space-y-4">
-          <li><a href="/about" class="text-silver/80 hover:text-primary transition-colors">About Us</a></li>
-          <li><a href="/contact" class="text-silver/80 hover:text-primary transition-colors">Contact</a></li>
-          <li><a href="/advertise" class="text-silver/80 hover:text-primary transition-colors">Advertise</a></li>
-          <li><a href="/careers" class="text-silver/80 hover:text-primary transition-colors">Careers</a></li>
+          <li>
+            <a href="/blog/" class="text-silver/80 hover:text-primary transition-colors inline-flex items-center group">
+              Blog
+              <svg class="w-4 h-4 ml-1 opacity-0 group-hover:opacity-100 transform translate-x-0 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a href="/about" class="text-silver/80 hover:text-primary transition-colors inline-flex items-center group">
+              About Us
+              <svg class="w-4 h-4 ml-1 opacity-0 group-hover:opacity-100 transform translate-x-0 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a href="/contact-us/" class="text-silver/80 hover:text-primary transition-colors inline-flex items-center group">
+              Contact
+              <svg class="w-4 h-4 ml-1 opacity-0 group-hover:opacity-100 transform translate-x-0 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a href="/privacy-policy/" class="text-silver/80 hover:text-primary transition-colors inline-flex items-center group">
+              Privacy Policy
+              <svg class="w-4 h-4 ml-1 opacity-0 group-hover:opacity-100 transform translate-x-0 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a href="/sitemap-index.xml" class="text-silver/80 hover:text-primary transition-colors inline-flex items-center group">
+              Sitemap
+              <svg class="w-4 h-4 ml-1 opacity-0 group-hover:opacity-100 transform translate-x-0 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </li>
         </ul>
       </div>
 
@@ -45,30 +105,88 @@ import Logo from "./Logo.astro";
       <div>
         <h3 class="font-display text-xl mb-6">CATEGORIES</h3>
         <ul class="space-y-4">
-          <li><a href="/bikes" class="text-silver/80 hover:text-primary transition-colors">Bakeware</a></li>
-          <li><a href="/gear" class="text-silver/80 hover:text-primary transition-colors">Gear</a></li>
-          <li><a href="/trails" class="text-silver/80 hover:text-primary transition-colors">Cookware</a></li>
-          <li><a href="/news" class="text-silver/80 hover:text-primary transition-colors">Kitchenware</a></li>
+          <li>
+            <a href="/blog/category/bakeware/" class="text-silver/80 hover:text-primary transition-colors inline-flex items-center group">
+              Bakeware
+              <svg class="w-4 h-4 ml-1 opacity-0 group-hover:opacity-100 transform translate-x-0 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a href="/blog/category/cookware/" class="text-silver/80 hover:text-primary transition-colors inline-flex items-center group">
+              Cookware
+              <svg class="w-4 h-4 ml-1 opacity-0 group-hover:opacity-100 transform translate-x-0 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a href="/blog/category/kitchenware/" class="text-silver/80 hover:text-primary transition-colors inline-flex items-center group">
+              Kitchen Appliances
+              <svg class="w-4 h-4 ml-1 opacity-0 group-hover:opacity-100 transform translate-x-0 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a href="/blog/category/guides/" class="text-silver/80 hover:text-primary transition-colors inline-flex items-center group">
+              Guides
+              <svg class="w-4 h-4 ml-1 opacity-0 group-hover:opacity-100 transform translate-x-0 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a href="/authors/boniface-muriuki/" class="text-silver/80 hover:text-primary transition-colors inline-flex items-center group">
+              Authors
+              <svg class="w-4 h-4 ml-1 opacity-0 group-hover:opacity-100 transform translate-x-0 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </li>
         </ul>
       </div>
 
       <!-- Newsletter -->
       <div>
-        <h3 class="font-display text-xl mb-6">NEWSLETTER</h3>
-        <p class="text-silver/80 mb-4">Subscribe to get the latest updates and news.</p>
-        <form class="space-y-4">
-          <input
-            type="email"
-            placeholder="Your email"
-            class="w-full px-4 py-2 rounded bg-white/10 border border-white/20 text-white placeholder:text-silver/60 focus:outline-none focus:ring-2 focus:ring-primary"
-          />
+        <h3 class="font-display text-xl mb-6">GET KITCHEN TIPS</h3>
+        <p class="text-silver/80 mb-4">Join our newsletter for expert kitchen tips, product reviews, and exclusive deals!</p>
+        <form class="space-y-4" action="/api/subscribe" method="POST">
+          <div class="relative">
+            <input
+              type="email"
+              name="email"
+              placeholder="Enter your email"
+              required
+              class="w-full px-4 py-3 rounded-lg bg-white/10 border border-white/20 text-white placeholder:text-silver/60 focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent pr-12"
+              aria-label="Email address"
+            />
+            <svg 
+              class="absolute right-4 top-1/2 transform -translate-y-1/2 h-5 w-5 text-silver/60"
+              fill="none" 
+              stroke="currentColor" 
+              viewBox="0 0 24 24"
+            >
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+            </svg>
+          </div>
           <button
             type="submit"
-            class="w-full bg-primary hover:bg-primary/90 text-white py-2 rounded transition-colors"
+            class="w-full bg-primary hover:bg-primary/90 text-white py-3 rounded-lg transition-colors flex items-center justify-center space-x-2 group"
           >
-            Subscribe
+            <span>Subscribe Now</span>
+            <svg 
+              class="w-5 h-5 transform group-hover:translate-x-1 transition-transform"
+              fill="none" 
+              stroke="currentColor" 
+              viewBox="0 0 24 24"
+            >
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+            </svg>
           </button>
         </form>
+        <p class="text-silver/60 text-sm mt-4">🔒 We respect your privacy. Unsubscribe at any time.</p>
       </div>
     </div>
 

@@ -1,19 +1,33 @@
 ---
-title: "How to Make Bulletproof Coffee Without Blender - A Complete Guide"
-slug: "how-to-make-bulletproof-coffee-without-blender"
-pubDate: "2020-09-03"
-modDate: "2025-03-01"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/How-to-Make-Bulletproof-Coffee-Without-Blender.jpg"
-coverAlt: "How to Make Bulletproof Coffee Without Blender - A Complete Guide"
-description: "If you're a coffee-lover, you'll be captivated by the unique taste of bulletproof coffee, which serves as the perfect way to kickstart your day! Worried about not having the best blender to make it? Don't fret anymore"
-tags: ["best-coffee-maker-with-grinder", "best-espresso-maker", "keurig-coffee-maker"]
-category: "How To Guides"
-seo: "Wondering how to make bulletproof coffee without blender? This guide offers the most comprehensive step-by-step guide. Read on to understand."
+title: "How to Make Bulletproof Coffee Without Blender\_- A Complete Guide"
+slug: how-to-make-bulletproof-coffee-without-blender
+pubDate: 2020-09-03
+modDate: 2025-03-01
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/How-to-Make-Bulletproof-Coffee-Without-Blender.jpg
+coverAlt: "How to Make Bulletproof Coffee Without Blender\_- A Complete Guide"
+description: >-
+  If you're a coffee-lover, you'll be captivated by the unique taste of
+  bulletproof coffee, which serves as the perfect way to kickstart your day!
+  Worried about not having the best blender to make it? Don't fret anymore
+tags:
+  - best-coffee-maker-with-grinder
+  - best-espresso-maker
+  - keurig-coffee-maker
+category: How To Guides
+seo: >-
+  Wondering how to make bulletproof coffee without blender? This guide offers
+  the most comprehensive step-by-step guide. Read on to understand.
 ---
 
 If you’re a coffee-lover, then you’ll certainly marvel at the unique taste of bulletproof coffee. This signature beverage is all you need to kick start your day!

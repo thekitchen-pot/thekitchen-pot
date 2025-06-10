@@ -1,19 +1,37 @@
 ---
-title: "Lo Mein vs. Chow Mein - Are They Really Different?"
-slug: "lo-mein-vs-chow-mein"
-pubDate: "2021-02-02"
-modDate: "2025-02-23"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Chow-Mein.jpg"
-coverAlt: "Lo Mein vs. Chow Mein - Are They Really Different?"
-description: "Chinese dishes like Lo Mein, Chow Mein, and Chop Suey are gaining popularity globally, but their diverse names and preparation techniques can be confusing. This article provides a comparison to help you choose between them when dining at a Chinese restaurant. Whether you prefer"
-tags: ["air-fryer-basket", "chop-suey", "chow-mein", "lo-mein", "rice-cooker"]
-category: "How To Guides"
-seo: "Lo Mein vs. Chow Mein: What's the difference? What about Chop Suey? This article provides all the details you need to know about these Chinese dishes. Read on."
+title: Lo Mein vs. Chow Mein - Are They Really Different?
+slug: lo-mein-vs-chow-mein
+pubDate: 2021-02-02
+modDate: 2025-02-23
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Chow-Mein.jpg
+coverAlt: Lo Mein vs. Chow Mein - Are They Really Different?
+description: >-
+  Chinese dishes like Lo Mein, Chow Mein, and Chop Suey are gaining popularity
+  globally, but their diverse names and preparation techniques can be confusing.
+  This article provides a comparison to help you choose between them when dining
+  at a Chinese restaurant. Whether you prefer
+tags:
+  - air-fryer-basket
+  - chop-suey
+  - chow-mein
+  - lo-mein
+  - rice-cooker
+category: How To Guides
+seo: >-
+  Lo Mein vs. Chow Mein: What's the difference? What about Chop Suey? This
+  article provides all the details you need to know about these Chinese dishes.
+  Read on.
 ---
 
 Chinese dishes are gaining popularity globally. It is not unusual to find Chinese restaurants in the US. 

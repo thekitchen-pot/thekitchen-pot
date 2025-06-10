@@ -1,19 +1,33 @@
 ---
-title: "8 Best Gas Grills Under 500 - Tested and Proven"
-slug: "best-gas-grills-under-500"
-pubDate: "2020-03-22"
-modDate: "2025-02-03"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/under-500.jpg"
-coverAlt: "8 Best Gas Grills Under 500 - Tested and Proven"
-description: "Are you in search of quality gas grills under $500? Look no further! Our curated list of the 8 Best Gas Grills Under $500 offers top-notch grilling without breaking the bank. Whether you're a seasoned BBQ pro or just"
-tags: ["charcoal-grills", "gas-grills", "under-500"]
-category: "Kitchenware"
-seo: "Best gas grills under 500? Well, purchasing a gas grill will not be a easy! This guide offers implementable tips to make shopping a breeze. Read on."
+title: 8 Best Gas Grills Under 500 - Tested and Proven
+slug: best-gas-grills-under-500
+pubDate: 2020-03-22
+modDate: 2025-02-03
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/under-500.jpg
+coverAlt: 8 Best Gas Grills Under 500 - Tested and Proven
+description: >-
+  Are you in search of quality gas grills under $500? Look no further! Our
+  curated list of the 8 Best Gas Grills Under $500 offers top-notch grilling
+  without breaking the bank. Whether you're a seasoned BBQ pro or just
+tags:
+  - charcoal-grills
+  - gas-grills
+  - under-500
+category: Kitchenware
+seo: >-
+  Best gas grills under 500? Well, purchasing a gas grill will not be a easy!
+  This guide offers implementable tips to make shopping a breeze. Read on.
 ---
 
 Are you wondering how to up your grilling game without burning a hole in your pocket? You’re not alone!

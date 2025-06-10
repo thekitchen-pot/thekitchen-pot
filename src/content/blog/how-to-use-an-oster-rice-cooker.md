@@ -1,19 +1,35 @@
 ---
-title: "How to Use an Oster Rice Cooker - A Comprehensive Guide"
-slug: "how-to-use-an-oster-rice-cooker"
-pubDate: "2020-09-03"
-modDate: "2025-01-30"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/How-to-Use-Oster-Rice-Cooker.jpg"
-coverAlt: "How to Use an Oster Rice Cooker - A Comprehensive Guide"
-description: "Did you know that approximately 3.5 billion people globally depend on rice for an estimated 20% of their daily calorie needs? The use of an Oster Rice Cooker can make cooking rice easier and more efficient for those struggling with the process"
-tags: ["air-fryer", "best-rice-cooker", "spatula"]
-category: "How To Guides"
-seo: "How to use an oster rice cooker? This guide will offer you insightful tips on how you can use the appliance to cook rice and steam vegetables. Read on for more."
+title: How to Use an Oster Rice Cooker - A Comprehensive Guide
+slug: how-to-use-an-oster-rice-cooker
+pubDate: 2020-09-03
+modDate: 2025-01-30
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/How-to-Use-Oster-Rice-Cooker.jpg
+coverAlt: How to Use an Oster Rice Cooker - A Comprehensive Guide
+description: >-
+  Did you know that approximately 3.5 billion people globally depend on rice for
+  an estimated 20% of their daily calorie needs? The use of an Oster Rice Cooker
+  can make cooking rice easier and more efficient for those struggling with the
+  process
+tags:
+  - air-fryer
+  - best-rice-cooker
+  - spatula
+category: How To Guides
+seo: >-
+  How to use an oster rice cooker? This guide will offer you insightful tips on
+  how you can use the appliance to cook rice and steam vegetables. Read on for
+  more.
 ---
 
 Did you know that approximately 3.5 billion people globally depend on rice for an estimated 20% of their daily calorie needs? 

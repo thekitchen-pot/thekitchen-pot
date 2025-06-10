@@ -1,19 +1,35 @@
 ---
-title: "Best Knife Set Under 100 - With a Comprehensive Buying Guide"
-slug: "best-knife-set-under-100"
-pubDate: "2020-03-29"
-modDate: "2025-02-11"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Knife-set-under-100.jpg"
-coverAlt: "Best Knife Set Under 100 - With a Comprehensive Buying Guide"
-description: "When it comes to finding the best knife set under $100, it's important to consider your specific needs and budget. Whether you're a professional chef or a casual home cook, there are plenty of options available. Remember, the quality of the knives"
-tags: ["best-knife", "knife-set", "under-100"]
-category: "Cookware Equipment"
-seo: "If you want to upgrade your kitchen with a new set of knives, then this article outlines everything you need to know before you settle for the best knife set under 100. Read on."
+title: Best Knife Set Under 100 - With a Comprehensive Buying Guide
+slug: best-knife-set-under-100
+pubDate: 2020-03-29
+modDate: 2025-02-11
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Knife-set-under-100.jpg
+coverAlt: Best Knife Set Under 100 - With a Comprehensive Buying Guide
+description: >-
+  When it comes to finding the best knife set under $100, it's important to
+  consider your specific needs and budget. Whether you're a professional chef or
+  a casual home cook, there are plenty of options available. Remember, the
+  quality of the knives
+tags:
+  - best-knife
+  - knife-set
+  - under-100
+category: Cookware Equipment
+seo: >-
+  If you want to upgrade your kitchen with a new set of knives, then this
+  article outlines everything you need to know before you settle for the best
+  knife set under 100. Read on.
 ---
 
 When it comes to finding the best knife set under 100, there are a few things you need to keep in mind. You should consider what type of knives you need. If you’re mostly just cooking for yourself or your family, then a basic set of chef’s knives will do.

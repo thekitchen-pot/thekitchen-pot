@@ -1,18 +1,31 @@
 ---
-title: "10 Best Oil for Air Fryer -What is So Special About Them?"
-slug: "best-oil-for-air-fryer"
-pubDate: "2020-06-27"
-modDate: "2025-02-11"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/best-oil-for-air-fryer.jpg"
-coverAlt: "10 Best Oil for Air Fryer -What is So Special About Them?"
-description: "Buying the best oil for air fryers is essential for enhancing your cooking experience and ensuring optimal results. Consider factors like smoke point, flavor, and health benefits when selecting your oil to improve the taste and healthiness of your meals. This guide provides valuable"
-tags: ["best-air-fryers-under-100", "non-stick-pans", "oil-for-air-fryer"]
-category: "Kitchenware"
+title: 10 Best Oil for Air Fryer -What is So Special About Them?
+slug: best-oil-for-air-fryer
+pubDate: 2020-06-27
+modDate: 2025-02-11
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/best-oil-for-air-fryer.jpg
+coverAlt: 10 Best Oil for Air Fryer -What is So Special About Them?
+description: >-
+  Buying the best oil for air fryers is essential for enhancing your cooking
+  experience and ensuring optimal results. Consider factors like smoke point,
+  flavor, and health benefits when selecting your oil to improve the taste and
+  healthiness of your meals. This guide provides valuable
+tags:
+  - best-air-fryers-under-100
+  - non-stick-pans
+  - oil-for-air-fryer
+category: Kitchenware
 ---
 
 There is no doubt that an [air fryer](https://thekitchenpot.com/blog/best-air-fryers-under-100//) is a revolutionary appliance in any kitchen. However, you should never neglect the use of the best oil for air fryers if you want exceptional frying experience.

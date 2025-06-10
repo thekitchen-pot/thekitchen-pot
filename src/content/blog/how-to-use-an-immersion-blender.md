@@ -1,19 +1,35 @@
 ---
-title: "How to Use an Immersion Blender - A Comprehensive Guide"
-slug: "how-to-use-an-immersion-blender"
-pubDate: "2020-06-28"
-modDate: "2025-01-18"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/how-to-use-an-immersion-blender.gif"
-coverAlt: "How to Use an Immersion Blender - A Comprehensive Guide"
-description: "In today's ever-changing food industry, the innovation of immersion blenders has made blending easier and more convenient. If you've never used an immersion blender before, don't worry. This article provides a step-by-step guide on how to use this magical"
-tags: ["best-blenders", "best-juicers", "masticating-juicers"]
-category: "Blenders And Juicing Equipment"
-seo: "How to use an immersion blender? Well, this is one of the most revolutionary kitchen appliance you'll ever use! Learn the basic tips of using it effectively."
+title: How to Use an Immersion Blender - A Comprehensive Guide
+slug: how-to-use-an-immersion-blender
+pubDate: 2020-06-28
+modDate: 2025-01-18
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/how-to-use-an-immersion-blender.gif
+coverAlt: How to Use an Immersion Blender - A Comprehensive Guide
+description: >-
+  In today's ever-changing food industry, the innovation of immersion blenders
+  has made blending easier and more convenient. If you've never used an
+  immersion blender before, don't worry. This article provides a step-by-step
+  guide on how to use this magical
+tags:
+  - best-blenders
+  - best-juicers
+  - masticating-juicers
+category: Blenders And Juicing Equipment
+seo: >-
+  How to use an immersion blender? Well, this is one of the most revolutionary
+  kitchen appliance you'll ever use! Learn the basic tips of using it
+  effectively.
 ---
 
 With the emerging trends impacting our lives today, it wouldn’t be wrong to say that so much has changed in the food industry. One such advancement is the innovation of immersion blenders.

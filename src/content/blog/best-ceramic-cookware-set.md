@@ -1,19 +1,36 @@
 ---
-title: "8 Best Ceramic Cookware Set - With a Complete Buying Guide"
-slug: "best-ceramic-cookware-set"
-pubDate: "2020-07-20"
-modDate: "2025-02-10"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-ceramic-cookware.jpg"
-coverAlt: "8 Best Ceramic Cookware Set - With a Complete Buying Guide"
-description: "Are you feeling overwhelmed trying to find the best ceramic cookware set? It can be a challenging task with so many options available on the market. Consider factors like health benefits, even heat distribution, and easy cleaning when choosing your set. The article provides"
-tags: ["best-non-stick-pans", "best-wok", "cookware-for-induction-cooktop", "griddle-pans"]
-category: "Pans And Pots"
-seo: "Are you looking for the best ceramic cookware set? Well, to pick the best, you have to go through an overwhelming search. This article will guide you through every shopping step."
+title: 8 Best Ceramic Cookware Set - With a Complete Buying Guide
+slug: best-ceramic-cookware-set
+pubDate: 2020-07-20
+modDate: 2025-02-10
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-ceramic-cookware.jpg
+coverAlt: 8 Best Ceramic Cookware Set - With a Complete Buying Guide
+description: >-
+  Are you feeling overwhelmed trying to find the best ceramic cookware set? It
+  can be a challenging task with so many options available on the market.
+  Consider factors like health benefits, even heat distribution, and easy
+  cleaning when choosing your set. The article provides
+tags:
+  - best-non-stick-pans
+  - best-wok
+  - cookware-for-induction-cooktop
+  - griddle-pans
+category: Pans And Pots
+seo: >-
+  Are you looking for the best ceramic cookware set? Well, to pick the best, you
+  have to go through an overwhelming search. This article will guide you through
+  every shopping step.
 ---
 
 Are you looking for the best ceramic cookware set? Well, to pick the best, you have to go through an overwhelming search. 

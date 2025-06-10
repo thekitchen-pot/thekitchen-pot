@@ -1,19 +1,37 @@
 ---
-title: "8 Best Lunch Cooler for Construction Workers"
-slug: "best-lunch-cooler-for-construction-workers"
-pubDate: "2021-02-04"
-modDate: "2025-01-26"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/shutterstock_1395214505-2-1.jpg"
-coverAlt: "8 Best Lunch Cooler for Construction Workers"
-description: "Construction workers face strenuous duties and tough conditions, often feeling fatigued and in need of a good meal. The lunch break provides a much-needed opportunity to recharge, but wasting time queuing for meals can be a common issue. The best lunch"
-tags: ["best-airfryer", "best-blenders", "best-juicers", "best-non-stick-pans", "best-rice-cookers", "lunch-box-for-men"]
-category: "Cookware Equipment"
-seo: "Looking for the best lunch cooler for construction workers? You need to consider several factors before buying. Here is a comprehensive guide."
+title: 8 Best Lunch Cooler for Construction Workers
+slug: best-lunch-cooler-for-construction-workers
+pubDate: 2021-02-04
+modDate: 2025-01-26
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/shutterstock_1395214505-2-1.jpg
+coverAlt: 8 Best Lunch Cooler for Construction Workers
+description: >-
+  Construction workers face strenuous duties and tough conditions, often feeling
+  fatigued and in need of a good meal. The lunch break provides a much-needed
+  opportunity to recharge, but wasting time queuing for meals can be a common
+  issue. The best lunch
+tags:
+  - best-airfryer
+  - best-blenders
+  - best-juicers
+  - best-non-stick-pans
+  - best-rice-cookers
+  - lunch-box-for-men
+category: Cookware Equipment
+seo: >-
+  Looking for the best lunch cooler for construction workers? You need to
+  consider several factors before buying. Here is a comprehensive guide.
 ---
 
 Construction workers require high energy levels. Their duties are strenuous and can get tough, especially when working under extreme weather conditions. It is not unusual for them to feel fatigued and in need of a good meal. 

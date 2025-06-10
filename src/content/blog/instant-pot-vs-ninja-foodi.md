@@ -1,19 +1,35 @@
 ---
-title: "Instant Pot Vs Ninja Foodi: Which is Better for Your Kitchen?"
-slug: "instant-pot-vs-ninja-foodi"
-pubDate: "2020-08-11"
-modDate: "2025-02-27"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Instant-Pot-vs-Ninja-Foodi.jpg"
-coverAlt: "Instant Pot Vs Ninja Foodi: Which is Better for Your Kitchen?"
-description: "If you're feeling overwhelmed with kitchen tasks, consider investing in either an instant pot or a ninja foodi to cut your cooking time in half. This article compares the features of both appliances, providing an insightful analysis to help you make an informed decision based"
-tags: ["instant-pot-vs-pressure-cooker", "ninja-foodi", "nuwave-oven"]
-category: "Kitchenware"
-seo: "Instant pot vs Ninja foodi? Which is best for you? This guide analyzes the pros and cons of each one of them. It gives a reliable shopping guide ideal for beginners and experienced cook alike."
+title: 'Instant Pot Vs Ninja Foodi: Which is Better for Your Kitchen?'
+slug: instant-pot-vs-ninja-foodi
+pubDate: 2020-08-11
+modDate: 2025-02-27
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Instant-Pot-vs-Ninja-Foodi.jpg
+coverAlt: 'Instant Pot Vs Ninja Foodi: Which is Better for Your Kitchen?'
+description: >-
+  If you're feeling overwhelmed with kitchen tasks, consider investing in either
+  an instant pot or a ninja foodi to cut your cooking time in half. This article
+  compares the features of both appliances, providing an insightful analysis to
+  help you make an informed decision based
+tags:
+  - instant-pot-vs-pressure-cooker
+  - ninja-foodi
+  - nuwave-oven
+category: Kitchenware
+seo: >-
+  Instant pot vs Ninja foodi? Which is best for you? This guide analyzes the
+  pros and cons of each one of them. It gives a reliable shopping guide ideal
+  for beginners and experienced cook alike.
 ---
 
 If you feel like you spend too much time in the kitchen, then it’s time to consider purchasing either an [instant pot](https://en.wikipedia.org/wiki/Instant_Pot) or a ninja foodi. The crucial kitchenware will reduce your cooking time by at least 50%!

@@ -1,19 +1,36 @@
 ---
-title: "How To Clean A Meat Thermometer in 4 Steps- Back To Basics"
-slug: "how-to-clean-a-meat-thermometer"
-pubDate: "2022-01-18"
-modDate: "2025-01-20"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/pop-meat-thermometers-1636735566.jpg"
-coverAlt: "How To Clean A Meat Thermometer in 4 Steps- Back To Basics"
-description: "If you're a BBQ enthusiast, ensuring perfect doneness every time is crucial, which is why cleaning your meat thermometer after each use is essential to prevent bacteria buildup and cross-contamination with your current meat packets. By following a simple step-by-step guide"
-tags: ["best-candy-thermometer", "best-meat-thermometer", "how-to-clean-a-dishwasher", "how-to-clean-an-air-fryer"]
-category: "How To Guides"
-seo: "Wondering how to clean a meat thermometer? Is it necessary? This article offers an all-inclusive guide on meat thermometer hygiene. Read on for unique tips."
+title: How To Clean A Meat Thermometer in 4 Steps- Back To Basics
+slug: how-to-clean-a-meat-thermometer
+pubDate: 2022-01-18
+modDate: 2025-01-20
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/pop-meat-thermometers-1636735566.jpg
+coverAlt: How To Clean A Meat Thermometer in 4 Steps- Back To Basics
+description: >-
+  If you're a BBQ enthusiast, ensuring perfect doneness every time is crucial,
+  which is why cleaning your meat thermometer after each use is essential to
+  prevent bacteria buildup and cross-contamination with your current meat
+  packets. By following a simple step-by-step guide
+tags:
+  - best-candy-thermometer
+  - best-meat-thermometer
+  - how-to-clean-a-dishwasher
+  - how-to-clean-an-air-fryer
+category: How To Guides
+seo: >-
+  Wondering how to clean a meat thermometer? Is it necessary? This article
+  offers an all-inclusive guide on meat thermometer hygiene. Read on for unique
+  tips.
 ---
 
 If you love BBQ, you probably use a **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//)** to ensure that you get perfect doneness every time you grill or **[smoke meat](https://thekitchenpot.com/blog/best-offset-smoker-for-beginners//)**.

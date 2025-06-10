@@ -1,19 +1,36 @@
 ---
-title: "Best White Undermount Kitchen Sink - A Complete Guide"
-slug: "best-white-undermount-kitchen-sink"
-pubDate: "2022-01-16"
-modDate: "2025-01-29"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/PR14922BI14515_10125012_BE_40_40_1B_SZ2.jpg"
-coverAlt: "Best White Undermount Kitchen Sink - A Complete Guide"
-description: "If you're considering remodeling your kitchen and changing out the sink, opting for the best white undermount kitchen sink can be a valuable choice. Undermount sinks offer easy cleaning, seamless integration with countertops, and hide stains and scratches effectively. To make your"
-tags: ["best-non-stick-pans", "ceramic-vs-stainless-steel-cookware", "how-to-bake-cookies-on-convection-oven", "what-is-best-gauge-stainless-steel-for-kitchen-sinks"]
-category: "Kitchenware"
-seo: "Are you looking for the best white undermount kitchen sink? Well, these sinks are easy to clean and maintain. They are the best bet if you are remodelling your kitchen."
+title: Best White Undermount Kitchen Sink - A Complete Guide
+slug: best-white-undermount-kitchen-sink
+pubDate: 2022-01-16
+modDate: 2025-01-29
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/PR14922BI14515_10125012_BE_40_40_1B_SZ2.jpg
+coverAlt: Best White Undermount Kitchen Sink - A Complete Guide
+description: >-
+  If you're considering remodeling your kitchen and changing out the sink,
+  opting for the best white undermount kitchen sink can be a valuable choice.
+  Undermount sinks offer easy cleaning, seamless integration with countertops,
+  and hide stains and scratches effectively. To make your
+tags:
+  - best-non-stick-pans
+  - ceramic-vs-stainless-steel-cookware
+  - how-to-bake-cookies-on-convection-oven
+  - what-is-best-gauge-stainless-steel-for-kitchen-sinks
+category: Kitchenware
+seo: >-
+  Are you looking for the best white undermount kitchen sink? Well, these sinks
+  are easy to clean and maintain. They are the best bet if you are remodelling
+  your kitchen.
 ---
 
 Are you thinking about **[remodeling your kitchen](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy//)**? If so, you’re probably thinking about changing out the sink as well. If you want value for money, consider buying the best white undermount kitchen sink for your remodel.

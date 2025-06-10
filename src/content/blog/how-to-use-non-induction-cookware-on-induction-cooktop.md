@@ -1,19 +1,36 @@
 ---
-title: "How To Use Non Induction Cookware On Induction Cooktop"
-slug: "how-to-use-non-induction-cookware-on-induction-cooktop"
-pubDate: "2022-01-18"
-modDate: "2025-01-17"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Induction-cooktop.jpg"
-coverAlt: "How To Use Non Induction Cookware On Induction Cooktop"
-description: "We understand the frustration of buying cookware that doesn't work with your favorite induction cooktop. However, there are solutions available to make your non-induction cookware compatible. This guide provides tips on using converter disks or DIY techniques like netted steel"
-tags: ["best-induction-cooktops", "cookware-for-induction-cooktop", "how-to-use-induction-cooktops", "induction-cooking"]
-category: "How To Guides"
-seo: "Wondering how to use non induction cookware on induction cooktop? This guide offers 3 invaluable tips that will enable you utilize your noninduction cookware optimally"
+title: How To Use Non Induction Cookware On Induction Cooktop
+slug: how-to-use-non-induction-cookware-on-induction-cooktop
+pubDate: 2022-01-18
+modDate: 2025-01-17
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Induction-cooktop.jpg
+coverAlt: How To Use Non Induction Cookware On Induction Cooktop
+description: >-
+  We understand the frustration of buying cookware that doesn't work with your
+  favorite induction cooktop. However, there are solutions available to make
+  your non-induction cookware compatible. This guide provides tips on using
+  converter disks or DIY techniques like netted steel
+tags:
+  - best-induction-cooktops
+  - cookware-for-induction-cooktop
+  - how-to-use-induction-cooktops
+  - induction-cooking
+category: How To Guides
+seo: >-
+  Wondering how to use non induction cookware on induction cooktop? This guide
+  offers 3 invaluable tips that will enable you utilize your noninduction
+  cookware optimally
 ---
 
 It can be frustrating to buy your best cookware set only to realize that it doesn’t work with your favorite **[induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money//)**. But all is not lost. There are a few things you can do to make it compatible with an induction cooktop.

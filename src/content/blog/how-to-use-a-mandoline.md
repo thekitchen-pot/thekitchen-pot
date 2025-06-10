@@ -1,19 +1,34 @@
 ---
-title: "How to Use a Mandoline Perfectly: A Complete Guide"
-slug: "how-to-use-a-mandoline"
-pubDate: "2020-05-31"
-modDate: "2025-02-09"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/How-to-use-a-mandoline.jpg"
-coverAlt: "How to Use a Mandoline Perfectly: A Complete Guide"
-description: "If you're feeling unsure about how to use a mandoline, don't worry, we've got you covered! A mandoline is a hand-operated food slicer that makes slicing vegetables and fruits a breeze, with interchangeable blades for different cuts."
-tags: ["how-to-use-a-mandoline", "mandoline", "safety-measures-for-mandoline"]
-category: "How To Guides"
-seo: "Wondering how to use a mandoline safely? This guide is beginner friendly and will ensure that you use your mandoline like a pro. Read on"
+title: 'How to Use a Mandoline Perfectly: A Complete Guide'
+slug: how-to-use-a-mandoline
+pubDate: 2020-05-31
+modDate: 2025-02-09
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/How-to-use-a-mandoline.jpg
+coverAlt: 'How to Use a Mandoline Perfectly: A Complete Guide'
+description: >-
+  If you're feeling unsure about how to use a mandoline, don't worry, we've got
+  you covered! A mandoline is a hand-operated food slicer that makes slicing
+  vegetables and fruits a breeze, with interchangeable blades for different
+  cuts.
+tags:
+  - how-to-use-a-mandoline
+  - mandoline
+  - safety-measures-for-mandoline
+category: How To Guides
+seo: >-
+  Wondering how to use a mandoline safely? This guide is beginner friendly and
+  will ensure that you use your mandoline like a pro. Read on
 ---
 
 How to use a [mandoline](https://en.wikipedia.org/wiki/Mandoline)? This is a common question that arises among kitchen enthusiasts. While they would want an easier way of slicing, they are kept out of mandoline due to safety misconceptions and overall beliefs that the tool is hard to use.

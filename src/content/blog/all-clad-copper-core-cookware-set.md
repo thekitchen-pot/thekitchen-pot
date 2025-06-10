@@ -1,19 +1,36 @@
 ---
-title: "All-Clad Copper Core Cookware Set - How Unique Is It?"
-slug: "all-clad-copper-core-cookware-set"
-pubDate: "2021-04-06"
-modDate: "2025-02-06"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/61NGo5lAE0L._AC_SX466_.jpg"
-coverAlt: "All-Clad Copper Core Cookware Set - How Unique Is It?"
-description: "The All-Clad Copper Core Cookware Set, though expensive, is heavy and durable, with pots and pans that will last a lifetime. The unique cladding construction technology ensures enhanced durability, heat distribution, and performance. Despite the weight and high"
-tags: ["abbio-cookware", "meat-mallet", "meat-tenderizer", "wall-mount-range-hoods"]
-category: "Cookware Equipment"
-seo: "All-Clad copper core cookware set is one of the most expensive cookware set you'll ever lay your hands on. Does its performance commensurate with price? Find out here"
+title: All-Clad Copper Core Cookware Set - How Unique Is It?
+slug: all-clad-copper-core-cookware-set
+pubDate: 2021-04-06
+modDate: 2025-02-06
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/61NGo5lAE0L._AC_SX466_.jpg
+coverAlt: All-Clad Copper Core Cookware Set - How Unique Is It?
+description: >-
+  The All-Clad Copper Core Cookware Set, though expensive, is heavy and durable,
+  with pots and pans that will last a lifetime. The unique cladding construction
+  technology ensures enhanced durability, heat distribution, and performance.
+  Despite the weight and high
+tags:
+  - abbio-cookware
+  - meat-mallet
+  - meat-tenderizer
+  - wall-mount-range-hoods
+category: Cookware Equipment
+seo: >-
+  All-Clad copper core cookware set is one of the most expensive cookware set
+  you'll ever lay your hands on. Does its performance commensurate with price?
+  Find out here
 ---
 
 ![All-Clad Copper Core Cookware Set ](images/portablegasgrill.jpg)

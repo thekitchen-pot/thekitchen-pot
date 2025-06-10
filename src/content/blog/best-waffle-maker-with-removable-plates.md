@@ -1,18 +1,30 @@
 ---
-title: "Best Waffle Maker with Removable Plates - With a Buyers Guide"
-slug: "best-waffle-maker-with-removable-plates"
-pubDate: "2020-06-06"
-modDate: "2025-02-12"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/best-waffle-maker-with-removable-plates.jpeg"
-coverAlt: "Best Waffle Maker with Removable Plates - With a Buyers Guide"
-description: "If you love the heavenly smell of freshly baked waffles, choosing the best waffle maker with removable plates can enhance your breakfast experience. This article provides a comprehensive list of the top waffle makers with removable plates, along with a helpful buyer's guide"
-tags: ["ceramic-vs-non-stick-waffle-maker", "waffle-maker"]
-category: "Bakeware"
+title: Best Waffle Maker with Removable Plates - With a Buyers Guide
+slug: best-waffle-maker-with-removable-plates
+pubDate: 2020-06-06
+modDate: 2025-02-12
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/best-waffle-maker-with-removable-plates.jpeg
+coverAlt: Best Waffle Maker with Removable Plates - With a Buyers Guide
+description: >-
+  If you love the heavenly smell of freshly baked waffles, choosing the best
+  waffle maker with removable plates can enhance your breakfast experience. This
+  article provides a comprehensive list of the top waffle makers with removable
+  plates, along with a helpful buyer's guide
+tags:
+  - ceramic-vs-non-stick-waffle-maker
+  - waffle-maker
+category: Bakeware
 ---
 
 Waking up to a fresh aroma of freshly baked [waffles](https://en.wikipedia.org/wiki/Waffle) is heavenly! If you’re a fan of waffles, getting the best waffle maker with removable plates will be the best buying decision you ever made!

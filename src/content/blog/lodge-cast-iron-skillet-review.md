@@ -1,19 +1,34 @@
 ---
-title: "Lodge Cast Iron Skillet Review - 6 Reasons Why It Is Popular"
-slug: "lodge-cast-iron-skillet-review"
-pubDate: "2021-01-21"
-modDate: "2025-01-28"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Lodge-cast.jpg"
-coverAlt: "Lodge Cast Iron Skillet Review - 6 Reasons Why It Is Popular"
-description: "Lodge cast iron is a popular cookware in the US. Let's find out the reasons behind the popularity."
-tags: ["best-air-fryers", "how-to-bake-cookies-on-convection-oven", "how-to-season-red-copper-pans", "how-to-season-stainless-steel-pans"]
-category: "Kitchenware"
-seo: "This lodge cast iron skillet review gives you honest details about the skillet. We tell you what we liked and what we didn't like about the Lodge skillet. Read on."
+title: Lodge Cast Iron Skillet Review - 6 Reasons Why It Is Popular
+slug: lodge-cast-iron-skillet-review
+pubDate: 2021-01-21
+modDate: 2025-01-28
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Lodge-cast.jpg
+coverAlt: Lodge Cast Iron Skillet Review - 6 Reasons Why It Is Popular
+description: >-
+  Lodge cast iron is a popular cookware in the US. Let's find out the reasons
+  behind the popularity.
+tags:
+  - best-air-fryers
+  - how-to-bake-cookies-on-convection-oven
+  - how-to-season-red-copper-pans
+  - how-to-season-stainless-steel-pans
+category: Kitchenware
+seo: >-
+  This lodge cast iron skillet review gives you honest details about the
+  skillet. We tell you what we liked and what we didn't like about the Lodge
+  skillet. Read on.
 ---
 
 It’s hard to ignore the popularity of the [**Lodge cast iron skillet**](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88?tag=kitchenpot-20). It has become a favorite for many cooking enthusiasts, and we bought one to test its efficacy. 

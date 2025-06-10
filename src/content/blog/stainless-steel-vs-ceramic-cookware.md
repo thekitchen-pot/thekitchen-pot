@@ -1,18 +1,31 @@
 ---
-title: "Stainless Steel vs Ceramic cookware: Which is Best For You?"
-slug: "stainless-steel-vs-ceramic-cookware"
-pubDate: "2020-05-27"
-modDate: "2025-02-06"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Ceramic-Cookware-Vs-Stainless-Steel-Cookware.jpg"
-coverAlt: "Stainless Steel vs Ceramic cookware: Which is Best For You?"
-description: "Choosing between stainless steel and ceramic cookware can be a daunting task for cooking enthusiasts. The market is flooded with various options, making it difficult to make a decision. However, we have provided a detailed comparison of the two types of cookware, highlighting"
-tags: ["ceramic-cookware", "ceramic-vs-stainless-steel-cookware", "stainless-cookware"]
-category: "Pans And Pots"
+title: 'Stainless Steel vs Ceramic cookware: Which is Best For You?'
+slug: stainless-steel-vs-ceramic-cookware
+pubDate: 2020-05-27
+modDate: 2025-02-06
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Ceramic-Cookware-Vs-Stainless-Steel-Cookware.jpg
+coverAlt: 'Stainless Steel vs Ceramic cookware: Which is Best For You?'
+description: >-
+  Choosing between stainless steel and ceramic cookware can be a daunting task
+  for cooking enthusiasts. The market is flooded with various options, making it
+  difficult to make a decision. However, we have provided a detailed comparison
+  of the two types of cookware, highlighting
+tags:
+  - ceramic-cookware
+  - ceramic-vs-stainless-steel-cookware
+  - stainless-cookware
+category: Pans And Pots
 ---
 
 Stainless steel vs ceramic cookware? This is a common stressor that faces cooking enthusiasts. And it’s quite tricky for many to get the difference between the two types of cookware.

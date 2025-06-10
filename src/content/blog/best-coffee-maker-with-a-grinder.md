@@ -1,18 +1,31 @@
 ---
-title: "Best Coffee Maker with a Grinder"
-slug: "best-coffee-maker-with-a-grinder"
-pubDate: "2020-04-08"
-modDate: "2025-02-21"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-Coffee-Makers-with-Grinders-Reviews-.jpg"
-coverAlt: "Best Coffee Maker with a Grinder"
-description: "Are you looking for the perfect way to start your day with a delicious cup of coffee? Consider investing in the best coffee maker with a grinder! This unique machine allows you to customize the concentration of your coffee to suit your taste preferences, ensuring you kick"
-tags: ["coffee-maker", "espresso", "with-a-grinder"]
-category: "Kitchenware"
+title: Best Coffee Maker with a Grinder
+slug: best-coffee-maker-with-a-grinder
+pubDate: 2020-04-08
+modDate: 2025-02-21
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-Coffee-Makers-with-Grinders-Reviews-.jpg
+coverAlt: Best Coffee Maker with a Grinder
+description: >-
+  Are you looking for the perfect way to start your day with a delicious cup of
+  coffee? Consider investing in the best coffee maker with a grinder! This
+  unique machine allows you to customize the concentration of your coffee to
+  suit your taste preferences, ensuring you kick
+tags:
+  - coffee-maker
+  - espresso
+  - with-a-grinder
+category: Kitchenware
 ---
 
 Are you aware that one of the best ways to brew your coffee in the morning is by using the best [coffee maker](https://en.wikipedia.org/wiki/Coffeemaker) with a grinder?

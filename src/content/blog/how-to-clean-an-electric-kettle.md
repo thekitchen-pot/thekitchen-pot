@@ -1,19 +1,34 @@
 ---
-title: "How to Clean an Electric Kettle - 4 Proven Techniques"
-slug: "how-to-clean-an-electric-kettle"
-pubDate: "2021-02-01"
-modDate: "2025-02-24"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/how-to-clean-an-electric-kettle.jpg"
-coverAlt: "How to Clean an Electric Kettle - 4 Proven Techniques"
-description: "If you've noticed brown residue in your electric kettle, don't worry, it's just limescale from boiling water. While limescale is harmless, it can affect your kettle's efficiency and appearance. Check out some practical tips on cleaning your"
-tags: ["how-to-clean-a-dishwasher", "how-to-clean-an-air-fryer"]
-category: "How To Guides"
-seo: "Wondering how to clean an electric kettle? There are 4 proven techniques that you can use to restore the shiny look in your kettle. This article offers a comprehensive guide."
+title: How to Clean an Electric Kettle - 4 Proven Techniques
+slug: how-to-clean-an-electric-kettle
+pubDate: 2021-02-01
+modDate: 2025-02-24
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/how-to-clean-an-electric-kettle.jpg
+coverAlt: How to Clean an Electric Kettle - 4 Proven Techniques
+description: >-
+  If you've noticed brown residue in your electric kettle, don't worry, it's
+  just limescale from boiling water. While limescale is harmless, it can affect
+  your kettle's efficiency and appearance. Check out some practical tips on
+  cleaning your
+tags:
+  - how-to-clean-a-dishwasher
+  - how-to-clean-an-air-fryer
+category: How To Guides
+seo: >-
+  Wondering how to clean an electric kettle? There are 4 proven techniques that
+  you can use to restore the shiny look in your kettle. This article offers a
+  comprehensive guide.
 ---
 
 Have you noticed a brown residue in your electric kettle, and you’re wondering how to get rid of it?

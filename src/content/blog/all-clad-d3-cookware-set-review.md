@@ -1,19 +1,36 @@
 ---
-title: "All-Clad D3 Cookware Set Review - Why You Should Own One"
-slug: "all-clad-d3-cookware-set-review"
-pubDate: "2021-04-08"
-modDate: "2025-02-10"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/61W4eHvksrL._AC_SL1500_.jpg"
-coverAlt: "All-Clad D3 Cookware Set Review - Why You Should Own One"
-description: "If you're looking for cookware that exudes sophistication, the All-Clad D3 set is a great choice. With its unique construction of aluminum and stainless steel, these pots and pans offer superb heat conductivity and durability. While they may have"
-tags: ["abbio-cookware", "all-clad-cookware-review", "all-clad-d3-vs-d5", "sardel-cookware"]
-category: "Pans And Pots"
-seo: "All-Clad D3 cookware set is a must-have for any serious cook. The cookware is durable and guarantee top-notch performance. However, it has several shortcomings as detailed below:"
+title: All-Clad D3 Cookware Set Review - Why You Should Own One
+slug: all-clad-d3-cookware-set-review
+pubDate: 2021-04-08
+modDate: 2025-02-10
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/61W4eHvksrL._AC_SL1500_.jpg
+coverAlt: All-Clad D3 Cookware Set Review - Why You Should Own One
+description: >-
+  If you're looking for cookware that exudes sophistication, the All-Clad D3 set
+  is a great choice. With its unique construction of aluminum and stainless
+  steel, these pots and pans offer superb heat conductivity and durability.
+  While they may have
+tags:
+  - abbio-cookware
+  - all-clad-cookware-review
+  - all-clad-d3-vs-d5
+  - sardel-cookware
+category: Pans And Pots
+seo: >-
+  All-Clad D3 cookware set is a must-have for any serious cook. The cookware is
+  durable and guarantee top-notch performance. However, it has several
+  shortcomings as detailed below:
 ---
 
 ![All-Clad D3 Cookware Set Review](images/portablegasgrill.jpg)

@@ -1,19 +1,35 @@
 ---
-title: "How to Use a Fondue Pot -3 Unique Recipes"
-slug: "how-to-use-a-fondue-pot"
-pubDate: "2021-01-26"
-modDate: "2025-01-26"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/how-to-use-a-fondue-pot.jpg"
-coverAlt: "How to Use a Fondue Pot -3 Unique Recipes"
-description: "A fondue pot is a versatile kitchen appliance with Swiss origins, perfect for communal serving of melted cheese blended with wine and seasoning. This article provides a comprehensive guide on how to use a fondue pot effectively for various recipes, along with recommendations for the"
-tags: ["air-fryer-basket", "best-air-fryers", "induction-cooking"]
-category: "How To Guides"
-seo: "Have you ever heard of a fondue pot? What is it? Here is how to use a fondue pot to make the best cheese, chocolate, and vegetable fondue for your guests! Read on"
+title: How to Use a Fondue Pot -3 Unique Recipes
+slug: how-to-use-a-fondue-pot
+pubDate: 2021-01-26
+modDate: 2025-01-26
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/how-to-use-a-fondue-pot.jpg
+coverAlt: How to Use a Fondue Pot -3 Unique Recipes
+description: >-
+  A fondue pot is a versatile kitchen appliance with Swiss origins, perfect for
+  communal serving of melted cheese blended with wine and seasoning. This
+  article provides a comprehensive guide on how to use a fondue pot effectively
+  for various recipes, along with recommendations for the
+tags:
+  - air-fryer-basket
+  - best-air-fryers
+  - induction-cooking
+category: How To Guides
+seo: >-
+  Have you ever heard of a fondue pot? What is it? Here is how to use a fondue
+  pot to make the best cheese, chocolate, and vegetable fondue for your guests!
+  Read on
 ---
 
 A fondue pot is one of the oldest kitchen appliances that just never loses its usefulness. This appliance will help you to unlock your A-game in matters serving desserts and appetizers.

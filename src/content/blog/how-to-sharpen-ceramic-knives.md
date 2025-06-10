@@ -1,19 +1,34 @@
 ---
-title: "How to Sharpen Ceramic Knives - A Comprehensive Guide"
-slug: "how-to-sharpen-ceramic-knives"
-pubDate: "2020-09-03"
-modDate: "2025-01-19"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/How-to-Sharpen-Ceramic-Knives-690x430-1.jpg"
-coverAlt: "How to Sharpen Ceramic Knives - A Comprehensive Guide"
-description: "Sharpening ceramic knives can be a challenging task due to their extreme hardness. This article provides tips on how to maintain and care for ceramic knives to reduce the frequency of sharpening. While ceramic knives have benefits like durability and staying sharp for longer,"
-tags: ["knife-set-under-100", "mandoline-slicers"]
-category: "How To Guides"
-seo: "How to sharpen ceramic knives? While ceramic knives are sharp and conducive when cutting and dicing, their sharpening process can be a hassle. Here is what you need to know about it."
+title: How to Sharpen Ceramic Knives - A Comprehensive Guide
+slug: how-to-sharpen-ceramic-knives
+pubDate: 2020-09-03
+modDate: 2025-01-19
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/How-to-Sharpen-Ceramic-Knives-690x430-1.jpg
+coverAlt: How to Sharpen Ceramic Knives - A Comprehensive Guide
+description: >-
+  Sharpening ceramic knives can be a challenging task due to their extreme
+  hardness. This article provides tips on how to maintain and care for ceramic
+  knives to reduce the frequency of sharpening. While ceramic knives have
+  benefits like durability and staying sharp for longer,
+tags:
+  - knife-set-under-100
+  - mandoline-slicers
+category: How To Guides
+seo: >-
+  How to sharpen ceramic knives? While ceramic knives are sharp and conducive
+  when cutting and dicing, their sharpening process can be a hassle. Here is
+  what you need to know about it.
 ---
 
 Using the best [ceramic knife](https://en.wikipedia.org/wiki/Ceramic_knife) is all fun until it is blunt. Unlike stainless steel knives, sharpening a ceramic knife is an art. 

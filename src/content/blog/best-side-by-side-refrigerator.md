@@ -1,19 +1,35 @@
 ---
-title: "9 Best Side By Side Refrigerator - Why You Should Own One"
-slug: "best-side-by-side-refrigerator"
-pubDate: "2020-07-05"
-modDate: "2025-02-09"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-Side-by-Side-Refrigerator.jpg"
-coverAlt: "9 Best Side By Side Refrigerator - Why You Should Own One"
-description: "When it comes to refrigerators, the best side by side refrigerator offers unique features like through-the-door ice dispensers and efficient storage options. These refrigerators save space by placing the freezer next to the fridge compartment, ensuring flexibility and convenience. If you"
-tags: ["best-mini-fridge-for-beer", "best-refrigerators", "best-side-by-side-refrigerator"]
-category: "Kitchenware"
-seo: "Are you shopping for the best side by side refrigerator? This article offers a comprehensive guide on what to consider when shopping and a list of top 9 refrigerators."
+title: 9 Best Side By Side Refrigerator - Why You Should Own One
+slug: best-side-by-side-refrigerator
+pubDate: 2020-07-05
+modDate: 2025-02-09
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-Side-by-Side-Refrigerator.jpg
+coverAlt: 9 Best Side By Side Refrigerator - Why You Should Own One
+description: >-
+  When it comes to refrigerators, the best side by side refrigerator offers
+  unique features like through-the-door ice dispensers and efficient storage
+  options. These refrigerators save space by placing the freezer next to the
+  fridge compartment, ensuring flexibility and convenience. If you
+tags:
+  - best-mini-fridge-for-beer
+  - best-refrigerators
+  - best-side-by-side-refrigerator
+category: Kitchenware
+seo: >-
+  Are you shopping for the best side by side refrigerator? This article offers a
+  comprehensive guide on what to consider when shopping and a list of top 9
+  refrigerators.
 ---
 
 When you mention a [refrigerator](https://en.wikipedia.org/wiki/Refrigerator), what first comes to your mind are the big names like the top freezers, French doors which show all the glory. But you shouldn’t ignore the best side by side refrigerator.

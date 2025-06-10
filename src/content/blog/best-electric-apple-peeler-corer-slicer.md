@@ -1,6 +1,7 @@
 ---
-excerpt: Save hours peeling, coring, and slicing apples with the best electric
-  apple peelers. See our top 10 picks and learn if they really work well.
+excerpt: >-
+  Save hours peeling, coring, and slicing apples with the best electric apple
+  peelers. See our top 10 picks and learn if they really work well.
 showTableOfContents: true
 authorId: kitchenpot1
 title: 10 Best Electric Apple Peeler Corer Slicer - Is it Effective?
@@ -8,7 +9,7 @@ source: Electric Peeler Corer Slicer
 slug: best-electric-apple-peeler-corer-slicer
 pubDate: 2020-06-23
 modDate: 2025-02-10
-image: /images/Apple-peelers.jpeg
+image: src/content/blog/images/Apple-peelers.jpeg
 category: Kitchenware
 author: Boniface Muriuki
 authorImage: /images/authors/chris-thompson.png
@@ -18,19 +19,21 @@ tags:
   - best-apple-peelers
   - knife-under-100
 authorImageAlt: kitchenpot1
-description: After a long day, the thought of peeling fruits for a refreshing
-  fruit salad can be daunting. That's why investing in the best electric apple
-  peeler corer slicer is a game-changer. This magic gadget will save you time
-  and effort
-seo: Are you looking for the best electric apple peeler corer slicer? Well, you
+description: >-
+  After a long day, the thought of peeling fruits for a refreshing fruit salad
+  can be daunting. That's why investing in the best electric apple peeler corer
+  slicer is a game-changer. This magic gadget will save you time and effort
+seo: >-
+  Are you looking for the best electric apple peeler corer slicer? Well, you
   should read this comprehensive guide before you go out for shopping. It offers
   crucial buying tips.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
 ---
 Having a bowl of fruit salad after a tiresome day is quite refreshing. However, the joy of enjoying this nutritious meal may fade away with every thought of the hectic fruits peeling exercise. To avoid such frustrations, you should invest in the best electric apple peeler corer slicer.
 

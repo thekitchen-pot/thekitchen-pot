@@ -1,18 +1,32 @@
 ---
-title: "9 Best Wok for Electric Stove"
-slug: "best-wok-for-electric-stove"
-pubDate: "2020-06-02"
-modDate: "2025-02-20"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/top-best-woks.jpg"
-coverAlt: "9 Best Wok for Electric Stove"
-description: "Did you know that a wok is a versatile piece of cookware that can help you prepare a variety of delicious dishes? Choosing the best wok for an electric stove can be a daunting task with so many options available in the market. To make"
-tags: ["best-wok", "flat-bottom-wok", "round-bottom-wok", "wok-for-electric-stove"]
-category: "Pans And Pots"
+title: 9 Best Wok for Electric Stove
+slug: best-wok-for-electric-stove
+pubDate: 2020-06-02
+modDate: 2025-02-20
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/top-best-woks.jpg
+coverAlt: 9 Best Wok for Electric Stove
+description: >-
+  Did you know that a wok is a versatile piece of cookware that can help you
+  prepare a variety of delicious dishes? Choosing the best wok for an electric
+  stove can be a daunting task with so many options available in the market. To
+  make
+tags:
+  - best-wok
+  - flat-bottom-wok
+  - round-bottom-wok
+  - wok-for-electric-stove
+category: Pans And Pots
 ---
 
 Did you know that a [wok](https://en.wikipedia.org/wiki/Wok) is one of the most versatile cookware you can ever acquire? Well, the best wok for electric stove helps you to prepare tasty stir fry, steam vegetables, char meat, among other outstanding functionalities. 

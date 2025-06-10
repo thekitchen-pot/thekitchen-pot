@@ -1,19 +1,35 @@
 ---
-title: "6 Best Panini Press for Home Use - A Comprehensive Guide"
-slug: "best-panini-press-for-home-use"
-pubDate: "2020-10-05"
-modDate: "2025-01-28"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-Panini-Press.jpg"
-coverAlt: "6 Best Panini Press for Home Use - A Comprehensive Guide"
-description: "Are you tired of boring, cold sandwiches? Say goodbye to uninspiring meals and start making delicious Paninis right in your own kitchen. If you're new to Panini presses, this guide will help you understand what to look for in the best one"
-tags: ["best-2-slice-toaster", "best-pizza-stones", "waffle-maker"]
-category: "Bakeware"
-seo: "Are you looking for the best panini press for home use? Sure enough, this appliance will revolutionize how you make your sandwiches! But only if you get the right one for you. Here's a comprehensive guide."
+title: 6 Best Panini Press for Home Use - A Comprehensive Guide
+slug: best-panini-press-for-home-use
+pubDate: 2020-10-05
+modDate: 2025-01-28
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-Panini-Press.jpg
+coverAlt: 6 Best Panini Press for Home Use - A Comprehensive Guide
+description: >-
+  Are you tired of boring, cold sandwiches? Say goodbye to uninspiring meals and
+  start making delicious Paninis right in your own kitchen. If you're new to
+  Panini presses, this guide will help you understand what to look for in the
+  best one
+tags:
+  - best-2-slice-toaster
+  - best-pizza-stones
+  - waffle-maker
+category: Bakeware
+seo: >-
+  Are you looking for the best panini press for home use? Sure enough, this
+  appliance will revolutionize how you make your sandwiches! But only if you get
+  the right one for you. Here's a comprehensive guide.
 ---
 
 Sick and tired of ready-made [Paninis](https://en.wikipedia.org/wiki/Panini_\(sandwich\))? Well, you can kiss those cold, uninviting sandwiches goodbye and start preparing tasty Paninis in the comfort of your kitchen.

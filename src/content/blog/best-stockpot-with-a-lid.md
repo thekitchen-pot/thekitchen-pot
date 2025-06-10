@@ -1,19 +1,35 @@
 ---
-title: "8 Best Stockpot with a Lid -Your Ultimate Buying Guide"
-slug: "best-stockpot-with-a-lid"
-pubDate: "2021-01-07"
-modDate: "2025-02-06"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-stockpot-with-a-lid.jpg"
-coverAlt: "8 Best Stockpot with a Lid -Your Ultimate Buying Guide"
-description: "This content might contain affiliate links. We use affiliate links to support our blog and keep it free for you. If you make a purchase using one of these links, we may receive a small commission at no extra cost to you. Thank you for your support!"
-tags: ["best-cookware-for-induction-cooktop", "season-stainless-steel-pans", "waterless-cookware"]
-category: "Kitchenware"
-seo: "Looking for the best stockpot with a lid? Well, there are a few factors that you should consider before you buy one. Here is an all-inclusive stockpot buying guide."
+title: 8 Best Stockpot with a Lid -Your Ultimate Buying Guide
+slug: best-stockpot-with-a-lid
+pubDate: 2021-01-07
+modDate: 2025-02-06
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-stockpot-with-a-lid.jpg
+coverAlt: 8 Best Stockpot with a Lid -Your Ultimate Buying Guide
+description: >-
+  This content might contain affiliate links. We use affiliate links to support
+  our blog and keep it free for you. If you make a purchase using one of these
+  links, we may receive a small commission at no extra cost to you. Thank you
+  for your support!
+tags:
+  - best-cookware-for-induction-cooktop
+  - season-stainless-steel-pans
+  - waterless-cookware
+category: Kitchenware
+seo: >-
+  Looking for the best stockpot with a lid? Well, there are a few factors that
+  you should consider before you buy one. Here is an all-inclusive stockpot
+  buying guide.
 ---
 
 If you’re looking for [versatile cookware](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy//), then it is time you invest in the best stockpot with a lid. 

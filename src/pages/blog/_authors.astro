@@ -1,0 +1,154 @@
+---
+
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { Icon } from 'astro-icon/components';
+import { Image } from 'astro:assets';
+
+
+// Utility function to generate consistent slugs
+function generateSlug(text: string): string {
+  return text
+    .toLowerCase()
+    .trim()
+    .replace(/[\s_]+/g, '-')     // Replace whitespace and underscores with hyphens
+    .replace(/[^\w\-]+/g, '')    // Remove all non-word chars except hyphens
+    .replace(/\-\-+/g, '-')      // Replace multiple hyphens with single hyphen
+    .replace(/^-+/, '')          // Trim hyphens from start
+    .replace(/-+$/, '');         // Trim hyphens from end
+}
+
+type Post = { data: { image: string; title: string; modDate:string; pubDate: string; excerpt: string; slug: string; category: string; id: string; } };
+const allPosts = await getCollection('blog');
+
+// Sort posts by modDate (newest first)
+const sortedPosts = allPosts.sort((a, b) => {
+  return new Date(b.data.modDate || '').getTime() - new Date(a.data.modDate || '').getTime();
+});
+
+// Get unique tags
+// Get unique categories
+const allCategories = [...new Set(sortedPosts.map(post => post.data.category || 'Uncategorized'))];
+
+// Group posts by tag
+// Group posts by category
+const postsByCategory: Record<string, Post[]> = allCategories.reduce((acc, category) => {
+  acc[category] = sortedPosts.filter(post => (post.data.category || 'Uncategorized') === category);
+  return acc;
+}, {} as Record<string, Post[]>);
+
+// Pagination
+const postsPerPage = 9;
+const currentPage = Number(Astro.url.searchParams.get('page') || 1);
+const totalPages = Math.ceil(sortedPosts.length / postsPerPage);
+const paginatedPosts = sortedPosts.slice((currentPage - 1) * postsPerPage, currentPage * postsPerPage);
+
+// Helper function to format date
+function formatDate(dateString: string | undefined) {
+  if (!dateString) return '';
+  return new Date(dateString).toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+}
+
+
+---
+
+<Layout title="Blog | Latest Articles from The Kitchen Pot Blog" description="Discover expert tips, innovative kitchen solutions, and space-saving techniques for small kitchens. Stay updated with our latest articles on compact cooking, organization hacks, and smart kitchen design." robots="index, follow">
+  <div class="container mx-auto px-4 py-8">
+    <h1 class="text-4xl font-bold mb-8 text-center">The Kitchen Pot Blog</h1>
+
+    <!-- Featured Post -->
+    {sortedPosts.length > 0 && (
+      <div class="mb-12">
+        <h2 class="text-2xl font-semibold mb-4">Featured Article</h2>
+        <div class="bg-white rounded-lg overflow-hidden shadow-lg">
+          <Image src={sortedPosts[0].data.image}
+          width={1200}
+          height={620}
+          sizes="(max-width: 768px) 100vw, 1200px" alt={sortedPosts[0].data.title} class="w-full h-64 object-cover" />
+          <div class="p-6">
+            <h3 class="text-2xl font-semibold mb-2">{sortedPosts[0].data.title}</h3>
+            <p class="text-teal-600 mb-4">{formatDate(sortedPosts[0].data.modDate)}</p>
+            <p class="mb-4">{sortedPosts[0].data.excerpt}</p>
+            <a href={`/blog/${sortedPosts[0].id}/`} class="inline-block bg-teal-600 text-black px-4 py-2 rounded-full hover:bg-teal-700 transition-colors">Read More</a>
+          </div>
+        </div>
+      </div>
+    )}
+
+    <!-- Tag-based Sections -->
+    {allCategories.map(category => (
+  <div class="mb-12">
+    <div class="flex justify-between items-center mb-4">
+      <h2 class="text-2xl font-semibold">{category}</h2>
+
+<a href={`/blog/category/${generateSlug(category)}/`} class="text-teal-600 hover:text-teal-800 transition-colors">
+  View All
+</a>
+    </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {postsByCategory[category].slice(0, 3).map(post => (
+        <article class="bg-white rounded-lg overflow-hidden shadow-lg transform transition-transform hover:scale-105">
+              <Image src={post.data.image}
+              width={1200} height={620} alt={post.data.title} class="w-full h-48 object-cover" />
+              <div class="p-6">
+                <h3 class="text-xl font-semibold mb-2">{post.data.title}</h3>
+                <p class="text-teal-600 mb-4">{formatDate(post.data.modDate)}</p>
+                <p class="mb-4 line-clamp-3">{post.data.excerpt}</p>
+                <a href={`/blog/${post.id}/`} class="inline-block bg-teal-600 text-white px-4 py-2 rounded-full hover:bg-teal-700 transition-colors">Read More</a>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    ))}
+
+    <!-- Latest Posts (Paginated) -->
+    <div class="mb-12">
+      <h2 class="text-2xl font-semibold mb-4">Latest Articles</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {paginatedPosts.map(post => (
+          <article class="bg-white rounded-lg overflow-hidden shadow-lg transform transition-transform hover:scale-105">
+            <Image src={post.data.image} width={1200} height={620} alt={post.data.title} class="w-full h-48 object-cover" />
+            <div class="p-6">
+              <h3 class="text-xl font-semibold mb-2">{post.data.title}</h3>
+              <p class="text-teal-600 mb-4">{formatDate(post.data.modDate)}</p>
+              <p class="mb-4 line-clamp-3">{post.data.excerpt}</p>
+              <a href={`/blog/${post.data.slug}/`} class="inline-block bg-teal-600 text-white px-4 py-2 rounded-full hover:bg-teal-700 transition-colors">Read More</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+
+    <!-- Pagination -->
+    {totalPages > 1 && (
+      <div class="flex justify-center items-center space-x-2">
+        {currentPage > 1 && (
+          <a href={`/blog?page=${currentPage - 1}/`} class="bg-teal-600 text-white px-4 py-2 rounded-full hover:bg-teal-700 transition-colors">
+            <Icon name="mdi:chevron-left" class="w-6 h-6" />
+            <span class="sr-only">Previous Page</span>
+          </a>
+        )}
+        {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => (
+          <a
+            href={`/blog?page=${page}/`}
+            class={`px-4 py-2 rounded-full transition-colors ${currentPage === page ? 'bg-teal-600 text-white' : 'bg-white text-teal-600 hover:bg-teal-100'}`}
+          >
+            {page}
+          </a>
+        ))}
+        {currentPage < totalPages && (
+          <a href={`/blog?page=${currentPage + 1}/`} class="bg-teal-600 text-white px-4 py-2 rounded-full hover:bg-teal-700 transition-colors">
+            <Icon name="mdi:chevron-right" class="w-6 h-6" />
+            <span class="sr-only">Next Page</span>
+          </a>
+        )}
+      </div>
+    )}
+  </div>
+</Layout>

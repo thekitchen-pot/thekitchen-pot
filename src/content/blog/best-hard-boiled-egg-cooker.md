@@ -1,18 +1,30 @@
 ---
-title: "Best Hard Boiled Egg Cooker and How it Works"
-slug: "best-hard-boiled-egg-cooker"
-pubDate: "2020-06-21"
-modDate: "2025-02-22"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-Egg-Cooker.jpg"
-coverAlt: "Best Hard Boiled Egg Cooker and How it Works"
-description: "Are you in search of the perfect hard boiled egg cooker? Look no further! This guide provides a comprehensive overview of the top 10 egg cookers available on the market. Each cooker is carefully reviewed based on capacity, material construction, flexibility, alarm"
-tags: ["best-egg-poacher", "egg-cooker"]
-category: "Cookware Equipment"
+title: Best Hard Boiled Egg Cooker and How it Works
+slug: best-hard-boiled-egg-cooker
+pubDate: 2020-06-21
+modDate: 2025-02-22
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-Egg-Cooker.jpg
+coverAlt: Best Hard Boiled Egg Cooker and How it Works
+description: >-
+  Are you in search of the perfect hard boiled egg cooker? Look no further! This
+  guide provides a comprehensive overview of the top 10 egg cookers available on
+  the market. Each cooker is carefully reviewed based on capacity, material
+  construction, flexibility, alarm
+tags:
+  - best-egg-poacher
+  - egg-cooker
+category: Cookware Equipment
 ---
 
 Are you wondering how to cook best hard boiled eggs? Well, the best hard boiled egg cooker is designed boil many eggs simultaneously!

@@ -1,18 +1,31 @@
 ---
-title: "What Is The Difference Between A Food Processor And A Blender?"
-slug: "what-is-the-difference-between-a-food-processor-and-a-blender"
-pubDate: "2020-06-02"
-modDate: "2025-02-01"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/blenders-vs-food-processors.jpg"
-coverAlt: "What Is The Difference Between A Food Processor And A Blender?"
-description: "Are you confused about the difference between a food processor and a blender? Don't worry, many cooking enthusiasts have had the same question. While they may seem similar, both appliances serve different functions. This article provides a detailed explanation of the distinctions between the"
-tags: ["blenders", "difference-between-food-processor-and-blenders", "food-processor"]
-category: "Blenders And Juicing Equipment"
+title: What Is The Difference Between A Food Processor And A Blender?
+slug: what-is-the-difference-between-a-food-processor-and-a-blender
+pubDate: 2020-06-02
+modDate: 2025-02-01
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/blenders-vs-food-processors.jpg
+coverAlt: What Is The Difference Between A Food Processor And A Blender?
+description: >-
+  Are you confused about the difference between a food processor and a blender?
+  Don't worry, many cooking enthusiasts have had the same question. While they
+  may seem similar, both appliances serve different functions. This article
+  provides a detailed explanation of the distinctions between the
+tags:
+  - blenders
+  - difference-between-food-processor-and-blenders
+  - food-processor
+category: Blenders And Juicing Equipment
 ---
 
 What is the difference between a food processor and a blender? If you’re a cooking enthusiast, this question must have crossed your mind several times, right?

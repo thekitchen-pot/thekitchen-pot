@@ -1,19 +1,35 @@
 ---
-title: "10 Best Mandoline Slicers - With a Comprehensive Buyers' Guide"
-slug: "best-mandoline-slicers"
-pubDate: "2020-06-27"
-modDate: "2025-02-11"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Mandoline-slicer.jpg"
-coverAlt: "10 Best Mandoline Slicers - With a Comprehensive Buyers' Guide"
-description: "If you're in search of the perfect mandoline slicer for uniform vegetable cuts, look no further! This tool not only saves time in the kitchen but also ensures sharp and efficient cutting - just remember to handle it with care. Choosing the right mand"
-tags: ["best-apple-peelers", "knife-sets-under-100", "mandoline-slicers"]
-category: "Kitchenware"
-seo: "Are you looking for an easy way to prepare your ingredients without cutting your skin? Well, you should get the best mandoline slicers. Here's a comprehensive guide."
+title: 10 Best Mandoline Slicers - With a Comprehensive Buyers' Guide
+slug: best-mandoline-slicers
+pubDate: 2020-06-27
+modDate: 2025-02-11
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Mandoline-slicer.jpg
+coverAlt: 10 Best Mandoline Slicers - With a Comprehensive Buyers' Guide
+description: >-
+  If you're in search of the perfect mandoline slicer for uniform vegetable
+  cuts, look no further! This tool not only saves time in the kitchen but also
+  ensures sharp and efficient cutting - just remember to handle it with care.
+  Choosing the right mand
+tags:
+  - best-apple-peelers
+  - knife-sets-under-100
+  - mandoline-slicers
+category: Kitchenware
+seo: >-
+  Are you looking for an easy way to prepare your ingredients without cutting
+  your skin? Well, you should get the best mandoline slicers. Here's a
+  comprehensive guide.
 ---
 
 If you want uniformly cut veggies, then the best mandoline slicer is your best bet. It reduces the time you take to prepare your spices.

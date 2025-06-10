@@ -1,19 +1,35 @@
 ---
-title: "9 Best Nespresso Pod Flavors and How to Use Them"
-slug: "best-nespresso-pod-flavors"
-pubDate: "2020-07-30"
-modDate: "2025-03-01"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-Nespresso-Capsules.jpg"
-coverAlt: "9 Best Nespresso Pod Flavors and How to Use Them"
-description: "Many people enjoy the process of making coffee at home, and for those with a busy schedule, the convenience of Nespresso pod flavors is a game-changer. These capsules offer a wide range of flavors, intensities, and convenience for a perfect cup"
-tags: ["best-coffee-makers", "best-espresso-machine", "nespresso-capsules"]
-category: "Kitchenware"
-seo: "The best nespresso pod flavors are designed to revolutionize your coffee brewing experiences. If you want to enjoy these differently flavored coffee pods, then this guide is for you!"
+title: 9 Best Nespresso Pod Flavors and How to Use Them
+slug: best-nespresso-pod-flavors
+pubDate: 2020-07-30
+modDate: 2025-03-01
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-Nespresso-Capsules.jpg
+coverAlt: 9 Best Nespresso Pod Flavors and How to Use Them
+description: >-
+  Many people enjoy the process of making coffee at home, and for those with a
+  busy schedule, the convenience of Nespresso pod flavors is a game-changer.
+  These capsules offer a wide range of flavors, intensities, and convenience for
+  a perfect cup
+tags:
+  - best-coffee-makers
+  - best-espresso-machine
+  - nespresso-capsules
+category: Kitchenware
+seo: >-
+  The best nespresso pod flavors are designed to revolutionize your coffee
+  brewing experiences. If you want to enjoy these differently flavored coffee
+  pods, then this guide is for you!
 ---
 
 Many people love coffee and are very fond of coffee making. But some like to make coffee off from scratch at the comfort of their homes. It’s more fun for them as they personalize to enjoy it even better.

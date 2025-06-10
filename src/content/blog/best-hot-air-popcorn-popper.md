@@ -1,18 +1,31 @@
 ---
-title: "8 Best Hot Air Popcorn Popper for the Money"
-slug: "best-hot-air-popcorn-popper"
-pubDate: "2020-06-07"
-modDate: "2025-02-17"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/popcorn.jpg"
-coverAlt: "8 Best Hot Air Popcorn Popper for the Money"
-description: "Are you looking for a healthier way to make popcorn? Consider purchasing the best hot air popcorn popper for a quick and easy snack. This machine uses air only, eliminating the need for oil or butter, resulting in a healthier snack with reduced consumption of"
-tags: ["best-popcorn-popper", "hot-air-popcorn-popper-vs-microwave-popcorn-popper", "popcorn-popper"]
-category: "Cookware Equipment"
+title: 8 Best Hot Air Popcorn Popper for the Money
+slug: best-hot-air-popcorn-popper
+pubDate: 2020-06-07
+modDate: 2025-02-17
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/popcorn.jpg
+coverAlt: 8 Best Hot Air Popcorn Popper for the Money
+description: >-
+  Are you looking for a healthier way to make popcorn? Consider purchasing the
+  best hot air popcorn popper for a quick and easy snack. This machine uses air
+  only, eliminating the need for oil or butter, resulting in a healthier snack
+  with reduced consumption of
+tags:
+  - best-popcorn-popper
+  - hot-air-popcorn-popper-vs-microwave-popcorn-popper
+  - popcorn-popper
+category: Cookware Equipment
 ---
 
 Do you want a healthy technique to make your popcorn? Well, buying the best hot air popcorn popper for the money is the first step towards this crucial journey.

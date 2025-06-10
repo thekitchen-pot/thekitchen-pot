@@ -1,19 +1,37 @@
 ---
-title: "12 Coolest Kitchen Appliances for the Money"
-slug: "coolest-kitchen-appliances-to-buy"
-pubDate: "2020-11-10"
-modDate: "2025-01-16"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/best-kitchen-gadgets..jpg"
-coverAlt: "12 Coolest Kitchen Appliances for the Money"
-description: "Did you know that Americans spend a significant amount of time in the kitchen, indicating the importance they attach to food preparation? Despite the busyness of people's schedules, the time spent in the kitchen has remained consistent, emphasizing its significance as a special"
-tags: ["espresso-maker", "iced-tea-maker", "instant-pot", "waffle-maker"]
-category: "Cookware Equipment"
-seo: "Are you looking for the coolest kitchen appliances to buy? This article offers a comprehensive guide on the best appliance on each category. It doesn't matter whether you need to equip your kitchen or buy your friend a gift, this is an all-inclusive guide."
+title: 12 Coolest Kitchen Appliances for the Money
+slug: coolest-kitchen-appliances-to-buy
+pubDate: 2020-11-10
+modDate: 2025-01-16
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/best-kitchen-gadgets..jpg
+coverAlt: 12 Coolest Kitchen Appliances for the Money
+description: >-
+  Did you know that Americans spend a significant amount of time in the kitchen,
+  indicating the importance they attach to food preparation? Despite the
+  busyness of people's schedules, the time spent in the kitchen has remained
+  consistent, emphasizing its significance as a special
+tags:
+  - espresso-maker
+  - iced-tea-maker
+  - instant-pot
+  - waffle-maker
+category: Cookware Equipment
+seo: >-
+  Are you looking for the coolest kitchen appliances to buy? This article offers
+  a comprehensive guide on the best appliance on each category. It doesn't
+  matter whether you need to equip your kitchen or buy your friend a gift, this
+  is an all-inclusive guide.
 ---
 
 Did you know that the average person spends approximately 30 minutes daily in the kitchen? A survey conducted by the [US Bureau of Labor Statistics](https://www.bls.gov/news.release/pdf/atus.pdf) shows that Americans spend more time cooking than in any other activity. 

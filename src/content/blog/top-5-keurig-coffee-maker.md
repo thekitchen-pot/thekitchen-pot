@@ -1,19 +1,35 @@
 ---
-title: "Top 5 Keurig Coffee Makers- Everything You Need to Know"
-slug: "top-5-keurig-coffee-maker"
-pubDate: "2020-06-20"
-modDate: "2025-02-07"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Keurig.jpg"
-coverAlt: "Top 5 Keurig Coffee Makers- Everything You Need to Know"
-description: "If you're looking for the perfect cup of coffee to start your day, investing in a Keurig coffee maker is the way to go. With adjustable features for your cup size and temperature preferences, this unique device ensures a delicious brew every time."
-tags: ["best-coffee-makers", "keurig-coffee-maker", "keurig-coffee-series"]
-category: "Beverages Equipment"
-seo: "If you want to enjoy an irresistible cup of coffee, you should invest in Keurig coffee maker. This unique device comes with amazing adjustable features. Read on for more."
+title: Top 5 Keurig Coffee Makers- Everything You Need to Know
+slug: top-5-keurig-coffee-maker
+pubDate: 2020-06-20
+modDate: 2025-02-07
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Keurig.jpg
+coverAlt: Top 5 Keurig Coffee Makers- Everything You Need to Know
+description: >-
+  If you're looking for the perfect cup of coffee to start your day, investing
+  in a Keurig coffee maker is the way to go. With adjustable features for your
+  cup size and temperature preferences, this unique device ensures a delicious
+  brew every time.
+tags:
+  - best-coffee-makers
+  - keurig-coffee-maker
+  - keurig-coffee-series
+category: Beverages Equipment
+seo: >-
+  If you want to enjoy an irresistible cup of coffee, you should invest in
+  Keurig coffee maker. This unique device comes with amazing adjustable
+  features. Read on for more.
 ---
 
 If you want to enjoy an irresistible cup of coffee, you should invest in [Keurig](https://en.wikipedia.org/wiki/Keurig) coffee maker. This unique device comes with amazing adjustable features to get your morning going.

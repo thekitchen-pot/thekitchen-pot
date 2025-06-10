@@ -1,19 +1,35 @@
 ---
-title: "360 Cookware Reviews - Is It Worth the Money?"
-slug: "360-cookware-review"
-pubDate: "2021-06-09"
-modDate: "2025-02-20"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Group_10_1512x.jpg"
-coverAlt: "360 Cookware Reviews - Is It Worth the Money?"
-description: "360 Cookware is hand-crafted in a Green E-Certified factory in West Bend, Wisconsin, specializing in heavy-duty cookware with vapor seal for waterless cooking. The cookware features ergonomic handles, is oven safe up to 500 degrees"
-tags: ["abbio-cookware", "all-clad-cookware-review", "xtrema-cookware"]
-category: "Pans And Pots"
-seo: "Ever heard of vapor cooking technology? This waterless cooking method is healthy, fast, and convenient. This 360 cookware review guides you on using 360 cookware for vapor cooking."
+title: 360 Cookware Reviews - Is It Worth the Money?
+slug: 360-cookware-review
+pubDate: 2021-06-09
+modDate: 2025-02-20
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Group_10_1512x.jpg
+coverAlt: 360 Cookware Reviews - Is It Worth the Money?
+description: >-
+  360 Cookware is hand-crafted in a Green E-Certified factory in West Bend,
+  Wisconsin, specializing in heavy-duty cookware with vapor seal for waterless
+  cooking. The cookware features ergonomic handles, is oven safe up to 500
+  degrees
+tags:
+  - abbio-cookware
+  - all-clad-cookware-review
+  - xtrema-cookware
+category: Pans And Pots
+seo: >-
+  Ever heard of vapor cooking technology? This waterless cooking method is
+  healthy, fast, and convenient. This 360 cookware review guides you on using
+  360 cookware for vapor cooking.
 ---
 
 360 pans and pots are hand-crafted with precision in a [Green E-Certified](https://www.green-e.org/) factory located in West Bend, Wisconsin. The company has specialized in the production of heavy-duty cookware with vapor seal to allow waterless cookware. 

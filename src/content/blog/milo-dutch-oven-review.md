@@ -1,19 +1,35 @@
 ---
-title: "Milo Dutch Oven Review -  Why It Is Worth Your Money"
-slug: "milo-dutch-oven-review"
-pubDate: "2021-03-27"
-modDate: "2025-01-16"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Milo-Dutch-Oven.jpg"
-coverAlt: "Milo Dutch Oven Review -  Why It Is Worth Your Money"
-description: "If you're looking for a high-quality Dutch oven that won't break the bank, the Milo Dutch Oven is the perfect choice. With its affordable price and top-notch performance, this cookware rivals even the expensive Le Creuset and Staub Dutch o"
-tags: ["abbio-cookware", "misen-cookware", "xtrema-cookware"]
-category: "Kitchenware"
-seo: "If you want to get the best searing and braising experience, you should buy Milo Dutch Oven. Unlike Le Creuset and Staub Dutch ovens, Milo is quite affordable. Read the Milo Dutch Oven review here"
+title: Milo Dutch Oven Review -  Why It Is Worth Your Money
+slug: milo-dutch-oven-review
+pubDate: 2021-03-27
+modDate: 2025-01-16
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Milo-Dutch-Oven.jpg
+coverAlt: Milo Dutch Oven Review -  Why It Is Worth Your Money
+description: >-
+  If you're looking for a high-quality Dutch oven that won't break the bank, the
+  Milo Dutch Oven is the perfect choice. With its affordable price and top-notch
+  performance, this cookware rivals even the expensive Le Creuset and Staub
+  Dutch o
+tags:
+  - abbio-cookware
+  - misen-cookware
+  - xtrema-cookware
+category: Kitchenware
+seo: >-
+  If you want to get the best searing and braising experience, you should buy
+  Milo Dutch Oven. Unlike Le Creuset and Staub Dutch ovens, Milo is quite
+  affordable. Read the Milo Dutch Oven review here
 ---
 
 ![Milo Dutch Oven Review](images/portablegasgrill.jpg)

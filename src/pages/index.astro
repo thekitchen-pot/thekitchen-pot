@@ -5,6 +5,8 @@ import FeaturedArticles from '@/components/FeaturedArticles.astro';
 import Newsletter from '@/components/Newsletter.astro';
 import WhyChooseUs from '@/components/WhyChooseUs.astro';
 import { Image } from 'astro:assets';
+import SpaceSavingCookware from "@/components/blog/SpaceSaving.astro";
+import AboutHero from '@/components/AboutHero.astro';
 
 
 import heroImage from "@/data/assets/images/multipurpose-kitchen-appliances.jpg"
@@ -15,16 +17,58 @@ import SizeComparator from '@/components/homepage/SizeComparator.astro';
 import StorageQuiz from '@/components/homepage/StorageQuiz.astro';
 import SpaceCalculator from '@/components/homepage/SpaceCalculator.astro';
 import SeasonalCarousel from '@/components/homepage/SeasonalCarousel.astro';
+import Bakeware from '@/components/blog/Bakeware.astro';
+import FeatureCategory from '@/components/blog/FeaturedCategory.astro';
 ---
 
-<Layout title="Modern Kitchens for Modern Families - The Kitchen Pot">
+<Layout
+  title="Modern Kitchens for Modern Families - The Kitchen Pot"
+  description='Welcome to The Kitchen Pot'
+>
+  <section class="w-full mx-auto min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50">
+    <div class="relative overflow-hidden">
+      <!-- Background decoration -->
+      <div class="absolute inset-0 bg-grid-slate-100 [mask-image:linear-gradient(0deg,transparent,black,transparent)] pointer-events-none"></div>
+      <SpaceSavingCookware />
+      <!-- Hero section with enhanced backdrop -->
+      <div class="relative z-10 backdrop-blur-[2px]">
+        
+        
+      </div>
+      <FeatureCategory />
 
-  <Hero />
-  <PainPoints />
-  <SeasonalCarousel />
-  <ProblemSolvers />
-  <TrustBuilder />
-  <WhyChooseUs />
-  <FeaturedArticles />
-  <Newsletter />
+      <!-- Pain points with floating effect -->
+      <div class="relative z-20 mt-[-4rem] transform-gpu">
+        <PainPoints />
+      </div>
+
+      <!-- Trust builder with glassmorphism 
+      <div class="relative z-10 mt-16 backdrop-blur-sm bg-white/30">
+        <TrustBuilder />
+      </div>
+      -->
+
+      <!-- Bakeware section with parallax scroll -->
+      <div class="relative z-20 mt-6 transform-gpu">
+        <div class="absolute inset-0 bg-gradient-to-r from-rose-100/20 to-teal-100/20 opacity-50 mix-blend-overlay"></div>
+        <Bakeware />
+      </div>
+
+      <!-- Why Choose Us with modern cards -->
+      <div class="relative z-10 mt-16 backdrop-blur-md bg-white/40">
+        <WhyChooseUs />
+      </div>
+
+      <!-- Featured Articles with hover effects -->
+      <div class="relative z-20 mt-24 transform-gpu">
+        <FeaturedArticles />
+      </div>
+
+      <!-- Newsletter with gradient animation -->
+      <div class="relative z-10 mt-16 overflow-hidden">
+        <div class="absolute inset-0 bg-gradient-to-r from-purple-100/30 via-pink-100/30 to-rose-100/30 animate-gradient-x"></div>
+        <Newsletter />
+      </div>
+    </div>
+  </section>
 </Layout>

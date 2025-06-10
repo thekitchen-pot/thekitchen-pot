@@ -1,19 +1,35 @@
 ---
-title: "8 Best Cookware for Induction Cooktop for the Money"
-slug: "best-cookware-for-induction-cooktop"
-pubDate: "2020-06-07"
-modDate: "2025-02-12"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/8-Best-Cookware-for-Induction-Cooktop.jpg"
-coverAlt: "8 Best Cookware for Induction Cooktop for the Money"
-description: "If you're feeling overwhelmed by the vast options of cookware for induction cooktop, don't worry! This article aims to guide you through what you need to know before making a purchase. The key is to look for cookware with sufficient iron atoms"
-tags: ["cookware-for-induction-cooktop", "instant-pot", "non-stick-pan"]
-category: "Kitchenware"
-seo: "While induction cooking has gained significant popularity, confusion on the best cookware for induction cooktop is rife! This article offers unique buying tips."
+title: 8 Best Cookware for Induction Cooktop for the Money
+slug: best-cookware-for-induction-cooktop
+pubDate: 2020-06-07
+modDate: 2025-02-12
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/8-Best-Cookware-for-Induction-Cooktop.jpg
+coverAlt: 8 Best Cookware for Induction Cooktop for the Money
+description: >-
+  If you're feeling overwhelmed by the vast options of cookware for induction
+  cooktop, don't worry! This article aims to guide you through what you need to
+  know before making a purchase. The key is to look for cookware with sufficient
+  iron atoms
+tags:
+  - cookware-for-induction-cooktop
+  - instant-pot
+  - non-stick-pan
+category: Kitchenware
+seo: >-
+  While induction cooking has gained significant popularity, confusion on the
+  best cookware for induction cooktop is rife! This article offers unique buying
+  tips.
 ---
 
 While [induction cooking](https://en.wikipedia.org/wiki/Induction_cooking) has gained significant popularity, confusion on the best cookware for induction cooktop is rife! This article will explain what you need to know before purchasing your ideal cookware for use with an induction cooktop.

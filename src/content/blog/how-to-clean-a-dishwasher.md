@@ -1,19 +1,35 @@
 ---
-title: "How to Clean a Dishwasher in 5 Easy Steps - A Definitive Guide"
-slug: "how-to-clean-a-dishwasher"
-pubDate: "2020-11-01"
-modDate: "2025-01-22"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/How-to-clean-a-dishwasher.jpg"
-coverAlt: "How to Clean a Dishwasher in 5 Easy Steps - A Definitive Guide"
-description: "It's important to keep your dishwasher clean to maintain its efficiency and prevent odors and stains from transferring to your dishes. Regular cleaning with simple ingredients like vinegar, baking soda, and rubbing alcohol can help keep your dishwasher sparkling and odor-free. Remember to"
-tags: ["air-fryer", "best-dishwasher", "how-to-clean-an-air-fryer"]
-category: "How To Guides"
-seo: "How to clean a dishwasher effectively is a necessary skill if you want to get the best out of your dishwasher. This definitive guide offers implementable tips on DIY cleaning of dishwashers. Read on."
+title: How to Clean a Dishwasher in 5 Easy Steps - A Definitive Guide
+slug: how-to-clean-a-dishwasher
+pubDate: 2020-11-01
+modDate: 2025-01-22
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/How-to-clean-a-dishwasher.jpg
+coverAlt: How to Clean a Dishwasher in 5 Easy Steps - A Definitive Guide
+description: >-
+  It's important to keep your dishwasher clean to maintain its efficiency and
+  prevent odors and stains from transferring to your dishes. Regular cleaning
+  with simple ingredients like vinegar, baking soda, and rubbing alcohol can
+  help keep your dishwasher sparkling and odor-free. Remember to
+tags:
+  - air-fryer
+  - best-dishwasher
+  - how-to-clean-an-air-fryer
+category: How To Guides
+seo: >-
+  How to clean a dishwasher effectively is a necessary skill if you want to get
+  the best out of your dishwasher. This definitive guide offers implementable
+  tips on DIY cleaning of dishwashers. Read on.
 ---
 
 How to clean a dishwasher? Well, It’s not strange to think that dishwashers should always be clean. After all, they are in constant water and detergents.

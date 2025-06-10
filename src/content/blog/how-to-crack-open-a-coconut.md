@@ -1,19 +1,35 @@
 ---
-title: "How to Crack Open a Coconut - 2 Most Effective Methods to Use"
-slug: "how-to-crack-open-a-coconut"
-pubDate: "2021-03-04"
-modDate: "2025-02-22"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/how-to-open-coconut-2647735.jpg"
-coverAlt: "How to Crack Open a Coconut - 2 Most Effective Methods to Use"
-description: "Coconuts offer numerous health benefits with their rich fatty acids, fiber, and nutrients. However, cracking them open can be a challenging task. This article provides detailed tips and methods to make the process easier and more enjoyable. By following the suggested steps"
-tags: ["best-vacuum-sealer-for-sous-vide", "how-to-use-a-vacuum-sealer", "over-the-range-microve"]
-category: "How To Guides"
-seo: "Wondering how to crack open a coconut? The exercise can be hectic, and can be risky if you don't know how to handle the coconut. Here's how you should open a coconut."
+title: How to Crack Open a Coconut - 2 Most Effective Methods to Use
+slug: how-to-crack-open-a-coconut
+pubDate: 2021-03-04
+modDate: 2025-02-22
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/how-to-open-coconut-2647735.jpg
+coverAlt: How to Crack Open a Coconut - 2 Most Effective Methods to Use
+description: >-
+  Coconuts offer numerous health benefits with their rich fatty acids, fiber,
+  and nutrients. However, cracking them open can be a challenging task. This
+  article provides detailed tips and methods to make the process easier and more
+  enjoyable. By following the suggested steps
+tags:
+  - best-vacuum-sealer-for-sous-vide
+  - how-to-use-a-vacuum-sealer
+  - over-the-range-microve
+category: How To Guides
+seo: >-
+  Wondering how to crack open a coconut? The exercise can be hectic, and can be
+  risky if you don't know how to handle the coconut. Here's how you should open
+  a coconut.
 ---
 
 ![How to Crack Open a Coconut](images/portablegasgrill.jpg)

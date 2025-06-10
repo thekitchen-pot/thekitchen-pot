@@ -1,19 +1,36 @@
 ---
-title: "How to Clean Hard Anodized Cookware - 3 Proven Techniques"
-slug: "how-to-clean-hard-anodized-cookware"
-pubDate: "2020-09-02"
-modDate: "2025-02-10"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/How-to-Clean-Hard-Anodized-Cookware.jpg"
-coverAlt: "How to Clean Hard Anodized Cookware - 3 Proven Techniques"
-description: "For cooking enthusiasts, hard anodized cookware is a true blessing, offering sturdy and highly effective pans that make cooking a joy. To ensure these pans last long, it's crucial to learn how to clean both the interior and exterior properly. This"
-tags: ["cleaning-an-air-fryer-basket", "cleaning-greasy-griddles", "cleaning-hard-anodized-cookware", "nonstick-pan"]
-category: "How To Guides"
-seo: "Are you wondering how to clean hard anodized cookware? This article offers a comprehensive guide on cleaning both the interior and exterior of the cookware. Read on for more."
+title: "How to Clean Hard Anodized Cookware\_- 3 Proven Techniques"
+slug: how-to-clean-hard-anodized-cookware
+pubDate: 2020-09-02
+modDate: 2025-02-10
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/How-to-Clean-Hard-Anodized-Cookware.jpg
+coverAlt: "How to Clean Hard Anodized Cookware\_- 3 Proven Techniques"
+description: >-
+  For cooking enthusiasts, hard anodized cookware is a true blessing, offering
+  sturdy and highly effective pans that make cooking a joy. To ensure these pans
+  last long, it's crucial to learn how to clean both the interior and exterior
+  properly. This
+tags:
+  - cleaning-an-air-fryer-basket
+  - cleaning-greasy-griddles
+  - cleaning-hard-anodized-cookware
+  - nonstick-pan
+category: How To Guides
+seo: >-
+  Are you wondering how to clean hard anodized cookware? This article offers a
+  comprehensive guide on cleaning both the interior and exterior of the
+  cookware. Read on for more.
 ---
 
 If you’ve used hard anodized cookware, you’ll opine that the introduction of the pans is a blessing to all cooking enthusiasts. 

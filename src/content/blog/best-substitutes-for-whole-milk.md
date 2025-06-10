@@ -1,19 +1,37 @@
 ---
-title: "10 Best Substitutes for Whole Milk (And How to Use Them)"
-slug: "best-substitutes-for-whole-milk"
-pubDate: "2021-02-05"
-modDate: "2025-02-10"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/milk-1.jpg"
-coverAlt: "10 Best Substitutes for Whole Milk (And How to Use Them)"
-description: "If you find yourself in a pinch without whole milk while baking or cooking, don't panic! There are several substitutes you can use without compromising the taste of your dish. From sour cream to half & half, there are options to suit your needs."
-tags: ["evaporated-milk", "non-dairy-whole-milk-substitute", "substitute-for-cornflour", "substitute-for-whole-milk", "vegan-milk-substitute"]
-category: "How To Guides"
-seo: "Looking for the best substitutes for whole milk? This article details both dairy and non-dairy options that you can consider. Read on for insightful tips."
+title: 10 Best Substitutes for Whole Milk (And How to Use Them)
+slug: best-substitutes-for-whole-milk
+pubDate: 2021-02-05
+modDate: 2025-02-10
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/milk-1.jpg
+coverAlt: 10 Best Substitutes for Whole Milk (And How to Use Them)
+description: >-
+  If you find yourself in a pinch without whole milk while baking or cooking,
+  don't panic! There are several substitutes you can use without compromising
+  the taste of your dish. From sour cream to half & half, there are options to
+  suit your needs.
+tags:
+  - evaporated-milk
+  - non-dairy-whole-milk-substitute
+  - substitute-for-cornflour
+  - substitute-for-whole-milk
+  - vegan-milk-substitute
+category: How To Guides
+seo: >-
+  Looking for the best substitutes for whole milk? This article details both
+  dairy and non-dairy options that you can consider. Read on for insightful
+  tips.
 ---
 
 Whole milk is an essential ingredient for baking and cooking. However, you shouldn’t freak out when you realize that you’ve run out of it in the middle of preparing a meal. You can always use substitutes for whole milk without compromising the taste of your meal. 

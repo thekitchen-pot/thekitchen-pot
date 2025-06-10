@@ -1,19 +1,36 @@
 ---
-title: "How Much Does a Chicken Breast Weigh"
-slug: "how-much-does-a-chicken-breast-weigh"
-pubDate: "2021-01-30"
-modDate: "2025-02-10"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/chicken-2.jpg"
-coverAlt: "How Much Does a Chicken Breast Weigh"
-description: "If you've ever wondered about the weight of a chicken breast, you're not alone. Knowing this information can help you regulate your calorie intake and make healthier choices when cooking. While the weight can vary, understanding the general range of weights for raw and"
-tags: ["how-long-should-a-chicken-last-in-a-fridge", "how-to-clean-an-air-fryer", "how-to-reheat-chicken-wings", "how-to-use-sous-vide"]
-category: "How To Guides"
-seo: "How much does a chicken breast weigh? This is a common worry for chefs and cooks. If you've found yourself in such a quagmire, then this article answers all your questions on weighing chicken breasts"
+title: How Much Does a Chicken Breast Weigh
+slug: how-much-does-a-chicken-breast-weigh
+pubDate: 2021-01-30
+modDate: 2025-02-10
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/chicken-2.jpg
+coverAlt: How Much Does a Chicken Breast Weigh
+description: >-
+  If you've ever wondered about the weight of a chicken breast, you're not
+  alone. Knowing this information can help you regulate your calorie intake and
+  make healthier choices when cooking. While the weight can vary, understanding
+  the general range of weights for raw and
+tags:
+  - how-long-should-a-chicken-last-in-a-fridge
+  - how-to-clean-an-air-fryer
+  - how-to-reheat-chicken-wings
+  - how-to-use-sous-vide
+category: How To Guides
+seo: >-
+  How much does a chicken breast weigh? This is a common worry for chefs and
+  cooks. If you've found yourself in such a quagmire, then this article answers
+  all your questions on weighing chicken breasts
 ---
 
 Knowing the weight of your chicken breast is an absolute necessity if you value serving even food rations. It helps you ensure that you’re taking the recommended chicken portions, thus facilitating healthy eating.

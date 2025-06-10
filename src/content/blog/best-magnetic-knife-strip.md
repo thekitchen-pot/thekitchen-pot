@@ -1,19 +1,35 @@
 ---
-title: "6 Best Magnetic Knife Strips - Honest Guide"
-slug: "best-magnetic-knife-strip"
-pubDate: "2021-05-12"
-modDate: "2025-02-23"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/81e4CsbJrfL._AC_SL1500_.jpg"
-coverAlt: "6 Best Magnetic Knife Strips - Honest Guide"
-description: "Working in a busy kitchen can be challenging, especially when dealing with blunt or dysfunctional knives. A magnetic knife strip can offer a solution by organizing your knives for easy accessibility and safety. Consider factors like size, material, design, ease of installation, and"
-tags: ["best-pots-and-pans-rack", "how-to-organize-pots-and-pans", "magnetic-knife-holders"]
-category: "Pans And Pots"
-seo: "Looking for the best magnetic knife strip? Well, having a safe place to store your knives is an absolute necessity. Here is what you should know before buying a holder."
+title: 6 Best Magnetic Knife Strips - Honest Guide
+slug: best-magnetic-knife-strip
+pubDate: 2021-05-12
+modDate: 2025-02-23
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/81e4CsbJrfL._AC_SL1500_.jpg
+coverAlt: 6 Best Magnetic Knife Strips - Honest Guide
+description: >-
+  Working in a busy kitchen can be challenging, especially when dealing with
+  blunt or dysfunctional knives. A magnetic knife strip can offer a solution by
+  organizing your knives for easy accessibility and safety. Consider factors
+  like size, material, design, ease of installation, and
+tags:
+  - best-pots-and-pans-rack
+  - how-to-organize-pots-and-pans
+  - magnetic-knife-holders
+category: Pans And Pots
+seo: >-
+  Looking for the best magnetic knife strip? Well, having a safe place to store
+  your knives is an absolute necessity. Here is what you should know before
+  buying a holder.
 ---
 
 Having worked in a busy kitchen preparing diverse meals, I will tell you that there is nothing as frustrating as having a blunt or dysfunctional knife. It is draining. It becomes even worse when there are many disorganized knives and you cannot spot that specific one that you need. 

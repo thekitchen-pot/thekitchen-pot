@@ -1,19 +1,37 @@
 ---
-title: "All-Clad D3 vs D5: Which is Better?"
-slug: "all-clad-d3-vs-d5"
-pubDate: "2021-03-16"
-modDate: "2025-02-26"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/all-clad-d3-vs-d5-vs-d7.png"
-coverAlt: "All-Clad D3 vs D5: Which is Better?"
-description: "If you're considering investing in an All-Clad cookware set, you'll likely come across the dilemma of choosing between All-Clad D3 or D5. While both offer exceptional quality, the differences lie in their construction and performance."
-tags: ["best-saute-pans", "blue-diamond-cookware", "ceramic-vs-stainless-steel-cookware", "circulon-cookware", "cuisinart-cookware-reviews"]
-category: "Kitchenware"
-seo: "All-Clad D3 vs D5? Which of the two cookware should you buy? Both variations offer top-notch performance. However, there are a few differences between the two sets that will influence your buying. Here they are."
+title: 'All-Clad D3 vs D5: Which is Better?'
+slug: all-clad-d3-vs-d5
+pubDate: 2021-03-16
+modDate: 2025-02-26
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/all-clad-d3-vs-d5-vs-d7.png
+coverAlt: 'All-Clad D3 vs D5: Which is Better?'
+description: >-
+  If you're considering investing in an All-Clad cookware set, you'll likely
+  come across the dilemma of choosing between All-Clad D3 or D5. While both
+  offer exceptional quality, the differences lie in their construction and
+  performance.
+tags:
+  - best-saute-pans
+  - blue-diamond-cookware
+  - ceramic-vs-stainless-steel-cookware
+  - circulon-cookware
+  - cuisinart-cookware-reviews
+category: Kitchenware
+seo: >-
+  All-Clad D3 vs D5? Which of the two cookware should you buy? Both variations
+  offer top-notch performance. However, there are a few differences between the
+  two sets that will influence your buying. Here they are.
 ---
 
 Owning an All-Clad cookware set is the ultimate desire of every cooking enthusiast. The pans and pots are crafted using [multi-ply technology](https://blog.metrokitchen.com/guides/tri-ply-clad-cookware-differences/) that ensures **superb heat conductivity, uniform heat distribution, and an overall ergonomic design.**

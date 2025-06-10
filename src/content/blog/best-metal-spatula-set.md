@@ -1,19 +1,36 @@
 ---
-title: "6 Best Metal Spatula Sets - Which One is Right for You?"
-slug: "best-metal-spatula-set"
-pubDate: "2020-09-01"
-modDate: "2025-02-13"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-Metal-Spatula-for-Your-Kitchen.jpg"
-coverAlt: "6 Best Metal Spatula Sets - Which One is Right for You?"
-description: "Spatulas may seem simple, but they are essential tools in any kitchen. They offer a variety of functions, from flipping food to spreading frosting, making cooking more enjoyable and efficient. When choosing a metal spatula set, consider factors like material,"
-tags: ["air-fryer", "metal-spatula", "silicone-spatula", "skillet"]
-category: "Cookware Equipment"
-seo: "If you're looking for the best metal spatula set, then this guide is for you. We evaluate the leading brands in the market and access their advantages and disadvantages for your consideration. Read on"
+title: 6 Best Metal Spatula Sets - Which One is Right for You?
+slug: best-metal-spatula-set
+pubDate: 2020-09-01
+modDate: 2025-02-13
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-Metal-Spatula-for-Your-Kitchen.jpg
+coverAlt: 6 Best Metal Spatula Sets - Which One is Right for You?
+description: >-
+  Spatulas may seem simple, but they are essential tools in any kitchen. They
+  offer a variety of functions, from flipping food to spreading frosting, making
+  cooking more enjoyable and efficient. When choosing a metal spatula set,
+  consider factors like material,
+tags:
+  - air-fryer
+  - metal-spatula
+  - silicone-spatula
+  - skillet
+category: Cookware Equipment
+seo: >-
+  If you're looking for the best metal spatula set, then this guide is for you.
+  We evaluate the leading brands in the market and access their advantages and
+  disadvantages for your consideration. Read on
 ---
 
 You may overlook it, but amazingly, a spatula is one of the most important and regularly used tools in most kitchens. 

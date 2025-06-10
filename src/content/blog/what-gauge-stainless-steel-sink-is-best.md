@@ -1,19 +1,33 @@
 ---
-title: "What Gauge Stainless Steel Sink Is Best? 16 vs 18 Inches Complete Guide"
-slug: "what-gauge-stainless-steel-sink-is-best"
-pubDate: "2020-05-12"
-modDate: "2025-01-27"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-gauge.jpg"
-coverAlt: "What Gauge Stainless Steel Sink Is Best? 16 vs 18 Inches Complete Guide"
-description: "Stainless steel sinks are a popular choice for many kitchens, with 16-inch and 18-inch sizes being most common. In this guide, we compare the two sizes to help you decide what's best for your kitchen and provide tips on caring for"
-tags: ["best-gauge-steel", "kitchen-sinks", "stainless-steel-sinks"]
-category: "How To Guides"
-seo: "What gauge stainless steel sink is best for you? What should you look out for when shopping for one? This guide answers all your questions comprehensively."
+title: What Gauge Stainless Steel Sink Is Best? 16 vs 18 Inches Complete Guide
+slug: what-gauge-stainless-steel-sink-is-best
+pubDate: 2020-05-12
+modDate: 2025-01-27
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-gauge.jpg
+coverAlt: What Gauge Stainless Steel Sink Is Best? 16 vs 18 Inches Complete Guide
+description: >-
+  Stainless steel sinks are a popular choice for many kitchens, with 16-inch and
+  18-inch sizes being most common. In this guide, we compare the two sizes to
+  help you decide what's best for your kitchen and provide tips on caring for
+tags:
+  - best-gauge-steel
+  - kitchen-sinks
+  - stainless-steel-sinks
+category: How To Guides
+seo: >-
+  What gauge stainless steel sink is best for you? What should you look out for
+  when shopping for one? This guide answers all your questions comprehensively.
 ---
 
 **[Stainless steel sinks](https://www.amazon.com/s?k=STAINLESS+STEEL+KITCHEN+SINK&crid=1432F670567VJ&sprefix=stainless+steel+kitchen+sink%2Caps%2C415&?tag=kitchenpot-20)** are a popular choice for many kitchens. They come in different sizes, and the two most common sizes are 16 inches and 18 inches. So, what stainless steel sink is best for you?

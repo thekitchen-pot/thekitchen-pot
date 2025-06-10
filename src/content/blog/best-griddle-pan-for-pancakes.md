@@ -1,19 +1,35 @@
 ---
-title: "10 Best Griddle Pan for Pancakes for the Money"
-slug: "best-griddle-pan-for-pancakes"
-pubDate: "2020-06-21"
-modDate: "2025-02-13"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Best-Pancake-Griddle.jpg"
-coverAlt: "10 Best Griddle Pan for Pancakes for the Money"
-description: "Are you looking for the perfect griddle pan to make delicious pancakes? This article discusses the benefits of different materials like copper, cast iron, cast aluminum, and stainless steel. It also highlights factors to consider, such as the size, surface type,"
-tags: ["best-non-stick-pans", "griddle-pan", "griddle-pans-for-pancakes"]
-category: "Pans And Pots"
-seo: "Are you looking for the best griddle pan for pancakes? This article offers all the guidelines that you need to purchase that which will serve you the best. Read on to learn more."
+title: 10 Best Griddle Pan for Pancakes for the Money
+slug: best-griddle-pan-for-pancakes
+pubDate: 2020-06-21
+modDate: 2025-02-13
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Best-Pancake-Griddle.jpg
+coverAlt: 10 Best Griddle Pan for Pancakes for the Money
+description: >-
+  Are you looking for the perfect griddle pan to make delicious pancakes? This
+  article discusses the benefits of different materials like copper, cast iron,
+  cast aluminum, and stainless steel. It also highlights factors to consider,
+  such as the size, surface type,
+tags:
+  - best-non-stick-pans
+  - griddle-pan
+  - griddle-pans-for-pancakes
+category: Pans And Pots
+seo: >-
+  Are you looking for the best griddle pan for pancakes? This article offers all
+  the guidelines that you need to purchase that which will serve you the best.
+  Read on to learn more.
 ---
 
 Did you know that pancakes contain [500 fewer calories](https://www.foxnews.com/health/pancakes-vs-french-toast-which-is-healthier) than a plate of French toast? Well, this option provides a healthier yet tasty breakfast alternative. To ensure that you get the best out of it, you should invest in the best griddle pan for pancakes.

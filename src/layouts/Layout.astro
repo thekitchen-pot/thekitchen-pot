@@ -5,6 +5,7 @@ import '@fontsource-variable/montserrat';
 import '@fontsource/bebas-neue';
 import "@fontsource/open-sans";
 import '@/styles/globals.css';
+import { siteConfig } from '@/data/site';
 
 interface Props {
     title: string;
@@ -23,7 +24,7 @@ const {
 
 // Base URL for canonical links and OG images
 // Base URL for canonical links and OG images
-const baseUrl = "https://thekitchenpot.com";
+const baseUrl = import.meta.env.SITE;
 const canonicalURL = new URL(Astro.url.pathname, baseUrl).href;
 const socialImageURL = new URL(image, baseUrl).href;
 
@@ -31,6 +32,7 @@ const socialImageURL = new URL(image, baseUrl).href;
 const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "Organization",
+    '@id': `${siteConfig.url}/#organization`,
     name: "The Kitchen Pot",
     url: baseUrl,
     logo: `${baseUrl}/logo.png`,
@@ -61,6 +63,7 @@ const organizationSchema = {
     <link rel="canonical" href={canonicalURL} />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <link rel="alternate" type="application/atom+xml" title={title} href="/rss.xml" />
+    <link rel="stylesheet" href="/fonts/fonts.css" />
 
     <!-- SEO and Social Media Meta Tags -->
     <meta name="robots" content="index, follow" />
@@ -76,6 +79,14 @@ const organizationSchema = {
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
 
+    <link
+            rel="preload"
+            href="/fonts/inter-v19-latin-regular.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin
+        />
+
 
 
     <!-- Schema.org Markup -->
@@ -84,7 +95,9 @@ const organizationSchema = {
         set:html={JSON.stringify(organizationSchema)}
     />
 </head>
-<body class="antialiased">
+
+<body class="w-full font-sans antialiased">
+    <!-- <NewNav /> -->
     <Header />
     <main>
       <slot />

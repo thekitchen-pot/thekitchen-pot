@@ -1,19 +1,34 @@
 ---
-title: "7 Best Propane Smoker - With a Comprehensive Buying Guide"
-slug: "best-propane-smoker"
-pubDate: "2020-07-24"
-modDate: "2025-01-22"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/BEST-PROPANE-SMOKERS.png"
-coverAlt: "7 Best Propane Smoker - With a Comprehensive Buying Guide"
-description: "If you're looking for a convenient way to cook with a delicious smoky flavor, investing in the best propane smoker is the way to go. With options that slash down on time-consuming aspects of smoking, you can enjoy tasty food without worries of poorly"
-tags: ["gas-and-charcoal-grills-combo", "gas-grills-under-500", "propane-grills"]
-category: "Kitchenware"
-seo: "Do you love smoked meat? Well, you should get the best propane smoker to spice up your meals. Here's a comprehensive guide on what to consider when buying."
+title: 7 Best Propane Smoker - With a Comprehensive Buying Guide
+slug: best-propane-smoker
+pubDate: 2020-07-24
+modDate: 2025-01-22
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/BEST-PROPANE-SMOKERS.png
+coverAlt: 7 Best Propane Smoker - With a Comprehensive Buying Guide
+description: >-
+  If you're looking for a convenient way to cook with a delicious smoky flavor,
+  investing in the best propane smoker is the way to go. With options that slash
+  down on time-consuming aspects of smoking, you can enjoy tasty food without
+  worries of poorly
+tags:
+  - gas-and-charcoal-grills-combo
+  - gas-grills-under-500
+  - propane-grills
+category: Kitchenware
+seo: >-
+  Do you love smoked meat? Well, you should get the best propane smoker to spice
+  up your meals. Here's a comprehensive guide on what to consider when buying.
 ---
 
 Smoking is a great way to cook your meat, but the process of getting everything ready and starting your smoker can be quite time-consuming.

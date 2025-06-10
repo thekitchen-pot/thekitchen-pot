@@ -1,19 +1,36 @@
 ---
-title: "How to Use a Bamboo Steamer"
-slug: "how-to-use-a-bamboo-steamer"
-pubDate: "2021-01-27"
-modDate: "2025-01-31"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/How-to-use-a-bamboo-steamer-2.jpg"
-coverAlt: "How to Use a Bamboo Steamer"
-description: "Steaming is a wonderful way to cook your meals, preserving their natural flavors without the need for added fats or preservatives. Consider adding a bamboo steamer to your kitchen for a healthier cooking option, allowing you to effortlessly steam your favorite dishes. The"
-tags: ["double-boiler", "how-to-use-electric-smoker", "how-to-use-sous-vide", "how-to-use-tortilla-press"]
-category: "How To Guides"
-seo: "Bamboo steamer is one of the healthiest cooking options. This article details how to use a bamboo steamer to cook vegetables, fish, dumplings, and other meals. Read on"
+title: How to Use a Bamboo Steamer
+slug: how-to-use-a-bamboo-steamer
+pubDate: 2021-01-27
+modDate: 2025-01-31
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/How-to-use-a-bamboo-steamer-2.jpg
+coverAlt: How to Use a Bamboo Steamer
+description: >-
+  Steaming is a wonderful way to cook your meals, preserving their natural
+  flavors without the need for added fats or preservatives. Consider adding a
+  bamboo steamer to your kitchen for a healthier cooking option, allowing you to
+  effortlessly steam your favorite dishes. The
+tags:
+  - double-boiler
+  - how-to-use-electric-smoker
+  - how-to-use-sous-vide
+  - how-to-use-tortilla-press
+category: How To Guides
+seo: >-
+  Bamboo steamer is one of the healthiest cooking options. This article details
+  how to use a bamboo steamer to cook vegetables, fish, dumplings, and other
+  meals. Read on
 ---
 
 Steaming is a healthier and faster method of preparing your meals. It requires no added fat or preservatives but allows the food to cook in its natural flavor.

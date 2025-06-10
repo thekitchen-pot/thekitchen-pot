@@ -1,19 +1,37 @@
 ---
-title: "Is Ceramic-Titanium Cookware Safe? Everything You Need to Know"
-slug: "is-ceramic-titanium-cookware-safe"
-pubDate: "2021-02-01"
-modDate: "2025-02-13"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/ceramic-titanium-safety-scaled.jpg"
-coverAlt: "Is Ceramic-Titanium Cookware Safe? Everything You Need to Know"
-description: "In this comprehensive guide on ceramic-titanium cookware, you'll find answers to your safety concerns, features, and cleaning tips. The article explains that ceramic-titanium cookware is safe for daily use, with titanium being lightweight, durable,"
-tags: ["best-ceramic-cookware", "ceramic-cookware", "ceramic-vs-non-stick-waffle-maker", "ceramic-vs-stainless-steel-cookware", "how-to-sharpen-ceramic-knives"]
-category: "How To Guides"
-seo: "Is ceramic-titanium cookware safe? While the cookware has become a must-have for many homeowners, its security profile has been questionable. This article separates the facts from fiction regarding the cookware."
+title: Is Ceramic-Titanium Cookware Safe? Everything You Need to Know
+slug: is-ceramic-titanium-cookware-safe
+pubDate: 2021-02-01
+modDate: 2025-02-13
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/ceramic-titanium-safety-scaled.jpg
+coverAlt: Is Ceramic-Titanium Cookware Safe? Everything You Need to Know
+description: >-
+  In this comprehensive guide on ceramic-titanium cookware, you'll find answers
+  to your safety concerns, features, and cleaning tips. The article explains
+  that ceramic-titanium cookware is safe for daily use, with titanium being
+  lightweight, durable,
+tags:
+  - best-ceramic-cookware
+  - ceramic-cookware
+  - ceramic-vs-non-stick-waffle-maker
+  - ceramic-vs-stainless-steel-cookware
+  - how-to-sharpen-ceramic-knives
+category: How To Guides
+seo: >-
+  Is ceramic-titanium cookware safe? While the cookware has become a must-have
+  for many homeowners, its security profile has been questionable. This article
+  separates the facts from fiction regarding the cookware.
 ---
 
 The rise in popularity of ceramic titanium cookware has stirred debate on their safety. Since you’re likely to use these cookware daily, you must understand their safety profile conclusively.

@@ -1,18 +1,30 @@
 ---
-title: "8 Best Meat Slicer for Home Use"
-slug: "best-meat-slicer-for-home-use"
-pubDate: "2020-05-31"
-modDate: "2025-02-16"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/Meat-slicers.jpg"
-coverAlt: "8 Best Meat Slicer for Home Use"
-description: "If you're looking to streamline your cooking experience, investing in the best meat slicer for home use is a game-changer. Not only does it save you time and energy, but it also ensures the quality of your meals remains top-notch. With"
-tags: ["best-meat-slicer", "commercial-meat-slicer", "meat-slicer"]
-category: "Cookware Equipment"
+title: 8 Best Meat Slicer for Home Use
+slug: best-meat-slicer-for-home-use
+pubDate: 2020-05-31
+modDate: 2025-02-16
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/Meat-slicers.jpg
+coverAlt: 8 Best Meat Slicer for Home Use
+description: >-
+  If you're looking to streamline your cooking experience, investing in the best
+  meat slicer for home use is a game-changer. Not only does it save you time and
+  energy, but it also ensures the quality of your meals remains top-notch. With
+tags:
+  - best-meat-slicer
+  - commercial-meat-slicer
+  - meat-slicer
+category: Cookware Equipment
 ---
 
 If you want to have a hassle-free cooking exercise, you must have the best [meat slicer](https://en.wikipedia.org/wiki/Meat_slicer) for home use. It helps you to save time and energy without compromising the quality of your meals.

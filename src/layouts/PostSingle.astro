@@ -1,9 +1,11 @@
 ---
 import Layout from './Layout.astro';
+import { siteConfig } from '@/data/site';
 import { Icon } from 'astro-icon/components';
-import { Image } from 'astro:assets';
+import { Image, Picture } from 'astro:assets';
 import type { ImageMetadata } from 'astro';
 import Breadcrumbs from '../components/ui/Breadcrumbs.astro';
+import { slugify } from '@/utils/slugify';
 // import { Image } from 'astro:assets';
 // import ShareButtons from '../components/ShareButtons.astro';
 import AuthorBio from '../components/AuthorBio.astro';
@@ -68,14 +70,17 @@ const currentDateInfo = getCurrentFormattedDate();
 const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
+    "@id": `${Astro.request.url}#article`,
+    "url": Astro.request.url,
     headline: frontmatter.title,
     description: frontmatter.description,
-    image: frontmatter.image,
+    image: frontmatter.image.src,
     datePublished: frontmatter.pubDate,
     dateModified: currentDateInfo.dateTimeValue, // Use datetimevalue for dateModified
     author: {
         "@type": "Person",
-        name: authorPost.author?.name,
+        '@id': `${siteConfig.url}${siteConfig.baseAuthorSlug}${slugify(frontmatter.author)}/#author`,
+        name: frontmatter.author,
         jobTitle: authorPost.author?.jobTitle,
         description: authorPost.author?.bio,
         url: authorPost.author?.url,
@@ -83,7 +88,8 @@ const articleSchema = {
     },
     publisher: {
         "@type": "Organization",
-        name: "MTBNZ",
+        name: siteConfig.name,
+        '@id': `${siteConfig.url}/#organization`,
         logo: {
             "@type": "ImageObject",
             url: "https://thekitchenpot.com/logo.png",
@@ -92,6 +98,10 @@ const articleSchema = {
     mainEntityOfPage: {
         "@type": "WebPage",
         "@id": Astro.url.href,
+        breadcrumb: {
+          "@type": 'BreadcrumbList',
+          '@id': `${Astro.request.url}#rich-snippet`
+        }
     },
 };
 
@@ -139,20 +149,18 @@ const monthYear = new Date().toLocaleDateString('en-US', {
       )}
     </header>
 
-    {frontmatter.image && (
-      <Image
-        src={`/../..${frontmatter.image}`}
-        alt={frontmatter.title}
-        width={768}
-        height={520}
-        format='webp'
-
-
-decoding="sync"
-
-        class="w-full h-auto  object-cover rounded-lg mb-8 shadow-lg"
-      />
-    )}
+{frontmatter.image && (
+  <Picture
+    src={frontmatter.image}
+    alt={frontmatter.title}
+    width={568}
+    height={220}
+    
+    format="webp"
+    decoding="sync"
+    class=" object-cover rounded-lg mb-8 shadow-lg"
+  />
+)}
 
     <div class="blog-content">
       <slot />

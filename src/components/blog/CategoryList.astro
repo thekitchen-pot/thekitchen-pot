@@ -1,0 +1,25 @@
+---
+interface Props {
+  categories: string[];
+  currentCategory?: string;
+}
+
+const { categories, currentCategory } = Astro.props;
+---
+
+<ul class="space-y-2">
+  {categories.map((category) => (
+    <li>
+      <a
+        href={`/blog/category/${category.toLowerCase()}/`}
+        class={`block px-3 py-2 rounded-md transition-colors ${
+          currentCategory === category
+            ? 'bg-blue-500 text-white'
+            : 'text-gray-700 hover:bg-gray-100'
+        }`}
+      >
+        {category}
+      </a>
+    </li>
+  ))}
+</ul>

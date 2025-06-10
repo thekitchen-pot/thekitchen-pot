@@ -61,12 +61,17 @@ export default {
         sm: "calc(var(--radius) - 4px)",
       },
       fontFamily: {
-        sans: ["Open Sans", "sans-serif"],
-        display: ["Bebas Neue", "sans-serif"],
+        sans: ["Inter", "system-ui", "sans-serif"],
+        display: ["Merriweather", "serif"],
+        serif: ["Noto Sans JP", "sans-serif"],
       },
       backgroundImage: {
         "hero-pattern":
-          "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('https://images.unsplash.com/photo-1623544726893-be7e56c8f4fc?q=80&w=2070')",
+          "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('/background-image.jpg')",
+        'grid-slate-100': 'linear-gradient(to right, rgb(241 245 249 / 0.1) 1px, transparent 1px),\n linear-gradient(to bottom, rgb(241 245 249 / 0.1) 1px, transparent 1px)',
+      },
+      backgroundSize: {
+        'grid': '4rem 4rem',
       },
       keyframes: {
         "accordion-down": {
@@ -77,10 +82,31 @@ export default {
           from: { height: "var(--radix-accordion-content-height)" },
           to: { height: "0" },
         },
+        'gradient-x': {
+          '0%, 100%': {
+            'background-size': '200% 200%',
+            'background-position': 'left center'
+          },
+          '50%': {
+            'background-size': '200% 200%',
+            'background-position': 'right center'
+          },
+        },
+        'float': {
+          '0%, 100%': { transform: 'translateY(0)' },
+          '50%': { transform: 'translateY(-20px)' },
+        },
+        'glow': {
+          '0%, 100%': { opacity: 1 },
+          '50%': { opacity: 0.6 },
+        },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
+        'gradient-x': 'gradient-x 15s ease infinite',
+        'float': 'float 6s ease-in-out infinite',
+        'glow': 'glow 2s ease-in-out infinite',
       },
     },
   },

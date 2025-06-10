@@ -1,19 +1,36 @@
 ---
-title: "How Many Ounces in a Quart? An All-Inclusive Guide"
-slug: "how-many-ounces-in-a-quart"
-pubDate: "2021-02-05"
-modDate: "2025-03-01"
-author: "Boniface Muriuki"
-authorBio: "Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary Education, New York. He has worked in several restaurants and is currently the Head Chef at Cavali Restaurant. He has excelled in developing unique recipes and influencing the menu at the restaurant. He prides himself in sharing his knowledge at thekitchenpot.com where he writes about the best cookware for various recipes.."
-authorId: "kitchenpot1"
-authorImage: "/images/authors/chris-thompson.png"
-authorImageAlt: "kitchenpot1"
-image: "/images/IMG_7772-measuring-liquids-vertical-683x1024-1.jpg"
-coverAlt: "How Many Ounces in a Quart? An All-Inclusive Guide"
-description: "If you find yourself struggling with unfamiliar measuring units in cooking, worry not! This article provides helpful insights and tips on converting units for accurate ingredient measurements in your recipes. Understanding metric conversions is essential to avoid overuse of ingredients and ensure the perfect balance for"
-tags: ["gallons-to-ounces", "olive-oil", "ounces-to-quarts", "us-conversion-metrics"]
-category: "How To Guides"
-seo: "How many ounces in a quart? What about ounces in a gallon? This comprehensive guide offers all metric conversion guidelines to make cooking easy for you."
+title: How Many Ounces in a Quart? An All-Inclusive Guide
+slug: how-many-ounces-in-a-quart
+pubDate: 2021-02-05
+modDate: 2025-03-01
+author: Boniface Muriuki
+authorBio: >-
+  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
+  Education, New York. He has worked in several restaurants and is currently the
+  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
+  and influencing the menu at the restaurant. He prides himself in sharing his
+  knowledge at thekitchenpot.com where he writes about the best cookware for
+  various recipes..
+authorId: kitchenpot1
+authorImage: /images/authors/chris-thompson.png
+authorImageAlt: kitchenpot1
+image: src/content/blog/images/IMG_7772-measuring-liquids-vertical-683x1024-1.jpg
+coverAlt: How Many Ounces in a Quart? An All-Inclusive Guide
+description: >-
+  If you find yourself struggling with unfamiliar measuring units in cooking,
+  worry not! This article provides helpful insights and tips on converting units
+  for accurate ingredient measurements in your recipes. Understanding metric
+  conversions is essential to avoid overuse of ingredients and ensure the
+  perfect balance for
+tags:
+  - gallons-to-ounces
+  - olive-oil
+  - ounces-to-quarts
+  - us-conversion-metrics
+category: How To Guides
+seo: >-
+  How many ounces in a quart? What about ounces in a gallon? This comprehensive
+  guide offers all metric conversion guidelines to make cooking easy for you.
 ---
 
 Cooking is all fun until you start encountering unfamiliar measuring units. For example, how many tablespoons in 1/3 cup? How many ounces in a quart? If you’ve yourself in the units conversion dilemma, then we’ve got your back!
