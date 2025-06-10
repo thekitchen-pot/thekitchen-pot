@@ -14,7 +14,7 @@ authorBio: >-
 authorId: kitchenpot1
 authorImage: /images/authors/chris-thompson.png
 authorImageAlt: kitchenpot1
-image: src/content/blog/images/how-to-use-an-immersion-blender.gif
+image: src/content/blog/images/default-cover.jpg
 coverAlt: How to Use an Immersion Blender - A Comprehensive Guide
 description: >-
   In today's ever-changing food industry, the innovation of immersion blenders
