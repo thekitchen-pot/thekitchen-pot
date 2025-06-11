@@ -124,17 +124,26 @@ const currentPath = Astro.url.pathname;
 </style>
 
 <script>
-  document.addEventListener('astro:page-load', () => {
-    // Mobile menu toggle
+  function toggleMenu() {
     const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
     const mobileMenu = document.getElementById('mobile-menu');
     
     if (mobileMenuToggle && mobileMenu) {
-      mobileMenuToggle.addEventListener('click', () => {
-        const expanded = mobileMenuToggle.getAttribute('aria-expanded') === 'true';
-        mobileMenuToggle.setAttribute('aria-expanded', (!expanded).toString());
-        mobileMenu.classList.toggle('hidden');
-      });
+      const expanded = mobileMenuToggle.getAttribute('aria-expanded') === 'true';
+      mobileMenuToggle.setAttribute('aria-expanded', (!expanded).toString());
+      mobileMenu.classList.toggle('hidden');
     }
+  }
+
+  // Setup on initial page load
+  document.addEventListener('DOMContentLoaded', () => {
+    const toggle = document.getElementById('mobile-menu-toggle');
+    toggle?.addEventListener('click', toggleMenu);
+  });
+
+  // Handle Astro page transitions
+  document.addEventListener('astro:page-load', () => {
+    const toggle = document.getElementById('mobile-menu-toggle');
+    toggle?.addEventListener('click', toggleMenu);
   });
 </script>
