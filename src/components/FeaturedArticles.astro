@@ -33,7 +33,7 @@ const paginatedPosts = sortedPosts.slice((currentPage - 1) * postsPerPage, curre
 
 // Get featured posts (taking the first 3 most recent posts)
 // Get featured posts (skipping first 2 and taking next 3 posts)
-const featuredPosts = sortedPosts.slice(2, 5);
+const featuredPosts = sortedPosts.slice(4, 7);
 
 // Helper function to format date
 function formatDate(dateString: Date | undefined) {
@@ -47,7 +47,7 @@ function formatDate(dateString: Date | undefined) {
 
 ---
 
-<section class="py-24 relative bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 overflow-hidden">
+<section class="py-24 -mt-16 relative bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 overflow-hidden">
   <!-- Decorative elements -->
   <div class="absolute inset-0 opacity-10">
     <div class="absolute top-0 left-0 w-full h-full bg-[url('/src/assets/images/feature-image.png')] bg-cover bg-center opacity-5"></div>
@@ -59,7 +59,7 @@ function formatDate(dateString: Date | undefined) {
   <div class="container mx-auto px-4 relative z-10">
     <div class="flex flex-col md:flex-row justify-between items-center mb-16">
       <div class=" md:mb-0">
-        <h2 class="font-display text-4xl bg-gradient-to-r from-cyan-300 via-teal-300 to-purple-400 bg-clip-text text-transparent">
+        <h2 class="font-display leading-relaxed text-4xl bg-gradient-to-r from-cyan-300 via-teal-300 to-purple-400 bg-clip-text text-transparent">
           TRENDING CONTENT
         </h2>
         <div class="h-1 w-24 bg-gradient-to-r from-cyan-400 to-purple-500 mt-2 rounded-full"></div>
