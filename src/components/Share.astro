@@ -1,5 +1,5 @@
 ---
-import config from "@/config/config.json";
+//import config from "@/config/config.json";
 import {
   IoLogoFacebook,
   IoLogoLinkedin,
@@ -7,7 +7,7 @@ import {
   IoLogoTwitter,
 } from "react-icons/io5";
 
-const { base_url } = config.site;
+const base_url  = import.meta.env.SITE;
 const { title, description, slug, className } = Astro.props;
 ---
 
