@@ -41,6 +41,9 @@ importers:
       '@hookform/resolvers':
         specifier: ^3.10.0
         version: 3.10.0(react-hook-form@7.57.0(react@18.3.1))
+      '@iconify-json/heroicons':
+        specifier: ^1.2.2
+        version: 1.2.2
       '@iconify-json/mdi':
         specifier: ^1.2.3
         version: 1.2.3
@@ -65,6 +68,9 @@ importers:
       astro-decap-cms-oauth:
         specifier: ^0.5.1
         version: 0.5.1(astro@5.9.2(@netlify/blobs@8.2.0)(@types/node@22.15.31)(jiti@1.21.7)(rollup@4.42.0)(typescript@5.8.3)(yaml@2.8.0))
+      astro-heroicons:
+        specifier: 2.1.5-1
+        version: 2.1.5-1
       astro-icon:
         specifier: ^1.1.5
         version: 1.1.5
@@ -780,6 +786,9 @@ packages:
 
   '@iarna/toml@2.2.5':
     resolution: {integrity: sha512-trnsAYxU3xnS1gPHPyU961coFyLkh4gAD/0zQ5mymY4yOZ+CYvsPqUbOFSw0aDM4y0tV7tiFxL/1XfXPNC6IPg==}
+
+  '@iconify-json/heroicons@1.2.2':
+    resolution: {integrity: sha512-qoW4pXr5kTTL6juEjgTs83OJIwpePu7q1tdtKVEdj+i0zyyVHgg/dd9grsXJQnpTpBt6/VwNjrXBvFjRsKPENg==}
 
   '@iconify-json/mdi@1.2.3':
     resolution: {integrity: sha512-O3cLwbDOK7NNDf2ihaQOH5F9JglnulNDFV7WprU2dSoZu3h3cWH//h74uQAB87brHmvFVxIOkuBX2sZSzYhScg==}
@@ -1857,6 +1866,9 @@ packages:
     resolution: {integrity: sha512-dxIfwj+E5XuUCGhbTWVA0XRLK0qXDKvflC0Jy4n0H219RpGXcHCQ3lmwE8aNO2/R16dSRJ//xoBjkuqSpYK5CQ==}
     peerDependencies:
       astro: ^5.0.0
+
+  astro-heroicons@2.1.5-1:
+    resolution: {integrity: sha512-Ciy8T7YkH+ZIIUR6czHH8FG/tpI1jGpbUQhlRjB0bi9FTy3gZ1YoQqNhteGeZQHmak+t1GTwfr3b/Vv5ls7Wiw==}
 
   astro-icon@1.1.5:
     resolution: {integrity: sha512-CJYS5nWOw9jz4RpGWmzNQY7D0y2ZZacH7atL2K9DeJXJVaz7/5WrxeyIxO8KASk1jCM96Q4LjRx/F3R+InjJrw==}
@@ -6417,6 +6429,10 @@ snapshots:
 
   '@iarna/toml@2.2.5': {}
 
+  '@iconify-json/heroicons@1.2.2':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/mdi@1.2.3':
     dependencies:
       '@iconify/types': 2.0.0
@@ -7594,6 +7610,8 @@ snapshots:
   astro-decap-cms-oauth@0.5.1(astro@5.9.2(@netlify/blobs@8.2.0)(@types/node@22.15.31)(jiti@1.21.7)(rollup@4.42.0)(typescript@5.8.3)(yaml@2.8.0)):
     dependencies:
       astro: 5.9.2(@netlify/blobs@8.2.0)(@types/node@22.15.31)(jiti@1.21.7)(rollup@4.42.0)(typescript@5.8.3)(yaml@2.8.0)
+
+  astro-heroicons@2.1.5-1: {}
 
   astro-icon@1.1.5:
     dependencies:
