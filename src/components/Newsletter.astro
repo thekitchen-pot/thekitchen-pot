@@ -18,8 +18,13 @@ import { Mail } from 'lucide-react';
     <p class="text-lg mb-8 max-w-2xl mx-auto text-silver">
       Discover the latest kitchen technology that saves space, simplifies cooking, and impresses the kids.
     </p>
-    <form class="max-w-md mx-auto flex flex-col sm:flex-row gap-4">
+    <form 
+      method="POST" 
+      action="/api/newsletter.json"
+      class="max-w-md mx-auto flex flex-col sm:flex-row gap-4"
+    >
       <input
+        name="email"
         type="email"
         placeholder="Enter your email"
         class="flex-1 px-6 py-3 rounded-lg text-accent w-full"
