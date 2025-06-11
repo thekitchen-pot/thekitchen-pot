@@ -1,10 +1,14 @@
 ---
 import { Button } from "@/components/ui/button";
+import { Image } from "astro:assets";
 import { Mail } from 'lucide-react';
+import bgImg from "@/assets/background-image.jpg";
+const imgUrl = bgImg.src
+
 ---
 
 <section class="bg-terrain py-20 text-white relative overflow-hidden">
-  <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1544191696-102ad3aaece9?q=80&w=2070')] bg-cover bg-center opacity-10"></div>
+  <div class="absolute inset-0 bg-[url('/src/assets/background-image.jpg')] bg-cover bg-center opacity-10"></div>
   <div class="container mx-auto px-4 text-center relative">
     <div class="inline-flex items-center justify-center gap-2 bg-white/10 px-4 py-2 rounded-full mb-6">
       <Mail className="h-5 w-5" />
