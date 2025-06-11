@@ -8,7 +8,7 @@ import { Icon } from "astro-icon/components";
 const blogPosts = await getCollection('blog', post => post.data.category === 'Bakeware');
 blogPosts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
 const featuredPost = blogPosts.length > 0 ? blogPosts[0] : null;
-const otherPosts = blogPosts.length > 1 ? blogPosts.slice(2, 6) : [];
+const otherPosts = blogPosts.length > 1 ? blogPosts.slice(2, 2) : [];
 ---
 
 <div class="relative overflow-hidden py-12">
@@ -155,6 +155,7 @@ const otherPosts = blogPosts.length > 1 ? blogPosts.slice(2, 6) : [];
                               src={post.data.image}
                               width={120}
                               height={120}
+                              format={'webp'}
                               alt={post.data.title}
                               class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
                             />
