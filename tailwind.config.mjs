@@ -12,6 +12,11 @@ export default {
     },
     extend: {
       colors: {
+        "golf-primary": "#00A870", // Vibrant green for energy and growth
+        "golf-secondary": "#003B4C", // Deep blue for trust and stability
+        "golf-accent": "#FF6B35", // Bright orange for energy and enthusiasm
+        "golf-highlight": "#FFD23F", // Warm yellow for optimism
+        "golf-contrast": "#E40066", // Dynamic pink for modern appeal
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
