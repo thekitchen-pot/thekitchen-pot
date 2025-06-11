@@ -1,5 +1,6 @@
 ---
 import Header from '../components/Header.astro';
+import Navigation from '@/components/Navigation.astro';
 import Footer from '../components/Footer.astro';
 import '@fontsource-variable/montserrat';
 import '@fontsource/bebas-neue';
@@ -98,7 +99,8 @@ const organizationSchema = {
 
 <body class="w-full font-sans antialiased">
     <!-- <NewNav /> -->
-    <Header />
+     <Navigation />
+    <!-- <Header /> -->
     <main>
       <slot />
     </main>

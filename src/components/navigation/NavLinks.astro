@@ -1,0 +1,25 @@
+---
+import { navigationLinks } from './config.ts';
+---
+
+<style>
+  .nav-link {
+    @apply text-golf-secondary hover:text-golf-accent transition-colors duration-300 font-medium;
+  }
+
+  .book-button {
+    @apply bg-golf-primary text-white px-6 py-2 rounded-full hover:bg-golf-accent
+           transition-all duration-300 transform hover:scale-105 font-medium;
+  }
+</style>
+
+<div class="hidden md:flex items-center space-x-8">
+  {navigationLinks.map(link => (
+    <a href={link.href} class="nav-link">
+      {link.text}
+    </a>
+  ))}
+  <button class="book-button">
+    Book Now
+  </button>
+</div>

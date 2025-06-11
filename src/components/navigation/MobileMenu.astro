@@ -1,0 +1,95 @@
+---
+import { Icon } from 'astro-icon/components';
+import { navigationLinks } from '../navigation/config';
+---
+
+<div class="md:hidden">
+  <button
+    id="mobile-menu-button"
+    class="text-golf-secondary p-2 hover:bg-gray-100 rounded-lg transition-colors"
+    aria-label="Toggle mobile menu"
+    aria-expanded="false"
+  >
+    <Icon
+      name="heroicons:bars-3-solid"
+      class="w-6 h-6"
+      aria-hidden="true"
+    />
+  </button>
+
+  <div
+    id="mobile-menu"
+    class="hidden absolute top-full left-0 right-0 bg-white shadow-lg border-t border-gray-100"
+    role="menu"
+    aria-labelledby="mobile-menu-button"
+  >
+    <nav class="px-4 py-3 space-y-1">
+      {navigationLinks.map(({ href, text }) => (
+        <a
+          href={href}
+          class="block px-3 py-2 text-golf-secondary hover:text-golf-accent hover:bg-gray-50
+                 rounded-lg transition-colors duration-300"
+          role="menuitem"
+        >
+          {text}
+        </a>
+      ))}
+      <button
+        class="w-full mt-2 bg-golf-primary text-white px-6 py-2 rounded-full
+               hover:bg-golf-accent transition-colors duration-300"
+        role="menuitem"
+      >
+        Book Now
+      </button>
+    </nav>
+  </div>
+</div>
+
+<script>
+  let isMenuOpen = false;
+
+  function setupMobileMenu() {
+    const mobileMenuButton = document.getElementById('mobile-menu-button');
+    const mobileMenu = document.getElementById('mobile-menu');
+
+    if (!mobileMenuButton || !mobileMenu) return;
+
+    const toggleMenu = () => {
+      isMenuOpen = !isMenuOpen;
+      mobileMenu.classList.toggle('hidden');
+      mobileMenuButton.setAttribute('aria-expanded', String(isMenuOpen));
+    };
+
+    // Handle menu button clicks
+    mobileMenuButton.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleMenu();
+    });
+
+    // Optimize click outside handling with debouncing
+    const handleClickOutside = (event: MouseEvent) => {
+      const target = event.target as HTMLElement;
+      if (
+        isMenuOpen &&
+        !target.closest('#mobile-menu') &&
+        !target.closest('#mobile-menu-button')
+      ) {
+        isMenuOpen = false;
+        mobileMenu.classList.add('hidden');
+        mobileMenuButton.setAttribute('aria-expanded', 'false');
+      }
+    };
+
+    // Add debounced event listener
+    document.addEventListener('click', handleClickOutside, { passive: true });
+
+    // Clean up function
+    return () => {
+      mobileMenuButton.removeEventListener('click', toggleMenu);
+      document.removeEventListener('click', handleClickOutside);
+    };
+  }
+
+  // Initialize when DOM is ready
+  document.addEventListener('DOMContentLoaded', setupMobileMenu);
+</script>
