@@ -77,6 +77,9 @@ importers:
       decap-cms-app:
         specifier: ^3.6.2
         version: 3.6.4(@types/hoist-non-react-statics@3.3.6)(@types/node@22.15.31)(@types/react@19.1.7)(graphql@15.10.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      heroicons:
+        specifier: ^2.2.0
+        version: 2.2.0
       lucide-react:
         specifier: ^0.358.0
         version: 0.358.0(react@18.3.1)
@@ -3204,6 +3207,9 @@ packages:
 
   hastscript@9.0.1:
     resolution: {integrity: sha512-g7df9rMFX/SPi34tyGCyUBREQoKkapwdY/T04Qn9TDWfHhAYt4/I0gMVirzK5wEzeUqIjEB+LXC/ypb7Aqno5w==}
+
+  heroicons@2.2.0:
+    resolution: {integrity: sha512-yOwvztmNiBWqR946t+JdgZmyzEmnRMC2nxvHFC90bF1SUttwB6yJKYeme1JeEcBfobdOs827nCyiWBS2z/brog==}
 
   history@4.10.1:
     resolution: {integrity: sha512-36nwAD620w12kuzPAsyINPWJqlNbij+hpK1k9XRloDtym8mxzGYl2c17LnV6IAGB2Dmg4tEa7G7DlawS0+qjew==}
@@ -9320,6 +9326,8 @@ snapshots:
       hast-util-parse-selector: 4.0.0
       property-information: 7.1.0
       space-separated-tokens: 2.0.2
+
+  heroicons@2.2.0: {}
 
   history@4.10.1:
     dependencies:
