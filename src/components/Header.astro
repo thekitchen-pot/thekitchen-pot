@@ -131,9 +131,9 @@ const currentPath = Astro.url.pathname;
     if (!mobileMenuToggle || !mobileMenu) return;
 
     function toggleMenu() {
-      const expanded = mobileMenuToggle.getAttribute('aria-expanded') === 'true';
-      mobileMenuToggle.setAttribute('aria-expanded', (!expanded).toString());
-      mobileMenu.classList.toggle('hidden');
+      const expanded = mobileMenuToggle?.getAttribute('aria-expanded') === 'true';
+      mobileMenuToggle?.setAttribute('aria-expanded', (!expanded).toString());
+      mobileMenu?.classList.toggle('hidden');
     }
 
     // Remove any existing click listeners
