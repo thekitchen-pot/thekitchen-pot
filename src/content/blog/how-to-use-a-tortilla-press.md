@@ -1,36 +1,38 @@
 ---
+excerpt: "Want restaurant-style tortillas at home? Master how to use a tortilla
+  press for the best tortillas that are fluffy, round, and flavor-packed. It can
+  never get better! "
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Use a Tortilla Press for the Best Tortillas
+source: How To
 slug: how-to-use-a-tortilla-press
 pubDate: 2020-05-16
 modDate: 2025-02-21
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/How-to-Use-a-Tortilla-Press.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Use a Tortilla Press for the Best Tortillas
-description: >-
-  Homemade tortillas are a delicious treat that adds a special touch to any
-  meal. Learning how to use a tortilla press can elevate your cooking experience
-  and provide uniform and tasty results. Whether you choose a manual or electric
-  press, the process is simple
 tags:
   - electric-tortilla-press
   - how-to-use-tortilla-press
   - manual-tortilla-press
   - tortilla-press
-category: How To Guides
-seo: >-
-  How to use a tortilla press for the best tortillas? This comprehensive guide
-  offers a candid procedure to use when using tortilla press! Read on to know
-  how to prepare the best.
+authorImageAlt: kitchenpot1
+description: Homemade tortillas are a delicious treat that adds a special touch
+  to any meal. Learning how to use a tortilla press can elevate your cooking
+  experience and provide uniform and tasty results. Whether you choose a manual
+  or electric press, the process is simple
+seo: How to use a tortilla press for the best tortillas? This comprehensive
+  guide offers a candid procedure to use when using tortilla press! Read on to
+  know how to prepare the best.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Nothing beats the scrumptiousness of freshly [homemade tortillas](https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/)! The pride of preparing them in your kitchen as opposed to buying them from the grocery stores is exceptional. If you’re still uncertain on how to use a tortilla press for the best tortillas, then this article is all you need!
