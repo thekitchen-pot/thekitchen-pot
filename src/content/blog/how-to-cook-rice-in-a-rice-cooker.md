@@ -1,35 +1,37 @@
 ---
+excerpt: Just acquired a rice cooker and don’t know how to use it? This guide
+  gives you all the tip to get perfectly cooked rice, whether white, brown and
+  sushi.
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Cook Rice in a Rice Cooker
+source: How To
 slug: how-to-cook-rice-in-a-rice-cooker
 pubDate: 2021-02-03
 modDate: 2025-02-27
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/ricecooker-2x1-fullres-4876-630x420-2.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Cook Rice in a Rice Cooker
-description: >-
-  If you've been struggling with your new rice cooker and feeling overwhelmed by
-  the rice-to-water ratio, don't worry. This comprehensive guide will walk you
-  through the process of cooking rice in a rice cooker, making it easy and
-  enjoyable. By following these
 tags:
   - best-rice-cooker-for-brown-rice
   - best-rice-cookers
   - how-to-use-oster-rice-cooker
-category: How To Guides
-seo: >-
-  Are wondering how to cook rice in a rice cooker without getting sticky? The
+authorImageAlt: kitchenpot1
+description: If you've been struggling with your new rice cooker and feeling
+  overwhelmed by the rice-to-water ratio, don't worry. This comprehensive guide
+  will walk you through the process of cooking rice in a rice cooker, making it
+  easy and enjoyable. By following these
+seo: Are wondering how to cook rice in a rice cooker without getting sticky? The
   rice to water ratio dynamics can be complex. However, this article offers
   useful tips to achieve fluffy and well-cooked rice
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 If you recently bought your **[rice cooker](https://thekitchenpot.com/blog/best-rice-cooker-for-brown-rice//)**, you might be wondering how to use it to get the most delicious rice. The rice-to-water ratio dynamics can be overwhelming, and you may even end up giving up on using your rice cooker.
