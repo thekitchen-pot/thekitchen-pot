@@ -1,34 +1,36 @@
 ---
+excerpt: "No electricity? No problem! These 6 wood stoves provide unbeatable
+  heat, low emissions & long burn times. Essential for preppers, homesteaders &
+  cozy homes!  "
+showTableOfContents: true
+authorId: kitchenpot1
 title: 6 Best Wood Burning Stoves - Why They Are Necessary
+source: Burning Stoves
 slug: 5-best-wood-burning-stove
 pubDate: 2020-07-29
 modDate: 2025-01-17
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Best-burner.jpg
+category: Range Hoods
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 6 Best Wood Burning Stoves - Why They Are Necessary
-description: >-
-  If you're tired of high energy bills during the winter and want a more
-  affordable heating alternative, consider investing in the best wood burning
-  stove. These stoves are eco-friendly, efficient, and can save you money on
-  electricity. With a variety of options
 tags:
   - best-gas-grills
   - gas-grills-and-charcoal-combo
-category: Range Hoods
-seo: >-
-  Keeping your house warm should be a priority. However, using electrical
+authorImageAlt: kitchenpot1
+description: If you're tired of high energy bills during the winter and want a
+  more affordable heating alternative, consider investing in the best wood
+  burning stove. These stoves are eco-friendly, efficient, and can save you
+  money on electricity. With a variety of options
+seo: Keeping your house warm should be a priority. However, using electrical
   heaters can be expensive. To solve this, you should buy the best wood burning
   stove. Here's a guide
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Did you know that room heaters increase your household budget by more than 40%? Well, if you’ve used electrical power to heat your house during winter, then you’ll opine that your energy bill was a shocker!
