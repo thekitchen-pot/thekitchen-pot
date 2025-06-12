@@ -1,36 +1,38 @@
 ---
+excerpt: Seal freshness like a pro! Learn how to use a vacuum sealer in 5 simple
+  steps for longer-lasting food. Save money, cut waste, and keep flavors locked
+  in for good.
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Use a Vacuum Sealer in 5 Simple Steps
+source: How To
 slug: how-to-use-a-vacuum-sealer
 pubDate: 2021-05-16
 modDate: 2025-02-14
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/2-How-to-Use-a-vacuum-sealer-edited-1.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Use a Vacuum Sealer in 5 Simple Steps
-description: >-
-  Having a vacuum sealer can be a game-changer, especially when it comes to
-  preserving your ingredients and reducing food wastage. Whether you're storing
-  food, using a sous vide cooker, or buying in bulk, a vacuum sealer can make
-  your
 tags:
   - best-airtight-containers
   - best-sous-vide-precision-cooker
   - best-vacuum-sealer-for-sous-vide
   - sous-vide
-category: How To Guides
-seo: >-
-  Wondering how to use a vacuum sealer to get the best results? Well, sealing
+authorImageAlt: kitchenpot1
+description: Having a vacuum sealer can be a game-changer, especially when it
+  comes to preserving your ingredients and reducing food wastage. Whether you're
+  storing food, using a sous vide cooker, or buying in bulk, a vacuum sealer can
+  make your
+seo: Wondering how to use a vacuum sealer to get the best results? Well, sealing
   your food in a vacuum sealer shouldn't be a hassle. Here is how you do it in 5
   steps
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 You can use this important tool to seal and preserve your ingredients and other perishables when you buy in bulk. 
