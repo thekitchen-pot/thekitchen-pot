@@ -1,36 +1,38 @@
 ---
+excerpt: Learn how to use a Nuwave oven like a seasoned chef. These 5 incredible
+  tips will help you air-fry, roast, and reheat like a kitchen wizard—no
+  culinary degree required.
+showTableOfContents: true
+authorId: kitchenpot1
 title: 5 Incredible Tips on How to Use a Nuwave Oven
+source: How To
 slug: how-to-use-a-nuwave-oven
 pubDate: 2020-10-06
 modDate: 2025-01-28
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Nuwave-oven-how-it-works.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 5 Incredible Tips on How to Use a Nuwave Oven
-description: >-
-  If you love cooking and are always on the lookout for appliances that can make
-  it more enjoyable, you'll appreciate the efficiency of the Nuwave Oven. This
-  unique appliance combines convection, conduction, and infrared systems to make
-  cooking easier, faster,
 tags:
   - best-2-slice-toaster
   - best-air-fryer-under-500
   - how-to-clean-an-air-fryer
   - nuwave-oven-vs-air-fryer
-category: How To Guides
-seo: >-
-  Wondering how to use a nuwave oven? This article details everything you need
-  to know before buying this appliance. Read on for comprehensive Nuwave Oven
-  analysis.
+authorImageAlt: kitchenpot1
+description: If you love cooking and are always on the lookout for appliances
+  that can make it more enjoyable, you'll appreciate the efficiency of the
+  Nuwave Oven. This unique appliance combines convection, conduction, and
+  infrared systems to make cooking easier, faster,
+seo: Wondering how to use a nuwave oven? This article details everything you
+  need to know before buying this appliance. Read on for comprehensive Nuwave
+  Oven analysis.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 I love cooking and, like any other chef, I am always on the lookout for [appliances that can make the exercise fun](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy//). 
