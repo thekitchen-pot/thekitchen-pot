@@ -1,33 +1,35 @@
 ---
+excerpt: "Need to defrost your mini fridge? Try these 2 fast, safe methods to
+  remove ice build-up and keep it running efficiently. Keep food fresh & energy
+  bills low.  "
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Defrost a Mini Fridge - 2 Superior Methods
+source: How To
 slug: how-to-defrost-a-mini-fridge
 pubDate: 2020-09-06
 modDate: 2025-01-17
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/How-To-Defrost-a-Mini-Fridge.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Defrost a Mini Fridge - 2 Superior Methods
-description: >-
-  If you've recently purchased a mini fridge for cold beverages, it's important
-  to maintain it properly to avoid short-lived joy. Learning how to defrost a
-  mini fridge is crucial for its longevity and optimal performance. This
-  comprehensive guide provides tips and steps to
 tags:
   - mini-fridge-for-beer
   - side-by-side-refrigerator
-category: How To Guides
-seo: >-
-  Wondering how to defrost a mini fridge? This guide offers the do's and the
+authorImageAlt: kitchenpot1
+description: If you've recently purchased a mini fridge for cold beverages, it's
+  important to maintain it properly to avoid short-lived joy. Learning how to
+  defrost a mini fridge is crucial for its longevity and optimal performance.
+  This comprehensive guide provides tips and steps to
+seo: Wondering how to defrost a mini fridge? This guide offers the do's and the
   dont's that you should always consider when defrosting. Read on.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 So, you’ve recently acquired your [mini fridge](https://thekitchenpot.com/blog/best-mini-fridge-for-beer//) and you’re happy that you’ll now enjoy cold beer going forward. However, you should be careful to maintain the appliance lest you have the most short-lived joy ever!
