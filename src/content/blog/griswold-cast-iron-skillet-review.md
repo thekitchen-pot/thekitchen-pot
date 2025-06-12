@@ -1,36 +1,38 @@
 ---
+excerpt: Vintage cast iron fan? Our Griswold skillet review tests its legendary
+  smoothness, heat retention & value. The gold standard or just nostalgia? Find
+  out!
+showTableOfContents: true
+authorId: kitchenpot1
 title: Griswold Cast Iron Skillet Reviews -Are They Really Worth It?
+source: Skillet
 slug: griswold-cast-iron-skillet-review
 pubDate: 2021-02-07
 modDate: 2025-02-13
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Griswold-cast-iron-skillet-size-10-1.jpg
+category: Cookware Equipment
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: Griswold Cast Iron Skillet Reviews -Are They Really Worth It?
-description: >-
-  The Griswold cast iron skillet is highly sought after due to its exceptional
-  heat retention and searing capabilities, making it a favorite among
-  professional cooks. Despite the company closing over 65 years ago, the
-  skillet's rarity, durability, and top
 tags:
   - best-saute-pans
   - best-wok
   - gotham-smokeless-indoor-grills
   - lodge-cast-iron-skillet
-category: Cookware Equipment
-seo: >-
-  Why is Griswold cast iron skillet so expensive? Is It worth it? Let's look at
-  their history, features, and usability. Here's an all-inclusive Griswold cast
-  iron skillet review.
+authorImageAlt: kitchenpot1
+description: The Griswold cast iron skillet is highly sought after due to its
+  exceptional heat retention and searing capabilities, making it a favorite
+  among professional cooks. Despite the company closing over 65 years ago, the
+  skillet's rarity, durability, and top
+seo: Why is Griswold cast iron skillet so expensive? Is It worth it? Let's look
+  at their history, features, and usability. Here's an all-inclusive Griswold
+  cast iron skillet review.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Why is the Griswold cast iron skillet so expensive? Why is it among the most sought after royal skillets, yet the company closed more than 65 years ago?
