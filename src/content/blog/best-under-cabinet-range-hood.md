@@ -1,36 +1,38 @@
 ---
+excerpt: Upgrade your kitchen airflow! These 8 best under cabinet hoods are
+  slim, powerful & fit seamlessly. No more lingering bacon smells. Shop top
+  models now.
+showTableOfContents: true
+authorId: kitchenpot1
 title: 8 Best Under Cabinet Range Hoods
+source: Range Hoods
 slug: best-under-cabinet-range-hood
 pubDate: 2020-04-20
 modDate: 2025-02-20
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/under-cabinet-range-hood.jpg
+category: Range Hoods
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 8 Best Under Cabinet Range Hoods
-description: >-
-  Having a well-equipped kitchen is essential for cooking enthusiasts.
-  Installing the best under cabinet range hood will not only enhance your
-  kitchen environment but also ensure a clean and odor-free space, making your
-  cooking experiences more enjoyable. Consider the factors mentioned in the
-  article when
 tags:
   - best-range-hood
   - range-hood
   - under-cabinet
-category: Range Hoods
-seo: >-
-  Purchasing the best under cabinet range hood requires intensive research. This
-  article has compiled all the factors that you should consider before buying
-  one. Read on and get the details
+authorImageAlt: kitchenpot1
+description: Having a well-equipped kitchen is essential for cooking
+  enthusiasts. Installing the best under cabinet range hood will not only
+  enhance your kitchen environment but also ensure a clean and odor-free space,
+  making your cooking experiences more enjoyable. Consider the factors mentioned
+  in the article when
+seo: Purchasing the best under cabinet range hood requires intensive research.
+  This article has compiled all the factors that you should consider before
+  buying one. Read on and get the details
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 The status of your kitchen will influence your cooking desires greatly. Achieving a superb kitchen environment boosts your morale and increases your chances of spending more time cooking. One of the surest ways of enhancing your kitchen is by installing the best under cabinet range hood.
