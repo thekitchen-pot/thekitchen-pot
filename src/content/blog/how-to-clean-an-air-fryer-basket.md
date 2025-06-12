@@ -1,35 +1,37 @@
 ---
+excerpt: Why your air fryer smokes? Burnt residue! Our step-by-step deep clean
+  method removes hidden grease in crevices you didn't know existed. It works in
+  minutes!
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Clean an Air Fryer basket -Simple Yet Effective Techniques
+source: How To
 slug: how-to-clean-an-air-fryer-basket
 pubDate: 2020-06-02
 modDate: 2025-01-17
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/cleaning-an-air-fryer-basket-scaled.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Clean an Air Fryer basket -Simple Yet Effective Techniques
-description: >-
-  If you've been struggling with how to clean your air fryer basket, worry no
-  more! This comprehensive guide offers step-by-step instructions to help you
-  easily and effectively clean your air fryer basket, ensuring its longevity and
-  optimal performance. Say goodbye to
 tags:
   - air-fryer-basket
   - best-air-fryers
   - cleaning-an-air-fryer-basket
-category: How To Guides
-seo: >-
-  How to clean an air fryer basket? Well, that's a common quagmire among kitchen
-  enthusiasts. If you're in such a situation, we'll make your cleaning process a
-  breeze!
+authorImageAlt: kitchenpot1
+description: If you've been struggling with how to clean your air fryer basket,
+  worry no more! This comprehensive guide offers step-by-step instructions to
+  help you easily and effectively clean your air fryer basket, ensuring its
+  longevity and optimal performance. Say goodbye to
+seo: How to clean an air fryer basket? Well, that's a common quagmire among
+  kitchen enthusiasts. If you're in such a situation, we'll make your cleaning
+  process a breeze!
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 You recently bought an [air fryer](https://en.wikipedia.org/wiki/Air_fryer). You love everything about it! Yes, you can cook fast and and your family is happy about your well-dried fries, right? But there is a problem! How to clean an air fryer basket has been the biggest headache since you bought your air fryer.
