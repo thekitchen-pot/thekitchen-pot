@@ -1,36 +1,38 @@
 ---
+excerpt: "Tiny kitchen? NuWave induction cooktop saves space, heats instantly &
+  is easy to clean. It is also safer, faster and more efficient. See why it’s a
+  must! "
+showTableOfContents: true
+authorId: kitchenpot1
 title: NuWave Induction Cooktop Review - 3 Reasons You Should Have It
+source: Induction Cooktop
 slug: nuwave-induction-cooktop-review
 pubDate: 2021-01-23
 modDate: 2025-01-18
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Nuwave-Induction-Cooktop.jpg
+category: Kitchenware
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: NuWave Induction Cooktop Review - 3 Reasons You Should Have It
-description: >-
-  Cooking from your kitchen can sometimes feel monotonous, especially if you're
-  looking to bond with family over outdoor recipes. If you're stuck with a heavy
-  electric cooktop, consider investing in a portable NuWave induction cooktop
-  for added convenience.
 tags:
   - best-induction-cooktops
   - cookware-for-induction-cooktop
   - induction-cooking
   - nuwave-oven-vs-air-fryer
-category: Kitchenware
-seo: >-
-  Induction cooking is a convenient and efficient method. If you want to buy an
-  induction cooktop, then read through this NuWave Induction cooktop review to
-  make an informed decision.
+authorImageAlt: kitchenpot1
+description: Cooking from your kitchen can sometimes feel monotonous, especially
+  if you're looking to bond with family over outdoor recipes. If you're stuck
+  with a heavy electric cooktop, consider investing in a portable NuWave
+  induction cooktop for added convenience.
+seo: Induction cooking is a convenient and efficient method. If you want to buy
+  an induction cooktop, then read through this NuWave Induction cooktop review
+  to make an informed decision.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Cooking from your kitchen can be monotonous, right? You’d need to try [outdoor recipes](https://www.countryliving.com/food-drinks/g2444/campfire-recipes/) with your family as you bond. But there is a problem:
