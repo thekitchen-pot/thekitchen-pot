@@ -1,36 +1,38 @@
 ---
+excerpt: "Is your cream cheese going bad often? Freeze it right with these
+  proven methods to avoid graininess, making it perfect for bagels, dips &
+  desserts. "
+showTableOfContents: true
+authorId: kitchenpot1
 title: Can You Freeze Cream Cheese? 2 Proven Methods to Use
+source: How To
 slug: can-you-freeze-cream-cheese
 pubDate: 2021-02-05
 modDate: 2025-01-31
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/creamcheese-1.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: Can You Freeze Cream Cheese? 2 Proven Methods to Use
-description: >-
-  If you find yourself with cream cheese you can't use due to an emergency,
-  freezing it is a safe option to avoid wastage. Although the texture may
-  change, frozen cream cheese is still suitable for baking and cooking. Freezing
-  cream cheese extends its
 tags:
   - how-to-reheat-chicken-wings
   - how-to-use-an-immersion-blender
   - how-to-use-sous-vide
   - how-to-use-tortilla-press
-category: How To Guides
-seo: >-
-  Can you freeze cream cheese? Is it safe? This article offers 2 of the safest
-  methods to use when freezing your cheese. Read on to learn the do's and the
-  dont's of the process.
+authorImageAlt: kitchenpot1
+description: If you find yourself with cream cheese you can't use due to an
+  emergency, freezing it is a safe option to avoid wastage. Although the texture
+  may change, frozen cream cheese is still suitable for baking and cooking.
+  Freezing cream cheese extends its
+seo: Can you freeze cream cheese? Is it safe? This article offers 2 of the
+  safest methods to use when freezing your cheese. Read on to learn the do's and
+  the dont's of the process.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 You’re set to try out a recipe with cream cheese as a primary ingredient. And, you buy the cream cheese ready to prepare a tasty meal.
