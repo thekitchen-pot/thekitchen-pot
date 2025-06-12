@@ -1,34 +1,36 @@
 ---
+excerpt: In this honest Wusthof knives review, we put these iconic blades to the
+  test. Are they really the gold standard for home cooks and pros alike? Find
+  out here!
+showTableOfContents: true
+authorId: kitchenpot1
 title: Wusthof Knives Review - The Ultimate Buying Guide
+source: Knives
 slug: wusthof-knives-review
 pubDate: 2021-01-22
 modDate: 2025-01-23
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Wusthof-kitchen-knife-buying-guide-FB.png
+category: Kitchenware
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: Wusthof Knives Review - The Ultimate Buying Guide
-description: >-
-  Is buying a Wusthof knife worth it? This article offers a comprehensive
-  Wusthof knives review to look into their functionality, durability, and
-  reliability.
 tags:
   - best-knife-set-under-100
   - best-knife-sharpener
   - best-over-the-sink-cutting-board
-category: Kitchenware
-seo: >-
-  Wusthof knives have been in the market for more than 200 years. They never
+authorImageAlt: kitchenpot1
+description: Is buying a Wusthof knife worth it? This article offers a
+  comprehensive Wusthof knives review to look into their functionality,
+  durability, and reliability.
+seo: Wusthof knives have been in the market for more than 200 years. They never
   lose demand. So, what is the secret behind the success? Here is a
   comprehensive Wusthof knives review.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Wusthof has built a global reputation as one of the best knife makers in the world. This [German company](https://en.wikipedia.org/wiki/W%C3%BCsthof) makes heavy-duty knives that are a desire for any enthusiastic chef.
