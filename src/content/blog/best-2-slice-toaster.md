@@ -1,33 +1,35 @@
 ---
+excerpt: Is the best 2 slice toaster worth your money? Compare features,
+  performance, and value to choose a reliable toaster that makes breakfast
+  effortless and delicious.
+showTableOfContents: true
+authorId: kitchenpot1
 title: Best 2 Slice Toaster - Is It Worth Your Money?
+source: Toaster/Baking
 slug: best-2-slice-toaster
 pubDate: 2020-03-25
 modDate: 2025-01-20
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/toaster.jpg
+category: Bakeware
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: Best 2 Slice Toaster - Is It Worth Your Money?
-description: >-
-  Waking up to the aroma of freshly toasted bread is a delightful experience
-  that can set the tone for a great day. Investing in the best 2 slice toaster
-  can make this morning ritual even more enjoyable and hassle-free for families
-  of all sizes. With
 tags:
   - 2-slice-toaster
   - best
-category: Bakeware
-seo: >-
-  2 slice toaster will transform your mornings for the better. If you love
+authorImageAlt: kitchenpot1
+description: Waking up to the aroma of freshly toasted bread is a delightful
+  experience that can set the tone for a great day. Investing in the best 2
+  slice toaster can make this morning ritual even more enjoyable and hassle-free
+  for families of all sizes. With
+seo: 2 slice toaster will transform your mornings for the better. If you love
   well-browned and crunchy bread, then you should read this comprehensive guide!
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 There is nothing as refreshing as a mug of coffee and crunchy toasts in the morning!
