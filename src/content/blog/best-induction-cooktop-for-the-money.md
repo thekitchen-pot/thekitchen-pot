@@ -1,35 +1,37 @@
 ---
+excerpt: Cooking just got smarter (and cheaper)! The best induction cooktop for
+  the money guide reviews budget-friendly units built to wow with speed, safety,
+  and style.
+showTableOfContents: true
+authorId: kitchenpot1
 title: 5 Best Induction Cooktop for the Money - Buying Guide
+source: Induction Cooktop
 slug: best-induction-cooktop-for-the-money
 pubDate: 2020-10-31
 modDate: 2025-02-11
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Best-Induction-Cooktop.jpg
+category: Kitchenware
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 5 Best Induction Cooktop for the Money - Buying Guide
-description: >-
-  Induction cooking has transformed the way we prepare meals, offering faster
-  cooking times and improved efficiency. When selecting the best induction
-  cooktop for your budget, it's important to consider factors like power
-  sharing, design, and safety features. While induction cooktop
 tags:
   - air-fryers
   - best-cookware-for-induction-cooktop
   - instant-pot
-category: Kitchenware
-seo: >-
-  Are you looking for the best induction cooktop for the money? This article
+authorImageAlt: kitchenpot1
+description: Induction cooking has transformed the way we prepare meals,
+  offering faster cooking times and improved efficiency. When selecting the best
+  induction cooktop for your budget, it's important to consider factors like
+  power sharing, design, and safety features. While induction cooktop
+seo: Are you looking for the best induction cooktop for the money? This article
   will educate you on how induction technology work and how to choose the best
   cooktop. Read on
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Technology has crept into different spheres of life – and the kitchen is certainly among the [biggest beneficiaries](https://wonderfulkitchens.com.au/kitchen-design/using-modern-technology-kitchens/). The invention of induction cooking is one of the most revolutionary occurrences. It has improved how we prepare our meals immensely.
