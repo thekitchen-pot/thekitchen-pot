@@ -1,35 +1,37 @@
 ---
+excerpt: How to use an electric smoker like a pitmaster? This guide gives you
+  all the smoky secrets and success tips – even beginners can achieve
+  fall-off-the-bone results.
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Use an Electric Smoker - A Reliable and Comprehensive Guide
+source: How To
 slug: how-to-use-an-electric-smoker
 pubDate: 2020-08-12
 modDate: 2025-01-16
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/how-to-use-an-electric-smoker.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Use an Electric Smoker - A Reliable and Comprehensive Guide
-description: >-
-  Smoking is an ancient cooking technique that dates back to the Old Stone Age,
-  where people realized that smoked meat not only tasted better but also lasted
-  longer. While smoking has evolved over time, the invention of electric smokers
-  has revolutionized the process. This
 tags:
   - electric-smoker
   - gas-and-charcoal-grill-combo
   - gas-grills-under-500
-category: How To Guides
-seo: >-
-  How to use an electric smoker? Well, how well you smoke your meat depends on
-  your smoking techniques. This article guide you through all the steps
+authorImageAlt: kitchenpot1
+description: Smoking is an ancient cooking technique that dates back to the Old
+  Stone Age, where people realized that smoked meat not only tasted better but
+  also lasted longer. While smoking has evolved over time, the invention of
+  electric smokers has revolutionized the process. This
+seo: How to use an electric smoker? Well, how well you smoke your meat depends
+  on your smoking techniques. This article guide you through all the steps
   necessary to transform you into a smoking guru fast!
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 What comes to your mind when smoke cooking is mentioned? Well, the majority of people believe that smoking is a modern and complicated way of cooking meat.
