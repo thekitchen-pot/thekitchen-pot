@@ -1,35 +1,37 @@
 ---
+excerpt: On a tight budget? These top-rated food processors under $100 deliver
+  pro results without the price tag. Compare features and pick your perfect fit.
+showTableOfContents: true
+authorId: kitchenpot1
 title: 6 Best Food Processor Under $ 100
+source: Food Processor
 slug: best-food-processor-under-100
 pubDate: 2020-06-27
 modDate: 2025-02-03
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/The-Best-Food-Processor-Under-100.1..jpg
+category: Kitchenware
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 6 Best Food Processor Under $ 100
-description: >-
-  It can be overwhelming to find an affordable food processor that meets your
-  needs, but this article aims to simplify the process for you. By carefully
-  reviewing the best food processors under title: 6 Best Food Processor Under $ 100
 tags:
   - best-blenders
   - best-food-processors
   - blenders-for-smoothies
-category: Kitchenware
-seo: >-
-  It is essential to have the best food processor in your kitchen if you want
+authorImageAlt: kitchenpot1
+description: "It can be overwhelming to find an affordable food processor that
+  meets your needs, but this article aims to simplify the process for you. By
+  carefully reviewing the best food processors under title: 6 Best Food
+  Processor Under $ 100"
+seo: It is essential to have the best food processor in your kitchen if you want
   fun-filled cooking escapades. It helps you to grind, slice, and dice your
   food. Here's an all-inclusive buying guide00, it provides a detailed analysis
   of each product's pros and cons
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 It is [essential](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy//) to have the best food processor in your kitchen if you want fun-filled cooking escapades. It helps you to grind, slice, and dice your food items without a hassle, thus saving you energy and time.
