@@ -1,35 +1,37 @@
 ---
+excerpt: "Sardel cookware review: Is it worthwhile? This review dives into
+  quality, craftsmanship, and cooking results, dishing out the honest verdict.
+  Read on. "
+showTableOfContents: true
+authorId: kitchenpot1
 title: Sardel Cookware Review - Is this Direct-to-Consumer Brand Worth Your Money?
+source: Cookware
 slug: sardel-cookware-review-is-this-direct-to-consumer-brand-worth-your-money
 pubDate: 2021-06-03
 modDate: 2025-01-16
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Sardel_FinalEdit_40119-13-1.jpg
+category: Pans And Pots
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: Sardel Cookware Review - Is this Direct-to-Consumer Brand Worth Your Money?
-description: >-
-  No kitchen is complete without a stainless steel cookware set, and Sardel has
-  taken this a step further with their hand-crafted, modern twist designs. Their
-  cookware sets offer top-notch heat conductivity and distribution, making
-  cooking a breeze with their
 tags:
   - circulon-cookware
   - le-creuset-skillet
   - nonstick-pans
-category: Pans And Pots
-seo: >-
-  If you intend to upgrade your kitchen arsenal, you need to shop for a cookware
-  that meets all your needs. This Sardel cookware review gives an honest review
-  on the pans.
+authorImageAlt: kitchenpot1
+description: No kitchen is complete without a stainless steel cookware set, and
+  Sardel has taken this a step further with their hand-crafted, modern twist
+  designs. Their cookware sets offer top-notch heat conductivity and
+  distribution, making cooking a breeze with their
+seo: If you intend to upgrade your kitchen arsenal, you need to shop for a
+  cookware that meets all your needs. This Sardel cookware review gives an
+  honest review on the pans.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 No matter how hard you try, your kitchen will be incomplete without a stainless steel cookware set.
