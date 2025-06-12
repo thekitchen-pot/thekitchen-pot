@@ -1,35 +1,38 @@
 ---
+excerpt: Nothing beats perfect iced tea in summer. Here’s how to use Mr. Coffee
+  iced tea maker to brew a cup of your best beverage effortlessly. It’s quick
+  and easy!
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Use Mr. Coffee Iced Tea Maker - 6 Simple Steps
+source: How To
 slug: how-to-use-mr-coffee-iced-tea-maker
 pubDate: 2020-10-13
 modDate: 2025-02-15
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Coffee-Coffee.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Use Mr. Coffee Iced Tea Maker - 6 Simple Steps
-description: >-
-  Fall/autumn is a time of joy, with warm weather and beautiful sunrises to
-  refresh you after enduring long winter days. To fully enjoy the season,
-  consider indulging in cold, refreshing tea. The Mr. Coffee Iced Tea Maker
 tags:
   - best-coffee-maker-with-grinders
   - best-iced-tea-makers
   - ice-makers
   - keurig-coffee-makers
-category: How To Guides
-seo: >-
-  If you love iced tea, then it is time you consider owning an iced tea maker.
-  This article provides an elaborate guide on how to use Mr. Coffee Iced Tea
-  Maker. Read on for more.
+authorImageAlt: kitchenpot1
+description: Fall/autumn is a time of joy, with warm weather and beautiful
+  sunrises to refresh you after enduring long winter days. To fully enjoy the
+  season, consider indulging in cold, refreshing tea. The Mr. Coffee Iced Tea
+  Maker
+seo: If you love iced tea, then it is time you consider owning an iced tea
+  maker. This article provides an elaborate guide on how to use Mr. Coffee Iced
+  Tea Maker. Read on for more.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 The joy that comes with [fall/autumn](https://en.wikipedia.org/wiki/Autumn) is unrivaled. The warm weather and the spectacular sight of sunrise are incredibly refreshing. Considering that you’ve endured the long winter days, too much heat can lead to a little discomfort. 
