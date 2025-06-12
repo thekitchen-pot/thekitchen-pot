@@ -1,35 +1,37 @@
 ---
+excerpt: "New to smoking and ready to smoke like a pro?? Check out these best
+  offset smokers for beginners. They are easy to use & affordable, guaranteeing
+  tasty BBQ.  "
+showTableOfContents: true
+authorId: kitchenpot1
 title: 6 Best Offset Smoker for Beginners- All-Inclusive Guide
+source: Smoker
 slug: best-offset-smoker-for-beginners
 pubDate: 2020-10-29
 modDate: 2025-02-01
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Best-Offset-Smokers.jpg
+category: Gas And Charcoal Grills
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 6 Best Offset Smoker for Beginners- All-Inclusive Guide
-description: >-
-  Are you a novice BBQ enthusiast eager to impress your family with delicious
-  smoked meats? Starting with the best offset smoker for beginners is key! These
-  smokers use charcoal and wood chips to infuse a unique smoky flavor into your
-  meats while maintaining a consistent temperature
 tags:
   - best-gas-grills-under-500
   - gas-and-charcoal-grill-combo
   - meat-thermometer-for-smoking
-category: Gas And Charcoal Grills
-seo: >-
-  If you need exceptional meat smoking experience, you should consider buying
+authorImageAlt: kitchenpot1
+description: Are you a novice BBQ enthusiast eager to impress your family with
+  delicious smoked meats? Starting with the best offset smoker for beginners is
+  key! These smokers use charcoal and wood chips to infuse a unique smoky flavor
+  into your meats while maintaining a consistent temperature
+seo: If you need exceptional meat smoking experience, you should consider buying
   the best offset smoker for beginners. Own one and start grilling your meat
   like a pro!
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Do you desire to make the tastiest BBQ for your family but you’re new to the game? Well, it all starts by owning the **[best offset smoker for beginners](https://shareasale.com/r.cfm?b=1450846&u=2750617&m=93090&urllink=&afftrack=)**!
