@@ -1,35 +1,37 @@
 ---
+excerpt: "Is Le Creuset’s price justified? Should you buy the premium cast iron
+  cookware? We test its heat retention, durability and cooking performance to
+  help you decide. "
+showTableOfContents: true
+authorId: kitchenpot1
 title: Le Creuset Cast Iron Skillet - Is it Worth It?
+source: Skillet
 slug: le-creuset-cast-iron-skillet
 pubDate: 2021-01-19
 modDate: 2025-01-27
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Le-Creuset-Price.jpg
+category: Kitchenware
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: Le Creuset Cast Iron Skillet - Is it Worth It?
-description: >-
-  Le Creuset cast iron skillets are not cheap. But are they worth the
-  investment? This article offers comprehensive Le Creuset cast iron skillet
-  reviews. Read on
 tags:
   - best-non-stick-pans
   - best-saute-pans
   - best-skillets
   - frying-pan-vs-skillet
-category: Kitchenware
-seo: >-
-  Le Creuset cast iron skillets are not cheap. But are they worth the
+authorImageAlt: kitchenpot1
+description: Le Creuset cast iron skillets are not cheap. But are they worth the
   investment? This article offers comprehensive Le Creuset cast iron skillet
   reviews. Read on
+seo: Le Creuset cast iron skillets are not cheap. But are they worth the
+  investment? This article offers comprehensive Le Creuset cast iron skillet
+  reviews. Read on
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 What comes to your mind when you hear about Le Creuset cast iron skillet? For many, this [brand](https://en.wikipedia.org/wiki/Le_Creuset) is associated with sophistication, elegance, and bold pricing.  
