@@ -1,34 +1,37 @@
 ---
+excerpt: "Want crispier fries? Skip the oil! Our tested method using just frozen
+  fries and this surprising technique delivers crunchier results than deep
+  frying.  "
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Cook Frozen French Fries in an Air Fryer - A Complete Guide
+source: How To
 slug: how-to-cook-frozen-french-fries-in-an-air-fryer
 pubDate: 2020-06-28
 modDate: 2025-02-01
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/how-to-cook-frozen-fries.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Cook Frozen French Fries in an Air Fryer - A Complete Guide
-description: >-
-  Are you tired of the same old French fries from fast food restaurants? Learn
-  how to cook frozen French fries in an air fryer and enjoy crispier, tastier
-  fries in just 15-20 minutes. Say goodbye to long waits and unhealthy oil
 tags:
   - best-air-fryers-under-100
   - best-non-stick-pans
   - best-oil-for-air-fryer
-category: How To Guides
-seo: >-
-  Do you want to learn unmatched tips on how to cook frozen french fries in an
-  air fryer? Well, this article will provide an elaborate guide. Read on for
+authorImageAlt: kitchenpot1
+description: Are you tired of the same old French fries from fast food
+  restaurants? Learn how to cook frozen French fries in an air fryer and enjoy
+  crispier, tastier fries in just 15-20 minutes. Say goodbye to long waits and
+  unhealthy oil
+seo: Do you want to learn unmatched tips on how to cook frozen french fries in
+  an air fryer? Well, this article will provide an elaborate guide. Read on for
   more.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Are you tired of buying French fries in fast food restaurants? Well, you’ll undoubtedly turn the situation around when you learn how to cook frozen French fries in an [air fryer](https://thekitchenpot.com/blog/best-air-fryers-under-100//)!
