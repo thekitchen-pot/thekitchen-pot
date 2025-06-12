@@ -1,37 +1,39 @@
 ---
+excerpt: Ready to smoke like a pro? Learn how to use Masterbuilt electric smoker
+  in 5 simple steps that make BBQ brilliance effortlessly. It’s a must-have for
+  any meat lover.
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Use Masterbuilt Electric Smoker - 5 Simple Steps
+source: How To
 slug: how-to-use-masterbuilt-electric-smoker
 pubDate: 2021-01-26
 modDate: 2025-02-12
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Masterbuilt-1.jpg
+category: Gas And Charcoal Grills
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Use Masterbuilt Electric Smoker - 5 Simple Steps
-description: >-
-  If you're new to using the Masterbuilt electric smoker, don't worry! This
-  guide has you covered with essential tips to achieve fantastic results.
-  Remember to season your smoker first for safety and enhanced efficacy. Also,
-  ensure you preheat it properly before
 tags:
   - best-smoker-box-for-gas-grills
   - charcoal-and-gas-grill-combo
   - how-to-use-electric-smoker
   - infrared-grills-for-the-money
   - offset-smokers-for-beginners
-category: Gas And Charcoal Grills
-seo: >-
-  Wondering how to use Masterbuilt electric smoker? While it may appear
+authorImageAlt: kitchenpot1
+description: If you're new to using the Masterbuilt electric smoker, don't
+  worry! This guide has you covered with essential tips to achieve fantastic
+  results. Remember to season your smoker first for safety and enhanced
+  efficacy. Also, ensure you preheat it properly before
+seo: Wondering how to use Masterbuilt electric smoker? While it may appear
   complicated at first, this guide will simplify it for you. Read on and smoke
   your meat like a pro!
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 If grilling and smoking meat is your forte, then you’ll opine that the Masterbuilt electric smoker is a game-changer. The dynamic appliance is, by far, the most convenient and efficient smoker you’ll find in the market today.
