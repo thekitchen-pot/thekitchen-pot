@@ -1,35 +1,37 @@
 ---
+excerpt: The secret to perfect grilling is here! Explore the best infrared
+  grills for the money that deliver high heat and juicy steaks. Your patio
+  deserves this.
+showTableOfContents: true
+authorId: kitchenpot1
 title: 7 Best Infrared Grills for the Money
+source: Grill
 slug: best-infrared-grills-for-the-money
 pubDate: 2020-10-13
 modDate: 2025-01-25
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/7-best-infrared-grills.jpg
+category: Gas And Charcoal Grills
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 7 Best Infrared Grills for the Money
-description: >-
-  If you're a fan of perfectly grilled barbecue, the best infrared grills for
-  the money can enhance your cooking experience. This article covers everything
-  you need to know about how these grills work, their key features, and the top
-  options available in the
 tags:
   - best-air-fryers
   - best-gas-grills-under-500
   - gas-and-charcoal-grill-combo
-category: Gas And Charcoal Grills
-seo: >-
-  If you're want to transform your grilling experiences, then it is time you
+authorImageAlt: kitchenpot1
+description: If you're a fan of perfectly grilled barbecue, the best infrared
+  grills for the money can enhance your cooking experience. This article covers
+  everything you need to know about how these grills work, their key features,
+  and the top options available in the
+seo: If you're want to transform your grilling experiences, then it is time you
   consider the best infrared grills for the money. Here's are the benefits
   you'll get by buying one! Read on for an all-inclusive guide.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 I’m not sure about your preferences when it comes to barbecue, but I sure enjoy mine grilled to sublimity. To achieve the special taste, the best infrared grills for the money come in handy.
