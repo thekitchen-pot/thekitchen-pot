@@ -1,36 +1,37 @@
 ---
+excerpt: "Apple juice vs. apple cider: What’s the difference? One is filtered &
+  sweet, the other is tangy & rustic. Know which to use for baking, drinking &
+  cocktails! "
+showTableOfContents: true
+authorId: kitchenpot1
 title: What Is the Difference Between Apple Juice and Apple Cider?
+source: How To
 slug: difference-between-apple-juice-and-apple-cider
 pubDate: 2020-10-05
 modDate: 2025-01-23
+image: src/content/blog/images/what-is-the-difference-between-apple-juice-and-apple-cider-chowhound.png
+category: How To Guides
 author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
 authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
-image: >-
-  src/content/blog/images/what-is-the-difference-between-apple-juice-and-apple-cider-chowhound.png
 coverAlt: What Is the Difference Between Apple Juice and Apple Cider?
-description: >-
-  When fall arrives, it's the perfect time to indulge in juicing, with apples
-  offering fantastic options like apple cider and apple juice. This article
-  explores the differences between the two beverages, from their processing to
-  nutritional values, helping you make an informed choice
 tags:
   - best-blenders
   - best-juicers
   - best-masticating-juicers
-category: How To Guides
-seo: >-
-  What is the difference between apple juice and apple cider? Here is a
+authorImageAlt: kitchenpot1
+description: When fall arrives, it's the perfect time to indulge in juicing,
+  with apples offering fantastic options like apple cider and apple juice. This
+  article explores the differences between the two beverages, from their
+  processing to nutritional values, helping you make an informed choice
+seo: What is the difference between apple juice and apple cider? Here is a
   step-by-step guide on what you should know before you choose one. It offers a
   comprehensive guide on all the similarities and differences
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 When it’s fall, it is time to enjoy juicing. Apples offer phenomenal juicing options, with the most common ones being apple cider and apple juice.
