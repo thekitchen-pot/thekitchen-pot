@@ -1,33 +1,36 @@
 ---
+excerpt: How to cook sausages in an oven instead of deep frying? Our tested
+  sausage oven cooking tricks (plus how to tell when they're safely done) for
+  crispier skins.
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Cook Sausages in the Oven
+source: How To
 slug: how-to-cook-sausages-in-the-oven
 pubDate: 2021-02-02
 modDate: 2025-02-05
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Sausages-1.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Cook Sausages in the Oven
-description: >-
-  If you're in a hurry and hungry, consider cooking sausages in the oven for a
-  quick and delicious meal. This method offers a unique taste and evenly cooked
-  sausages within just 30 minutes. Plus, it's a healthier option compared
 tags:
   - air-fryers
   - how-air-fryer-works
   - how-to-bake-cookies-on-convection-oven
-category: How To Guides
-seo: >-
-  Are you in a hurry and hungry? This article offers unique hacks on how to cook
-  sausages in the oven. You'll have your snack in 15 minutes!
+authorImageAlt: kitchenpot1
+description: If you're in a hurry and hungry, consider cooking sausages in the
+  oven for a quick and delicious meal. This method offers a unique taste and
+  evenly cooked sausages within just 30 minutes. Plus, it's a healthier option
+  compared
+seo: Are you in a hurry and hungry? This article offers unique hacks on how to
+  cook sausages in the oven. You'll have your snack in 15 minutes!
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Are you in a hurry and hungry? If so, then you should consider cooking sausages since they offer a quick fix. Within a few minutes, you’ll be enjoying your sausage delicacy – either plain or with your favorite dessert.
