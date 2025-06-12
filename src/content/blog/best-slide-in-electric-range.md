@@ -1,31 +1,34 @@
 ---
-title: 8 Best Slide-In Electric Range Under 100
+excerpt: On a budget but still craving sleek cooking power? These best slide-in
+  electric range under $1000 models strike the perfect balance, offering
+  precision, ease, and value.
+showTableOfContents: true
+authorId: kitchenpot1
+title: 8 Best Slide-In Electric Range Under 1000
+source: Electric Range
 slug: best-slide-in-electric-range
 pubDate: 2020-06-07
 modDate: 2025-02-10
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Electric-range.jpeg
+category: Cookware Equipment
+author: Boniface Muriuki
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 8 Best Slide-In Electric Range Under 100
-description: >-
-  Looking for the best slide-in electric range to enhance your kitchen? This
-  article provides a detailed overview of top models along with a buying guide
-  to help you make the right choice. From power and size considerations to
-  unique features and design, we cover everything you
 tags:
   - electric-range
   - free-standing-electric-range
   - slide-in-electric-range
-category: Cookware Equipment
+authorImageAlt: kitchenpot1
+description: Looking for the best slide-in electric range to enhance your
+  kitchen? This article provides a detailed overview of top models along with a
+  buying guide to help you make the right choice. From power and size
+  considerations to unique features and design, we cover everything you
 ---
 
 Buying the best slide-in [electric range](https://en.wikipedia.org/wiki/Electric_stove) can bring a refined look to your kitchen! While this is not an everyday activity, you may have to choose your best slide-in electric range once or twice in your life!
