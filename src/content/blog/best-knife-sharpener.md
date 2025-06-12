@@ -1,34 +1,36 @@
 ---
+excerpt: Tired of struggling with blunt blades? The best knife sharpener brings
+  your knives back to life fast. Easy, effective & worth every penny - slice
+  with confidence again!
+showTableOfContents: true
+authorId: kitchenpot1
 title: 7 Best Knife Sharpener - Which One is Best for You?
+source: Knives
 slug: best-knife-sharpener
 pubDate: 2020-07-13
 modDate: 2025-02-05
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Knife-Sharpener.jpg
+category: Kitchenware
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 7 Best Knife Sharpener - Which One is Best for You?
-description: >-
-  Having the best knife sharpener in your kitchen can significantly reduce your
-  cook time and enhance your overall cooking experience. You need a sharp knife
-  set to efficiently handle various kitchen tasks, and having a functional knife
-  sharpener is crucial for maintaining the sharpness of
 tags:
   - best-knife-sets
   - kitchen-knife
-category: Kitchenware
-seo: >-
-  Buying the best knife sharpener will reduce your prep time significantly.
+authorImageAlt: kitchenpot1
+description: Having the best knife sharpener in your kitchen can significantly
+  reduce your cook time and enhance your overall cooking experience. You need a
+  sharp knife set to efficiently handle various kitchen tasks, and having a
+  functional knife sharpener is crucial for maintaining the sharpness of
+seo: Buying the best knife sharpener will reduce your prep time significantly.
   You'll have an easy time cutting and chopping your ingredients, thus improving
   your cooking experience.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Having the best knife sharpener in your kitchen is the surest way of reducing your cook time and enjoying every minute of it.
