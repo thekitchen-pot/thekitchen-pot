@@ -1,37 +1,39 @@
 ---
+excerpt: "Indoor grilling without smoke? Our Gotham Steel Smokeless Grill review
+  tests its titanium coating, drip tray & claims. Crispy burgers, but is it
+  truly smokeless? "
+showTableOfContents: true
+authorId: kitchenpot1
 title: Gotham Steel Smokeless Grill Review - Is It Really Smokeless?
+source: Grill
 slug: gotham-steel-smokeless-grill-review
 pubDate: 2021-01-24
 modDate: 2025-02-20
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Gotham-Steel-Smokeless-Grill.jpg
+category: Gas And Charcoal Grills
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: Gotham Steel Smokeless Grill Review - Is It Really Smokeless?
-description: >-
-  If you're new to grilling and looking for the perfect smokeless grill, the
-  Gotham Steel Smokeless Grill might be the solution you need. This grill offers
-  a nonstick ceramic surface, fast heat-up, and easy cleaning, making it a
-  convenient
 tags:
   - gas-and-charcoal-grill-combo
   - infrared-grills-for-the-money
   - ninja-foodi
   - offset-smokers-for-beginners
   - propane-grills
-category: Gas And Charcoal Grills
-seo: >-
-  Smokeless grills are revolutionary. They help you grill your BBQ at the
+authorImageAlt: kitchenpot1
+description: If you're new to grilling and looking for the perfect smokeless
+  grill, the Gotham Steel Smokeless Grill might be the solution you need. This
+  grill offers a nonstick ceramic surface, fast heat-up, and easy cleaning,
+  making it a convenient
+seo: Smokeless grills are revolutionary. They help you grill your BBQ at the
   comfort of your kitchen with no worry of smoke. This Gotham steel smokeless
   grill review seeks to separate the facts from fiction on smokeless technology.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 If you’re new to the world of grilling, choosing the right grill among a sea of available options is an uphill task.
