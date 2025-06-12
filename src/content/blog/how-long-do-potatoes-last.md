@@ -1,35 +1,37 @@
 ---
+excerpt: How Long Do Potatoes Last? Well, it depends but definitely longer than
+  you think—if you follow our clever, storage-saving tips for pantry-perfect
+  potatoes.
+showTableOfContents: true
+authorId: kitchenpot1
 title: How Long Do Potatoes Last? Unique Storage Tips
+source: How To
 slug: how-long-do-potatoes-last
 pubDate: 2021-01-31
 modDate: 2025-02-13
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/how-long-do-potatoes-last-1020x510-1.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How Long Do Potatoes Last? Unique Storage Tips
-description: >-
-  Potatoes are a staple in many households but understanding how to store them
-  properly is essential to prevent spoilage. Factors such as storage conditions
-  and whether they are cooked or raw play a significant role in their
-  shelf-life. This article provides valuable insights on how
 tags:
   - best-airtight-containers
   - how-long-should-a-chicken-last-in-a-fridge
   - how-to-bake-cookies-on-convection-oven
-category: How To Guides
-seo: >-
-  How long do potatoes last? Do potatoes go bad? If you've been wondering how to
-  store potatoes to keep them fresh, then here are the three best storage
+authorImageAlt: kitchenpot1
+description: Potatoes are a staple in many households but understanding how to
+  store them properly is essential to prevent spoilage. Factors such as storage
+  conditions and whether they are cooked or raw play a significant role in their
+  shelf-life. This article provides valuable insights on how
+seo: How long do potatoes last? Do potatoes go bad? If you've been wondering how
+  to store potatoes to keep them fresh, then here are the three best storage
   techniques that work
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 While potatoes are classified as perishable, they have a relatively longer shelf-life than most food substances.
