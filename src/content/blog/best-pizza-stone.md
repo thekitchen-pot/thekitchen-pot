@@ -1,34 +1,36 @@
 ---
+excerpt: "Love pizza? Check out the best pizza stones and master homemade pizza
+  with our comprehensive buying guide. Achieve crispy, mouth-watering pizzas
+  easily. "
+showTableOfContents: true
+authorId: kitchenpot1
 title: 6 Best Pizza Stones for Irresistible pizzas- An All-Inclusive Guide
+source: Baking
 slug: best-pizza-stone
 pubDate: 2020-08-03
 modDate: 2025-02-13
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Best-Pizza-Stone.jpg
+category: Bakeware
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 6 Best Pizza Stones for Irresistible pizzas- An All-Inclusive Guide
-description: >-
-  Are you looking to save money while still enjoying your favorite pizza?
-  Consider investing in a quality pizza stone to make delicious pizzas at home.
-  By using a pizza stone, you can impress your friends and family with
-  oven-fired pizzas without the need to splurge
 tags:
   - best-grills-under-500
   - gas-grills-and-charcoal-combo
-category: Bakeware
-seo: >-
-  Looking for the best pizza stones? Well, getting one will certainly make pizza
-  making a breeze. This guide helps you to understand what to look out for when
-  shopping
+authorImageAlt: kitchenpot1
+description: Are you looking to save money while still enjoying your favorite
+  pizza? Consider investing in a quality pizza stone to make delicious pizzas at
+  home. By using a pizza stone, you can impress your friends and family with
+  oven-fired pizzas without the need to splurge
+seo: Looking for the best pizza stones? Well, getting one will certainly make
+  pizza making a breeze. This guide helps you to understand what to look out for
+  when shopping
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Are you aware that you can make your pizza at your convenience? Well, all that you need to achieve this milestone is the best pizza stone! 
