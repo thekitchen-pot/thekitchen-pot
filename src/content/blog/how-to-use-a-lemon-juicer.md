@@ -1,36 +1,38 @@
 ---
+excerpt: "Get every drop of lemon juice using these tested and proven juicing
+  methods. No waste, no seeds, maximum flavor. Best for mixologists & home
+  cooks!  "
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Use a Lemon Juicer Perfectly - 3 Best Methods
+source: How To
 slug: how-to-use-a-lemon-juicer
 pubDate: 2020-06-02
 modDate: 2025-01-27
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Lemon-juicer.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Use a Lemon Juicer Perfectly - 3 Best Methods
-description: >-
-  For many cooks, using a lemon squeezer can be a challenging task, leading to
-  lengthy and cumbersome juicing experiences. This article provides step-by-step
-  guidance on how to use different types of lemon juicers, such as citrus
-  juicers, m
 tags:
   - how-to-juice-lemons
   - lemon-juicer
   - lemon-squeezer
   - orange-squeezer
-category: How To Guides
-seo: >-
-  If you're wondering how to use a lemon juicer perfectly, then this guide
+authorImageAlt: kitchenpot1
+description: For many cooks, using a lemon squeezer can be a challenging task,
+  leading to lengthy and cumbersome juicing experiences. This article provides
+  step-by-step guidance on how to use different types of lemon juicers, such as
+  citrus juicers, m
+seo: If you're wondering how to use a lemon juicer perfectly, then this guide
   offers you unmatched tips that'll revolutionize your juicing experience. Read
   on!
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Whether you’re making a sour or sweet lemon dessert, a citrus salad dressing, or preparing a fresh batch of lemonade, the chances are that you’ll be using a handheld lemon squeezer. However, how to use a lemon juicer perfectly is a constantly pain for many cooks!
