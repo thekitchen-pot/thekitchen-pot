@@ -1,35 +1,38 @@
 ---
-title: 'How to Use Egg Poachers: Top 3 Reliable Techniques'
+excerpt: Want the perfect poach? This guide shows how to use egg poachers for
+  silky, dreamy eggs every time. It makes breakfast faster, cleaner, and
+  tastier.
+showTableOfContents: true
+authorId: kitchenpot1
+title: "How to Use Egg Poachers: Top 3 Reliable Techniques"
+source: How To
 slug: how-to-use-egg-poachers
 pubDate: 2020-05-12
 modDate: 2025-01-25
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/poached-egg.jpg
-coverAlt: 'How to Use Egg Poachers: Top 3 Reliable Techniques'
-description: >-
-  If you're tired of the traditional, tiresome method of poaching eggs, using an
-  egg poacher is the way to go! This article provides a step-by-step guide on
-  how to use different types of egg poachers, such as silicone,
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
+coverAlt: "How to Use Egg Poachers: Top 3 Reliable Techniques"
 tags:
   - benefits-of-poached-eggs
   - best-egg-poachers
   - egg-poachers
   - poached-eggs
-category: How To Guides
-seo: >-
-  Want to get perfectly poached eggs without a hassle? Here's a comprehensive
+authorImageAlt: kitchenpot1
+description: If you're tired of the traditional, tiresome method of poaching
+  eggs, using an egg poacher is the way to go! This article provides a
+  step-by-step guide on how to use different types of egg poachers, such as
+  silicone,
+seo: Want to get perfectly poached eggs without a hassle? Here's a comprehensive
   guide on how to use egg poachers to make the best eggs for your family! Read
   on to understand.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 You’re probably wondering how to [poach eggs](https://en.wikipedia.org/wiki/Poached_egg) like a professional. Well, the process is easier said than done! And that’s why you should use an egg poacher! This article gives a step-by-step guide on how to use egg poachers. 
