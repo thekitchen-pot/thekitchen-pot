@@ -1,31 +1,34 @@
 ---
+excerpt: "Chop, rinse, and prep with ease using the best over the sink cutting
+  board. They are creatively designed to maximize space and reduce kitchen
+  mess.  "
+showTableOfContents: true
+authorId: kitchenpot1
 title: 10 Best Over the Sink Cutting Board to Make Food Prep a Breeze
+source: Cutting Board
 slug: best-over-the-sink-cutting-board
 pubDate: 2020-06-27
 modDate: 2025-02-20
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/cutting-boards.jpg
+category: Cookware Equipment
+author: Boniface Muriuki
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 10 Best Over the Sink Cutting Board to Make Food Prep a Breeze
-description: >-
-  If you're looking to expand your cutting space and make meal prep more
-  efficient, consider investing in the best over the sink cutting board. These
-  boards come with colanders for draining excess liquid and can even store
-  veggies as you cut them, saving you time
 tags:
   - cutting-boards
   - knife-sets-under-100
   - sinks
-category: Cookware Equipment
+authorImageAlt: kitchenpot1
+description: If you're looking to expand your cutting space and make meal prep
+  more efficient, consider investing in the best over the sink cutting board.
+  These boards come with colanders for draining excess liquid and can even store
+  veggies as you cut them, saving you time
 ---
 
 Do you want more cutting space when preparing your meals? Well, buying the best over the sink cutting board is a brilliant way to expand your cutting space over your sink.
