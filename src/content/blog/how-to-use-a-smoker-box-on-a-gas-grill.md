@@ -1,35 +1,36 @@
 ---
-title: >-
-  How to Use a Smoker Box on a Gas Grill - 2 Unique Methods and a Comprehensive
-  Guide
+excerpt: "Want smoky BBQ without a smoker? Yes, you can. Learn how to use a
+  smoker box on a gas grill with two simple methods that deliver incredible
+  smoky taste. "
+showTableOfContents: true
+authorId: kitchenpot1
+title: How to Use a Smoker Box on a Gas Grill - 2 Unique Methods and a
+  Comprehensive Guide
+source: How To
 slug: how-to-use-a-smoker-box-on-a-gas-grill
 pubDate: 2020-05-25
 modDate: 2025-02-13
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/how-to-use-a-smoker-box.jpg
-coverAlt: >-
-  How to Use a Smoker Box on a Gas Grill - 2 Unique Methods and a Comprehensive
-  Guide
-description: >-
-  Are you tired of missing out on the delicious smoky flavor in your
-  home-grilled meals? With a gas grill, you can still achieve that mouthwatering
-  taste by using a smoker box. Follow the step-by-step guide provided to level
-  up your
+category: How To Guides
+author: Boniface Muriuki
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
+authorImage: /images/authors/chris-thompson.png
+coverAlt: How to Use a Smoker Box on a Gas Grill - 2 Unique Methods and a
+  Comprehensive Guide
 tags:
   - gas-grills
   - propane-and-charcoal-grills
   - smoker-box
-category: How To Guides
+authorImageAlt: kitchenpot1
+description: Are you tired of missing out on the delicious smoky flavor in your
+  home-grilled meals? With a gas grill, you can still achieve that mouthwatering
+  taste by using a smoker box. Follow the step-by-step guide provided to level
+  up your
 ---
 
 Purchasing a gas grill brings hope that you’ll finally enjoy home-made grilled meals. However, you should know how to use a smoker box on a gas grill to give your meals that fine smoke taste!
