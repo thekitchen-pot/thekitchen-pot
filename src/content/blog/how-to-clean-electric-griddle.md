@@ -1,35 +1,37 @@
 ---
+excerpt: "Tired of greasy griddle residue? Use this restaurant-kitchen method
+  for sparkling clean electric griddles using only paper towels and this pantry
+  staple. "
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Clean Electric Griddle Fast - A Complete Guide
+source: How To
 slug: how-to-clean-electric-griddle
 pubDate: 2020-05-31
 modDate: 2025-02-13
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Clean-a-griddle.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Clean Electric Griddle Fast - A Complete Guide
-description: >-
-  Are you struggling with cleaning your electric griddle after preparing
-  delicious meals at home? Don't worry, maintaining your griddle clean is
-  essential to prolong its lifespan, and the cleaning process doesn't have to be
-  challenging. By following simple steps using items like
 tags:
   - best-electric-griddles
   - clean-electric-griddle
   - cleaning-greasy-griddles
-category: How To Guides
-seo: >-
-  Wondering on how to clean electric griddle? Well, there are myriad ways you
+authorImageAlt: kitchenpot1
+description: Are you struggling with cleaning your electric griddle after
+  preparing delicious meals at home? Don't worry, maintaining your griddle clean
+  is essential to prolong its lifespan, and the cleaning process doesn't have to
+  be challenging. By following simple steps using items like
+seo: Wondering on how to clean electric griddle? Well, there are myriad ways you
   can use to make the equipment sparkling clean. Here's a comprehensive guide
   that'll revolutionize your cleaning process.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Did you know that you can prepare Hamburgers, pancakes, and [Paninis](https://www.foodnetwork.com/recipes/articles/50-panini) at home without a hassle? Well, all you need is an electric griddle! Despite its benefits, how to clean electric griddle fast is a headache for many kitchen lovers! If you’re in such a situation, then this guide is for you! 
