@@ -1,35 +1,37 @@
 ---
+excerpt: What is a double boiler & how does it work? Simple steps to use one for
+  custards, ganache & more without scorching. Perfect for melting, sauces &
+  delicate recipes.
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Use a Double Boiler
+source: How To
 slug: how-to-use-a-double-boiler
 pubDate: 2021-01-26
 modDate: 2025-01-16
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Homemade-Double-Boiler-500x334-2.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Use a Double Boiler
-description: >-
-  If you've ever struggled with melting chocolate over high heat, you're not
-  alone. Investing in a double boiler can help you gently and evenly heat food
-  items like chocolate without the risk of it lumping up. This article provides
-  a comprehensive guide on how
 tags:
   - air-fryers
   - double-boiler
   - fondue-pot
-category: How To Guides
-seo: >-
-  Wondering how to use a double boiler? Well, this kitchen appliance is helpful
-  when cooking food items that require slow cooking under low temperature.
-  Here's everything you need to know.
+authorImageAlt: kitchenpot1
+description: If you've ever struggled with melting chocolate over high heat,
+  you're not alone. Investing in a double boiler can help you gently and evenly
+  heat food items like chocolate without the risk of it lumping up. This article
+  provides a comprehensive guide on how
+seo: Wondering how to use a double boiler? Well, this kitchen appliance is
+  helpful when cooking food items that require slow cooking under low
+  temperature. Here's everything you need to know.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Have you ever tried melting chocolate over high heat? Well, this will almost always end up in disappointment. Your chocolate is likely to become a lump!
