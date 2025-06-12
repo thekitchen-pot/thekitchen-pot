@@ -1,37 +1,38 @@
 ---
+excerpt: How much juice in one lemon? More than you think! Our guide shows how
+  to pick the juiciest lemons and extract maximum liquid with zero waste.
+showTableOfContents: true
+authorId: kitchenpot1
 title: How Much Juice is in One Lemon?
+source: How To
 slug: how-much-juice-is-in-one-lemon
 pubDate: 2021-02-09
 modDate: 2025-02-06
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/How-Much-Juice-Is-In-One-Lemon-1021x500-1.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How Much Juice is in One Lemon?
-description: >-
-  Lemons are a versatile fruit with many crucial roles, from cleaning cookware
-  to enhancing recipes with their juice. Knowing how much juice is in one lemon
-  can help you plan your purchases and make better juicing decisions. This
-  article provides a comprehensive guide on
 tags:
   - how-to-clean-a-dishwasher
   - how-to-clean-a-keurig-coffee-maker-machine
   - how-to-clean-an-air-fryer
   - how-to-use-a-lemon-juicer
-category: How To Guides
-seo: >-
-  Wondering how much juice is in one lemon? This information will be
+authorImageAlt: kitchenpot1
+description: Lemons are a versatile fruit with many crucial roles, from cleaning
+  cookware to enhancing recipes with their juice. Knowing how much juice is in
+  one lemon can help you plan your purchases and make better juicing decisions.
+  This article provides a comprehensive guide on
+seo: Wondering how much juice is in one lemon? This information will be
   instrumental in helping you make better lemon juicing decision. It prevents
   overbuying and ensures that you enjoy juice from fresh lemons all the time.
   Here's a guide.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 A kitchen without lemon is incomplete! The small, rounded fruit has many [crucial roles](https://www.wikihow.com/Use-Lemons) ranging from cleaning stained cookware to juicing. 
