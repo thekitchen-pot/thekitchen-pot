@@ -1,35 +1,37 @@
 ---
+excerpt: Looking for the best over-the-range microwaves? These over-the-range
+  microwaves offer sleek design, smart tech, and top-tier cooking features every
+  cook will love.
+showTableOfContents: true
+authorId: kitchenpot1
 title: 7 Best Over The Range Microwaves For Every Kitchen
+source: "Microwaves "
 slug: 7-best-over-the-range-microwaves
 pubDate: 2020-07-15
 modDate: 2025-01-18
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Over-the-range-microwaves.png
+category: Kitchenware
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 7 Best Over The Range Microwaves For Every Kitchen
-description: >-
-  Over-the-range microwaves are essential for saving kitchen space and
-  maintaining organization, especially in small kitchens. These appliances offer
-  enhanced functionalities, such as roasting, preheating, and smartphone
-  control, as well as eliminating food odors. With a
 tags:
   - charcoal-and-gas-grill-combo
   - gas-grills
   - smoker-box
-category: Kitchenware
-seo: >-
-  Buying an over the range microwave will change your food-warming experience.
-  Here is a simplified guide that'll help you select the best appliance for
-  optimum results.
+authorImageAlt: kitchenpot1
+description: Over-the-range microwaves are essential for saving kitchen space
+  and maintaining organization, especially in small kitchens. These appliances
+  offer enhanced functionalities, such as roasting, preheating, and smartphone
+  control, as well as eliminating food odors. With a
+seo: Buying an over the range microwave will change your food-warming
+  experience. Here is a simplified guide that'll help you select the best
+  appliance for optimum results.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 The importance of over the range microwaves cannot be overemphasized. Unlike the countertop microwaves, these kitchen appliances are installed over your stove, thus saving your kitchen space.
