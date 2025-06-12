@@ -1,35 +1,37 @@
 ---
+excerpt: Is the Stargazer Cast Iron Skillet really the best skillet for you?
+  This review unpacks the pros, quirks, and must-know features before you make
+  the leap.
+showTableOfContents: true
+authorId: kitchenpot1
 title: Stargazer Cast Iron Skillet - Is This the Best Skillet?
+source: Skillet
 slug: stargazer-cast-iron-skillet
 pubDate: 2021-05-15
 modDate: 2025-02-26
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/stargazer-skillet-review-bottom-stamp-1.jpg
+category: Pans And Pots
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: Stargazer Cast Iron Skillet - Is This the Best Skillet?
-description: >-
-  The Stargazer cast iron skillet may not have a shiny finish, but it performs
-  exceptionally well, with no sticking or hotspots. Despite some minor drawbacks
-  like a lack of pouring lips and handles that can get hot, it offers top-notch
-  performance and
 tags:
   - le-creuset-skillet
   - lodge-cast-iron-skillet
   - staub-skillet
-category: Pans And Pots
-seo: >-
-  Stargazer cast iron skillet is lightweight, smooth, and guarantees top-notch
-  performance. I bought the pan to test its performance and here are the
-  results. Read on
+authorImageAlt: kitchenpot1
+description: The Stargazer cast iron skillet may not have a shiny finish, but it
+  performs exceptionally well, with no sticking or hotspots. Despite some minor
+  drawbacks like a lack of pouring lips and handles that can get hot, it offers
+  top-notch performance and
+seo: Stargazer cast iron skillet is lightweight, smooth, and guarantees
+  top-notch performance. I bought the pan to test its performance and here are
+  the results. Read on
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Stargazer cast iron skillet appears quite dull on unpacking – certainly not a shiny finish but a bit brighter than **[Lodge cast iron skillet.](https://thekitchenpot.com/blog/lodge-cast-iron-skillet-review//)** 
