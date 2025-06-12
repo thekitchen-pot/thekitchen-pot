@@ -1,35 +1,38 @@
 ---
+excerpt: "What can I cook in an electric skillet? The answer: almost everything!
+  Explore quick, tasty recipes from stir-fries to pancakes using just one
+  electric skillet."
+showTableOfContents: true
+authorId: kitchenpot1
 title: What Can I Cook in an Electric Skillet? 5 Irresistible Recipes
+source: How To
 slug: what-can-i-cook-in-an-electric-skillet
 pubDate: 2020-09-06
 modDate: 2025-02-27
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/What-to-cook-in-an-electric-skillet.jpg
+category: Cookware Equipment
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: What Can I Cook in an Electric Skillet? 5 Irresistible Recipes
-description: >-
-  Acquiring an electric skillet can truly enhance your cooking experience,
-  offering endless possibilities for delicious meals. From meat to vegetarian
-  dishes, pasta, and side dishes, the versatility of this appliance opens up a
-  world of culinary exploration. This article not only provides answers
 tags:
   - electric-skillet
   - griddles
   - nonstick-pans
-category: Cookware Equipment
-seo: >-
-  What can I cook in an electric skillet? Well, you'll realize that a skillet is
-  one of the most versatile cooking appliance in your kitchen. This article
+authorImageAlt: kitchenpot1
+description: Acquiring an electric skillet can truly enhance your cooking
+  experience, offering endless possibilities for delicious meals. From meat to
+  vegetarian dishes, pasta, and side dishes, the versatility of this appliance
+  opens up a world of culinary exploration. This article not only provides
+  answers
+seo: What can I cook in an electric skillet? Well, you'll realize that a skillet
+  is one of the most versatile cooking appliance in your kitchen. This article
   gives 5 best recipes you should consider.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 An electric skillet is one of the most versatile cooking appliances you’ll ever get! If you recently acquired one, you can be sure that your cooking experience will change for the better.
