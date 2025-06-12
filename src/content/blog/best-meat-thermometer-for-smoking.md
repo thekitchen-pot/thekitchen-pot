@@ -1,35 +1,37 @@
 ---
+excerpt: Want to get perfectly cooked meat without much hassle? Here are the
+  best meat thermometers for smoking to help you get perfect temps and juicy
+  results!
+showTableOfContents: true
+authorId: kitchenpot1
 title: 9 Best Meat Thermometer for Smoking
+source: Meat Smoking
 slug: best-meat-thermometer-for-smoking
 pubDate: 2020-05-25
 modDate: 2025-02-02
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/best-meat-thermometer-for-smoker-grill.jpg
+category: Gas And Charcoal Grills
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 9 Best Meat Thermometer for Smoking
-description: >-
-  If you're tired of dry overcooked meat ruining your BBQ experience, it's time
-  to invest in the best meat thermometer for smoking. This small kitchen tool
-  will help you achieve perfectly cooked and flavorful BBQ every time by
-  regulating the meat's temperature accurately.
 tags:
   - best-meat-thermometer
   - gas-grills
   - meat-smoking
-category: Gas And Charcoal Grills
-seo: >-
-  Are you looking for the best meat thermometer for smoking? This is the best
+authorImageAlt: kitchenpot1
+description: If you're tired of dry overcooked meat ruining your BBQ experience,
+  it's time to invest in the best meat thermometer for smoking. This small
+  kitchen tool will help you achieve perfectly cooked and flavorful BBQ every
+  time by regulating the meat's temperature accurately.
+seo: Are you looking for the best meat thermometer for smoking? This is the best
   decision that any kitchen enthusiast can make. Her's a comprehensive buying
   guide.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 If you love meat, you’ll agree that there is nothing as awful as dry overcooked meat. To avoid such disappointments, you should purchase the best [meat thermometer for smoking](https://en.wikipedia.org/wiki/Meat_thermometer).
