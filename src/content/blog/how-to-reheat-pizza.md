@@ -1,36 +1,38 @@
 ---
+excerpt: Wondering how to reheat pizza without the sogginess? Here are 3 best
+  methods to restore crispy crust & melty cheese. Skillet, oven & air fryer
+  tricks, and more!
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Reheat Pizza - 3 Reliable Methods
+source: How To
 slug: how-to-reheat-pizza
 pubDate: 2020-09-04
 modDate: 2025-02-18
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Reheat-pizza.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Reheat Pizza - 3 Reliable Methods
-description: >-
-  If you've ever felt the pain of throwing away leftover pizza, this article is
-  for you! It provides a comprehensive guide on how to reheat pizza without
-  losing its original taste, ensuring you never have to worry about food
-  poisoning from reheating. The
 tags:
   - air-fryer
   - best-skillet
   - how-to-bake-cookies-on-convection-oven
   - how-to-reheat-chicken-wings
-category: How To Guides
-seo: >-
-  How to reheat pizza pizza without imposing adverse health effects to your
+authorImageAlt: kitchenpot1
+description: If you've ever felt the pain of throwing away leftover pizza, this
+  article is for you! It provides a comprehensive guide on how to reheat pizza
+  without losing its original taste, ensuring you never have to worry about food
+  poisoning from reheating. The
+seo: How to reheat pizza pizza without imposing adverse health effects to your
   loved ones is a priority. That is why we have included a comprehensive guide
   on the topic.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 If you love pizza, then you understand the pain of throwing away leftover pizza. However, it is an open secret that pizza will not taste as good as when it was hot!
