@@ -1,35 +1,37 @@
 ---
+excerpt: Using cast iron on a glass stove? Avoid cracks & scratches with these
+  expert tips! Keep your cooktop pristine while enjoying heavy-duty pans. Learn
+  how now.
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Protect Glass Top Stove from Cast Iron Cookware
+source: How To
 slug: how-to-protect-glass-top-stove-from-cast-iron
 pubDate: 2020-09-09
 modDate: 2025-02-03
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Cast-Iron-on-Glass-Top.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Protect Glass Top Stove from Cast Iron Cookware
-description: >-
-  Glass top stoves can add elegance to your kitchen, but can be difficult to
-  manage, especially when using cast iron cookware. While it is not recommended
-  to use cast iron on a glass stovetop, if you choose to do so,
 tags:
   - cast-iron-pans
   - how-air-fryer-works
   - induction-cooking
   - stainless-steel-pans
-category: How To Guides
-seo: >-
-  Wondering how to protect glass top stove from cast iron cookware? Here is an
-  all-inclusive guide that offers irresistible tips. Read on for more details
+authorImageAlt: kitchenpot1
+description: Glass top stoves can add elegance to your kitchen, but can be
+  difficult to manage, especially when using cast iron cookware. While it is not
+  recommended to use cast iron on a glass stovetop, if you choose to do so,
+seo: Wondering how to protect glass top stove from cast iron cookware? Here is
+  an all-inclusive guide that offers irresistible tips. Read on for more details
   and tips.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 While glass top stoves are appealing and will add elegance to your kitchen, they can be difficult to manage. This is especially so if you are using cast iron cookware. 
