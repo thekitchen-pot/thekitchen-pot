@@ -1,35 +1,37 @@
 ---
+excerpt: "Why your eggs stick? You're cleaning ceramic pans wrong! The right
+  3-step method preserves the coating so food slides off like day one. Restore
+  the shine now! "
+showTableOfContents: true
+authorId: kitchenpot1
 title: How to Clean Ceramic Pan - 3 Interesting Techniques That Work
+source: How To
 slug: how-to-clean-ceramic-pan
 pubDate: 2020-09-04
 modDate: 2025-02-25
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Cleaning-ceramic.jpg
+category: How To Guides
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: How to Clean Ceramic Pan - 3 Interesting Techniques That Work
-description: >-
-  Have you ever wondered about the history of ceramic cookware and how it has
-  evolved over time? This article delves into the origins of ceramic pans, their
-  benefits, and advancements in modern ceramic cookware. Additionally, it
-  provides a detailed guide on how
 tags:
   - best-ceramic-cookware
   - nonstick-pans
   - spatula
-category: How To Guides
-seo: >-
-  Having adequate knowledge on how to clean ceramic pan ensures that you care
+authorImageAlt: kitchenpot1
+description: Have you ever wondered about the history of ceramic cookware and
+  how it has evolved over time? This article delves into the origins of ceramic
+  pans, their benefits, and advancements in modern ceramic cookware.
+  Additionally, it provides a detailed guide on how
+seo: Having adequate knowledge on how to clean ceramic pan ensures that you care
   for your cookware, thus guaranteeing longevity. This guide offers unique tips
   that actually work!
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 For how long have you heard about [ceramic cookware](https://thekitchenpot.com/blog/best-ceramic-cookware-set//)? If you believe that these ceramic appliances are recent, then you’re in for a shock!
