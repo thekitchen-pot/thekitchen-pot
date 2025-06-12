@@ -1,35 +1,37 @@
 ---
+excerpt: Why choose one when you can have both? Explore the best gas and
+  charcoal grill combos that deliver rich flavor, power, and unbeatable value
+  for money.
+showTableOfContents: true
+authorId: kitchenpot1
 title: Best Gas and Charcoal Grill Combo for The Money
+source: Grills
 slug: best-gas-and-charcoal-grill-combo
 pubDate: 2020-03-28
 modDate: 2025-01-18
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/The-5-Best-Gas-Charcoal-Grill-Combos-1024x536-1.jpg
+category: Gas And Charcoal Grills
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: Best Gas and Charcoal Grill Combo for The Money
-description: >-
-  As summer approaches, it's the perfect time for grilling season! Whether
-  you're planning backyard cookouts, picnics, or family gatherings, having a gas
-  and charcoal grill combo can elevate your cooking experience. These versatile
-  grills offer the best
 tags:
   - best
   - combos
   - gas-and-charcoal-grills
-category: Gas And Charcoal Grills
-seo: >-
-  Selecting the best gas and charcoal grill combo can be a grueling task
+authorImageAlt: kitchenpot1
+description: As summer approaches, it's the perfect time for grilling season!
+  Whether you're planning backyard cookouts, picnics, or family gatherings,
+  having a gas and charcoal grill combo can elevate your cooking experience.
+  These versatile grills offer the best
+seo: Selecting the best gas and charcoal grill combo can be a grueling task
   especially when you're working with a limited budget. Read here for a complete
   guide
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 Summer vacation is just around the corner, and it’s always a [grilling](https://en.wikipedia.org/wiki/Grilling) season, having fun and relaxing. When choosing an excellent way to cook pork chops or sear up steaks, you have to find the best gas and charcoal grill combo.
