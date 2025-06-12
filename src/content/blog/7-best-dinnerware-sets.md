@@ -1,35 +1,37 @@
 ---
+excerpt: Ready to refresh your table? Here are the best dinnerware sets based on
+  our tests. Our all-inclusive guide helps you pick stylish, durable, and
+  budget-friendly options.
+showTableOfContents: true
+authorId: kitchenpot1
 title: 8 Best Dinnerware Sets - With an All-Inclusive Buying Guide
+source: Dinnerware Sets
 slug: 7-best-dinnerware-sets
 pubDate: 2020-08-13
 modDate: 2025-02-06
-author: Boniface Muriuki
-authorBio: >-
-  Chef Boniface is a graduate in Culinary Arts from the Institute of Culinary
-  Education, New York. He has worked in several restaurants and is currently the
-  Head Chef at Cavali Restaurant. He has excelled in developing unique recipes
-  and influencing the menu at the restaurant. He prides himself in sharing his
-  knowledge at thekitchenpot.com where he writes about the best cookware for
-  various recipes..
-authorId: kitchenpot1
-authorImage: /images/authors/chris-thompson.png
-authorImageAlt: kitchenpot1
 image: src/content/blog/images/Best-Dinnerware-Set.jpg
+category: Kitchenware
+author: Boniface Muriuki
+authorImage: /images/authors/chris-thompson.png
 coverAlt: 8 Best Dinnerware Sets - With an All-Inclusive Buying Guide
-description: >-
-  When it comes to serving your guests, the presentation of your meals is just
-  as important as their taste. Investing in the best dinnerware sets can
-  significantly enhance the dining experience for your family. These sets
-  provide ample space to arrange different types of meals without
 tags:
   - best-coffee-maker
   - espresso-maker
   - iced-tea-maker
-category: Kitchenware
-seo: >-
-  Are you looking for the best dinnerware sets? Well, there are many materials
-  used in construction including porcelain, bone china, china, and many others.
-  Read to learn the best for you.
+authorImageAlt: kitchenpot1
+description: When it comes to serving your guests, the presentation of your
+  meals is just as important as their taste. Investing in the best dinnerware
+  sets can significantly enhance the dining experience for your family. These
+  sets provide ample space to arrange different types of meals without
+seo: Are you looking for the best dinnerware sets? Well, there are many
+  materials used in construction including porcelain, bone china, china, and
+  many others. Read to learn the best for you.
+authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
+  Culinary Education, New York. He has worked in several restaurants and is
+  currently the Head Chef at Cavali Restaurant. He has excelled in developing
+  unique recipes and influencing the menu at the restaurant. He prides himself
+  in sharing his knowledge at thekitchenpot.com where he writes about the best
+  cookware for various recipes..
 ---
 
 If you ask any top-notch chef, they’ll tell you that the most crucial part of feeding your guests is not cooking delicious meals. Yes, you read that right! 
