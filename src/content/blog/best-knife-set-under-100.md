@@ -49,13 +49,9 @@ first-hand experiences. Read on to find yourself the best knife under $100 for y
 
 There are tons of inexpensive knife sets out there but some rise above the others in quality, design, and performance. Based on my personal experience and expert recommendations, here are the top knife sets that you'll want to consider:
 
-### **Best Overall: Home Hero 17-Piece Knife Set**
+### **Best Overall: Home Hero 20-Piece Knife Set**
 
-
-
-When it comes to value, versatility,
-and design, the Home Hero 17-Piece Knife Set takes the top spot. This set
-includes everything a home cook could need — from a chef’s knife to kitchen
+When it comes to value, versatility, and design, the Home Hero 20-Piece Knife Set takes the top spot. This set includes everything a home cook could need — from a chef’s knife to kitchen
 scissors, a peeler, a sharpener, and even a stand.
 
 Features:
@@ -333,182 +329,6 @@ Many buyers are drawn to the beauty
 of this set, often receiving compliments from guests. The self-sharpening
 feature makes maintenance incredibly easy, a huge bonus for busy home cooks.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 7 Best Knife Sets Under $100 – Comparison
 
 | Image | Name                                            | Unique Features                                                                                                                                        |
@@ -627,7 +447,7 @@ The Farberware set includes:
 
 All the pieces are covered by a limited lifetime warranty against the manufacturer’s defects. It is recommended that you hand wash your knives with warm water and detergent. Ensure that you dry them before storage. 
 
-### **[3](https://www.amazon.com/Cuisinart-C77SS-15PK-15-Piece-Stainless-Hollow/dp/B00GIBKC3K?tag=kitchenpot-20)****[. Cuisinart 15-Piece Stainless Steel Knife Set](https://www.amazon.com/Cuisinart-C77SS-15PK-15-Piece-Stainless-Hollow/dp/B00GIBKC3K?tag=kitchenpot-20)**
+### **[3](https://www.amazon.com/Cuisinart-C77SS-15PK-15-Piece-Stainless-Hollow/dp/B00GIBKC3K?tag=kitchenpot-20)\*\***[. Cuisinart 15-Piece Stainless Steel Knife Set](https://www.amazon.com/Cuisinart-C77SS-15PK-15-Piece-Stainless-Hollow/dp/B00GIBKC3K?tag=kitchenpot-20)\*\*
 
 ![Best knife sets under 100](images/portablegasgrill.jpg)
 
@@ -678,7 +498,7 @@ The entire set is portable and lightweight. You can use it during your hiking an
 * Some people complain that the steak knives are not adequately curved
 * Some few rusting complains of rusting
 
-### **[4](https://www.amazon.com/Vremi-Piece-Colorful-Knife-Set/dp/B01H1ZK4ZW?tag=kitchenpot-20)****[. Vremi 10 Piece Knife Set](https://www.amazon.com/Vremi-Piece-Colorful-Knife-Set/dp/B01H1ZK4ZW?tag=kitchenpot-20)**
+### **[4](https://www.amazon.com/Vremi-Piece-Colorful-Knife-Set/dp/B01H1ZK4ZW?tag=kitchenpot-20)\*\***[. Vremi 10 Piece Knife Set](https://www.amazon.com/Vremi-Piece-Colorful-Knife-Set/dp/B01H1ZK4ZW?tag=kitchenpot-20)\*\*
 
 ![Vremi 10 Piece Knife Set](images/portablegasgrill.jpg)
 
@@ -733,7 +553,7 @@ The Vremi knife set includes the following:
 * Not sharp and cannot be used to cut bones
 * A heavy model
 
-### **[5](https://www.amazon.com/AmazonBasics-14-Piece-Knife-Block-Set/dp/B00R3Z49G6?tag=kitchenpot-20)****[. Amazonbasics Premium 14-Piece Set](https://www.amazon.com/AmazonBasics-14-Piece-Knife-Block-Set/dp/B00R3Z49G6?tag=kitchenpot-20)**
+### **[5](https://www.amazon.com/AmazonBasics-14-Piece-Knife-Block-Set/dp/B00R3Z49G6?tag=kitchenpot-20)\*\***[. Amazonbasics Premium 14-Piece Set](https://www.amazon.com/AmazonBasics-14-Piece-Knife-Block-Set/dp/B00R3Z49G6?tag=kitchenpot-20)\*\*
 
 ![Amazonbasics Premium 14-Piece Set](images/portablegasgrill.jpg)
 
@@ -776,7 +596,7 @@ More so, the ergonomic handle delivers more grip and comfort to provide control 
 
 * If you don’t dry them properly, they can develop brown patches of rust
 
-### **[6](https://www.amazon.ca/Premium-Stainless-Kitchen-Knives-Acrylic/dp/B00XKF51HY?tag=kitchenpot-20)****[. Utopia Kitchen Premium 5-Piece Set](https://www.amazon.ca/Premium-Stainless-Kitchen-Knives-Acrylic/dp/B00XKF51HY?tag=kitchenpot-20)**
+### **[6](https://www.amazon.ca/Premium-Stainless-Kitchen-Knives-Acrylic/dp/B00XKF51HY?tag=kitchenpot-20)\*\***[. Utopia Kitchen Premium 5-Piece Set](https://www.amazon.ca/Premium-Stainless-Kitchen-Knives-Acrylic/dp/B00XKF51HY?tag=kitchenpot-20)\*\*
 
 ![Utopia Kitchen Premium 5-Piece Set](images/portablegasgrill.jpg)
 
