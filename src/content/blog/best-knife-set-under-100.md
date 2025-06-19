@@ -51,6 +51,249 @@ There are tons of inexpensive knife sets out there but some rise above the other
 
 ### **Best Overall: Home Hero 20-Piece Knife Set**
 
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Knives Under $100 Review Table</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .tab-button:hover, .tab-button:focus {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        .knife-card {
+            transition: transform 0.3s ease;
+        }
+        .knife-card:hover {
+            transform: translateY(-5px);
+        }
+    </style>
+</head>
+<body class="bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-gray-200">
+    <div class="max-w-7xl mx-auto px-4 py-12">
+        <h2 class="text-3xl font-bold text-center mb-8">Best Knives Under $100</h2>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <!-- Knife Card 1 -->
+            <div class="knife-card bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden">
+                <div class="h-48 overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                         alt="Home Hero 20-Piece Knife Set" 
+                         class="w-full h-full object-cover">
+                </div>
+                <div class="p-6">
+                    <h3 class="text-xl font-bold mb-2">Home Hero 20-Piece Knife Set</h3>
+                    <div class="flex items-center mb-4">
+                        <span class="text-yellow-500 mr-1">★★★★★</span>
+                        <span class="text-sm text-gray-500 dark:text-gray-400">(4.8/5)</span>
+                    </div>
+                    
+                    <div class="border-b border-gray-200 dark:border-gray-700 mb-4">
+                        <nav class="flex space-x-1 overflow-x-auto pb-1">
+                            <button class="tab-button px-4 py-2 bg-primary text-white rounded-t-lg font-medium focus:outline-none" data-tab="unique-1">What We Found Unique</button>
+                            <button class="tab-button px-4 py-2 bg-gray-100 dark:bg-gray-700 rounded-t-lg font-medium focus:outline-none" data-tab="price-1">Check Price</button>
+                            <button class="tab-button px-4 py-2 bg-gray-100 dark:bg-gray-700 rounded-t-lg font-medium focus:outline-none" data-tab="review-1">Jump to Review</button>
+                        </nav>
+                    </div>
+                    
+                    <div id="unique-1" class="tab-content active">
+                        <p class="text-sm text-gray-600 dark:text-gray-300 mb-3">Premium stainless steel blades with ergonomic handles. Includes 20 pieces with a magnetic knife block.</p>
+                        <ul class="text-sm text-gray-600 dark:text-gray-300 list-disc list-inside mb-4">
+                            <li>10-year warranty</li>
+                            <li>Includes kitchen shears and paring knife</li>
+                            <li>Non-slip rubber base</li>
+                        </ul>
+                    </div>
+                    
+                    <div id="price-1" class="tab-content hidden">
+                        <a href="#" class="inline-block w-full bg-accent hover:bg-red-700 text-white font-bold py-2 px-4 rounded text-center transition duration-300">
+                            <i class="fas fa-shopping-cart mr-2"></i> Check Price
+                        </a>
+                    </div>
+                    
+                    <div id="review-1" class="tab-content hidden">
+                        <a href="#home-hero-review" class="inline-block w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded text-center transition duration-300">
+                            <i class="fas fa-angle-double-down mr-2"></i> Jump to Review
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Knife Card 2 -->
+            <div class="knife-card bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden">
+                <div class="h-48 overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                         alt="Amazon Basics 14-Piece Knife Set" 
+                         class="w-full h-full object-cover">
+                </div>
+                <div class="p-6">
+                    <h3 class="text-xl font-bold mb-2">Amazon Basics 14-Piece Knife Set</h3>
+                    <div class="flex items-center mb-4">
+                        <span class="text-yellow-500 mr-1">★★★★☆</span>
+                        <span class="text-sm text-gray-500 dark:text-gray-400">(4.5/5)</span>
+                    </div>
+                    
+                    <div class="border-b border-gray-200 dark:border-gray-700 mb-4">
+                        <nav class="flex space-x-1 overflow-x-auto pb-1">
+                            <button class="tab-button px-4 py-2 bg-primary text-white rounded-t-lg font-medium focus:outline-none" data-tab="unique-2">What We Found Unique</button>
+                            <button class="tab-button px-4 py-2 bg-gray-100 dark:bg-gray-700 rounded-t-lg font-medium focus:outline-none" data-tab="price-2">Check Price</button>
+                            <button class="tab-button px-4 py-2 bg-gray-100 dark:bg-gray-700 rounded-t-lg font-medium focus:outline-none" data-tab="review-2">Jump to Review</button>
+                        </nav>
+                    </div>
+                    
+                    <div id="unique-2" class="tab-content active">
+                        <p class="text-sm text-gray-600 dark:text-gray-300 mb-3">Excellent value with 14 essential pieces. Features a durable wooden block storage.</p>
+                        <ul class="text-sm text-gray-600 dark:text-gray-300 list-disc list-inside mb-4">
+                            <li>30-day return policy</li>
+                            <li>Includes chef's knife and utility knife</li>
+                            <li>Compact storage solution</li>
+                        </ul>
+                    </div>
+                    
+                    <div id="price-2" class="tab-content hidden">
+                        <a href="#" class="inline-block w-full bg-accent hover:bg-red-700 text-white font-bold py-2 px-4 rounded text-center transition duration-300">
+                            <i class="fas fa-shopping-cart mr-2"></i> Check Price
+                        </a>
+                    </div>
+                    
+                    <div id="review-2" class="tab-content hidden">
+                        <a href="#amazon-review" class="inline-block w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded text-center transition duration-300">
+                            <i class="fas fa-angle-double-down mr-2"></i> Jump to Review
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Knife Card 3 -->
+            <div class="knife-card bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden">
+                <div class="h-48 overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                         alt="Cuisinart C77SS-15PK 15-Piece Knife Set" 
+                         class="w-full h-full object-cover">
+                </div>
+                <div class="p-6">
+                    <h3 class="text-xl font-bold mb-2">Cuisinart C77SS-15PK 15-Piece Knife Set</h3>
+                    <div class="flex items-center mb-4">
+                        <span class="text-yellow-500 mr-1">★★★★★</span>
+                        <span class="text-sm text-gray-500 dark:text-gray-400">(4.9/5)</span>
+                    </div>
+                    
+                    <div class="border-b border-gray-200 dark:border-gray-700 mb-4">
+                        <nav class="flex space-x-1 overflow-x-auto pb-1">
+                            <button class="tab-button px-4 py-2 bg-primary text-white rounded-t-lg font-medium focus:outline-none" data-tab="unique-3">What We Found Unique</button>
+                            <button class="tab-button px-4 py-2 bg-gray-100 dark:bg-gray-700 rounded-t-lg font-medium focus:outline-none" data-tab="price-3">Check Price</button>
+                            <button class="tab-button px-4 py-2 bg-gray-100 dark:bg-gray-700 rounded-t-lg font-medium focus:outline-none" data-tab="review-3">Jump to Review</button>
+                        </nav>
+                    </div>
+                    
+                    <div id="unique-3" class="tab-content active">
+                        <p class="text-sm text-gray-600 dark:text-gray-300 mb-3">Perfect for beginners with 15 essential tools. Features a sleek modern design.</p>
+                        <ul class="text-sm text-gray-600 dark:text-gray-300 list-disc list-inside mb-4">
+                            <li>Includes 8" chef's knife and 3" paring knife</li>
+                            <li>Non-slip handle design</li>
+                            <li>Easy to clean and maintain</li>
+                        </ul>
+                    </div>
+                    
+                    <div id="price-3" class="tab-content hidden">
+                        <a href="#" class="inline-block w-full bg-accent hover:bg-red-700 text-white font-bold py-2 px-4 rounded text-center transition duration-300">
+                            <i class="fas fa-shopping-cart mr-2"></i> Check Price
+                        </a>
+                    </div>
+                    
+                    <div id="review-3" class="tab-content hidden">
+                        <a href="#cuisinart-review" class="inline-block w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded text-center transition duration-300">
+                            <i class="fas fa-angle-double-down mr-2"></i> Jump to Review
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Knife Card 4 -->
+            <div class="knife-card bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden">
+                <div class="h-48 overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                         alt="McCook MC29 15-Piece Knife Set" 
+                         class="w-full h-full object-cover">
+                </div>
+                <div class="p-6">
+                    <h3 class="text-xl font-bold mb-2">McCook MC29 15-Piece Knife Set</h3>
+                    <div class="flex items-center mb-4">
+                        <span class="text-yellow-500 mr-1">★★★★☆</span>
+                        <span class="text-sm text-gray-500 dark:text-gray-400">(4.6/5)</span>
+                    </div>
+                    
+                    <div class="border-b border-gray-200 dark:border-gray-700 mb-4">
+                        <nav class="flex space-x-1 overflow-x-auto pb-1">
+                            <button class="tab-button px-4 py-2 bg-primary text-white rounded-t-lg font-medium focus:outline-none" data-tab="unique-4">What We Found Unique</button>
+                            <button class="tab-button px-4 py-2 bg-gray-100 dark:bg-gray-700 rounded-t-lg font-medium focus:outline-none" data-tab="price-4">Check Price</button>
+                            <button class="tab-button px-4 py-2 bg-gray-100 dark:bg-gray-700 rounded-t-lg font-medium focus:outline-none" data-tab="review-4">Jump to Review</button>
+                        </nav>
+                    </div>
+                    
+                    <div id="unique-4" class="tab-content active">
+                        <p class="text-sm text-gray-600 dark:text-gray-300 mb-3">Stylish design with 15 essential pieces. Features a modern magnetic knife block.</p>
+                        <ul class="text-sm text-gray-600 dark:text-gray-300 list-disc list-inside mb-4">
+                            <li>Includes 8" chef's knife and 3" paring knife</li>
+                            <li>Non-slip handle design</li>
+                            <li>Easy to clean and maintain</li>
+                        </ul>
+                    </div>
+                    
+                    <div id="price-4" class="tab-content hidden">
+                        <a href="#" class="inline-block w-full bg-accent hover:bg-red-700 text-white font-bold py-2 px-4 rounded text-center transition duration-300">
+                            <i class="fas fa-shopping-cart mr-2"></i> Check Price
+                        </a>
+                    </div>
+                    
+                    <div id="review-4" class="tab-content hidden">
+                        <a href="#mccoock-review" class="inline-block w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded text-center transition duration-300">
+                            <i class="fas fa-angle-double-down mr-2"></i> Jump to Review
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const tabButtons = document.querySelectorAll('.tab-button');
+            
+            tabButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    const tabId = this.getAttribute('data-tab');
+                    const currentTab = document.getElementById(tabId);
+                    
+                    // Hide all tabs
+                    document.querySelectorAll('.tab-content').forEach(tab => {
+                        tab.classList.remove('active');
+                        tab.classList.add('hidden');
+                    });
+                    
+                    // Show selected tab
+                    currentTab.classList.remove('hidden');
+                    currentTab.classList.add('active');
+                    
+                    // Reset button styles
+                    tabButtons.forEach(btn => btn.classList.remove('bg-primary', 'text-white'));
+                    tabButtons.forEach(btn => btn.classList.add('bg-gray-100', 'dark:bg-gray-700'));
+                    
+                    // Apply active style
+                    this.classList.remove('bg-gray-100', 'dark:bg-gray-700');
+                    this.classList.add('bg-primary', 'text-white');
+                });
+            });
+        });
+    </script>
+</body>
+</html>
+```
+
 When it comes to value, versatility, and design, the Home Hero 20-Piece Knife Set takes the top spot. This set includes everything a home cook could need — from a chef’s knife to kitchen
 scissors, a peeler, a sharpener, and even a stand.
 
