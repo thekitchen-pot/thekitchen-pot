@@ -9,7 +9,7 @@ source: "Knives "
 slug: best-knife-set-under-100
 pubDate: 2020-03-29
 modDate: 2025-02-11
-image: src/content/blog/images/Knife-set-under-100.jpg
+image: ""
 category: Cookware Equipment
 author: Boniface Muriuki
 authorImage: /images/authors/chris-thompson.png
