@@ -7,7 +7,7 @@ authorId: kitchenpot1
 title: Best Knife Set Under 100 - With a Comprehensive Buying Guide
 source: "Knives "
 slug: best-knife-set-under-100
-pubDate: 2020-03-29
+pubDate: 2025-06-20
 modDate: 2025-02-11
 image: ""
 category: Cookware Equipment
