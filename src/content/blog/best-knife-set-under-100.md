@@ -70,6 +70,12 @@ Known for quality craftsmanship, Henckels brings its reputation into the budget 
 
 If you want your knives to look as good as they perform, the McCook MC29 Knife Set offers style and functionality.
 
+
+
+
+
+
+
 ## **Why Selecting A Budget Knife Set is a Good Idea**
 
 So, why should you bother with a budget knife set? Well, to begin with, not everyone wants or needs a $500 professional level set of knives. Many home cooks, students, and first time apartment dwellers just want something that is reliable, functional, and inexpensive. You can buy a solid knife set for under $100 and have excellent quality at a reasonable price. 
