@@ -45,7 +45,7 @@ durability, and excellent designs.
 In this review, we bought and tested 15 knife sets ranging from $40 to approximately $100 and comprising different types of knives. We’ve picked the best in each category, based on our
 first-hand experiences. Read on to find yourself the best knife under $100 for your kitchen!
 
-## **Our Top Picks for Knife Sets Under $100**
+### **Our Top Picks for Knife Sets Under $100**
 
 There are tons of inexpensive knife sets out there but some rise above the others in quality, design, and performance. Based on my personal experience and expert recommendations, here are the top knife sets that you'll want to consider:
 
@@ -69,8 +69,6 @@ Known for quality craftsmanship, Henckels brings its reputation into the budget 
 ### **Best Aesthetic Design: McCook MC29 15-Piece Knife Set**
 
 If you want your knives to look as good as they perform, the McCook MC29 Knife Set offers style and functionality.
-
-
 
 
 
