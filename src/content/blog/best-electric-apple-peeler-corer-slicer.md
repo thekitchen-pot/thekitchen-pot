@@ -32,7 +32,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-There is something truly refreshing about enjoying a bowl of fresh fruit salad after a long day. But the excitement of the first saucy bite can quickly diminish when you think of the peeling, coring and slicing of apples, and honestly, it seems like an arduous task. 
+There is something truly refreshing about enjoying a bowl of fresh fruit salad after a long day. But the excitement of the first saucy bite can quickly diminish when you think of the peeling, coring and slicing of apples, and honestly, it seems like an arduous task.
 
 If you have ever second guessed your desire to prepare a fruit salad (due to potential cuts from your kitchen knife and nearly every kitchen task ending up being a mess), then the best electric apple peeler corer slicer is your new best friend. It makes preparing fruit an effortless task, leaving you with a perfectly prepared piece of fruit that you can use for a salad. 
 
