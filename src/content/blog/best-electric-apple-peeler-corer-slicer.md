@@ -6,7 +6,7 @@ authorId: kitchenpot1
 title: 10 Best Electric Apple Peeler Corer Slicer - Is it Effective?
 source: Electric Peeler Corer Slicer
 slug: best-electric-apple-peeler-corer-slicer
-pubDate: 2020-06-23
+pubDate: 2025-06-21
 modDate: 2025-02-10
 image: src/content/blog/images/Apple-peelers.jpeg
 category: Kitchenware
