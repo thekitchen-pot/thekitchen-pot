@@ -33,8 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
-Technological advancement has led to incredible modernization of home equipment. One key area that has improved significantly is [kitchen air circulation](https://en.wikipedia.org/wiki/Kitchen_hood) systems. There has been inventions of  the best ductless range hoods, wall mounted ranges, under cabinet ranges, among other sophisticated equipment.
+Technological advancement has led to incredible modernization of home equipment. One key area that has improved significantly is [kitchen air circulation](https://en.wikipedia.org/wiki/Kitchen_hood) systems. There has been inventions of  the best ductless range hoods, wall mounted ranges, under cabinet ranges, among other sophisticated kitchen equipment.
 
 Besides the aesthetics, the best ductless range hood is an important aspect for better and healthier living. It is an important facet in any modern kitchen, as it ensures air quality at a moderate level. 
 
@@ -46,14 +45,14 @@ However, before we could proceed, what is a [ductless range hood](https://learn.
 
 ## 6 Best Ductless Range Hoods – Comparison
 
-| Image | Name | Features |
-|---|---|---|
-|  | Broan Aluminum Power Pack Range Hood | -centrifugal blower of 250CFM-comes with a 7-inch round duct which comprises a damper and adapter |
-|  | Cosmo 63175 Ducted/Ductless Range Hood | -80 CFM removes smells and odors with ease for a clean kitchen. Only 65dB max noise level. Ducted range hood vents outside and away from your home.- Made of premium 430 grade, 20-Gauge thickness easy to clean brushed stainless steel-The energy-efficient, 2-watt LEDs are long-lasting and provide bright, high lumen lighting for better visibility at night |
-|  | Broan 413004 Series Ductless Range Hood | -provide 390 CFM of exhaust at 6.0 Sones for a reliable performance each use-The enclosed lighting area is home to dual incandescent 40-watt candelabra bulbs (sold separately)-One-piece, washable aluminum mesh filter means you can maintain optimum grease capture and keep the kitchen fresh |
-|  | Cosmo 5MU30 Under Cabinet Range Hood | -3 speed motor, 56dB max. Cosmo’s vent hood filters your kitchen without the loudness and sounds of competing range hoods. Electrical Requirements: 120V, 3 Prong Plug-Durable reusable aluminum mesh filters included to trap grease and oil. Multi-layer filters trap grease more effectively. Uses 5-inch round duct for exhaust vent.. HVAC tape required for installation.-Product Dimensions: 29.75 x 19.75 x 5.5 inches |
-|  | Cosmo QS75 Ducted/Ductless Range Hood | -Featuring 500 CFM airflow, backlit touchscreen, 4-speed fan and twin centrifugal motors; Quickly ventilate your kitchen without the noise of competing range hoods; Optional Carbon Filter Kit for ductless- Stainless Steel Permanent Filters are dishwasher-safe and extremely durable. Range hood can be used ductless with optional Carbon Filter Kit-Made of premium 430 grade, 18-Gauge thick stainless steel-energy-efficient, 1.5-watt LEDs are long-lasting and provide bright, high lumen lighting for better visibility at night |
-|  | Cosmo UMC30 Ductless Range Hood | -3-speed fan and touch controls, Cosmo’s under cabinet range hood quickly ventilates your kitchen reducing contaminants, grease, and odors with low noise levels. Ductless Carbon Filter Kit available-Made of premium 430 grade, 20-Gauge thickness stainless steel-energy-efficient, 2-watt LEDs are long-lasting and provide bright, high lumen LED lighting for better visibility at night |
+| Image | Name                                    | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       | Broan Aluminum Power Pack Range Hood    | \-centrifugal blower of 250CFM-comes with a 7-inch round duct which comprises a damper and adapter                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|       | Cosmo 63175 Ducted/Ductless Range Hood  | \-80 CFM removes smells and odors with ease for a clean kitchen. Only 65dB max noise level. Ducted range hood vents outside and away from your home.- Made of premium 430 grade, 20-Gauge thickness easy to clean brushed stainless steel-The energy-efficient, 2-watt LEDs are long-lasting and provide bright, high lumen lighting for better visibility at night                                                                                                                                                                           |
+|       | Broan 413004 Series Ductless Range Hood | \-provide 390 CFM of exhaust at 6.0 Sones for a reliable performance each use-The enclosed lighting area is home to dual incandescent 40-watt candelabra bulbs (sold separately)-One-piece, washable aluminum mesh filter means you can maintain optimum grease capture and keep the kitchen fresh                                                                                                                                                                                                                                            |
+|       | Cosmo 5MU30 Under Cabinet Range Hood    | \-3 speed motor, 56dB max. Cosmo’s vent hood filters your kitchen without the loudness and sounds of competing range hoods. Electrical Requirements: 120V, 3 Prong Plug-Durable reusable aluminum mesh filters included to trap grease and oil. Multi-layer filters trap grease more effectively. Uses 5-inch round duct for exhaust vent.. HVAC tape required for installation.-Product Dimensions: 29.75 x 19.75 x 5.5 inches                                                                                                               |
+|       | Cosmo QS75 Ducted/Ductless Range Hood   | \-Featuring 500 CFM airflow, backlit touchscreen, 4-speed fan and twin centrifugal motors; Quickly ventilate your kitchen without the noise of competing range hoods; Optional Carbon Filter Kit for ductless- Stainless Steel Permanent Filters are dishwasher-safe and extremely durable. Range hood can be used ductless with optional Carbon Filter Kit-Made of premium 430 grade, 18-Gauge thick stainless steel-energy-efficient, 1.5-watt LEDs are long-lasting and provide bright, high lumen lighting for better visibility at night |
+|       | Cosmo UMC30 Ductless Range Hood         | \-3-speed fan and touch controls, Cosmo’s under cabinet range hood quickly ventilates your kitchen reducing contaminants, grease, and odors with low noise levels. Ductless Carbon Filter Kit available-Made of premium 430 grade, 20-Gauge thickness stainless steel-energy-efficient, 2-watt LEDs are long-lasting and provide bright, high lumen LED lighting for better visibility at night                                                                                                                                               |
 
 ## **What Are the Best Ductless Range Hoods?** 
 
@@ -69,15 +68,15 @@ It’s because it is inexpensive and saves a lot of time and effort due to its l
 
 Therefore, let’s look at some of the best ductless range hood we have at the market; 
 
-1.  Broan Aluminum Power Pack Range Hood 
-2.  Cosmo 63190 Ducted/Ductless Range HoodBroan 413004 Series Ductless Range Hood 
-3.  Cosmo 5MU30 Under Cabinet Range Hood
-4.  Cosmo QS75 Ducted/Ductless Range Hood
-5.  Cosmo UMC30 Ductless Range Hood 
+1. Broan Aluminum Power Pack Range Hood 
+2. Cosmo 63190 Ducted/Ductless Range HoodBroan 413004 Series Ductless Range Hood 
+3. Cosmo 5MU30 Under Cabinet Range Hood
+4. Cosmo QS75 Ducted/Ductless Range Hood
+5. Cosmo UMC30 Ductless Range Hood 
 
 ## **Top 6 Best** **Ductless Range Hoods**
 
-### **[1\. Broan Aluminum Power Pack Range Hood](https://www.amazon.com/s?k=Broan+Aluminum+Power+Pack+Range+Hood%3Ftag%3Dkitchenpot-20)**
+### **[1. Broan Aluminum Power Pack Range Hood](https://www.amazon.com/s?k=Broan+Aluminum+Power+Pack+Range+Hood%3Ftag%3Dkitchenpot-20)**
 
 ![Best Ductless Range Hood](images/portablegasgrill.jpg)
 
@@ -95,19 +94,19 @@ The exterior is designed with flat polished surfaces for easier cleaning and det
 
 **Pro** 
 
--   Combined entity for both ventilation and illumination
--   Quiet operation
--   Easier and accurate installation
--   Effective performance
--   Easier cleaning 
+* Combined entity for both ventilation and illumination
+* Quiet operation
+* Easier and accurate installation
+* Effective performance
+* Easier cleaning 
 
 **Con** 
 
--   Small in size
--   Wearing out of Aluminum degreasers 
--   Illumination bulbs sold separately
+* Small in size
+* Wearing out of Aluminum degreasers 
+* Illumination bulbs sold separately
 
-### **2\. [Cosmo 63175 Ducted/Ductless Range Hood](https://www.amazon.com/Cosmo-Controls-Lighting-Permanent-Filters/dp/B01DN00K0S?tag=kitchenpot-20)**
+### **2. [Cosmo 63175 Ducted/Ductless Range Hood](https://www.amazon.com/Cosmo-Controls-Lighting-Permanent-Filters/dp/B01DN00K0S?tag=kitchenpot-20)**
 
 ![Wall Mount Ductless Range Hood](images/portablegasgrill.jpg)
 
@@ -125,16 +124,16 @@ The ductless range hood has modernized styling aesthetics compatible with kitche
 
 **Pro**
 
--    Sturdy performance
--   Ultra-quiet designs 
--   High airflow efficiency
--   Reusable degreasing filter baffles
+*  Sturdy performance
+* Ultra-quiet designs 
+* High airflow efficiency
+* Reusable degreasing filter baffles
 
 **Con** 
 
--   Space consuming 
+* Space consuming 
 
-### **3\. [Broan 413004 Series Ductless Range Hood](https://www.amazon.com/Broan-Stainless-Ductless-Exhaust-30-Inches/dp/B00573M42C?tag=kitchenpot-20)**
+### **3. [Broan 413004 Series Ductless Range Hood](https://www.amazon.com/Broan-Stainless-Ductless-Exhaust-30-Inches/dp/B00573M42C?tag=kitchenpot-20)**
 
 ![Best Ductless Range Hood](images/portablegasgrill.jpg)
 
@@ -152,19 +151,19 @@ The unit comes with a **two-speed duct-free range hood** with an exclusive Micro
 
 **Pro**
 
--   Quiet operation and airflow 
--   Powerful performance 
--   LED lighting and practical exhaust
--   Occupies minimal space
--   Purification of airborne cooling impurities
+* Quiet operation and airflow 
+* Powerful performance 
+* LED lighting and practical exhaust
+* Occupies minimal space
+* Purification of airborne cooling impurities
 
 **Con**
 
--   Aluminum filters tend to wear out
--   Buying of the bulbs to fit the hood
--   Constant maintenance
+* Aluminum filters tend to wear out
+* Buying of the bulbs to fit the hood
+* Constant maintenance
 
-### **4\. [Cosmo 5MU30 Under Cabinet Range Hood](https://www.amazon.com/Cosmo-Under-Cabinet-Range-Stainless/dp/B074PBLJVY?tag=kitchenpot-20)**
+### **4. [Cosmo 5MU30 Under Cabinet Range Hood](https://www.amazon.com/Cosmo-Under-Cabinet-Range-Stainless/dp/B074PBLJVY?tag=kitchenpot-20)**
 
 ![Best Range Hood for Home Use](images/portablegasgrill.jpg)
 
@@ -180,17 +179,17 @@ The Cosmo 5MU30 range hood features three exhaust fan speeds of suction making i
 
 **Pro** 
 
--   Convertible design 
--   Quiet operation
--   LED lighting for visibility 
--   Quick and easier installation
--   Stainless steel aluminum
+* Convertible design 
+* Quiet operation
+* LED lighting for visibility 
+* Quick and easier installation
+* Stainless steel aluminum
 
 **Con** 
 
--   Aluminum mesh filters wear out
+* Aluminum mesh filters wear out
 
-### **5\.** [**Cosmo QS75 Ducted/Ductless Range Hood**](https://www.amazon.com/Cosmo-COS-QS75-Wireless-Reusable-Stainless/dp/B013JVO1U6?tag=kitchenpot-20)
+### **5.** **[Cosmo QS75 Ducted/Ductless Range Hood](https://www.amazon.com/Cosmo-COS-QS75-Wireless-Reusable-Stainless/dp/B013JVO1U6?tag=kitchenpot-20)**
 
 ![Best Under Cabinet Range Hood](images/portablegasgrill.jpg)
 
@@ -210,16 +209,16 @@ As compared to the Aluminum filters, the Cosmo QS75 is permanently installed wit
 
 **Pro**
 
--   Quiet operation 
--   Powerful performance
--   Convertible 
--   Easier control
--   High-tech
--   Durable 
+* Quiet operation 
+* Powerful performance
+* Convertible 
+* Easier control
+* High-tech
+* Durable 
 
 **Con**
 
--   Expensive 
+* Expensive 
 
 ### **6. [Cosmo UMC30 Ductless Range Hood](https://www.amazon.com/Cosmo-UMC30-Under-Cabinet-Range-Hood-Convertible/dp/B00NS1PANA?tag=kitchenpot-20)**
 
@@ -241,16 +240,16 @@ The Cosmo UMC30 has a powerful suction of about **760CFM airflow capacity** and 
 
 **Pro**
 
--   Longevity guaranteed
--   Quiet operation
--   LED lighting 
--   Exceptional performance 
--   Easy and quick installation
+* Longevity guaranteed
+* Quiet operation
+* LED lighting 
+* Exceptional performance 
+* Easy and quick installation
 
 **Con**
 
--   Expensive
--   LED lighting is quite dim
+* Expensive
+* LED lighting is quite dim
 
 ## **Best** **Ductless Range Hoods –** **Buyer’s Guide**
 
@@ -262,7 +261,7 @@ To ease your process, we’ve compiled some of the best factors to consider when
 
 ### Factors to Consider When Shopping for the Best Ductless Range Hood
 
--   **Budget**
+* **Budget**
 
 With the numerous available ductless range hoods in the market, the only way to create a shortlist for the items chosen is the budget.
 
@@ -270,7 +269,7 @@ The best ductless range hood can be a large investment, but by looking at its po
 
 One ought to be generous with the investments to be included for the purchase. **If you’re short of funds and resources, it’s wiser to take a few months to financially save to cover for the amount remaining**. I’m sure you won’t be disappointed.
 
--   **Filters Efficacy**
+* **Filters Efficacy**
 
 As read throughout the article, filters are an important aspect for the best ductless range hoods to effectively and efficiently perform. For that reason, one should closely look at the three kinds of filters required for use. These include; **charcoal filters, baffle filters, and mesh filters**. 
 
@@ -280,15 +279,15 @@ Baffle filters are important in collecting hazardous material through greased ba
 
 Mesh filters are a significant aspect of the range hoods as well. Fitted behind one another, the greasy air passing through the meshes are trapped and collected in a tray. Hence, they require regular cleaning for better operation. 
 
--   **Suction**
+* **Suction**
 
 The best ductless range hoods require an efficient CFM (Cubic Feet per Meter), which is the measure of power in a range hood, depending on the workload required. Before purchasing, be sure to ideally look at the size of the kitchen, food cooked, the volume of cooked food, number of burners, length of ducting and so much more. In as much as the suction is low to some appliances, the importance remains on the filtration system’s effectiveness. 
 
--   **Size and Power**
+* **Size and Power**
 
 Large stoves require larger ventilation systems, thus, it is important to look for a ventilation system that matches the size of your stove and the food being cooked. The range hood should be able to have enough coverage to catch all the emissions. 
 
--   **Aesthetics** 
+* **Aesthetics** 
 
 If you are aiming for particular aesthetics to match your décor, you need to find a range hood with the same style as per your expectations. Given the hundreds of ductless range hoods available, it’s easier to find models that suit your particular taste. 
 
