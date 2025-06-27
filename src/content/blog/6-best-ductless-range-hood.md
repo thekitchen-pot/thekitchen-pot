@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Technological advancement has led to incredible modernization of home equipment. One key area that has improved significantly is [kitchen air circulation](https://en.wikipedia.org/wiki/Kitchen_hood) systems. There has been inventions of  the best ductless range hoods, wall mounted ranges, under cabinet ranges, among other sophisticated kitchen equipment.
 
-Besides the aesthetics, the best ductless range hood is an important aspect for better and healthier living. It is an important facet in any modern kitchen, as it ensures air quality at a moderate level. 
+Besides the aesthetics and outward appearance, the best ductless range hood is an important aspect for better and healthier living. It is an important facet in any modern kitchen, as it ensures air quality at a moderate level. 
 
 The best ductless range hood filters out harmful odors and agents in a systematic range hood, as compared to most exhaust hoods that vent air out into the home. This preserves the environmental air within the house by providing a safer and cleaner atmosphere. It furthermore, conserves air by emitting the released air during cooking through an airway duct. 
 
