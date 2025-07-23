@@ -1,6 +1,6 @@
 
 
-https://*.dev/*
+/*.dev/*
   X-Robots-Tag: noindex, nofollow
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
@@ -12,7 +12,7 @@ https://*.dev/*
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Resource-Policy: same-origin
 
-https://*.app/*
+/*.app/*
   X-Robots-Tag: noindex, nofollow
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
@@ -22,6 +22,7 @@ https://*.app/*
   Cross-Origin-Embedder-Policy: require-corp
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Resource-Policy: same-origin
+
 /admin/*
   X-Robots-Tag: noindex, nofollow
   X-Content-Type-Options: nosniff
