@@ -178,7 +178,7 @@ collections:
       - {
           label: "Description",
           name: "description",
-          default: "{{fields.excerpt}}",
+          default: "Your excerpt",
           widget: "text",
           pattern: [".{50,160}", "SEO description (50-160 characters)"],
         }

@@ -6,7 +6,7 @@
     <meta name="robots" content="noindex" />
 
     <!-- Decap CMS config -->
-    <link rel="cms-config-url" href="/admin/config.yml" type="text/yaml" />
+    <link rel="cms-config-url" href="/admin/config.yml/" type="text/yaml" />
 
     <title>The Kitchen Pot Content Manager</title>
     <style>
@@ -26,6 +26,10 @@
     </style>
   </head>
   <body>
+    <script>
+      // Prevent auto-init; we'll init manually
+      window.CMS_MANUAL_INIT = true;
+      </script>
     <!-- Mount point for CMS -->
     <div id="nc-root"></div>
 
@@ -33,7 +37,7 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" crossorigin="anonymous"></script>
 
     <!-- Decap CMS Core -->
-     <script  src="https://unpkg.com/decap-cms@^3.8.2/dist/decap-cms.js"></script>
+     <script defer  src="https://unpkg.com/decap-cms@^3.8.2/dist/decap-cms.js"></script>
 
     <script>
       // Prevent auto-init; we'll init manually
@@ -70,11 +74,13 @@
           toPreview: data => `<a href="${data.url}" class="cta-button">${data.text}</a>`
         });
 
-        // Finally init CMS
-        CMS.init({
+       
+      });
+    </script>
+    <script>
+      CMS.init({
           root: '#nc-root'
         });
-      });
     </script>
   </body>
 </html>
