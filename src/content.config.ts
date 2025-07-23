@@ -22,7 +22,7 @@ const blog = defineCollection({
     tags: z.array(z.string()),
     category: z.string(),
     seo: z.string().optional(),
-    image: image()
+    image: image().optional()
 
 
 

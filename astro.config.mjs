@@ -34,7 +34,7 @@ export default defineConfig({
     }),
     // auth()
   ],
-  output: "server",
+  output: "static",
 
   adapter: netlify(),
 });
