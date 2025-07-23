@@ -29,32 +29,28 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
   });
 
   const itemsPerPage = 6;
-  const totalPages = Math.ceil(sortedPosts.length / itemsPerPage);
 
-  // Create paths array using pagination
-  const paths = Array.from({ length: totalPages }, (_, i) => {
-    const page = i + 1;
-    const start = i * itemsPerPage;
-    const end = start + itemsPerPage;
-
-    return {
-      params: { page: String(page) },
-      props: {
-        currentPage: page,
-        totalPages,
-        posts: sortedPosts.slice(start, end),
-        totalPosts: sortedPosts.length
-      },
-    };
-  });
-
-  // Return the paths wrapped in an object
-  return { paths };
+  // Use paginate to create paths with page metadata
+  return paginate(sortedPosts, { pageSize: itemsPerPage }).map(page => ({
+    params: { page: String(page.currentPage) },
+    props: {
+      currentPage: page.currentPage,
+      totalPages: page.totalPages,
+      posts: page.data,
+      totalPosts: page.total,
+      pageStart: page.start,
+      pageEnd: page.end,
+      pageUrl: page.url
+    },
+  }));
 }
 
 
+
+
+---
 const { page } = Astro.params;
-const { posts, currentPage, totalPages, totalPosts } = Astro.props;
+const { posts, currentPage, totalPages, totalPosts, pageStart, pageEnd, pageUrl } = Astro.props;
 
 // Calculate pagination range
 const maxVisiblePages = 5;
@@ -126,6 +122,10 @@ const pageNumbers = Array.from(
           ))}
         </section>
 
+        <p class="mt-4 text-gray-600">
+          Showing {pageStart + 1} to {Math.min(pageEnd, totalPosts)} of {totalPosts} posts
+        </p>
+
         {totalPages > 1 && (
           <nav class="flex justify-center items-center mt-12" aria-label="Pagination">
             <div class="flex items-center gap-2">
@@ -193,7 +193,7 @@ const pageNumbers = Array.from(
                     : 'bg-white text-gray-700 hover:bg-gray-50'
                 }`}
                 aria-disabled={currentPage === totalPages}
-              >
+              > 
                 Next
               </a>
             </div>
@@ -202,7 +202,15 @@ const pageNumbers = Array.from(
       </div>
 
       <!-- Sidebar -->
-      <Sidebar allPosts={posts} />
+      <aside class="w-full lg:w-1/4">
+        <h2 class="text-2xl font-bold mb-4">Categories</h2>
+        <ul class="list-disc list-inside">
+          <li><a href="/category/javascript" class="text-blue-600 hover:underline">JavaScript</a></li>
+          <li><a href="/category/css" class="text-blue-600 hover:underline">CSS</a></li>
+          <li><a href="/category/html" class="text-blue-600 hover:underline">HTML</a></li>
+          <li><a href="/category/react" class="text-blue-600 hover:underline">React</a></li>
+        </ul>
+      </aside>
     </div>
   </main>
 </Layout>
