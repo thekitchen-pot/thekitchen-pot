@@ -25,10 +25,8 @@ export const prerender = false
     <!-- Decap CMS Core -->
      <script defer  src="https://unpkg.com/decap-cms@^3.8.2/dist/decap-cms.js"></script>
 
-    <script>
-      // Prevent auto-init; we'll init manually
-      window.CMS_MANUAL_INIT = true;
-
+    <script type="module">
+      
       // Identity init
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on('init', user => {
@@ -38,6 +36,10 @@ export const prerender = false
           APIUrl: 'https://thekitchenpot.com/.netlify/identity'
         });
       }
+
+      // Prevent auto-init; we'll init manually
+      window.CMS_MANUAL_INIT = true;
+
 
       // Wait for DOM and CMS global
       document.addEventListener('DOMContentLoaded', () => {
@@ -61,7 +63,7 @@ export const prerender = false
         });
 
        CMS.init({
-          root: '#nc-root'
+          //root: '#nc-root'
         });
       });
     </script>
