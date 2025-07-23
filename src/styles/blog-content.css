@@ -45,12 +45,12 @@
     @apply text-lg px-6 py-3;
   }
 
-  /* Border‑radius options 
-  .rounded-none  { @apply p-2; }
-  .rounded-md    { @apply rounded-md; }
-  .rounded-lg    { @apply rounded-lg; }
-  .rounded-full  { @apply rounded-full; }
-  */
+  /* Border‑radius options */
+  .flat  { @apply rounded-none; }
+  .medium    { @apply rounded-md; }
+  .large    { @apply rounded-lg; }
+  .full  { @apply rounded-full; }
+  
 
 
   .blog-content {
