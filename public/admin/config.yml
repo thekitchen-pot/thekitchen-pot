@@ -1,12 +1,12 @@
 backend:
   name: git-gateway
-  repo: thekitchen-pot/thekitchen-pot #affilirator/thekitchen-pot
+  repo: thekitchen-pot/thekitchen-pot # affilirator/thekitchen-pot
   branch: main
   base_url: https://thekitchenpot.com
   # client_secret: 7f474a98bd6b11bd307723d6bc699e353dc0bca2
-  #https://github.com/thekitchen-pot/thekitchen-pot
-  #NecClientScr=Iv23liGxmTCwuyoQb5kz
-  #Newcleitdsrc=53969d5e88980cb7dcd9ed73701c6ca8ee77970c
+  # https://github.com/thekitchen-pot/thekitchen-pot
+  # NecClientScr=Iv23liGxmTCwuyoQb5kz
+  # Newcleitdsrc=53969d5e88980cb7dcd9ed73701c6ca8ee77970c
 
 site_url: https://thekitchenpot.com
 display_url: thekitchenpot.com
@@ -175,7 +175,7 @@ collections:
           widget: "text",
           pattern: [".{50,160}", "SEO description (50-160 characters)"],
         }
-        - {
+      - {
           label: "Description",
           name: "description",
           default: "{{fields.excerpt}}",
@@ -197,7 +197,7 @@ collections:
         name: "tags"
         label_singular: "Tag"
         widget: "list"
-        required: true,
+        required: true
         summary: "{{fields.tag}}"
         field: { label: Tag, name: tag, widget: string }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -605,6 +605,8 @@ collections:
           default: "Person",
           hint: "Used for structured data markup",
         }
+
+  
 
   - name: "reviews"
     label: "Reviews"
