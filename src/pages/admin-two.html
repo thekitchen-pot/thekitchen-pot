@@ -20,8 +20,8 @@
           ],
           pattern: /<a\s+href="(.+?)"\s*>(.+?)<\/a>/,
           fromBlock: match => ({ url: match[1], text: match[2] }),
-          toBlock: data => `<a href="${data.url}" class="cta-button">${data.text}</a>`,
-          toPreview: data => `<a href="${data.url}" class="cta-button">${data.text}</a>`
+          toBlock: data => `<a href="${data.url}" class="btn-cta">${data.text}</a>`,
+          toPreview: data => `<a href="${data.url}" class="btn-cta">${data.text}</a>`
         });
 
 
