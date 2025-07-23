@@ -33,11 +33,11 @@ However, questions about its safety persist, especially as research continues to
 
 ### Buy Teflon on Amazon Teflon
 
-<a href="https://www.amazon.com/Teflon-Sheet-Transfer-Reusable-Resistant/dp/B07H55M1ZR?th=1" class="cta-button" class="btn-cta btn-primary btn-lg medium btn-block">Check the Latest Price</a>
+<a href="https://www.amazon.com/Teflon-Sheet-Transfer-Reusable-Resistant/dp/B07H55M1ZR?th=1" class="cta-button" class="btn-cta btn-primary btn-lg large btn-block" target="_blank" rel="nofollow noopener noreferrer">Check the Latest Price</a>
 
 Teflon is a synthetic fluoropolymer known for its non-reactive, non-stick, and nearly frictionless surface. Its primary use in cookware is to prevent food from sticking, allowing for low-fat cooking and easy cleaning. The non-stick convenience is especially valued for delicate foods like eggs and pancakes.
 
-<a href="https://amazon.com/" class="btn-cta btn-outline btn-lg medium">Buy on Amazon</a>
+<a href="https://amazon.com/" class="btn-cta btn-outline btn-lg rounded-lg">Buy on Amazon</a>
 
 ## **Is Teflon Non-Stick Cookware Safe?**
 
