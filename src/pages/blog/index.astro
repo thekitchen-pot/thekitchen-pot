@@ -22,7 +22,7 @@ const sortedPosts = allPosts.sort((a, b) => {
   return new Date(b.data.modDate || '').getTime() - new Date(a.data.modDate || '').getTime();
 });
 
-const itemsPerPage = 6;
+const itemsPerPage = 12;
 const totalPosts = sortedPosts.length;
 const totalPages = Math.ceil(totalPosts / itemsPerPage);
 let currentPage = Number(Astro.url.searchParams.get('page')) || 1;
