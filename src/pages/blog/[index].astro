@@ -6,23 +6,24 @@ import Sidebar from '@/components/blog/Sidebar.astro';
 import { Image } from 'astro:assets';
 
 export const getStaticPaths = (async ({ paginate }) => {
-  // 1. Fetch and sort all posts
   const allPosts = await getCollection('blog');
-  const sortedPosts = allPosts.sort((a, b) =>
-    new Date(b.data.modDate).getTime() - new Date(a.data.modDate).getTime()
+  const sorted = allPosts.sort(
+    (a, b) => new Date(b.data.modDate).getTime() - new Date(a.data.modDate).getTime()
   );
-
-  // 2. Paginate with 6 items per page
-  return paginate(sortedPosts, { pageSize: 6 });
+  // This returns an array of GetStaticPathEntry objects with:
+  // - params.page: string[]   (empty [] ⇒ `/blog/`, ["2"] ⇒ `/blog/2/`, etc.)
+  // - props.page: { data, currentPage, lastPage, start, end, total }
+  return paginate(sorted, { pageSize: 6 });
 }) satisfies GetStaticPaths;
 
+// In the component:
 const { page } = Astro.props;
-// `page.data` is your posts array for this page
-const posts = page.data;
-// current page number
+const posts       = page.data;
 const currentPage = page.currentPage;
-// total pages (alias `lastPage` in some docs)
-const totalPages = page.total ?? page.lastPage;
+const totalPages  = page.total ?? page.lastPage;
+const { start, end, total } = page;
+
+
 // indices for “Showing X–Y of Z”
 const pageStart = page.start;
 const pageEnd = page.end;
