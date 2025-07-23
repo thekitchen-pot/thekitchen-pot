@@ -10,7 +10,7 @@ export async function getStaticPaths() {
     return new Date(b.data.modDate).getTime() - new Date(a.data.pubDate).getTime();
   });
 
-  const itemsPerPage = 6;
+  const itemsPerPage = 12;
   const totalPages = Math.ceil(sortedPosts.length / itemsPerPage);
 
   return Array.from({ length: totalPages }, (_, i) => {
@@ -46,11 +46,11 @@ const pageNumbers = Array.from(
 <Layout title={`Blog - Page ${page}`}
  description='Latest posts from us to you.'
 >
-  <main class="container mx-auto px-4 py-8">
+  <main class="container mx-auto px-4 py-16">
     <div class="flex flex-col lg:flex-row gap-8">
       <!-- Main Content -->
       <div class="w-full lg:w-3/4">
-        <h1 class="text-4xl font-bold mb-6 space-y-12">Latest Articles</h1>
+        <h1 class="text-4xl font-bold mb-6 mt-6 space-y-12">Latest Articles</h1>
         
         <!-- Blog Posts Section -->
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
