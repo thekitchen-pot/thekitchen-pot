@@ -31,13 +31,13 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
   const itemsPerPage = 6;
   const totalPages = Math.ceil(sortedPosts.length / itemsPerPage);
 
-  return Array.from({ length: totalPages }, (_, i) => {
+  // Create paths array using pagination
+  const paths = Array.from({ length: totalPages }, (_, i) => {
     const page = i + 1;
     const start = i * itemsPerPage;
     const end = start + itemsPerPage;
 
-    return paginate(sortedPosts, {
-      pageSize: itemsPerPage,
+    return {
       params: { page: String(page) },
       props: {
         currentPage: page,
@@ -45,9 +45,13 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
         posts: sortedPosts.slice(start, end),
         totalPosts: sortedPosts.length
       },
-    });
+    };
   });
+
+  // Return the paths wrapped in an object
+  return { paths };
 }
+
 
 const { page } = Astro.params;
 const { posts, currentPage, totalPages, totalPosts } = Astro.props;
