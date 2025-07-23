@@ -153,12 +153,11 @@ const monthYear = new Date().toLocaleDateString('en-US', {
   <Picture
     src={frontmatter.image}
     alt={frontmatter.title}
-    width={1200}
-    height={600}
-    format="webp"
+    
+    inferSize
+    formats={['webp', 'avif']}
     loading="eager"
-    decoding="sync"
-    class=" object-cover rounded-lg mb-8 shadow-lg"
+    class=" object-cover w-full rounded-lg mb-8 shadow-lg"
   />
 )}
 
@@ -226,6 +225,6 @@ const monthYear = new Date().toLocaleDateString('en-US', {
 
 .cta-button:hover {
   background-color: #bf6606;
-  color: rgba(82, 152, 161, 0.734)
+  color: #e7f6f8fa
 }
 </style>
