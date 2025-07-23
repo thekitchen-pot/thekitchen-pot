@@ -60,7 +60,9 @@ function formatDate(dateString: Date | undefined) {
               <a href={`/blog/${post.data.slug}/`} class="group">
                 <article class="bg-white rounded-xl overflow-hidden shadow-lg transform group-hover:scale-105 transition-all duration-300 h-full">
                   <div class="relative">
-                    <Image
+                   { post.data.image && (
+
+                   <Image
                       src={post.data.image}
                       width={1200}
                       height={620}
@@ -68,6 +70,7 @@ function formatDate(dateString: Date | undefined) {
                       alt={post.data.title}
                       class="w-full h-48 object-cover"
                     />
+                   )}
                     <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-4">
                       <p class="text-white text-sm">{formatDate(post.data.modDate)}</p>
                     </div>
