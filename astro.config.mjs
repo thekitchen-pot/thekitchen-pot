@@ -30,11 +30,11 @@ export default defineConfig({
     sitemap({
       changefreq: "weekly",
       priority: 0.7,
-      lastmod: new Date("2025-04-08"),
+      lastmod: new Date("2025-07-08"),
     }),
     // auth()
   ],
-  output: "static",
+  output: "server",
 
   adapter: netlify(),
 });
