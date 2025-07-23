@@ -16,7 +16,7 @@ const NO_INDEX_PATHS = [
   "https://*.dev",
   "/search/*",
   "*dev.thekitchenpot.com/*",
-  "/?",
+  "https://*?*",
   "*.pages.dev/*",
   "*kff.pages.dev/*",
 ] as const;
