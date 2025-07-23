@@ -3,6 +3,7 @@ backend:
   repo: thekitchen-pot/thekitchen-pot # affilirator/thekitchen-pot
   branch: main
   base_url: https://thekitchenpot.com
+  squash_merges: true
   # client_secret: 7f474a98bd6b11bd307723d6bc699e353dc0bca2
   # https://github.com/thekitchen-pot/thekitchen-pot
   # NecClientScr=Iv23liGxmTCwuyoQb5kz

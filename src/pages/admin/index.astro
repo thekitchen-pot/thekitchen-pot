@@ -24,15 +24,14 @@
     <script is:inline>
       
       // Identity init
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on('init', user => {
-          if (!user) window.netlifyIdentity.open();
-        });
-        window.netlifyIdentity.init({
-          APIUrl: 'https://thekitchenpot.com/.netlify/identity'
-        });
-      }
-      </script>
+     
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.init({
+      APIUrl: 'https://thekitchenpot.com/.netlify/identity'
+    });
+  }
+</script>
+     
 
     <!-- Netlify Identity Widget 
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>-->
