@@ -46,6 +46,62 @@
           toPreview: data => `<a href="${data.url}" class="btn-cta">${data.text}</a>`
         });
 
+        CMS.registerEditorComponent({
+  id: 'cta-button',
+  label: 'Styled Button',
+  fields: [
+    { name: 'text',  label: 'Button Text',      widget: 'string' },
+    { name: 'url',   label: 'Destination URL',  widget: 'string' },
+    {
+      name: 'style',
+      label: 'Button Style',
+      widget: 'select',
+      options: [
+        { label: 'Primary',   value: 'btn-primary'   },
+        { label: 'Secondary', value: 'btn-secondary' },
+        { label: 'Outline',   value: 'btn-outline'   },
+        { label: 'Ghost',     value: 'btn-ghost'     }
+      ],
+      default: 'btn-primary'
+    },
+    {
+      name: 'size',
+      label: 'Size',
+      widget: 'select',
+      options: [
+        { label: 'Small',  value: 'btn-sm' },
+        { label: 'Normal', value: ''       },
+        { label: 'Large',  value: 'btn-lg' }
+      ],
+      default: ''
+    }
+  ],
+
+  // regex to detect any <a> tags with href & class btn-cta (plus optional extra classes)
+  pattern: /<a\s+href="(.+?)"\s+class="btn-cta(?:\s+([\w- ]+))?">\s*(.+?)\s*<\/a>/,
+
+  fromBlock: match => {
+    const [ , url, extraClasses = '', text ] = match
+    // split out style & size from the extraClasses string
+    const classes = extraClasses.split(/\s+/).filter(c => c.startsWith('btn-') && c !== 'btn-cta')
+    const style = classes.find(c => c.includes('primary') || c.includes('secondary') || c.includes('outline') || c.includes('ghost')) || 'btn-primary'
+    const size  = classes.find(c => c === 'btn-sm' || c === 'btn-lg') || ''
+    return { url, text, style, size }
+  },
+
+  toBlock: data => {
+    // always include btn-cta plus chosen style & size
+    const cls = ['btn-cta', data.style, data.size].filter(Boolean).join(' ')
+    return `<a href="${data.url}" class="${cls}">${data.text}</a>`
+  },
+
+  toPreview: data => {
+    const cls = ['btn-cta', data.style, data.size].filter(Boolean).join(' ')
+    return `<a href="${data.url}" class="${cls}">${data.text}</a>`
+  }
+})
+
+
       CMS.init();
     
     </script>
