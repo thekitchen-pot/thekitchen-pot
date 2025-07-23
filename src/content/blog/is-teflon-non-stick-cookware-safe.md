@@ -3,7 +3,7 @@ title: Is Teflon Non-Stick Cookware Safe?
 slug: Is-teflon-non-stick-cookware-safe
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2025-06-30
-modDate: 2025-06-30
+modDate: 2025-07-23
 postAuthor: boniface-muriuki
 image: /src/content/blog/images/capture.png
 excerpt: "Teflon, the brand name for polytetrafluoroethylene (PTFE), has been a
