@@ -23,30 +23,15 @@
      <script defer  src="https://unpkg.com/decap-cms@^3.8.2/dist/decap-cms.js"></script> -->
      
 
-     <script>
-
-       window.CMS_MANUAL_INIT = true;
-      
-      // Identity init
      
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.init({
-      APIUrl: 'https://thekitchenpot.com/.netlify/identity'
-    });
-  }
-</script>
 
 <script src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
      
 
-    <script >
+    <script>
 
       // Prevent auto-init; we'll init manually
-      //window.CMS_MANUAL_INIT = true;
-
-
-      // Wait for DOM and CMS global
-      
+      window.CMS_MANUAL_INIT = true;
 
         // Register CTA button
         CMS.registerEditorComponent({
@@ -67,6 +52,17 @@
         });
     
     </script>
+
+    <script>
+
+       //window.CMS_MANUAL_INIT = true;
+     
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.init({
+      APIUrl: 'https://thekitchenpot.com/.netlify/identity'
+    });
+  }
+</script>
 
     
     
