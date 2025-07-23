@@ -1,8 +1,4 @@
-/admin/*
-  X-Robots-Tag: noindex, nofollow
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: no-referrer
-  cache-control: no-cache, no-store, must-revalidate
+
 
 https://dev.thekitchenpot.com/*
   X-Robots-Tag: noindex, nofollow
@@ -26,3 +22,9 @@ https://kitchenpots.netlify.app/*
   Cross-Origin-Embedder-Policy: require-corp
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Resource-Policy: same-origin
+/admin/*
+  X-Robots-Tag: noindex, nofollow
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  cache-control: no-cache, no-store, must-revalidate
+  ! Content-Security-Policy
