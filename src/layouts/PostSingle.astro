@@ -141,7 +141,7 @@ const monthYear = new Date().toLocaleDateString('en-US', {
       {frontmatter.tags && frontmatter.tags.length > 0 && (
         <div class="flex flex-wrap gap-2">
           {frontmatter.tags.map((tag: string) => (
-            <a href={`/blog/tag/${tag}/`} class="bg-teal-100 text-teal-800 px-3 py-1 rounded-full text-sm hover:bg-teal-200 transition-colors">
+            <a href={`/blog/tag/${tag}/`} class="bg-teal-100 text-teal-900 px-3 py-1 rounded-full text-sm hover:bg-teal-200 transition-colors">
               {tag}
             </a>
           ))}
@@ -162,7 +162,7 @@ const monthYear = new Date().toLocaleDateString('en-US', {
   />
 )}
 
-    <div class="blog-content">
+    <div class="blog-content prose dark:prose-invert">
       <slot />
     </div>
     <div>
