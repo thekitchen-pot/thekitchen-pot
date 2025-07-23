@@ -77,10 +77,10 @@ const pageNumbers = Array.from(
         <section class="grid grid-cols-1 md:grid-cols-2 gap-6">
           {posts.map((post) => (
             <article class="bg-white shadow-md rounded-lg overflow-hidden transition-transform hover:scale-[1.02] duration-200">
-              {post.data.image && (
+              {post.data.image && post.data.image.src && (
                 <div class="aspect-video overflow-hidden">
                   <Image
-                    src={post.data.image.src}
+                    src={post.data.image}
                     width={post.data.image.width}
                     height={post.data.image.height}
                     format='webp'
