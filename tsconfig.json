@@ -1,6 +1,7 @@
 {
-  "extends": "astro/tsconfigs/base",
-  "exclude": ["dist", "public", "/*images**/", ".git", "/*images/*"],
+  "extends": "astro/tsconfigs/strict",
+  "exclude": ["dist", "public", "/*images**/", ".git", "/*images/*", ".astro"],
+  "include": [".astro/types.d.ts", ".astro/icon.d.ts", ".astro/content.d.ts", "src"],
   "compilerOptions": {
     "strictNullChecks": true, // add if using `base` template
     "allowJs": true, // required, and included with all Astro templates
@@ -12,7 +13,9 @@
       "@/components/*": ["./src/components/*"], // Path for components
       "@/layouts/*": ["./src/layouts/*"], // Path for layouts
       "@/pages/*": ["./src/pages/*"],
-      "@/styles/*": ["./src/styles/*"]
+      "@/styles/*": ["./src/styles/*"],
+      "@/plugins/*": ["./plugins/*"]
+    }
     }
   }
-}
+

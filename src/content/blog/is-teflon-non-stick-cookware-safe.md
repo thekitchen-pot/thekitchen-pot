@@ -14,7 +14,9 @@ tags:
 showTableOfContents: true
 author: person
 source: decap
-description: teflon
+description: "Teflon, the brand name for polytetrafluoroethylene (PTFE), has been a
+  staple in kitchens worldwide for decades, prized for its non-stick surface
+  that makes cooking and cleaning easier. "
 category: kitchenware
 ---
 TEST visibility of the post:  Teflon, the brand name for polytetrafluoroethylene (PTFE), has been a staple in kitchens worldwide for decades, prized for its non-stick surface that makes cooking and cleaning easier. 

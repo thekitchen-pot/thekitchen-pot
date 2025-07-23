@@ -1,6 +1,11 @@
 // 1. Import utilities from `astro:content`
 import { defineCollection, z } from "astro:content";
+import { rssSchema } from '@astrojs/rss';
 
+import { siteConfig } from "./data/site";
+
+const { name, url, description} = siteConfig;
+const today = new Date();
 // 2. Import loader(s)
 import { glob, file } from "astro/loaders";
 
@@ -10,18 +15,18 @@ const blog = defineCollection({
   schema: ({ image }) => z.object({
     title: z.string(),
     slug: z.string(),
-    pubDate: z.date(),
-    modDate: z.date(),
+    pubDate: z.date().default(today),
+    modDate: z.date().default(today),
     author: z.string(),
     authorBio: z.string().optional(),
     authorId: z.string().optional(),
     authorImage: z.string().optional(),
-    authorImageAlt: z.string().optional(),
+    authorImageAlt: z.string().default(`Expert author at${name}`),
     coverAlt: z.string().optional(),
-    description: z.string(),
+    description: z.string().default('Add a description for your article'),
     tags: z.array(z.string()),
     category: z.string(),
-    seo: z.string().optional(),
+    seo: z.string().optional().default(description),
     image: image().optional()
 
 

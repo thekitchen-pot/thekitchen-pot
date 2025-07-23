@@ -57,6 +57,7 @@ collections:
           label: "Publication Date",
           name: "pubDate",
           widget: "datetime",
+          required: true,
           date_format: "YYYY-MM-DD",
         }
       - {
@@ -137,6 +138,7 @@ collections:
           label: "Publication Date",
           name: "pubDate",
           widget: "datetime",
+          required: true,
           date_format: "YYYY-MM-DD",
         }
       - {
@@ -168,8 +170,15 @@ collections:
           default: "/images/blog/default-cover.jpg",
         }
       - {
-          label: "Description",
+          label: "Excerpt",
           name: "excerpt",
+          widget: "text",
+          pattern: [".{50,160}", "SEO description (50-160 characters)"],
+        }
+        - {
+          label: "Description",
+          name: "description",
+          default: "{{fields.excerpt}}",
           widget: "text",
           pattern: [".{50,160}", "SEO description (50-160 characters)"],
         }
@@ -179,15 +188,16 @@ collections:
           widget: "relation",
           collection: "categories",
           search_fields: ["slug", "title"],
-          value_field: "slug",
+          value_field: "title",
           display_fields: ["title"],
-          default: "kitchenware",
+          default: "Kitchenware",
           required: true,
         }
       - label: "Tags"
         name: "tags"
         label_singular: "Tag"
         widget: "list"
+        required: true,
         summary: "{{fields.tag}}"
         field: { label: Tag, name: tag, widget: string }
       - { label: "Body", name: "body", widget: "markdown" }

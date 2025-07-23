@@ -1,6 +1,17 @@
 import { defineConfig } from "astro/config";
 
+import {
+  transformerNotationDiff, 
+  transformerNotationHighlight, 
+  transformerNotationWordHighlight,
+  transformerStyleToClass
+  // ...
+} from '@shikijs/transformers'
+
+
 import react from "@astrojs/react";
+
+import rehypeStringify from 'rehype-stringify'
 
 import tailwind from "@astrojs/tailwind";
 
@@ -11,6 +22,7 @@ import sitemap from "@astrojs/sitemap";
 // import cloudflare from "@astrojs/cloudflare";
 
 import netlify from "@astrojs/netlify";
+
 
 // import auth from "auth-astro";
 
@@ -37,4 +49,43 @@ export default defineConfig({
   output: "static",
 
   adapter: netlify(),
+  markdown: {
+
+    remarkPlugins: [ ],
+    rehypePlugins: [rehypeStringify],
+    shikiConfig: {
+      // Choose from Shiki's built-in themes (or add your own)
+      // https://shiki.style/themes
+      theme: 'houston',
+      // Alternatively, provide multiple themes
+      // See note below for using dual light/dark themes
+      themes: {
+        light: 'github-light',
+        dark: 'night-owl',
+      },
+      // Disable the default colors
+      // https://shiki.style/guide/dual-themes#without-default-color
+      // (Added in v4.12.0)
+      defaultColor: false,
+      // Add custom languages
+      // Note: Shiki has countless langs built-in, including .astro!
+      // https://shiki.style/languages
+      langs: ['astro', 'html'],
+      // Add custom aliases for languages
+      // Map an alias to a Shiki language ID: https://shiki.style/languages#bundled-languages
+      // https://shiki.style/guide/load-lang#custom-language-aliases
+      langAlias: {
+        cjs: "javascript"
+      },
+      // Enable word wrap to prevent horizontal scrolling
+      wrap: true,
+      // Add custom transformers: https://shiki.style/guide/transformers
+      // Find common transformers: https://shiki.style/packages/transformers
+      transformers: [transformerNotationDiff(), 
+            transformerNotationHighlight(), 
+            transformerNotationWordHighlight(),
+            transformerStyleToClass()
+          ],
+    },
+  },
 });
