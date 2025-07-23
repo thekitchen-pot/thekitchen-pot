@@ -31,9 +31,7 @@ However, questions about its safety persist, especially as research continues to
 
 
 
-[Buy Now Button](https://amazon.com/)
-[Click me](https://amazon.com/){: .button }
-[Click me](url){: class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" }
+<a class='button' href="https://amazon.com/>Buy Now Button</a>
 
 Teflon is a synthetic fluoropolymer known for its non-reactive, non-stick, and nearly frictionless surface. Its primary use in cookware is to prevent food from sticking, allowing for low-fat cooking and easy cleaning. The non-stick convenience is especially valued for delicate foods like eggs and pancakes.
 
