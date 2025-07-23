@@ -72,7 +72,7 @@ const pageNumbers = Array.from(
           )}
           <div class="p-4">
             <h2 class="text-xl font-semibold mb-2 line-clamp-2">
-              <a href={`/blog/${post.id}/`} class="text-golf-accent">{post.data.title}</a>
+              <a href={`/blog/${post.id}/`} class="text-golf-secondary">{post.data.title}</a>
             </h2>
             <time class="text-sm text-gray-600 mb-2 block">
               {new Date(post.data.modDate).toLocaleDateString('en-US', {
@@ -84,7 +84,7 @@ const pageNumbers = Array.from(
             <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description}</p>
             <a
               href={`/blog/${post.id}/`}
-              class="inline-flex p-2 rounded-full bg-golf-primary items-center text-blue-100 hover:text-blue-100 font-medium"
+              class="inline-flex p-2 pl-2 rounded-full bg-golf-accent items-center text-blue-100 hover:text-blue-100 font-serif font-medium"
             >
               Read more
               <svg
