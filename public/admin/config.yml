@@ -20,6 +20,7 @@ collections:
   - name: "blog"
     label: "WordPress Posts"
     label_singular: "Article"
+    filter: { field: "filter", value: "wordpress" }
     preview_path: "/blog/{{slug}}/"
     folder: "src/content/blog"
     description: "Blog posts imported from WordPress. Edits only - create new posts in 'New CMS Posts'."
@@ -34,9 +35,16 @@ collections:
           default: "{{fields.pubDate}}",
         }
       - {
+          label: "Filter",
+          name: "filter",
+          widget: "hidden",
+          default: "wordpress",
+        }
+      - {
           label: "Source",
           name: "source",
           widget: "string",
+          hint: "This field must always be set to 'wordpress' for your website to function optimally.",
           default: "wordpress",
         }
       - { label: "URL Slug", name: "slug", widget: "string", required: true }
