@@ -32,8 +32,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
-Did you know that room heaters increase your household budget by more than 40%? Well, if you’ve used electrical power to heat your house during winter, then you’ll opine that your energy bill was a shocker!
+DID you know that room heaters increase your household budget by more than 40%? Well, if you’ve used electrical power to heat your house during winter, then you’ll opine that your energy bill was a shocker!
 
 While heating your house is crucial and you cannot negate it, you can always look for more affordable alternatives. One such option is purchasing the best wood burning stove. 
 
@@ -47,13 +46,13 @@ If you want to alleviate the pain of paying humongous power bills, then you shou
 
 ## Best Wood Burning Stoves – Comparison
 
-| Image | Name | Features |
-|---|---|---|
-|  | Pleasant Hearth SES-41-10 20" Electric Stove-Matte Black Finish | -Easy to install - assemble legs and plug it in-Compact size is perfect for smaller spaces-1350 watt heater warms a room up to a 400 sq. ft. area-No venting, no plumbing, hidden control panel easily operates flame, heat and power |
-|  | CLIFTON Wood Burning Stove | -Made of High quality Stainless Steel-Lightweight & Portable |
-|  | Comfort Glow The Claremont Electric Stove | -Built-in thermostat-Safety thermal shut-off; easy access controls; real working door; cool touch cabinet-180-Degree flame view can be seen from almost anywhere in the room |
-|  | Guide Gear Outdoor Wood Stove | -Galvanized steel with high-temperature heat-resistant black finish-Pipes nest and entire stove fits inside itself for easy storage and transport-Front hinged cast iron door with adjustable air vent |
-|  | Duraflame 3D Infrared Electric Fireplace Stove with Remote Control - Portable Indoor Space Heater - DFI-5010 (Cream) | -5,200 BTU heater provides supplemental zone heating for up to 1,000 square feet-infrared quartz heat helps to maintain the natural humidity in the air |
+| Image | Name                                                                                                                 | Features                                                                                                                                                                                                                               |
+| ----- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       | Pleasant Hearth SES-41-10 20" Electric Stove-Matte Black Finish                                                      | \-Easy to install - assemble legs and plug it in-Compact size is perfect for smaller spaces-1350 watt heater warms a room up to a 400 sq. ft. area-No venting, no plumbing, hidden control panel easily operates flame, heat and power |
+|       | CLIFTON Wood Burning Stove                                                                                           | \-Made of High quality Stainless Steel-Lightweight & Portable                                                                                                                                                                          |
+|       | Comfort Glow The Claremont Electric Stove                                                                            | \-Built-in thermostat-Safety thermal shut-off; easy access controls; real working door; cool touch cabinet-180-Degree flame view can be seen from almost anywhere in the room                                                          |
+|       | Guide Gear Outdoor Wood Stove                                                                                        | \-Galvanized steel with high-temperature heat-resistant black finish-Pipes nest and entire stove fits inside itself for easy storage and transport-Front hinged cast iron door with adjustable air vent                                |
+|       | Duraflame 3D Infrared Electric Fireplace Stove with Remote Control - Portable Indoor Space Heater - DFI-5010 (Cream) | \-5,200 BTU heater provides supplemental zone heating for up to 1,000 square feet-infrared quartz heat helps to maintain the natural humidity in the air                                                                               |
 
 ## **Why You Should Buy the Best Wood Burning Stove**
 
@@ -65,25 +64,25 @@ As such, you should never hesitate from buying the best wood burning stove if yo
 
 Here are other reasons as to why you should consider the best wood [burning stove](https://www.hearthstonestoves.com/wood/wood-stoves/) for your house:
 
-**1\. Cheap to Operate** 
+**1. Cheap to Operate** 
 
 The best wood burning stove uses wood as the sole source of energy. As such, you can be sure that there are no hidden charges. All you require are a few logs/pieces of wood and you’ll be good to go!
 
-**2\. Superb Designs that Help in Saving Fuel**
+**2. Superb Designs that Help in Saving Fuel**
 
 Unlike the traditional stoves, these modern wood burning stoves have been modified to use the least amount of wood possible without compromising on the quantity and quality of warmth produced. 
 
 Some of the models have efficiency ratings of more than 80%, which is a hallmark of excellence by all standards. They use little fuel to produce a lot of heat enough to warm a large area. 
 
-**3\. Saves You Money**
+**3. Saves You Money**
 
 The best wood burning stoves use wood as fuel; which is not only environmentally friendly but also cheaper. It’ll slash your electricity budget significantly while still producing the same amount of BTUs. 
 
-**4\. Guaranteed Safety**
+**4. Guaranteed Safety**
 
 The best wood burning stoves are designed in such a way that flames are contained inside the firebox. As such, the risk of burning is eliminated, thus making it safe to use from any part of your home.
 
-**5\. Highly Aesthetic**
+**5. Highly Aesthetic**
 
 If you buy your best wood burning stove, you’ll not only have solved the cold menace but also improve your house aesthetics. Watching the fire emanating from the firebox is refreshing for your family and guests!
 
@@ -101,7 +100,7 @@ Also, modern wood burning stoves have been modified to be more energy efficient 
 
 Unlike traditional wood stoves, the best wood burning stoves are highly energy efficient. Here are some of the combustion methods applied:
 
--   **Catalytic Converters**
+* **Catalytic Converters**
 
 When purchasing your best wood burning stove, your primary goal should be to get a stove that will yield the most heat energy while using the least wood. 
 
@@ -111,13 +110,13 @@ Instead, the gasses go into a chamber where they are heated at high temperatures
 
 While burning stoves that use this combustion method are effective, you’ll require to change the catalytic converter frequently. This makes it more expensive to maintain. 
 
--   **Baffle Combustion Technique**
+* **Baffle Combustion Technique**
 
 This combustion uses the same technique as the catalytic converter. However, the gasses are recycled by letting them pass over the fire as opposed to an enclosed chamber. 
 
 ## **Best Wood Burning Stoves for Your Consideration**
 
-### **1\. [Pleasant Hearth SES-41-10 20″ Electric Stove-Matte Black Finish](https://www.amazon.com/Pleasant-Hearth-Panoramic-Stove-Vintage/dp/B008Q26I64?tag=kitchenpot-20)**
+### **1. [Pleasant Hearth SES-41-10 20″ Electric Stove-Matte Black Finish](https://www.amazon.com/Pleasant-Hearth-Panoramic-Stove-Vintage/dp/B008Q26I64?tag=kitchenpot-20)**
 
 ![Best Wood Burning Stoves](images/portablegasgrill.jpg)
 
@@ -129,15 +128,15 @@ Additionally, this wood burning stove is compact, thus making it ideal for use i
 
 **Pros** 
 
--   Easy installation 
--   Small for ease of handling
--   Operates with or without heater
+* Easy installation 
+* Small for ease of handling
+* Operates with or without heater
 
 **Cons**
 
--   May require electricity to operate optimally
+* May require electricity to operate optimally
 
-### **2\. [CLIFTON Wood Burning Stove](https://www.amazon.com/CLIFTON-Portable-Stainless-Backpacking-Lightweight/dp/B0893KC8XF?tag=kitchenpot-20)**
+### **2. [CLIFTON Wood Burning Stove](https://www.amazon.com/CLIFTON-Portable-Stainless-Backpacking-Lightweight/dp/B0893KC8XF?tag=kitchenpot-20)**
 
 ![Best Wood Burning Stoves](images/portablegasgrill.jpg)
 
@@ -153,16 +152,16 @@ This increases the chances of complete combustion which produces more heat energ
 
 **Pros**
 
--   Come with storage bag
--   Lightweight for guaranteed portability
--   Easy to use
--   Allows cooking
+* Come with storage bag
+* Lightweight for guaranteed portability
+* Easy to use
+* Allows cooking
 
 **Cons**
 
--   The heat produced is less especially when cooking
+* The heat produced is less especially when cooking
 
-### **3\. [Comfort Glow The Claremont Electric Stove](https://www.amazon.com/Comfort-Glow-Claremont-Electric-Stove/dp/B072W8731X?tag=kitchenpot-20)**
+### **3. [Comfort Glow The Claremont Electric Stove](https://www.amazon.com/Comfort-Glow-Claremont-Electric-Stove/dp/B072W8731X?tag=kitchenpot-20)**
 
 ![Best Wood Burning Stoves](images/portablegasgrill.jpg)
 
@@ -176,15 +175,15 @@ To top it up, the magnificent stove has a safety thermal shut-off, a highly func
 
 **Pros**
 
--   Easy to use
--   Instant heating
--   Safety thermal shut-off
+* Easy to use
+* Instant heating
+* Safety thermal shut-off
 
 **Cons**
 
--    May take some time before turning the heat off
+*  May take some time before turning the heat off
 
-### **4\.** [Winnerwell Nomad View Large Tent Stove | Portable Wood Burning Stove for Tents, Shelters, and Camping](https://www.amazon.com/Winnerwell-Allround-View-L-sized-Stove/dp/B0792V682X?tag=kitchenpot-20)
+### **4.** [Winnerwell Nomad View Large Tent Stove | Portable Wood Burning Stove for Tents, Shelters, and Camping](https://www.amazon.com/Winnerwell-Allround-View-L-sized-Stove/dp/B0792V682X?tag=kitchenpot-20)
 
 ![Best Wood Burning Stove for Camping](images/portablegasgrill.jpg)
 
@@ -196,16 +195,16 @@ Even more important, this wood burning stove is highly portable. You can use it 
 
 **Pros**
 
--   Portable
--   Can warm/cook food
--   Highly durable
--   Easy to use
+* Portable
+* Can warm/cook food
+* Highly durable
+* Easy to use
 
 **Cons**
 
--   Lacks the aesthetic element
+* Lacks the aesthetic element
 
-### **5\. [Dura Heat Portable Indoor Home Compact Electric Panoramic Quartz Infrared Heater 5000 BTU, 4600, Bronze](https://www.amazon.com/Dura-Heat-Portable-Electric-Panoramic/dp/B0753FDJH8?tag=kitchenpot-20)**
+### **5. [Dura Heat Portable Indoor Home Compact Electric Panoramic Quartz Infrared Heater 5000 BTU, 4600, Bronze](https://www.amazon.com/Dura-Heat-Portable-Electric-Panoramic/dp/B0753FDJH8?tag=kitchenpot-20)**
 
 ![Best Wood Burning Stove](images/portablegasgrill.jpg)
 
@@ -219,16 +218,16 @@ The construction of this stove incorporates infrared quartz that’s ideal in ma
 
 **Pros**
 
--   Comes with an adjustable thermostat for easy temperature control
--   Highly aesthetic with its infrared 3D flame technology
--   Easy to maintain surrounding humidity for guaranteed comfort 
--   Durable construction 
+* Comes with an adjustable thermostat for easy temperature control
+* Highly aesthetic with its infrared 3D flame technology
+* Easy to maintain surrounding humidity for guaranteed comfort 
+* Durable construction 
 
 **Cons**
 
--   Relatively brightly colored which may require topnotch cleaning sessions to keep stains at bay (you can also choose different colors)
+* Relatively brightly colored which may require topnotch cleaning sessions to keep stains at bay (you can also choose different colors)
 
-### **6\. [Ohuhu Stainless Steel Backpacking Stove Potable Wood Burning Stoves](https://www.amazon.com/Ohuhu-Camping-Stainless-Backpacking-Potable/dp/B0125U36Q2?tag=kitchenpot-20)** 
+### **6. [Ohuhu Stainless Steel Backpacking Stove Potable Wood Burning Stoves](https://www.amazon.com/Ohuhu-Camping-Stainless-Backpacking-Potable/dp/B0125U36Q2?tag=kitchenpot-20)** 
 
 ![Best Camping Wood Burning Stove](images/portablegasgrill.jpg)
 
@@ -242,14 +241,14 @@ The US stove accepts logs of up to 10 inches in length. Even better, it includes
 
 **Pros**
 
--   EPA-certified for safety
--   Has a flexible cooktop
--   Easy to use
--   Easy to maintain
+* EPA-certified for safety
+* Has a flexible cooktop
+* Easy to use
+* Easy to maintain
 
 **Cons**
 
--   May take some time before adequate heating starts
+* May take some time before adequate heating starts
 
 ## **Best Wood Burning Stoves – Buyers Guide** 
 
@@ -259,36 +258,36 @@ Additionally, you should always consider installation difficulty, cost of mainte
 
 ### **What You Should Consider When Shopping for the Best Wood Burning Stove**
 
-**1\. Surface Area/ Size**
+**1. Surface Area/ Size**
 
 How big is your ideal wood stove? You definitely shouldn’t settle for an excessively large wood stove. However, this will largely be influenced by personal preferences and space availability.
 
 If you believe that big is superb, and you have an adequate storage space, then you shouldn’t hesitate to buy that which satisfies all your needs holistically. 
 
-**2\. Coverage**
+**2. Coverage**
 
 Besides the stove’s surface area, you should always consider the surface area of your sitting area/ house that you want to warm. 
 
 Ideally, every manufacturer should recommend the ideal coverage (in terms of surface area). If you want optimum results, ensure that your best wood burning stove is designed to cover an area as big as your living area. 
 
-**3\. Efficiency** 
+**3. Efficiency** 
 
 How well does a wood stove burn the fuel? Well, you’ll realize that these gadgets have different combustion methods, which will affect fuel consumption and the amount of heat they produce. 
 
 Here are two common combustion methods available in the market (also discussed above)
 
--   **Catalytic.** These are more expensive but efficient. However, you’ll be required to change the catalytic unit regularly, which makes it expensive to maintain. 
--   **Non-Catalytic.** Relatively affordable but are not as efficient as the catalytic stoves. 
+* **Catalytic.** These are more expensive but efficient. However, you’ll be required to change the catalytic unit regularly, which makes it expensive to maintain. 
+* **Non-Catalytic.** Relatively affordable but are not as efficient as the catalytic stoves. 
 
-**4\. Method of Construction/ Design/ Aesthetics** 
+**4. Method of Construction/ Design/ Aesthetics** 
 
 The best wood burning stoves come in different designs. You can opt for traditional or modern ones. Also, a key consideration when buying the best burning stove is to check on portability. Here’s a breakdown of the construction techniques to consider:
 
--   **Self-Standing Stoves.** Most of the traditional stoves fall into this category. The fireboxes vary in size and do not use blowers. When using stoves with this design, you may require top ventilation. Their sturdy cast iron/steel construction makes them relatively heavy. 
--   **Modern Design.** These stoves use blowers, which makes them more energy-efficient than the traditional self-standing ones. They allow for both a back and top ventilation system and have a clear front-face to allow you to watch the fire flames from the firebox. Even better, they are relatively light yet durable due to their construction using lightweight yet sturdy materials. 
--   **Portability-Friendly Construction.** If you want your best wood burning stove to be portable, then you should choose one constructed using lightweight materials. Such stoves are easy to assemble and are specially designed for outdoor use. Additionally, it should have ergonomic handles for ease of carrying. 
+* **Self-Standing Stoves.** Most of the traditional stoves fall into this category. The fireboxes vary in size and do not use blowers. When using stoves with this design, you may require top ventilation. Their sturdy cast iron/steel construction makes them relatively heavy. 
+* **Modern Design.** These stoves use blowers, which makes them more energy-efficient than the traditional self-standing ones. They allow for both a back and top ventilation system and have a clear front-face to allow you to watch the fire flames from the firebox. Even better, they are relatively light yet durable due to their construction using lightweight yet sturdy materials. 
+* **Portability-Friendly Construction.** If you want your best wood burning stove to be portable, then you should choose one constructed using lightweight materials. Such stoves are easy to assemble and are specially designed for outdoor use. Additionally, it should have ergonomic handles for ease of carrying. 
 
-**5\. Firebox Size**
+**5. Firebox Size**
 
 The size of your stove’s firebox will affect its fuel capacity and heat output. The larger it is, the more wood you’ll require to heat your house. While this may sound like a bad thing, it favors you if you’re using it for long since you’ll not be required to refill frequently. 
 
@@ -296,13 +295,13 @@ Additionally, a larger firebox will yield more heat. However, this may result in
 
 If you want your best wood burning stove to have a large firebox, you’ll be required to pay more for it. As such, you should ensure that you only buy it when you need it, have a large surface area to heat, and the need to heat for long without adding fuel. 
 
-**6\. Glass Vs Ceramic Door**
+**6. Glass Vs Ceramic Door**
 
 The best wood burning stoves will either have a glass or ceramic door. The glass doors offer better aesthetics since they allow you to see the flame as the wood burns. 
 
 On the other hand, the ceramic doors are good conductors of heat. Consequently, they will play a crucial role in heating your house. 
 
-**7\. Safety**
+**7. Safety**
 
 Before you settle for your best wood burning stove, you should ensure that it is certified. This is the only sure way to avoid counterfeit models, which may expose you to dangers. Always check the safety certificate from the manufacturer before you make a purchase!
 
