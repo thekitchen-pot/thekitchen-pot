@@ -1,0 +1,8 @@
+---
+import { POST } from '@/pages/api/build'
+
+let response = await POST(Astro)
+const data = await response.json()
+---
+
+<h1>{data.message} Hurray!</h1>
