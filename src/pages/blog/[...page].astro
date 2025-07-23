@@ -53,9 +53,9 @@ const pageNumbers = Array.from(
         <h1 class="text-4xl font-bold mb-6">Latest Articles</h1>
         
         <!-- Blog Posts Section -->
-        <section class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
       {posts.map((post) => (
-        <article class="bg-white shadow-md rounded-lg overflow-hidden transition-transform hover:scale-[1.02] duration-200">
+        <div class="bg-white shadow-md rounded-lg overflow-hidden transition-transform hover:scale-[1.02] duration-200">
           {post.data.image && (
             <div class="aspect-video overflow-hidden">
               <Image
@@ -72,7 +72,7 @@ const pageNumbers = Array.from(
           )}
           <div class="p-4">
             <h2 class="text-xl font-semibold mb-2 line-clamp-2">
-              {post.data.title}
+              <a href={`/blog/${post.id}/`} class="text-golf-accent">{post.data.title}</a>
             </h2>
             <time class="text-sm text-gray-600 mb-2 block">
               {new Date(post.data.modDate).toLocaleDateString('en-US', {
@@ -84,7 +84,7 @@ const pageNumbers = Array.from(
             <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description}</p>
             <a
               href={`/blog/${post.id}/`}
-              class="inline-flex p-2 rounded-full bg-gray-800/70 items-center text-blue-100 hover:text-blue-100 font-medium"
+              class="inline-flex p-2 rounded-full bg-golf-primary items-center text-blue-100 hover:text-blue-100 font-medium"
             >
               Read more
               <svg
@@ -102,9 +102,9 @@ const pageNumbers = Array.from(
               </svg>
             </a>
           </div>
-        </article>
+        </div>
       ))}
-    </section>
+    </div>
 
         {totalPages > 1 && (
       <nav class="flex justify-center items-center mt-12" aria-label="Pagination">
@@ -141,7 +141,7 @@ const pageNumbers = Array.from(
                 href={`/blog/${pageNum}/`}
                 class={`px-4 py-2 text-sm font-medium rounded-md ${
                   currentPage === pageNum
-                    ? 'bg-blue-500 text-white'
+                    ? 'bg-golf-primary text-white'
                     : 'bg-white text-gray-700 hover:bg-gray-50'
                 }`}
                 aria-current={currentPage === pageNum ? 'page' : undefined}
