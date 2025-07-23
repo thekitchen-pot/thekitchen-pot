@@ -1,6 +1,6 @@
 
 
-https://dev.thekitchenpot.com/*
+https://*.dev/*
   X-Robots-Tag: noindex, nofollow
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
@@ -12,7 +12,7 @@ https://dev.thekitchenpot.com/*
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Resource-Policy: same-origin
 
-https://kitchenpots.netlify.app/*
+https://*.app/*
   X-Robots-Tag: noindex, nofollow
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
