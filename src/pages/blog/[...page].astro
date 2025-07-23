@@ -78,7 +78,7 @@ const pageNumbers = Array.from(
         
         <!-- Blog Posts Section -->
         <section class="grid grid-cols-1 md:grid-cols-2 gap-6">
-      {posts.map((post) => (
+      {posts.flatmap((post) => (
         <article class="bg-white shadow-md rounded-lg overflow-hidden transition-transform hover:scale-[1.02] duration-200">
           {post.data.image && (
             <div class="aspect-video overflow-hidden">
