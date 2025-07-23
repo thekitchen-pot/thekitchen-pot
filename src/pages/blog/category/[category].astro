@@ -56,7 +56,7 @@ function formatDate(dateString: Date | undefined) {
       {posts.map(post => (
         <article class="bg-white rounded-lg overflow-hidden shadow-lg transform transition-transform hover:scale-105">
           <Image
-            src={post.data.image.src}
+            src={post.data.image}
             width={1200}
             height={620}
             alt={post.data.title}
