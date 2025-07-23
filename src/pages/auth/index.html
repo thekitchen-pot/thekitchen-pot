@@ -34,18 +34,95 @@
 
         // Register CTA button
         CMS.registerEditorComponent({
-          id: 'button-link',
-          label: 'CTA Button',
-          fields: [
-            { name: 'text', label: 'Button Text', widget: 'string' },
-            { name: 'url', label: 'Destination URL', widget: 'string' }
-          ],
-          pattern: /<a\s+href="(.+?)"\s*>(.+?)<\/a>/,
-          fromBlock: match => ({ url: match[1], text: match[2] }),
-          toBlock: data => `<a href="${data.url}" class="btn-cta">${data.text}</a>`,
-          toPreview: data => `<a href="${data.url}" class="btn-cta">${data.text}</a>`
-        });
+  id: 'button-link',
+  label: 'CTA Button',
+  fields: [
+    { name: 'text',      label: 'Button Text',     widget: 'string' },
+    { name: 'url',       label: 'Destination URL', widget: 'string' },
+    {
+      name: 'style',
+      label: 'Button Style',
+      widget: 'select',
+      options: [
+        { label: 'Primary',   value: 'btn-primary'   },
+        { label: 'Secondary', value: 'btn-secondary' },
+        { label: 'Outline',   value: 'btn-outline'   },
+        { label: 'Ghost',     value: 'btn-ghost'     }
+      ],
+      default: 'btn-primary'
+    },
+    {
+      name: 'size',
+      label: 'Size',
+      widget: 'select',
+      options: [
+        { label: 'Small',  value: 'btn-sm' },
+        { label: 'Normal', value: ''       },
+        { label: 'Large',  value: 'btn-lg' }
+      ],
+      default: ''
+    },
+    {
+      name: 'rounded',
+      label: 'Border Radius',
+      widget: 'select',
+      options: [
+        { label: 'None',      value: 'rounded-none' },
+        { label: 'Medium',    value: 'rounded-md'   },
+        { label: 'Large',     value: 'rounded-lg'   },
+        { label: 'Pill',      value: 'rounded-full' }
+      ],
+      default: 'rounded-lg'
+    },
+    {
+      name: 'fullWidth',
+      label: 'Full width?',
+      widget: 'boolean',
+      default: false
+    }
+  ],
 
+  // detect <a> with btn-cta plus any extra btn-* classes
+  pattern: /<a\s+href="(.+?)"\s+class="btn-cta(?:\s+([\w- ]+))?">\s*(.+?)\s*<\/a>/,
+
+  fromBlock: match => {
+    const [ , url, extra = '', text ] = match
+    const classes = extra.split(/\s+/)
+    return {
+      url,
+      text,
+      style:   classes.find(c => c.startsWith('btn-') && !['btn-sm','btn-lg'].includes(c)) || 'btn-primary',
+      size:    classes.find(c => c==='btn-sm'||c==='btn-lg') || '',
+      rounded: classes.find(c=>c.startsWith('rounded-')) || 'rounded-lg',
+      fullWidth: classes.includes('btn-block')
+    }
+  },
+
+  toBlock: data => {
+    const cls = [
+      'btn-cta',
+      data.style,
+      data.size,
+      data.rounded,
+      data.fullWidth ? 'btn-block' : ''
+    ].filter(Boolean).join(' ')
+    return `<a href="${data.url}" class="${cls}">${data.text}</a>`
+  },
+
+  toPreview: data => {
+    const cls = [
+      'btn-cta',
+      data.style,
+      data.size,
+      data.rounded,
+      data.fullWidth ? 'btn-block' : ''
+    ].filter(Boolean).join(' ')
+    return `<a href="${data.url}" class="${cls}">${data.text}</a>`
+  }
+})
+
+        
+          
         CMS.registerEditorComponent({
   id: 'cta-button',
   label: 'Styled Button',
@@ -109,7 +186,6 @@
     
 
     <script>
-     
   if (window.netlifyIdentity) {
     window.netlifyIdentity.init({
       APIUrl: 'https://thekitchenpot.com/.netlify/identity'
