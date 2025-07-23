@@ -1,9 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '@/layouts/Layout.astro';
-import type { CollectionEntry } from 'astro:content';
 import Sidebar from '@/components/blog/Sidebar.astro';
-import { Image, Picture } from 'astro:assets';
+import { Image } from 'astro:assets';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog');
