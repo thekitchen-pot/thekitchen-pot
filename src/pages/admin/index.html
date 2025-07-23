@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
+
+    <!-- Decap CMS config -->
+    <link rel="cms-config-url" href="/admin/config.yml" type="text/yaml" />
+
+    <title>The Kitchen Pot Content Manager</title>
+    <style>
+      body {
+        font-family: system-ui, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      .cta-button {
+        display: inline-block;
+        padding: 0.5rem 1rem;
+        background: #ff7f50;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 0.25rem;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Mount point for CMS -->
+    <div id="nc-root"></div>
+
+    <!-- Netlify Identity Widget -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" crossorigin="anonymous"></script>
+
+    <!-- Decap CMS Core -->
+     <script  src="https://unpkg.com/decap-cms@^3.8.2/dist/decap-cms.js"></script>
+
+    <script>
+      // Prevent auto-init; we'll init manually
+      window.CMS_MANUAL_INIT = true;
+
+      // Identity init
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on('init', user => {
+          if (!user) window.netlifyIdentity.open();
+        });
+        window.netlifyIdentity.init({
+          APIUrl: 'https://thekitchenpot.com/.netlify/identity'
+        });
+      }
+
+      // Wait for DOM and CMS global
+      document.addEventListener('DOMContentLoaded', () => {
+        if (!window.CMS) {
+          console.error('Decap CMS not loaded.');
+          return;
+        }
+
+        // Register CTA button
+        CMS.registerEditorComponent({
+          id: 'button-link',
+          label: 'CTA Button',
+          fields: [
+            { name: 'text', label: 'Button Text', widget: 'string' },
+            { name: 'url', label: 'Destination URL', widget: 'string' }
+          ],
+          pattern: /<a\s+href="(.+?)"\s*>(.+?)<\/a>/,
+          fromBlock: match => ({ url: match[1], text: match[2] }),
+          toBlock: data => `<a href="${data.url}" class="cta-button">${data.text}</a>`,
+          toPreview: data => `<a href="${data.url}" class="cta-button">${data.text}</a>`
+        });
+
+        // Finally init CMS
+        CMS.init({
+          root: '#nc-root'
+        });
+      });
+    </script>
+  </body>
+</html>
