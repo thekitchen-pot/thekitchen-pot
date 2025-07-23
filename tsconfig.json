@@ -16,6 +16,6 @@
       "@/styles/*": ["./src/styles/*"],
       "@/plugins/*": ["./plugins/*"]
     }
-    }
   }
+}
 
