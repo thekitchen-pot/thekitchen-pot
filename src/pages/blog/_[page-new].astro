@@ -13,7 +13,7 @@ export const getStaticPaths = (async ({ paginate }) => {
   // This returns an array of GetStaticPathEntry objects with:
   // - params.page: string[]   (empty [] ⇒ `/blog/`, ["2"] ⇒ `/blog/2/`, etc.)
   // - props.page: { data, currentPage, lastPage, start, end, total }
-  return paginate(sorted, { pageSize: 6 });
+  return paginate(sorted, { pageSize: 12 });
 }) satisfies GetStaticPaths;
 
 // In the component:
