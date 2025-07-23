@@ -50,21 +50,20 @@ const pageNumbers = Array.from(
     <div class="flex flex-col lg:flex-row gap-8">
       <!-- Main Content -->
       <div class="w-full lg:w-3/4">
-        <h1 class="text-4xl font-bold mb-6">Latest Articles</h1>
+        <h1 class="text-4xl font-bold mb-6 space-y-12">Latest Articles</h1>
         
         <!-- Blog Posts Section -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
       {posts.map((post) => (
         <div class="bg-white shadow-md rounded-lg overflow-hidden transition-transform hover:scale-[1.02] duration-200">
           {post.data.image && (
             <div class="aspect-video overflow-hidden">
               <Image
                 src={post.data.image.src}
-                width={post.data.image.width}
-                height={post.data.image.height}
+                width={post.data.image.width / 2}
+                inferSize
                 format='webp'
                 loading='eager'
-                
                 alt={post.data.title}
                 class="w-full h-full object-cover"
               />
@@ -74,7 +73,7 @@ const pageNumbers = Array.from(
             <h2 class="text-xl font-semibold mb-2 line-clamp-2">
               <a href={`/blog/${post.id}/`} class="text-golf-secondary">{post.data.title}</a>
             </h2>
-            <time class="text-sm text-gray-600 mb-2 block">
+            <time class="text-sm text-golf-accent/70 mb-2 block">
               {new Date(post.data.modDate).toLocaleDateString('en-US', {
                 year: 'numeric',
                 month: 'long',

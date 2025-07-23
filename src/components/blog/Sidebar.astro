@@ -20,7 +20,7 @@ const recentPosts = allPosts
 const categories = [...new Set(allPosts.map(post => post.data.category))].filter(Boolean);
 ---
 
-<aside class="w-full lg:w-1/4 space-y-8">
+<aside class="w-full lg:w-1/4 space-y-8 sticky">
   <SearchBar />
   
   <div class="bg-white rounded-lg shadow-md p-6">
