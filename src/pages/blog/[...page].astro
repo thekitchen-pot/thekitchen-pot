@@ -1,84 +1,53 @@
 ---
 import { getCollection } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
 import Layout from '@/layouts/Layout.astro';
-import type { CollectionEntry } from 'astro:content';
 import Sidebar from '@/components/blog/Sidebar.astro';
 import { Image } from 'astro:assets';
 
-interface PaginateFunction {
-  (items: any[],
-  options: {
-    pageSize: number;
-    params: { [key: string]: string }; 
-    props: Props;
-   }
-  ): { pages: any[] };
-}
-
-interface Props {
-  posts: CollectionEntry<'blog'>[];
-  currentPage: number;
-  totalPages: number;
-  totalPosts?: number;
-}
-
-export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
+export const getStaticPaths = (async ({ paginate }) => {
+  // 1. Fetch and sort all posts
   const allPosts = await getCollection('blog');
-  const sortedPosts = allPosts.sort((a, b) => {
-    return new Date(b.data.modDate).getTime() - new Date(a.data.modDate).getTime();
-  });
+  const sortedPosts = allPosts.sort((a, b) =>
+    new Date(b.data.modDate).getTime() - new Date(a.data.modDate).getTime()
+  );
 
-  const itemsPerPage = 6;
+  // 2. Paginate with 6 items per page
+  return paginate(sortedPosts, { pageSize: 6 });
+}) satisfies GetStaticPaths;
 
-  // Use paginate to create paths with page metadata
-  return paginate(sortedPosts, { pageSize: itemsPerPage }).map(page => ({
-    params: { page: String(page.currentPage) },
-    props: {
-      currentPage: page.currentPage,
-      totalPages: page.totalPages,
-      posts: page.data,
-      totalPosts: page.total,
-      pageStart: page.start,
-      pageEnd: page.end,
-      pageUrl: page.url
-    },
-  }));
-}
-
-
-
-const { page } = Astro.params;
-const { posts, currentPage, totalPages, totalPosts, pageStart, pageEnd, pageUrl } = Astro.props;
-
-// Calculate pagination range
-const maxVisiblePages = 5;
-const startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
-const endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
-const pageNumbers = Array.from(
-  { length: endPage - startPage + 1 },
-  (_, i) => startPage + i
-);
+const { page } = Astro.props;
+// `page.data` is your posts array for this page
+const posts = page.data;
+// current page number
+const currentPage = page.currentPage;
+// total pages (alias `lastPage` in some docs)
+const totalPages = page.total ?? page.lastPage;
+// indices for “Showing X–Y of Z”
+const pageStart = page.start;
+const pageEnd = page.end;
+// total number of posts
+const totalPosts = page.total;
 ---
-
-<Layout title={`Blog - Page ${page}`} description='Latest posts from us to you.'>
+<Layout title={`Blog – Page ${currentPage}`} description="Latest posts from us to you.">
   <main class="container mx-auto px-4 py-8">
     <div class="flex flex-col lg:flex-row gap-8">
       <!-- Main Content -->
       <div class="w-full lg:w-3/4">
         <h1 class="text-4xl font-bold mb-6">Latest Articles</h1>
-        
-        <!-- Blog Posts Section -->
+
+        <!-- Posts Grid -->
         <section class="grid grid-cols-1 md:grid-cols-2 gap-6">
           {posts.map((post) => (
-            <article class="bg-white shadow-md rounded-lg overflow-hidden transition-transform hover:scale-[1.02] duration-200">
-              {post.data.image && post.data.image.src && (
+            <article class="bg-white shadow-md rounded-lg overflow-hidden hover:scale-[1.02] transition">
+              {post.data.image && (
                 <div class="aspect-video overflow-hidden">
                   <Image
                     src={post.data.image}
                     width={post.data.image.width}
                     height={post.data.image.height}
-                    format='webp'
-                    loading='eager'
+                    format="webp"
+                    loading="eager"
                     alt={post.data.title}
                     class="w-full h-full object-cover"
                   />
@@ -92,27 +61,20 @@ const pageNumbers = Array.from(
                   {new Date(post.data.modDate).toLocaleDateString('en-US', {
                     year: 'numeric',
                     month: 'long',
-                    day: 'numeric'
+                    day: 'numeric',
                   })}
                 </time>
-                <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description}</p>
+                <p class="text-gray-600 mb-4 line-clamp-3">
+                  {post.data.description}
+                </p>
                 <a
                   href={`/blog/${post.id}/`}
-                  class="inline-flex p-2 rounded-full bg-gray-800/70 items-center text-blue-100 hover:text-blue-100 font-medium"
+                  class="inline-flex items-center bg-gray-800/70 text-blue-100 px-3 py-1 rounded-full hover:bg-gray-900"
                 >
                   Read more
-                  <svg
-                    class="w-4 h-4 ml-1"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      d="M9 5l7 7-7 7"
-                    />
+                  <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M9 5l7 7-7 7" />
                   </svg>
                 </a>
               </div>
@@ -120,94 +82,67 @@ const pageNumbers = Array.from(
           ))}
         </section>
 
+        <!-- Summary -->
         <p class="mt-4 text-gray-600">
           Showing {pageStart + 1} to {Math.min(pageEnd, totalPosts)} of {totalPosts} posts
         </p>
 
+        <!-- Pagination Controls -->
         {totalPages > 1 && (
-          <nav class="flex justify-center items-center mt-12" aria-label="Pagination">
-            <div class="flex items-center gap-2">
-              <a
-                href={currentPage > 1 ? `/blog/${currentPage - 1}/` : undefined}
-                class={`px-4 py-2 text-sm font-medium rounded-md ${
-                  currentPage === 1
-                    ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
-                    : 'bg-white text-gray-700 hover:bg-gray-50'
-                }`}
-                aria-disabled={currentPage === 1}
-              >
-                Previous
-              </a>
-
-              <div class="hidden sm:flex gap-1">
-                {startPage > 1 && (
-                  <>
-                    <a
-                      href="/blog/1/"
-                      class="px-4 py-2 text-sm font-medium rounded-md bg-white text-gray-700 hover:bg-gray-50"
-                    >
-                      1
-                    </a>
-                    {startPage > 2 && (
-                      <span class="px-3 py-2 text-gray-500">...</span>
-                    )}
-                  </>
-                )}
-
-                {pageNumbers.map((pageNum) => (
+          <nav class="flex justify-center mt-12" aria-label="Pagination">
+            <ul class="flex items-center gap-2">
+              <!-- Previous -->
+              <li>
+                <a
+                  href={currentPage > 1 ? `/blog/${currentPage - 1}/` : undefined}
+                  class={`px-4 py-2 rounded-md text-sm font-medium ${
+                    currentPage === 1
+                      ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
+                      : 'bg-white text-gray-700 hover:bg-gray-50'
+                  }`}
+                  aria-disabled={currentPage === 1}
+                >
+                  Previous
+                </a>
+              </li>
+              {/* Numbered pages */}
+              {Array.from({ length: totalPages }, (_, i) => i + 1).map((num) => (
+                <li >
                   <a
-                    href={`/blog/${pageNum}/`}
-                    class={`px-4 py-2 text-sm font-medium rounded-md ${
-                      currentPage === pageNum
+                    href={`/blog/${num}/`}
+                    class={`px-4 py-2 rounded-md text-sm font-medium ${
+                      num === currentPage
                         ? 'bg-blue-500 text-white'
                         : 'bg-white text-gray-700 hover:bg-gray-50'
                     }`}
-                    aria-current={currentPage === pageNum ? 'page' : undefined}
+                    aria-current={num === currentPage ? 'page' : undefined}
                   >
-                    {pageNum}
+                    {num}
                   </a>
-                ))}
-
-                {endPage < totalPages && (
-                  <>
-                    {endPage < totalPages - 1 && (
-                      <span class="px-3 py-2 text-gray-500">...</span>
-                    )}
-                    <a
-                      href={`/blog/${totalPages}/`}
-                      class="px-4 py-2 text-sm font-medium rounded-md bg-white text-gray-700 hover:bg-gray-50"
-                    >
-                      {totalPages}
-                    </a>
-                  </>
-                )}
-              </div>
-
-              <a
-                href={currentPage < totalPages ? `/blog/${currentPage + 1}/` : undefined}
-                class={`px-4 py-2 text-sm font-medium rounded-md ${
-                  currentPage === totalPages
-                    ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
-                    : 'bg-white text-gray-700 hover:bg-gray-50'
-                }`}
-                aria-disabled={currentPage === totalPages}
-              > 
-                Next
-              </a>
-            </div>
+                </li>
+              ))}
+              <!-- Next -->
+              <li>
+                <a
+                  href={currentPage < totalPages ? `/blog/${currentPage + 1}/` : undefined}
+                  class={`px-4 py-2 rounded-md text-sm font-medium ${
+                    currentPage === totalPages
+                      ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
+                      : 'bg-white text-gray-700 hover:bg-gray-50'
+                  }`}
+                  aria-disabled={currentPage === totalPages}
+                >
+                  Next
+                </a>
+              </li>
+            </ul>
           </nav>
         )}
       </div>
 
       <!-- Sidebar -->
       <aside class="w-full lg:w-1/4">
-        <h2 class="text-2xl font-bold mb-4">Categories</h2>
-        <ul class="list-disc list-inside">
-          <li><a href="/category/javascript" class="text-blue-600 hover:underline">JavaScript</a></li>
-          <li><a href="/category/css" class="text-blue-600 hover:underline">CSS</a></li>
-          <li><a href="/category/html" class="text-blue-600 hover:underline">HTML</a></li>
-          <li><a href="/category/react" class="text-blue-600 hover:underline">React</a></li>
-        </ul>
+        {/*<Sidebar />*/}
       </aside>
     </div>
   </main>
