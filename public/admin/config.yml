@@ -20,7 +20,6 @@ collections:
   - name: "blog"
     label: "WordPress Posts"
     label_singular: "Article"
-    filter: { field: "filter", value: "wordpress" }
     preview_path: "/blog/{{slug}}/"
     folder: "src/content/blog"
     description: "Blog posts imported from WordPress. Edits only - create new posts in 'New CMS Posts'."
