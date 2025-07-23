@@ -15,11 +15,14 @@
   </head>
   <body>
     
-    
+    <script>
+       window.CMS_MANUAL_INIT = true;
+    </script>
     <!-- Mount point for CMS -->
     <div id="nc-root">
-      <script src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
+     
     </div>
+     <script src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
 
     <!-- Decap CMS Core
      <script defer  src="https://unpkg.com/decap-cms@^3.8.2/dist/decap-cms.js"></script> -->
@@ -27,7 +30,7 @@
     <script>
 
       // Prevent auto-init; we'll init manually
-     window.CMS_MANUAL_INIT = true;
+     //window.CMS_MANUAL_INIT = true;
 
         // Register CTA button
         CMS.registerEditorComponent({
@@ -47,11 +50,9 @@
     
     </script>
 
-    <script src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
+    
 
     <script>
-
-       //window.CMS_MANUAL_INIT = true;
      
   if (window.netlifyIdentity) {
     window.netlifyIdentity.init({
