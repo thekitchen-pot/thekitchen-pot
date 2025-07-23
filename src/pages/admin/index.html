@@ -24,6 +24,8 @@
      
 
      <script>
+
+       window.CMS_MANUAL_INIT = true;
       
       // Identity init
      
@@ -38,15 +40,11 @@
     <script >
 
       // Prevent auto-init; we'll init manually
-      window.CMS_MANUAL_INIT = true;
+      //window.CMS_MANUAL_INIT = true;
 
 
       // Wait for DOM and CMS global
-      document.addEventListener('DOMContentLoaded', () => {
-        if (!window.CMS) {
-          console.error('Decap CMS not loaded.');
-          return;
-        }
+      
 
         // Register CTA button
         CMS.registerEditorComponent({
@@ -65,13 +63,13 @@
        CMS.init({
           root: '#nc-root'
         });
-      });
+    
     </script>
 
-    <script defer src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
+    <script src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
     
   </body>
   <footer>
-    
+
   </footer>
 </html>
