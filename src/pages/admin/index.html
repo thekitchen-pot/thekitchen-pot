@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
-    <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script defer type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
     <!-- Decap CMS config -->
     <link rel="cms-config-url" href="/admin/config.yml" type="text/yaml" />
@@ -19,14 +19,9 @@
     <!-- Mount point for CMS -->
     <div id="nc-root"></div>
 
-    
-
-    <!-- Netlify Identity Widget 
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>-->
-
     <!-- Decap CMS Core
      <script defer  src="https://unpkg.com/decap-cms@^3.8.2/dist/decap-cms.js"></script> -->
-     <script defer src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
+     
 
      <script>
       
@@ -68,10 +63,15 @@
         });
 
        CMS.init({
-          //root: '#nc-root'
+          root: '#nc-root'
         });
       });
     </script>
+
+    <script defer src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
     
   </body>
+  <footer>
+    
+  </footer>
 </html>

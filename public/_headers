@@ -27,5 +27,4 @@
   X-Robots-Tag: noindex, nofollow
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
-  cache-control: no-cache, no-store, must-revalidate
   ! Content-Security-Policy
