@@ -3,9 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '@/layouts/Layout.astro';
 import type { CollectionEntry } from 'astro:content';
 import Sidebar from '@/components/blog/Sidebar.astro';
-import { Image, Picture } from 'astro:assets';
-import type { GetStaticPaths } from 'astro';
-//import type { PaginateFunction } from 'astro';
+import { Image } from 'astro:assets';
 
 interface PaginateFunction {
   (items: any[],
@@ -13,22 +11,21 @@ interface PaginateFunction {
     pageSize: number;
     params: { [key: string]: string }; 
     props: Props;
-
    }
   ): { pages: any[] };
 }
 
 interface Props {
-  posts: any;
-  currentPage: any;
-   totalPages: any;
-    totalPosts?: any;
+  posts: CollectionEntry<'blog'>[];
+  currentPage: number;
+  totalPages: number;
+  totalPosts?: number;
 }
 
 export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
   const allPosts = await getCollection('blog');
   const sortedPosts = allPosts.sort((a, b) => {
-    return new Date(b.data.modDate).getTime() - new Date(b.data.modDate).getTime();
+    return new Date(b.data.modDate).getTime() - new Date(a.data.modDate).getTime();
   });
 
   const itemsPerPage = 6;
@@ -39,9 +36,8 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
     const start = i * itemsPerPage;
     const end = start + itemsPerPage;
 
-    return paginate (sortedPosts, 
-      {
-        pageSize: itemsPerPage,
+    return paginate(sortedPosts, {
+      pageSize: itemsPerPage,
       params: { page: String(page) },
       props: {
         currentPage: page,
@@ -49,8 +45,7 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
         posts: sortedPosts.slice(start, end),
         totalPosts: sortedPosts.length
       },
-    }
-  );
+    });
   });
 }
 
@@ -67,10 +62,8 @@ const pageNumbers = Array.from(
 );
 ---
 
-<Layout title={`Blog - Page ${page}`}
- description='Latest posts from us to you.'
->
-  {/* <main class="container mx-auto px-4 py-8">
+<Layout title={`Blog - Page ${page}`} description='Latest posts from us to you.'>
+  <main class="container mx-auto px-4 py-8">
     <div class="flex flex-col lg:flex-row gap-8">
       <!-- Main Content -->
       <div class="w-full lg:w-3/4">
@@ -78,135 +71,134 @@ const pageNumbers = Array.from(
         
         <!-- Blog Posts Section -->
         <section class="grid grid-cols-1 md:grid-cols-2 gap-6">
-      {posts.flatmap((post) => (
-        <article class="bg-white shadow-md rounded-lg overflow-hidden transition-transform hover:scale-[1.02] duration-200">
-          {post.data.image && (
-            <div class="aspect-video overflow-hidden">
-              <Image
-                src={post.data.image.src}
-                width={post.data.image.width}
-                height={post.data.image.height}
-                format='webp'
-                loading='eager'
-                
-                alt={post.data.title}
-                class="w-full h-full object-cover"
-              />
-            </div>
-          )}
-          <div class="p-4">
-            <h2 class="text-xl font-semibold mb-2 line-clamp-2">
-              {post.data.title}
-            </h2>
-            <time class="text-sm text-gray-600 mb-2 block">
-              {new Date(post.data.modDate).toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric'
-              })}
-            </time>
-            <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description}</p>
-            <a
-              href={`/blog/${post.id}/`}
-              class="inline-flex p-2 rounded-full bg-gray-800/70 items-center text-blue-100 hover:text-blue-100 font-medium"
-            >
-              Read more
-              <svg
-                class="w-4 h-4 ml-1"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M9 5l7 7-7 7"
-                />
-              </svg>
-            </a>
-          </div>
-        </article>
-      ))}
-    </section>
+          {posts.map((post) => (
+            <article class="bg-white shadow-md rounded-lg overflow-hidden transition-transform hover:scale-[1.02] duration-200">
+              {post.data.image && (
+                <div class="aspect-video overflow-hidden">
+                  <Image
+                    src={post.data.image.src}
+                    width={post.data.image.width}
+                    height={post.data.image.height}
+                    format='webp'
+                    loading='eager'
+                    alt={post.data.title}
+                    class="w-full h-full object-cover"
+                  />
+                </div>
+              )}
+              <div class="p-4">
+                <h2 class="text-xl font-semibold mb-2 line-clamp-2">
+                  {post.data.title}
+                </h2>
+                <time class="text-sm text-gray-600 mb-2 block">
+                  {new Date(post.data.modDate).toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric'
+                  })}
+                </time>
+                <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description}</p>
+                <a
+                  href={`/blog/${post.id}/`}
+                  class="inline-flex p-2 rounded-full bg-gray-800/70 items-center text-blue-100 hover:text-blue-100 font-medium"
+                >
+                  Read more
+                  <svg
+                    class="w-4 h-4 ml-1"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      d="M9 5l7 7-7 7"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </article>
+          ))}
+        </section>
 
         {totalPages > 1 && (
-      <nav class="flex justify-center items-center mt-12" aria-label="Pagination">
-        <div class="flex items-center gap-2">
-          <a
-            href={currentPage > 1 ? `/blog/${currentPage - 1}/` : undefined}
-            class={`px-4 py-2 text-sm font-medium rounded-md ${
-              currentPage === 1
-                ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
-                : 'bg-white text-gray-700 hover:bg-gray-50'
-            }`}
-            aria-disabled={currentPage === 1}
-          >
-            Previous
-          </a>
-
-          <div class="hidden sm:flex gap-1">
-            {startPage > 1 && (
-              <>
-                <a
-                  href="/blog/1/"
-                  class="px-4 py-2 text-sm font-medium rounded-md bg-white text-gray-700 hover:bg-gray-50"
-                >
-                  1
-                </a>
-                {startPage > 2 && (
-                  <span class="px-3 py-2 text-gray-500">...</span>
-                )}
-              </>
-            )}
-
-            {pageNumbers.map((pageNum) => (
+          <nav class="flex justify-center items-center mt-12" aria-label="Pagination">
+            <div class="flex items-center gap-2">
               <a
-                href={`/blog/${pageNum}/`}
+                href={currentPage > 1 ? `/blog/${currentPage - 1}/` : undefined}
                 class={`px-4 py-2 text-sm font-medium rounded-md ${
-                  currentPage === pageNum
-                    ? 'bg-blue-500 text-white'
+                  currentPage === 1
+                    ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
                     : 'bg-white text-gray-700 hover:bg-gray-50'
                 }`}
-                aria-current={currentPage === pageNum ? 'page' : undefined}
+                aria-disabled={currentPage === 1}
               >
-                {pageNum}
+                Previous
               </a>
-            ))}
 
-            {endPage < totalPages && (
-              <>
-                {endPage < totalPages - 1 && (
-                  <span class="px-3 py-2 text-gray-500">...</span>
+              <div class="hidden sm:flex gap-1">
+                {startPage > 1 && (
+                  <>
+                    <a
+                      href="/blog/1/"
+                      class="px-4 py-2 text-sm font-medium rounded-md bg-white text-gray-700 hover:bg-gray-50"
+                    >
+                      1
+                    </a>
+                    {startPage > 2 && (
+                      <span class="px-3 py-2 text-gray-500">...</span>
+                    )}
+                  </>
                 )}
-                <a
-                  href={`/blog/${totalPages}/`}
-                  class="px-4 py-2 text-sm font-medium rounded-md bg-white text-gray-700 hover:bg-gray-50"
-                >
-                  {totalPages}
-                </a>
-              </>
-            )}
-          </div>
 
-          <a
-            href={currentPage < totalPages ? `/blog/${currentPage + 1}/` : undefined}
-            class={`px-4 py-2 text-sm font-medium rounded-md ${
-              currentPage === totalPages
-                ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
-                : 'bg-white text-gray-700 hover:bg-gray-50'
-            }`}
-            aria-disabled={currentPage === totalPages}
-          >
-            Next
-          </a>
-        </div>
-      </nav>
-    )}
+                {pageNumbers.map((pageNum) => (
+                  <a
+                    href={`/blog/${pageNum}/`}
+                    class={`px-4 py-2 text-sm font-medium rounded-md ${
+                      currentPage === pageNum
+                        ? 'bg-blue-500 text-white'
+                        : 'bg-white text-gray-700 hover:bg-gray-50'
+                    }`}
+                    aria-current={currentPage === pageNum ? 'page' : undefined}
+                  >
+                    {pageNum}
+                  </a>
+                ))}
+
+                {endPage < totalPages && (
+                  <>
+                    {endPage < totalPages - 1 && (
+                      <span class="px-3 py-2 text-gray-500">...</span>
+                    )}
+                    <a
+                      href={`/blog/${totalPages}/`}
+                      class="px-4 py-2 text-sm font-medium rounded-md bg-white text-gray-700 hover:bg-gray-50"
+                    >
+                      {totalPages}
+                    </a>
+                  </>
+                )}
+              </div>
+
+              <a
+                href={currentPage < totalPages ? `/blog/${currentPage + 1}/` : undefined}
+                class={`px-4 py-2 text-sm font-medium rounded-md ${
+                  currentPage === totalPages
+                    ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
+                    : 'bg-white text-gray-700 hover:bg-gray-50'
+                }`}
+                aria-disabled={currentPage === totalPages}
+              >
+                Next
+              </a>
+            </div>
+          </nav>
+        )}
       </div>
 
       <!-- Sidebar -->
       <Sidebar allPosts={posts} />
     </div>
-  </main>}*/}
+  </main>
 </Layout>
