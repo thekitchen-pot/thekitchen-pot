@@ -27,7 +27,7 @@
     <script>
 
       // Prevent auto-init; we'll init manually
-     // window.CMS_MANUAL_INIT = true;
+     window.CMS_MANUAL_INIT = true;
 
         // Register CTA button
         CMS.registerEditorComponent({
@@ -43,7 +43,7 @@
           toPreview: data => `<a href="${data.url}" class="cta-button">${data.text}</a>`
         });
 
-      // CMS.init();
+      CMS.init();
     
     </script>
 
