@@ -30,7 +30,7 @@
     <script>
 
         // Register CTA button
-        CMS.registerEditorComponent({
+       CMS.registerEditorComponent({
   id: 'button-link',
   label: 'CTA Button',
   fields: [
@@ -76,49 +76,75 @@
       label: 'Full width?',
       widget: 'boolean',
       default: false
+    },
+    {
+      name: 'newTab',
+      label: 'Open in new tab?',
+      widget: 'boolean',
+      default: true
+    },
+    {
+      name: 'relAttrs',
+      label: 'Rel attributes',
+      widget: 'list',
+      options: ['nofollow', 'noopener', 'noreferrer'],
+      default: ['nofollow', 'noopener', 'noreferrer']
     }
   ],
 
-  // detect <a> with btn-cta plus any extra btn-* classes
-  pattern: /<a\s+href="(.+?)"\s+class="btn-cta(?:\s+([\w- ]+))?">\s*(.+?)\s*<\/a>/,
+  // capture href, btn-cta classes, optional target & rel, then link text
+  pattern: new RegExp(
+    `<a\\s+href="(.+?)"\\s+class="btn-cta(?:\\s+([\\w- ]+))?"` +
+    `(?:\\s+target="(_blank)")?` +
+    `(?:\\s+rel="([^"]+)")?` +
+    `\\s*>(.+?)<\\/a>`
+  ),
 
   fromBlock: match => {
-    const [ , url, extra = '', text ] = match
+    const [ , url, extra = '', target, rel, text ] = match
     const classes = extra.split(/\s+/)
     return {
       url,
       text,
-      style:   classes.find(c => c.startsWith('btn-') && !['btn-sm','btn-lg'].includes(c)) || 'btn-primary',
-      size:    classes.find(c => c==='btn-sm'||c==='btn-lg') || '',
-      rounded: classes.find(c=>c.startsWith('rounded-')) || 'rounded-lg',
-      fullWidth: classes.includes('btn-block')
+      style:      classes.find(c=>c.startsWith('btn-')&&c!=='btn-sm'&&c!=='btn-lg') || 'btn-primary',
+      size:       classes.find(c=>c==='btn-sm'||c==='btn-lg') || '',
+      rounded:    classes.find(c=>c.startsWith('rounded-')) || 'rounded-lg',
+      fullWidth:  classes.includes('btn-block'),
+      newTab:     Boolean(target),
+      relAttrs:   rel ? rel.split(' ') : ['nofollow','noopener','noreferrer']
     }
   },
 
   toBlock: data => {
     const cls = [
-      'btn-cta',
-      data.style,
-      data.size,
-      data.rounded,
-      data.fullWidth ? 'btn-block' : ''
+      'btn-cta', data.style, data.size,
+      data.rounded, data.fullWidth ? 'btn-block' : ''
     ].filter(Boolean).join(' ')
-    return `<a href="${data.url}" class="${cls}">${data.text}</a>`
+
+    const targetAttr = data.newTab ? ` target="_blank"` : ''
+    const relAttr    = data.newTab
+      ? ` rel="${data.relAttrs.join(' ')}"`
+      : ''
+
+    return `<a href="${data.url}" class="${cls}"${targetAttr}${relAttr}>${data.text}</a>`
   },
 
   toPreview: data => {
+    // same as toBlock for live preview
     const cls = [
-      'btn-cta',
-      data.style,
-      data.size,
-      data.rounded,
-      data.fullWidth ? 'btn-block' : ''
+      'btn-cta', data.style, data.size,
+      data.rounded, data.fullWidth ? 'btn-block' : ''
     ].filter(Boolean).join(' ')
-    return `<a href="${data.url}" class="${cls}">${data.text}</a>`
+
+    const targetAttr = data.newTab ? ` target="_blank"` : ''
+    const relAttr    = data.newTab
+      ? ` rel="${data.relAttrs.join(' ')}"`
+      : ''
+
+    return `<a href="${data.url}" class="${cls}"${targetAttr}${relAttr}>${data.text}</a>`
   }
 })
 
-        
           
         CMS.registerEditorComponent({
   id: 'cta-button',
