@@ -81,7 +81,7 @@ const pageNumbers = Array.from(
                 day: 'numeric'
               })}
             </time>
-            <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description}</p>
+            <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description.slice(0, 56)}</p>
             <a
               href={`/blog/${post.id}/`}
               class="inline-flex p-2 pl-2 rounded-full bg-golf-accent items-center text-blue-100 hover:text-blue-100 font-serif font-medium"
