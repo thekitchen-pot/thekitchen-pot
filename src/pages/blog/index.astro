@@ -27,6 +27,7 @@ const totalPosts = sortedPosts.length;
 const totalPages = Math.ceil(totalPosts / itemsPerPage);
 let currentPage = Number(Astro.url.searchParams.get('page')) || 1;
 
+
 // Validate current page number
 if (currentPage < 1) currentPage = 1;
 if (currentPage > totalPages) currentPage = totalPages;
@@ -69,7 +70,7 @@ title="Blog"
       <nav class="flex justify-center items-center mt-12" aria-label="Pagination">
         <div class="flex items-center gap-2">
           <a
-            href={currentPage > 1 ? `?page=${currentPage - 1}` : undefined}
+            href={currentPage > 1 ? `/${currentPage - 1}?page=${currentPage - 1}` : undefined}
             class={`px-4 py-2 text-sm font-medium rounded-md ${
               currentPage === 1
                 ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
@@ -97,7 +98,7 @@ title="Blog"
 
             {pageNumbers.map((pageNum) => (
               <a
-                href={`/blog/${pageNum}/`}
+                href={`/blog/${pageNum}/?page=${pageNum}`}
                 class={`px-4 py-2 text-sm font-medium rounded-md ${
                   currentPage === pageNum
                     ? 'bg-blue-500 text-white'
@@ -115,7 +116,7 @@ title="Blog"
                   <span class="px-3 py-2 text-gray-500">...</span>
                 )}
                 <a
-                  href={`?page=${totalPages}`}
+                  href={`/blog/${totalPages}?page=${totalPages}`}
                   class="px-4 py-2 text-sm font-medium rounded-md bg-white text-gray-700 hover:bg-gray-50"
                 >
                   {totalPages}
@@ -125,7 +126,7 @@ title="Blog"
           </div>
 
           <a
-            href={currentPage < totalPages ? `?page=${currentPage + 1}` : undefined}
+            href={currentPage < totalPages ? `/blog/${currentPage + 1}?page=${currentPage + 1}` : undefined}
             class={`px-4 py-2 text-sm font-medium rounded-md ${
               currentPage === totalPages
                 ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
