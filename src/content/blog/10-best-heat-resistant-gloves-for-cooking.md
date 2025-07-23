@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-HHHHHHHHHHHHH
+HHHHHHHHHHHHHhhh
 
 If you love cooking/baking, you’ll opine that owning the best heat resistant gloves is an excellent idea. They protect your hands from heat-induced injuries, which could be detrimental to your health in the long run. 
 
