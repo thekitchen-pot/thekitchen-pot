@@ -16,7 +16,7 @@ export const POST: APIRoute = async ({ request }) => {
   }
 
   // Use environment variable for build hook URL
-  const buildHookUrl = 'https://api.netlify.com/build_hooks/6880bad957933bba704c7d79' // import.meta.env.NETLIFY_BUILD_HOOK_URL || 'https://api.netlify.com/build_hooks/6880bad957933bba704c7d79';
+  const buildHookUrl = `https://api.netlify.com/build_hooks/6880bad957933bba704c7d79?token="dev"` // import.meta.env.NETLIFY_BUILD_HOOK_URL || 'https://api.netlify.com/build_hooks/6880bad957933bba704c7d79';
 
   // Check if build hook URL exists
   if (!buildHookUrl) {
