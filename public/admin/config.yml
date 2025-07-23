@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: thekitchen-pot/thekitchen-pot
+  repo: affilirator/thekitchen-pot
   branch: main
   base_url: https://thekitchenpot.com
   # client_secret: 7f474a98bd6b11bd307723d6bc699e353dc0bca2
