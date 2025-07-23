@@ -1,3 +1,6 @@
+---
+export const prerender = false
+---
 <!doctype html>
 <html lang="en">
   <head>
@@ -9,21 +12,7 @@
     <link rel="cms-config-url" href="/admin/config.yml/" type="text/yaml" />
 
     <title>The Kitchen Pot Content Manager</title>
-    <style>
-      body {
-        font-family: system-ui, sans-serif;
-        margin: 0;
-        padding: 0;
-      }
-      .cta-button {
-        display: inline-block;
-        padding: 0.5rem 1rem;
-        background: #ff7f50;
-        color: #fff;
-        text-decoration: none;
-        border-radius: 0.25rem;
-      }
-    </style>
+    
   </head>
   <body>
     
@@ -31,7 +20,7 @@
     <div id="nc-root"></div>
 
     <!-- Netlify Identity Widget -->
-    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js" crossorigin="anonymous"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" crossorigin="anonymous"></script>
 
     <!-- Decap CMS Core -->
      <script defer  src="https://unpkg.com/decap-cms@^3.8.2/dist/decap-cms.js"></script>
