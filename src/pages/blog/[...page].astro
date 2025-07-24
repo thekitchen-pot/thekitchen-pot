@@ -61,7 +61,8 @@ const pageNumbers = Array.from(
               <Image
                 src={post.data.image.src}
                 width={post.data.image.width / 2}
-                inferSize
+                height={post.data.image.width / 2}
+                inferSize={true}
                 format='webp'
                 loading='eager'
                 alt={post.data.title}
