@@ -62,7 +62,7 @@ First: **Filter Type.** Cheap charcoal filters will do little more than trap lig
 
 Second: **Fan Power**. If you do regular cooking, look for hoods with a minimal engine power rating of around **200-400 CFM (cubic feet per minute).** Anything lower could be weak and perform little more than light duty chores. If you cook regularly as a stir fry master or grill indoors, you need higher, like 600+ CFM.
 
-Third**: Cooking Style.** While I find a ductless hood enough for light cooking, like boiling pasta or heating up leftovers, it can be severely ineffective if you sear, fry, or cook with bold spices regularly. In that case, I recommend that you get a ducted model, preferably one with multi-layer filtration and/or dual fan motors for more circulation.
+Third: **Cooking Style.** While I find a ductless hood enough for light cooking, like boiling pasta or heating up leftovers, it can be severely ineffective if you sear, fry, or cook with bold spices regularly. In that case, I recommend that you get a ducted model, preferably one with multi-layer filtration and/or dual fan motors for more circulation.
 
 So, who benefits most from these hoods?
 
