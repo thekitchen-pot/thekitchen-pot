@@ -35,12 +35,11 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   cookware for various recipes..
 ---
 
-A kitchen without lemon is incomplete! The small, rounded fruit has many [crucial roles](https://www.wikihow.com/Use-Lemons) ranging from cleaning stained cookware to juicing. 
+A kitchen without lemon is incomplete! The small, rounded fruit has many [crucial roles](https://www.wikihow.com/Use-Lemons) ranging from cleaning stained cookware to juicing.
 
 If you want to get the best from a lemon, you should extract its juice and store it in **[airtight containers](https://thekitchenpot.com/blog/best-airtight-food-storage-containers//)**. This way, you can drink it, cook with it, or use it for cleaning any time you want.
 
 But how much juice is in one lemon? Now that we fathom the benefits of juicing, you must understand the amount of juice you will get from one lemon. This knowledge will help you to plan on your purchases and make better-juicing decisions.
-<a href="https://www.amazon.com/Teflon-Sheet-Transfer-Reusable-Resistant/dp/B07H55M1ZR?th=1" class="cta-button" class="btn-cta btn-primary btn-lg large btn-block" target="_blank" rel="nofollow noopener noreferrer">Check the Latest Price</a>
 
 This article elaborates on how you can use a lemon juicer to extract juice from a lemon and how much juice to expect from it. Read on. 
 
