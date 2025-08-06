@@ -32,7 +32,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-DID you know that room heaters increase your household budget by more than 40%? Well, if you’ve used electrical power to heat your house during winter, then you’ll opine that your energy bill was a shocker!
+Did you know that room heaters increase your household budget by more than 40%? Well, if you’ve used electrical power to heat your house during winter, then you’ll opine that your energy bill was a shocker!
 
 While heating your house is crucial and you cannot negate it, you can always look for more affordable alternatives. One such option is purchasing the best wood burning stove. 
 
