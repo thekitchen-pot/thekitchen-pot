@@ -5,7 +5,7 @@ excerpt: 360 Cookware review—hype or must-have? We break down its pros, cons &
 showTableOfContents: true
 authorId: kitchenpot1
 title: 360 Cookware Reviews - Is It Worth the Money?
-source: "360 cookware reviews "
+source: wordpress
 slug: 360-cookware-review
 pubDate: 2021-06-09
 modDate: 2025-02-20
