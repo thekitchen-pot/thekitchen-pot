@@ -5,7 +5,7 @@ excerpt: Maximize kitchen space with the best Lazy Susan organizers—sleek,
 showTableOfContents: true
 authorId: kitchenpot1
 title: 8 Best Lazy Susan Organizers for Your Kitchen
-source: "Kitchen Organization "
+source: wordpress
 slug: 8-best-lazy-susan-organizers-for-your-kitchen
 pubDate: 2020-08-16
 modDate: 2025-01-18
