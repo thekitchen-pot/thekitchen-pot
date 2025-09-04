@@ -5,7 +5,7 @@ excerpt: Upgrade your BBQ game with top-rated heat-resistant gloves for smoking.
 showTableOfContents: true
 authorId: kitchenpot1
 title: 10 Best Heat Resistant Gloves for Smoking
-source: Heat Resistant Gloves
+source: wordpress
 slug: 10-best-heat-resistant-gloves-for-cooking
 pubDate: 2025-05-01
 modDate: 2025-02-19
