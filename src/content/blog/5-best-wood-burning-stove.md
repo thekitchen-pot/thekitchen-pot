@@ -5,7 +5,7 @@ excerpt: "No electricity? No problem! These 6 wood stoves provide unbeatable
 showTableOfContents: true
 authorId: kitchenpot1
 title: 6 Best Wood Burning Stoves - Why They Are Necessary
-source: Burning Stoves
+source: wordpress
 slug: 5-best-wood-burning-stove
 pubDate: 2020-07-29
 modDate: 2025-01-17
