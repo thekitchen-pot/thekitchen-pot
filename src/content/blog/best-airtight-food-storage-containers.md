@@ -33,9 +33,6 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
-
-
 Are you having trouble maintaining your food items as fresh as you bought them? Or have you had your cookies go soft and [tasteless](https://www.yuppiechef.com/spatula/common-cookie-problems-and-how-to-avoid-them/) just because you left them exposed in the open air? 
 
 As a professional baker, I must admit that I enjoy my biscuits and cookies while they’re fresh and crunchy. But how do I achieve this? 
@@ -44,11 +41,14 @@ Well, it’s easy.
 
 You can keep your cookies fresh and crunchy by storing them in the best airtight food storage containers.  Here is a comprehensive guide on all that you need to know when shopping for the best airtight food storage containers for the money. Read on for more details.
 
-![Best Airtight Food Storage Containers](images/portablegasgrill.jpg)
+## **What Makes a Container Truly Airtight?**
 
-## **What is an Airtight Food Storage Container?**
+An airtight container isn’t just about breathable silicone seals or click-lock lids, it’s the air-free pocket inside where spoiling slows to a crawl. The truly airtight models feature:
 
-The best airtight food storage [containers](https://en.wikipedia.org/wiki/Container) are designed in a way that no air can enter or leave the container once you shut the lids tightly.
+* Rubber or silicone gaskets pressed flush against the lid
+* Multi-point clasps or snap-fit lids that lock securely
+* Lab-certified materials that resist warping and degradation
+* Stackable, seal-maintaining design so no warping under weight
 
 As such, you can be sure that they’ll help you to prevent your food from developing freezer burn, getting soggy, and picking odors from other foodstuffs around.
 
