@@ -96,9 +96,30 @@ Pro Tip: CFM alone isn’t enough. Make sure the filters and air circulation pat
 
 So, if you’re deep frying or grilling indoors, go for high suction ductless range hoods with advanced filtration. If you’re after a basic unit for light cooking, 250–300 CFM with replaceable charcoal filters should do the trick.
 
+## **How Efficient is a Ductless Range Hood?**
 
+Efficiency is where the ductless hood really starts to earn its place. It may not vent hot air outside, but when designed properly, it can be surprisingly effective at cleaning your kitchen air.
 
+Here's a breakdown of how to assess efficiency:
 
+1. Replacement of filters – Regular maintenance = steady performance
+2. Fan strength vs. filter
+   strength – a strong fan + weak filter = bad performance.  Balance is key.
+3. Noise – lower noise (in sones) stronger noise/weight usually suggest a more efficient design. 
+4. Energy Used-ductless hoods generally use less energy than ducted hoods, and tend to be
+   cheaper and more environmentally friendly.
+
+Modern designs now include features like:
+
+* Energy-efficient LED lighting
+* Auto shut-off timers
+* Touch controls with airflow sensors
+
+Additionally, certain premium models include heat sensors, which automatically change the fan speed when a certain amount of steam or smoke is detected, here is where we can see true efficiency. 
+
+If you mind energy use and air quality, the great news is you can avoid duct work by investing in a ductless hood, but it needs to be a strong filtration system with a compatible fan. 
+
+A ductless hood can be seen as a hybrid car, without as much power as a performance model, but more efficient, less maintenance, and just easier to own.
 
 ## 6 Best Ductless Range Hoods – Comparison
 
