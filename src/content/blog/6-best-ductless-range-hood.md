@@ -75,6 +75,27 @@ Still questioning? Think of it this way: brands like Hauslane, Cosmo and Broan a
 
 In short: they do work, but only if you select the appropriate unit and maintain it. Otherwise, it's like using a sieve with holes in the bottom - useless.
 
+## **What is a Good CFM for a Ductless Range Hood?**
+
+Now let's get into numbers—specifically, CFM. You've seen CFM listed in each range hood spec sheet, but what does it actually mean?  
+
+CFM (Cubic Feet per Minute) is a measurement of the amount of air your hood can move. For ductless hoods, this measurement is very important since all filtering and circulation occur in the hood, internally. Higher CFM means more power from your fan, which in turn means your hood is able to pull in more grease, smoke, and odors.
+
+That said, more CFM isn't always better. Here is a quick guide:
+
+* Light cooking like boiling (150-250 CFM) 
+* Normal cooking like sautéing (300 - 400 CFM)
+* Heavy cooking with a lot of frying (500 - 700 )
+* Professional/commercial cooking (700+ CFM)
+
+The best ductless models will usually have a sweet spot of around 400 - 600 CFM, where you get the best performance without excessive energy consumption or excessive noise.
+
+Also, don’t forget to look at fan speeds. A good ductless range hood will have multiple speed settings, so you can switch between low and high power depending on what you’re cooking.
+
+Pro Tip: CFM alone isn’t enough. Make sure the filters and air circulation paths are designed well. Some budget hoods boast high CFM but use inferior charcoal filters, which defeats the purpose.
+
+So, if you’re deep frying or grilling indoors, go for high suction ductless range hoods with advanced filtration. If you’re after a basic unit for light cooking, 250–300 CFM with replaceable charcoal filters should do the trick.
+
 
 
 
