@@ -274,6 +274,7 @@ For ductless hoods, anything below 3 sones (~50 dB) is considered quiet. The bes
 Some top picks for quiet operation:
 
 * Hauslane Chef Series WM-538 – Powerful yet whisper-quiet, even at high speed.
+<a href="https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B07GQWKJPM?tag=kitchenpot-20" class="cta-button" class="btn-cta btn-primary btn-lg large btn-block" target="_blank" rel="nofollow noopener noreferrer">Check the Latest Price</a>
 * Cosmo 5U30 – Slim and quiet under-cabinet design with 3 fan speeds.
 * Broan-NuTone BCDF130SS – A budget option with low noise and strong filtration.
 
