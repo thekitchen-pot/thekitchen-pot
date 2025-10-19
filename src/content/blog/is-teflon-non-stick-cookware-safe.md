@@ -26,14 +26,14 @@ However, questions about its safety persist, especially as research continues to
 ## **Understanding Teflon: What Is It?**
 
 | id  | name        | email                    |
-| --- | ----------- | ------------------------ |
-| 1   | John Doe    | john-doe@gmail.com       |
-| 2   | Peter Smith | petersmith22@outlook.com |
-| 3   | Julia Jones | jjones778@gmail.com      |
+| --- | ----------- | ------------------------ |------------
+| 1   | John Doe    | john-doe@gmail.com       |director
+| 2   | Peter Smith | petersmith22@outlook.com |manager
+| 3   | Julia Jones | jjones778@gmail.com      |supervisor
 
 ### Buy Teflon on Amazon Teflon
 
-<a href="https://www.amazon.com/Teflon-Sheet-Transfer-Reusable-Resistant/dp/B07H55M1ZR?th=1" class="cta-button" class="btn-cta btn-outline btn-lg medium btn-block" target="_blank" rel="nofollow noopener noreferrer">Check the Latest Price</a>
+<a href="https://www.amazon.com/Teflon-Sheet-Transfer-Reusable-Resistant/dp/B07H55M1ZR?th=1" class="cta-button" class="btn-cta btn-outline btn-lg flat btn-block" target="_blank" rel="nofollow noopener noreferrer">Check the Latest Price</a>
 
 Teflon is a synthetic fluoropolymer known for its non-reactive, non-stick, and nearly frictionless surface. Its primary use in cookware is to prevent food from sticking, allowing for low-fat cooking and easy cleaning. The non-stick convenience is especially valued for delicate foods like eggs and pancakes.
 
