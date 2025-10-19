@@ -26,10 +26,10 @@ However, questions about its safety persist, especially as research continues to
 ## **Understanding Teflon: What Is It?**
 
 | id  | name        | email                    |
-| --- | ----------- | ------------------------ |------------
-| 1   | John Doe    | john-doe@gmail.com       |director
-| 2   | Peter Smith | petersmith22@outlook.com |manager
-| 3   | Julia Jones | jjones778@gmail.com      |supervisor
+| --- | ----------- | ------------------------ |
+| 1   | John Doe    | john-doe@gmail.com       |
+| 2   | Peter Smith | petersmith22@outlook.com |
+| 3   | Julia Jones | jjones778@gmail.com      |
 
 ### Buy Teflon on Amazon Teflon
 
