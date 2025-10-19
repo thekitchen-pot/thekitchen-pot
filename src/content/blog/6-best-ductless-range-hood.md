@@ -404,21 +404,21 @@ When you're aiming for that high-end, open kitchen look, wall-mounted ductless r
 
 **Top Picks:**
 
-1. Hauslane WM-630 Wall Mount
+**1. Hauslane WM-630 Wall Mount**
 
-* Airflow: 750 CFM
-* Why It Stands Out: This one is a beast. Dual motor system, dishwasher-safe baffle filters, and a professional look. Comes with a charcoal kit for ductless use.
+* **Airflow:** 750 CFM
+* **Why It Stands Out:** This one is a beast. Dual motor system, dishwasher-safe baffle filters, and a professional look. Comes with a charcoal kit for ductless use.
 
-2. Cosmo COS-63175S Wall Mount Hood
+**2. Cosmo COS-63175S Wall Mount Hood**
 
-* Airflow: 380 CFM
-* Features: Glass canopy, LED lighting, carbon filter kit
-* Perfect for: Medium-sized kitchens with modern décor.
+* **Airflow:** 380 CFM
+* **Features:** Glass canopy, LED lighting, carbon filter kit
+* **Perfect for:** Medium-sized kitchens with modern décor.
 
-3. IKTCH IKP02-30 Range Hood
+**3. IKTCH IKP02-30 Range Hood**
 
-* Airflow: 900 CFM
-* Why It’s Awesome: Commercial-grade airflow, gesture controls, dual filter system. A tech-savvy option that doesn’t compromise power.
+* **Airflow:** 900 CFM
+* **Why It’s Awesome:** Commercial-grade airflow, gesture controls, dual filter system. A tech-savvy option that doesn’t compromise power.
 
 Wall-mount hoods don’t just clean your air—they upgrade your entire kitchen aesthetic. Just make sure to mount it at the right height and keep those charcoal filters clean.
 
@@ -426,7 +426,7 @@ Wall-mount hoods don’t just clean your air—they upgrade your entire kitchen 
 
 Got custom cabinetry or building a dream kitchen from scratch? Then a ductless range hood insert is your best bet. These units fit seamlessly into a cabinet or hood enclosure, giving your kitchen a clean, integrated look.
 
-Must-Have Features:
+**Must-Have Features:**
 
 * Powerful motor (400+ CFM)
 * Multi-layer filters (mesh + charcoal)
