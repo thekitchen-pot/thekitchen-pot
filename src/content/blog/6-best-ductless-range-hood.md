@@ -478,68 +478,77 @@ Here’s how to keep your ductless range hood running at full power:
 
 ### **When to Perform Maintenance:**
 
-**Task	Frequency**
+* Clean grease filters	Every 2–4 weeks
+* Replace charcoal filter	Every 3–6 months
+* Wipe hood exterior	Weekly
+* Deep clean internal fan	Every 6–12 months
 
-Clean grease filters	Every 2–4 weeks
-Replace charcoal filter	Every 3–6 months
-Wipe hood exterior	Weekly
-Deep clean internal fan	Every 6–12 months
 A well-maintained ductless hood doesn’t just perform better—it lasts longer, smells fresher, and keeps your kitchen looking clean and modern.
-Can You Install a Ductless Range Hood Yourself?
-Short answer? Yes, you can—and many people do. Ductless range hoods are one of the most DIY-friendly appliances in your kitchen. They don’t require vent installation, which means no drilling through walls or hiring HVAC pros.
-🛠️ What You’ll Need:
-•	Power drill
-•	Screwdriver set
-•	Tape measure
-•	Pencil/marker
-•	Level
-•	Mounting screws & brackets (usually included)
-•	Charcoal filter (if not pre-installed)
-🔧 Installation Steps (Wall or Cabinet Mount):
 
-1. Measure and mark mounting height.
-   o	Usually 24–30 inches above your cooktop.
-2. Locate wall studs or cabinet base.
-   o	Use a stud finder or pre-installed bracket.
-3. Drill pilot holes.
-   o	Ensure they're level!
-4. Mount the hood securely.
-   o	Secure brackets to studs or support beams.
-5. Connect power.
-   o	Plug-in models are easiest. If it’s hardwired, turn off the breaker first.
-6. Install charcoal filters.
-   o	Slot them behind or above the fan system depending on model.
-   Most models include easy-to-follow templates and detailed instruction manuals. If you're comfortable hanging a shelf or curtain rod, you can likely install a ductless hood.
-   Just make sure to have a helper if your hood is over 25 lbs—some units are bulky and need two hands for steady placement.
-   Ductless vs Ducted Range Hood – Which Should You Choose?
-   Let’s break this down with no fluff. If you're stuck deciding between a ductless or ducted range hood, here’s the pros and cons straight up.
-   Feature	Ductless	Ducted
-   Installation	Easy, DIY-friendly	Needs professional installation
-   Cost	Lower upfront & install cost	Higher due to ductwork and labor
-   Performance	Good with quality filters, limited heat/moisture	Best for removing smoke, steam, heat
-   Maintenance	Replace charcoal filters regularly	Clean grease ducts, occasional deep cleans
-   Flexibility	Can be installed almost anywhere	Limited to where ducts can be installed
-   ✅ Choose Ductless if:
-   •	You rent or live in an apartment/condo
-   •	Your kitchen has no external vent access
-   •	You want a quick, affordable upgrade
-   ✅ Choose Ducted if:
-   •	You’re remodeling and want pro-grade performance
-   •	You cook heavy, oily meals frequently
-   •	Your home allows external duct installation
-   At the end of the day, a ductless range hood is more than capable for most home kitchens—especially with modern high-CFM fans and advanced charcoal filters.
-   Conclusion: What’s the Best Ductless Range Hood for You?
-   Choosing the best ductless range hood in 2025 doesn’t have to be overwhelming. The key is knowing your kitchen’s needs and your cooking habits.
-   •	Want power and versatility? Go for the Hauslane Chef Series.
-   •	On a budget? Cosmo 5MU30 won’t disappoint.
-   •	Looking to upgrade your kitchen’s look? IKTCH or Cosmo wall-mounts bring style and strength.
-   Whatever your situation—apartment living, small kitchen, or a major renovation—there’s a ductless hood that fits perfectly.
-   Just remember:
-   •	Look for 400+ CFM if you cook often
-   •	Choose quality charcoal filters
-   •	Measure your range and install height
-   •	Keep up with regular maintenance
-   A good ductless range hood won’t just remove smoke—it’ll make your kitchen fresher, cleaner, and more enjoyable to be in.
+## **Can You Install a Ductless Range Hood Yourself?**
+
+Short answer? Yes, you can—and many people do. Ductless range hoods are one of the most DIY-friendly appliances in your kitchen. They don’t require vent installation, which means no drilling through walls or hiring HVAC pros.
+
+**What You’ll Need:**
+
+* Power drill
+* Screwdriver set
+* Tape measure
+* Pencil/marker
+* Level
+* Mounting screws & brackets (usually included)
+* Charcoal filter (if not pre-installed)
+
+### **Installation Steps (Wall or Cabinet Mount):**
+
+Measure and mark mounting height. Usually 24–30 inches above your cooktop.
+
+1. **Locate wall studs or cabinet base.** Use a stud finder or pre-installed bracket.
+2. **Drill pilot holes.** Ensure they're level.
+3. **Mount the hood securely.** Secure brackets to studs or support beams.
+4. **Connect power. Plug-in models are easiest.** If it’s hardwired, turn off the breaker first.
+5. **Install charcoal filters.** Slot them behind or above the fan system depending on model.
+
+Most models include easy-to-follow templates and detailed instruction manuals. If you're comfortable hanging a shelf or curtain rod, you can likely install a ductless hood.
+
+Just make sure to have a helper if your hood is over 25 lbs—some units are bulky and need two hands for steady placement.
+
+## **Ductless vs Ducted Range Hood – Which Should You Choose?**
+
+Let’s break this down. If you're stuck deciding between a ductless or ducted range hood, here’s the pros and cons straight up.
+
+**Choose Ductless if:**
+
+* You rent or live in an apartment/condo
+* Your kitchen has no external vent access
+* You want a quick, affordable upgrade
+
+**Choose Ducted if:**
+
+* You’re remodeling and want pro-grade performance
+* You cook heavy, oily meals frequently
+* Your home allows external duct installation
+
+At the end of the day, a ductless range hood is more than capable for most home kitchens—especially with modern high-CFM fans and advanced charcoal filters.
+
+## **Conclusion: What’s the Best Ductless Range Hood for You?**
+
+Choosing the best ductless range hood in 2025 doesn’t have to be overwhelming. The key is knowing your kitchen’s needs and your cooking habits.
+
+* Want power and versatility? Go for the Hauslane Chef Series.
+* On a budget? Cosmo 5MU30 won’t disappoint.
+* Looking to upgrade your kitchen’s look? IKTCH or Cosmo wall-mounts bring style and strength.
+
+Whatever your situation—apartment living, small kitchen, or a major renovation—there’s a ductless hood that fits perfectly.
+
+Just remember:
+
+* Look for 400+ CFM if you cook often
+* Choose quality charcoal filters
+* Measure your range and install height
+* Keep up with regular maintenance
+
+A good ductless range hood won’t just remove smoke—it’ll make your kitchen fresher, cleaner, and more enjoyable to be in.
 
 
 ## 6 Best Ductless Range Hoods – Comparison
