@@ -52,7 +52,130 @@ What's the catch? Depending on your cooking frequency, you will need to replace 
 
 But if you’re cooking in a condo, apartment, or a kitchen that doesn’t have access to an external vent, a ductless hood can be a huge solution.
 
-<a href="https://www.amazon.com/hz/mobile/mission/?" class="btn-cta btn-ghost btn-lg">                            Check Latest Price</a>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Affiliate Product Comparison Table</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9fafb;
+      padding: 20px;
+    }
+
+    .comparison-table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow-x: auto;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+
+    .comparison-table th, .comparison-table td {
+      padding: 16px;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .comparison-table th {
+      background-color: #1f2937;
+      color: #fff;
+      font-weight: 600;
+    }
+
+    .comparison-table tr:hover {
+      background-color: #f1f5f9;
+    }
+
+    .product-img {
+      width: 100px;
+      border-radius: 8px;
+    }
+
+    .price {
+      font-size: 1.1em;
+      font-weight: bold;
+      color: #16a34a;
+    }
+
+    .rating {
+      color: #fbbf24;
+      font-size: 1.1em;
+    }
+
+    .affiliate-btn {
+      background-color: #2563eb;
+      color: white;
+      padding: 10px 16px;
+      border: none;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+
+    .affiliate-btn:hover {
+      background-color: #1e40af;
+    }
+
+    @media (max-width: 768px) {
+      .comparison-table th, .comparison-table td {
+        padding: 10px;
+      }
+      .product-img {
+        width: 70px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Best Product Comparison</h2>
+
+  <table class="comparison-table">
+    <tr>
+      <th>Product</th>
+      <th>Image</th>
+      <th>Key Features</th>
+      <th>Price</th>
+      <th>Rating</th>
+      <th>Buy Now</th>
+    </tr>
+
+    <tr>
+      <td><strong>Product A</strong></td>
+      <td><img src="https://via.placeholder.com/100" alt="Product A" class="product-img"></td>
+      <td>✅ Lightweight<br>✅ Fast performance<br>✅ 2-year warranty</td>
+      <td class="price">$99</td>
+      <td class="rating">★★★★☆</td>
+      <td><a href="https://affiliate-link.com/productA" class="affiliate-btn" target="_blank">View Deal</a></td>
+    </tr>
+
+    <tr>
+      <td><strong>Product B</strong></td>
+      <td><img src="https://via.placeholder.com/100" alt="Product B" class="product-img"></td>
+      <td>✅ Premium design<br>✅ Long battery life<br>✅ Free accessories</td>
+      <td class="price">$119</td>
+      <td class="rating">★★★★★</td>
+      <td><a href="https://affiliate-link.com/productB" class="affiliate-btn" target="_blank">View Deal</a></td>
+    </tr>
+
+    <tr>
+      <td><strong>Product C</strong></td>
+      <td><img src="https://via.placeholder.com/100" alt="Product C" class="product-img"></td>
+      <td>✅ Compact size<br>✅ Energy efficient<br>✅ Great support</td>
+      <td class="price">$89</td>
+      <td class="rating">★★★★☆</td>
+      <td><a href="https://affiliate-link.com/productC" class="affiliate-btn" target="_blank">View Deal</a></td>
+    </tr>
+  </table>
+
+</body>
+</html>
+```
 
 ## **Do Ductless Range Hoods Actually Work?**
 
