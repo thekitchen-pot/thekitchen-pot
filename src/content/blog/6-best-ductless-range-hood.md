@@ -52,6 +52,8 @@ What's the catch? Depending on your cooking frequency, you will need to replace 
 
 But if you’re cooking in a condo, apartment, or a kitchen that doesn’t have access to an external vent, a ductless hood can be a huge solution.
 
+<a href="https://www.amazon.com/hz/mobile/mission/?" class="btn-cta btn-ghost btn-lg">                            Check Latest Price</a>
+
 ## **Do Ductless Range Hoods Actually Work?**
 
 Let's be honest here: when someone asks, "Do ductless range hoods really work?" there is usually a degree of skepticism. And it is no wonder why! You want to make sure you are not buying a pretty decoration for the kitchen, but something that will help clean the air.
@@ -274,7 +276,7 @@ For ductless hoods, anything below 3 sones (~50 dB) is considered quiet. The bes
 Some top picks for quiet operation:
 
 * Hauslane Chef Series WM-538 – Powerful yet whisper-quiet, even at high speed.
-<a href="https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B07GQWKJPM?tag=kitchenpot-20" class="cta-button" class="btn-cta btn-primary btn-lg large btn-block" target="_blank" rel="nofollow noopener noreferrer">Check the Latest Price</a>
+  <a href="https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B07GQWKJPM?tag=kitchenpot-20" class="cta-button" class="btn-cta btn-primary btn-lg large btn-block" target="_blank" rel="nofollow noopener noreferrer">Check the Latest Price</a>
 * Cosmo 5U30 – Slim and quiet under-cabinet design with 3 fan speeds.
 * Broan-NuTone BCDF130SS – A budget option with low noise and strong filtration.
 
@@ -465,16 +467,13 @@ Here’s how to keep your ductless range hood running at full power:
 ### **Step-by-Step Cleaning Routine:**
 
 1. Unplug the hood or switch off power.
-
 2. Remove the filters.
 
 * **Grease filters** (mesh or baffle) should be soaked in hot soapy water or run through the dishwasher.
 * **Charcoal filters** should be replaced, not washed. Look for the replacement interval in your manual—typically every 3–6 months.
 
 3. Wipe the hood’s exterior and interior with a non-abrasive cleaner. Stainless steel polish helps maintain shine.
-
 4. Clean the fan blades if accessible (with a soft cloth—no water on electrical components).
-
 5. Check the lights and switches for buildup. Use a soft brush or vacuum if needed.
 
 ### **When to Perform Maintenance:**
@@ -550,7 +549,6 @@ Just remember:
 * Keep up with regular maintenance
 
 A good ductless range hood won’t just remove smoke—it’ll make your kitchen fresher, cleaner, and more enjoyable to be in.
-
 
 ## 6 Best Ductless Range Hoods – Comparison
 
