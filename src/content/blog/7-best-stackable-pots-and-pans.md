@@ -48,7 +48,7 @@ This ingenious idea helps you save lots of your cabinet space as you can easily 
 
 **Best Stackable Pots and Pans with Removable Handles** – **[Abizoe 12 Piece Non-Stick Cookware Set Non-Stick Pans and Pots with Removable Handles, Space Efficient](https://www.amazon.com/Abizoe-Non-Stick-Removable-Efficient-Excellent/dp/B08BFGG3KQ?tag=kitchenpot-20)**
 
-![](/images/stackable-pots-and-pans.jpg)
+![](/images/pots-and-pans.avif)
 
 ## Benefits of Using Stackable Pots and Pans for Gas Stoves 
 
