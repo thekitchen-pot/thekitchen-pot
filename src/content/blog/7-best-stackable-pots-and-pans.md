@@ -12,7 +12,7 @@ modDate: 2025-02-27
 image: ""
 category: Kitchenware
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: 7 Best stackable pots and pans for the Money
 tags:
   - best-air-fryers
