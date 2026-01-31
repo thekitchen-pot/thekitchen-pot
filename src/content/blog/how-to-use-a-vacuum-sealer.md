@@ -5,14 +5,14 @@ excerpt: Seal freshness like a pro! Learn how to use a vacuum sealer in 5 simple
 showTableOfContents: true
 authorId: kitchenpot1
 title: How to Use a Vacuum Sealer in 5 Simple Steps
-source: How To
+source: wordpress
 slug: how-to-use-a-vacuum-sealer
 pubDate: 2021-05-16
 modDate: 2025-02-14
-image: src/content/blog/images/2-How-to-Use-a-vacuum-sealer-edited-1.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How to Use a Vacuum Sealer in 5 Simple Steps
 tags:
   - best-airtight-containers
@@ -34,14 +34,11 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 You can use this important tool to seal and preserve your ingredients and other perishables when you buy in bulk. 
 
 Besides owning **[airtight food storage containers](https://thekitchenpot.com/blog/best-airtight-food-storage-containers//)**, learning how to use a vacuum sealer will save you many storage hassles. 
 
 Additionally, a vacuum sealer comes in handy when you’re using your **[sous vide precision cooker](https://thekitchenpot.com/blog/sous-vide-power-precision-cooker//)**. It eliminates all the air from the bag, thus allowing your food to cook entirely in vacuum, thus ensuring superbly well-cooked meals.
-
-![How To Use A Vacuum Sealer](images/portablegasgrill.jpg)
 
 ## Why You Should Own a Vacuum Sealer 
 
@@ -79,9 +76,9 @@ One of the safest methods to store your food is by vacuum sealing it. The absenc
 
 What you Need
 
--   Vacuum bags
--   Food item to preserve/ cook using sous vide machine
--   Vacuum sealer 
+* Vacuum bags
+* Food item to preserve/ cook using sous vide machine
+* Vacuum sealer 
 
 ### **Step-by-Step Guide on How to Use a Vacuum Sealer**
 
@@ -95,7 +92,7 @@ The right vacuum package/bags should be **textured on the open end.** This helps
 
 Additionally, you should always ensure that you use the right size of vacuum bags. When it is too big, it will be a waste. When too small, it will lead to a mess and you may not be able to entirely seal the bag. 
 
-**2\. Prepare Your Food/ Ingredients**
+**2. Prepare Your Food/ Ingredients**
 
 Preparing your ingredients is necessary since it helps you to preserve space. Ensure that you remove all the parts that you are not interested in. For example, if you do not like fat on your meat, then you can remove it before storage.
 
@@ -105,27 +102,25 @@ Finally, you must ensure that you remove sharp edges on your food. Sharp bones o
 
 If you’re unable to remove the sharp edges, we recommend that you wrap them with a kitchen towel to maintain the integrity of the bags. 
 
-![how to vacuum seal liquids with foodsaver](images/portablegasgrill.jpg)
-
-**3\. Vacuum Sealing Liquids**
+**3. Vacuum Sealing Liquids**
 
 If you want to vacuum seal liquids, you will have to freeze them first. Ensure that you put them into a freezer a few hours before vacuum sealing. This suppresses all the microbes and makes it easy for you to seal the bag. 
 
-**4\. Fill the Bag**
+**4. Fill the Bag**
 
 Once you’re through with preparing your meals/ingredients, you should fill the bag. Be careful not to overfill the bag since it will be difficult to seal it. Always leave some room between the top of the bag and your food. 
 
-**5\. Vacuum Seal Your Bag** 
+**5. Vacuum Seal Your Bag** 
 
 All vacuum sealers work under the same principle. They suck out the air from the bag and seal it without allowing air in. At the end of the process, you should have a sealed bag with no air. 
 
 If you still have your user’s manual, you may need to go through it. If not, then worry not. Using a vacuum sealer is not rocket science. Follow these simple steps:
 
--   Ensure that your vacuum seal is plugged in/ charged
--   Lay the vacuum bag on your counter and open the vacuum sealer’s lid
--   Lift the bag slightly and place the opening on the vacuum sealer sealing strip
--   Close the lid tightly and click the “seal” button 
--   Once the sealing is done, the machine will notify you through a click sound or light on the done button
+* Ensure that your vacuum seal is plugged in/ charged
+* Lay the vacuum bag on your counter and open the vacuum sealer’s lid
+* Lift the bag slightly and place the opening on the vacuum sealer sealing strip
+* Close the lid tightly and click the “seal” button 
+* Once the sealing is done, the machine will notify you through a click sound or light on the done button
 
 You should note that different vacuum sealer models have different user interfaces. Some have more buttons and functionalities than others. As such, you should play around with your interface and learn how to use all the buttons. 
 
