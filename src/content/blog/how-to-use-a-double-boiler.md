@@ -5,14 +5,14 @@ excerpt: What is a double boiler & how does it work? Simple steps to use one for
 showTableOfContents: true
 authorId: kitchenpot1
 title: How to Use a Double Boiler
-source: How To
+source: wordpress
 slug: how-to-use-a-double-boiler
 pubDate: 2021-01-26
 modDate: 2025-01-16
-image: src/content/blog/images/Homemade-Double-Boiler-500x334-2.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How to Use a Double Boiler
 tags:
   - air-fryers
@@ -33,7 +33,6 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 Have you ever tried melting chocolate over high heat? Well, this will almost always end up in disappointment. Your chocolate is likely to become a lump!
 
 If you’ve found yourself in such a situation, then you should consider investing in a **[double boiler](https://www.amazon.com/Farberware-Classic-Stainless-2-Quart-Covered/dp/B00004RGB7/?tag=kitchenpot-20)**. This appliance (also known as [Bain-Marie](https://en.wikipedia.org/wiki/Bain-marie)) allows you to **slowly and evenly heat** foodstuff that requires gentle & slow cooking. 
@@ -57,8 +56,6 @@ So, what is a double boiler in one sentence?
 Most of the double boilers also come with a lid. However, you’ll seldom need it since most food will require constant stirring. 
 
 If you need to cook meals that require stirring, it would be best to choose a double boiler with a transparent lid. This feature will help you to monitor your food and ensure that it does not burn. 
-
-![ How to Use a Double Boiler](images/portablegasgrill.jpg)
 
 ## What is the Use of a Double Boiler?
 
@@ -106,7 +103,7 @@ You should check the water levels on the lower bowl periodically and fill it up 
 
 A [double boiler](https://www.thespruceeats.com/what-is-a-double-boiler-995647) is one of the most underestimated kitchen appliances! It allows you to slow cook your meals. These are the main situations that require a double boiler in the kitchen:
 
-1\. **Melting Chocolate** 
+1. **Melting Chocolate** 
 
 In most recipes with chocolate as the main ingredient, you’ll be required to introduce it to your meals while in molten form.
 
@@ -114,7 +111,7 @@ However, melting your chocolate is tricky and may lead to useless lumps, thus fr
 
 To achieve this, you should use a double boiler as described above. Ensure constant stirring for the best results. 
 
-2\. **Cooking Delicate Foods**
+2. **Cooking Delicate Foods**
 
 Some delicate foods require metered heat to achieve the best taste. Regulating heat when using your regular cookware can be tricky.
 
@@ -122,7 +119,7 @@ In such cases, you should use a double boiler!
 
 Some of the foods that may require a double boiler include hollandaise sauce and custard preparations. 
 
-**3\. Reheating Food**
+**3. Reheating Food**
 
 If you need to reheat food that does not require further heating, then using a double boiler is an excellent idea. The slow heating will reheat the food without altering the level of their doneness. 
 
@@ -145,8 +142,6 @@ If you need a double boiler, then it is factual that you’ll have dirty dishes 
 On the other hand, the lower pot is likely to get stained by mineral salts in the water. The constant boiling will leave behind deposits of calcium, lime, and other mineral salts. 
 
 As such, you will need a comprehensive cleaning routine to overcome these dirt and mess hurdles. Here’s an all-inclusive guide:
-
-![How to Clean a double boiler](images/portablegasgrill.jpg)
 
 ## How to Clean Messy Double Boiler Bowl
 
