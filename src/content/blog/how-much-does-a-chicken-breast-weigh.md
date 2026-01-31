@@ -5,14 +5,14 @@ excerpt: "Recipes calling for '1 chicken breast'? The shocking weight variations
 showTableOfContents: true
 authorId: kitchenpot1
 title: How Much Does a Chicken Breast Weigh
-source: How To
+source: wordpress
 slug: how-much-does-a-chicken-breast-weigh
 pubDate: 2021-01-30
 modDate: 2025-02-10
-image: src/content/blog/images/chicken-2.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How Much Does a Chicken Breast Weigh
 tags:
   - how-long-should-a-chicken-last-in-a-fridge
@@ -34,7 +34,6 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 Knowing the weight of your chicken breast is an absolute necessity if you value serving even food rations. It helps you ensure that you’re taking the recommended chicken portions, thus facilitating healthy eating.
 
 However, it might not be practical to use a [weighing machine](https://en.wikipedia.org/wiki/Weighing_scale) every time you want to cook and serve your chicken. As such, there is a universally accepted range that will guide you on the weight of different parts of your adult chicken.
@@ -42,8 +41,6 @@ However, it might not be practical to use a [weighing machine](https://en.wikipe
 So, how much does a chicken breast weigh?
 
 If this question has lingered in your mind for a long, then you landed on the right article! We give a detailed answer to the problem and offer unique nutritional tips to apply when cooking your chicken breast. 
-
-![How Much Does a Chicken Breast Weigh](images/portablegasgrill.jpg)
 
 ## How Much Does a Chicken Breast Weigh (in Ounces and Grams)
 
@@ -57,12 +54,10 @@ If you’re a chef and wondering [how many](https://boatbasincafe.com/how-many-c
 
 This question is a bit confusing because it doesn’t have a definite answer. The number of chicken breasts in a pound will depend significantly on the size of the chicken.
 
-![How Many Chicken Breasts in a Pound?](images/portablegasgrill.jpg)
-
 However, we will estimate the number of chicken breasts in a pound in this section (which is an average rather than an exact estimation).
 
--   Two cooked/cubed medium-sized chicken breast with bone: **1 pound is equivalent to 1.5 cups**
--   Two medium boneless and skinless chicken breasts (cooked or cubed): **2 cups are equivalent to 1.5 pounds, while 1.5 cups are equivalent to 1 pound.** 
+* Two cooked/cubed medium-sized chicken breast with bone: **1 pound is equivalent to 1.5 cups**
+* Two medium boneless and skinless chicken breasts (cooked or cubed): **2 cups are equivalent to 1.5 pounds, while 1.5 cups are equivalent to 1 pound.** 
 
 If you’re dealing with a rotisserie chicken, then one chicken breast will have approximately 2 pounds. 
 
@@ -86,16 +81,14 @@ Consequently, knowing the chicken breast’s weight is an excellent idea if you 
 
 According to the latest publication by [USDA](https://www.fsis.usda.gov/shared/PDF/Chicken_Turkey_Nutrition_Facts.pdf), a chicken breast roasted (3 ounces serving) has the following nutritional value:
 
--   Calories 170
--   Calories from Fat 60
--   Saturated fat 2 grams
--   Cholesterol 70 mg 
--   Sodium 60 mg
--   Carbohydrates 0g 
--   Protein 25g 
--   Vitamin 0g
-
-![What is the Nutritional Value of a Chicken Breast?](images/portablegasgrill.jpg)
+* Calories 170
+* Calories from Fat 60
+* Saturated fat 2 grams
+* Cholesterol 70 mg 
+* Sodium 60 mg
+* Carbohydrates 0g 
+* Protein 25g 
+* Vitamin 0g
 
 ## Why is Chicken Meat so Popular?
 
