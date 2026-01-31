@@ -5,14 +5,14 @@ excerpt: Black flakes in your tea? Scary! Our deep-cleaning guide removes
 showTableOfContents: true
 authorId: kitchenpot1
 title: How to Clean an Electric Kettle - 4 Proven Techniques
-source: How To
+source: wordpress
 slug: how-to-clean-an-electric-kettle
 pubDate: 2021-02-01
 modDate: 2025-02-24
-image: src/content/blog/images/how-to-clean-an-electric-kettle.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How to Clean an Electric Kettle - 4 Proven Techniques
 tags:
   - how-to-clean-a-dishwasher
@@ -32,14 +32,11 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 Have you noticed a brown residue in your electric kettle, and you’re wondering how to get rid of it?
 
 The brown residue is called limescale and results from the constant boiling of water. It comprises calcium carbonate in small quantities, making it primarily harmless.
 
 However, you may want to get rid of it since it’s ugly and makes the inside of your kettle lose its luster. If you need practical tips on how to clean an electric kettle and get rid of the limescale, then read on. 
-
-![How to Clean an Electric Kettle](images/portablegasgrill.jpg)
 
 ## Why You Should Get Rid of Limescale in Your Electric Kettle
 
@@ -47,8 +44,8 @@ Like we’ve already indicated, limescale is [not harmful to human beings](https
 
 So, why should you bother to remove it, yet it is harmless? These two reasons may necessitate the removal of the limescale:
 
--   **Disgusting Look.** If you want to restore your electric kettle’s original shiny look, you should not hesitate to clean the residue. If you’re okay with it, then don’t bother.
--   **Limestone on Heating Elements.** If the ***residue deposits on the metallic heating element, it will reduce your kettle’s heating efficacy**.* As such, you will require more energy and time to heat your water, which will result in higher electricity bills. In this case, removing the residue is a necessity. 
+* **Disgusting Look.** If you want to restore your electric kettle’s original shiny look, you should not hesitate to clean the residue. If you’re okay with it, then don’t bother.
+* **Limestone on Heating Elements.** If the **\*residue deposits on the metallic heating element, it will reduce your kettle’s heating efficacy**.* As such, you will require more energy and time to heat your water, which will result in higher electricity bills. In this case, removing the residue is a necessity. 
 
 If you want to make your electric kettle cleaning easy, you should always ensure that you keep the water slightly below the MAX line. This way, the limescale will not rise to the kettle’s opening, which would otherwise be uglier and more difficult to clean. 
 
@@ -70,9 +67,9 @@ Several methods are ideal for cleaning your electric kettle. In this section, we
 
 **What you Need**
 
--   A bottle of lemon juice/ concentrated lime
--   Water (enough to fill the kettle)
--   Soft scrubber pad
+* A bottle of lemon juice/ concentrated lime
+* Water (enough to fill the kettle)
+* Soft scrubber pad
 
 **Method**
 
@@ -84,15 +81,13 @@ Ensure that all the brown residue is below the watermark. Plugin the kettle and 
 
 If there are any stubborn spots left, you should use a non-abrasive scrubber to remove them. Ensure that you’re gentle to avoid leaving ugly scratches on the inner kettle surface. 
 
-![](images/portablegasgrill.jpg)
-
 ### **How to Clean an Electric Kettle with Apple Cider Vinegar**
 
 Vinegar is a superior cleaning agent that can help you to descale your electric kettle in a few minutes! You will require:
 
--   [Apple cider vinegar solution](https://www.instructables.com/How-to-Descale-a-Tea-Kettle/)/ White vinegar
--   Water
--   Scrubber
+* [Apple cider vinegar solution](https://www.instructables.com/How-to-Descale-a-Tea-Kettle/)/ White vinegar
+* Water
+* Scrubber
 
 **Method**
 
@@ -110,10 +105,10 @@ Rinse your kettle and let it dry. In case the vinegar smell/taste persists, rins
 
 Coca-Cola contains a significant amount of carbonic acid, which is highly effective in breaking the limescale. To achieve this, you should follow these simple steps:
 
--   Fill your electric kettle with coke and bring it to a boil.
--   Let the kettle stand for approximately 30 minutes.
--   Pour out the Coca-Cola solution and use a non-abrasive scouring pad to remove any remaining stain.
--   Boil the kettle with plain water and rinse. Dry it.
+* Fill your electric kettle with coke and bring it to a boil.
+* Let the kettle stand for approximately 30 minutes.
+* Pour out the Coca-Cola solution and use a non-abrasive scouring pad to remove any remaining stain.
+* Boil the kettle with plain water and rinse. Dry it.
 
 **Both Diet Coke and Pepsi are also ideal for cleaning**. The only difference between diet coke and regular coke is sugar, which plays no role in the cleaning process.
 
@@ -121,7 +116,7 @@ On the other hand, Pepsi contains a significant amount of citric acid. This prop
 
 ### How to Clean an Electric Kettle with CLR
 
-Is using CLR safe? Well, [**CLR**](https://www.amazon.com/Jelmar-PB-BK-2000-Kitchen-Cleaner-Trigger/dp/B0002YXHUY/?tag=kitchenpot-20) is a solution designed to combat calcium, dissolve limescale, and remove Rust (CLR). 
+Is using CLR safe? Well, **[CLR](https://www.amazon.com/Jelmar-PB-BK-2000-Kitchen-Cleaner-Trigger/dp/B0002YXHUY/?tag=kitchenpot-20)** is a solution designed to combat calcium, dissolve limescale, and remove Rust (CLR). 
 
 According to the manufacturer, the solution is non-toxic, biodegradable, and water-soluble. All its constituents are derived from vegetables and other natural elements.  
 
@@ -131,12 +126,12 @@ As such, you can use the solution to clean your kettle comfortably. However, you
 
 To achieve the best results when using CLR to clean your stainless steel kettle, you should follow the following steps:
 
--   Unplug and empty your kettle
--   Add approximately one cup of warm water and one cup of CLR
--   Swish the mixture for 3 minutes
--   Empty the CLR-Water mixture into a **[jar](https://thekitchenpot.com/blog/best-airtight-food-storage-containers//)** nearby and discard it later
--   Rinse the kettle thoroughly (**we recommend rinsing the kettle five times**)
--   Repeat the process until there is no debris on the kettle’s inner surface
+* Unplug and empty your kettle
+* Add approximately one cup of warm water and one cup of CLR
+* Swish the mixture for 3 minutes
+* Empty the CLR-Water mixture into a **[jar](https://thekitchenpot.com/blog/best-airtight-food-storage-containers//)** nearby and discard it later
+* Rinse the kettle thoroughly (**we recommend rinsing the kettle five times**)
+* Repeat the process until there is no debris on the kettle’s inner surface
 
 > ***Never use CLR to clean plastic kettles***.
 
@@ -144,7 +139,7 @@ It’s essential to note that **[CLR is highly acidic](https://www.amazon.com/Je
 
 **Read also**
 
-[**How to clean a dishwasher**](https://thekitchenpot.com/blog/how-to-clean-a-dishwasher//)
+**[How to clean a dishwasher](https://thekitchenpot.com/blog/how-to-clean-a-dishwasher//)**
 
 **[How to clean stainless steel pans](https://thekitchenpot.com/blog/how-to-clean-stainless-steel-pans//)**
 
@@ -160,21 +155,19 @@ To know whether it’s time to clean your kettle, you should always check for de
 
 Cleaning the exterior of your kettle ensures that you retain its shiny outlook. However, it would help if you always were careful not to use abrasive scrubbers since they will leave ugly scratches. To get the best results, follow these steps:
 
--   Use warm and soapy water to wipe down the kettle using a soft sponge.
--   If you’re dealing with stubborn stains, you should dip a sponge in baking soda and use it to scrub the kettle’s exterior.
--   When clean, rinse it with lots of water and wipe it using a microfiber cloth. Avoid drying it in open sunlight to prevent the formation of ugly watermarks. 
+* Use warm and soapy water to wipe down the kettle using a soft sponge.
+* If you’re dealing with stubborn stains, you should dip a sponge in baking soda and use it to scrub the kettle’s exterior.
+* When clean, rinse it with lots of water and wipe it using a microfiber cloth. Avoid drying it in open sunlight to prevent the formation of ugly watermarks. 
 
 If you want to restore the original shiny appearance, you can smear a little olive oil on the exterior surface before storing it.
-
-![How to Clean an Electric Kettle Using Vinegar ](images/portablegasgrill.jpg)
 
 ## Tips to Keep Limescale Away from Your Electric Kettle
 
 If you want to reduce the chances of limescale formation, you should:
 
--   **Avoid Using Tap Water.** This water contains calcium, iron oxide, and limescale. When you boil it, the mineral content leeches out and forms the debris. As such, you should use distilled water.
--   **Avoid Storing Water in Your Kettle.** Once the water boils, you should transfer it to a thermal flask. Alternatively, you should develop a habit of boiling only enough water for your needs.
--   **Avoid Overfilling Your Kettle.** Only fill your kettle to the MAX level. This way, you will keep the debris out of the opening of your kettle, making cleaning easier. 
+* **Avoid Using Tap Water.** This water contains calcium, iron oxide, and limescale. When you boil it, the mineral content leeches out and forms the debris. As such, you should use distilled water.
+* **Avoid Storing Water in Your Kettle.** Once the water boils, you should transfer it to a thermal flask. Alternatively, you should develop a habit of boiling only enough water for your needs.
+* **Avoid Overfilling Your Kettle.** Only fill your kettle to the MAX level. This way, you will keep the debris out of the opening of your kettle, making cleaning easier. 
 
 ## How to Clean an Electric Kettle – The Bottom Line
 
@@ -186,18 +179,15 @@ To restore its efficacy, you will need to clean it thoroughly. This article offe
 
 ## How to Clean an Electric Kettle- FAQs 
 
-1.  ### How do you clean the inside of an electric kettle?
-    
-    You can use coke, white vinegar, CLR solution, lemon, and apple cider vinegar. These acidic agents break down the calcium carbonate that’s primarily the cause of the debris.
-    
-2.  ### How do you clean an electric kettle without vinegar?
-    
-    If you don’t want to use vinegar, you can manually scrub the kettle using warm soapy water. However, it would help if you used non-abrasive cleaning pads. If the stains are stubborn, you should use baking soda.
-    
-3.  ### How do I remove the smell from my electric kettle?
-    
-    The smell is coming from debris. You should add a tablespoon of lemon and fill the kettle to the MAX level to remove them. Please bring it to a boil and let the water sit for approximately 30 minutes. Pour the mixture and cleanse the kettle using plain water. 
-    
-4.  ### Should I clean a new electric kettle before use?
-    
-    Yes, it would be best if you cleaned it using plain water. Also, boil water in it two times before you start heating drinking water.
+1. ### How do you clean the inside of an electric kettle?
+
+   You can use coke, white vinegar, CLR solution, lemon, and apple cider vinegar. These acidic agents break down the calcium carbonate that’s primarily the cause of the debris.
+2. ### How do you clean an electric kettle without vinegar?
+
+   If you don’t want to use vinegar, you can manually scrub the kettle using warm soapy water. However, it would help if you used non-abrasive cleaning pads. If the stains are stubborn, you should use baking soda.
+3. ### How do I remove the smell from my electric kettle?
+
+   The smell is coming from debris. You should add a tablespoon of lemon and fill the kettle to the MAX level to remove them. Please bring it to a boil and let the water sit for approximately 30 minutes. Pour the mixture and cleanse the kettle using plain water. 
+4. ### Should I clean a new electric kettle before use?
+
+   Yes, it would be best if you cleaned it using plain water. Also, boil water in it two times before you start heating drinking water.
