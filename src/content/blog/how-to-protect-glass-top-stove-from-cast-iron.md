@@ -5,14 +5,14 @@ excerpt: Using cast iron on a glass stove? Avoid cracks & scratches with these
 showTableOfContents: true
 authorId: kitchenpot1
 title: How to Protect Glass Top Stove from Cast Iron Cookware
-source: How To
+source: wordpress
 slug: how-to-protect-glass-top-stove-from-cast-iron
 pubDate: 2020-09-09
 modDate: 2025-02-03
-image: src/content/blog/images/Cast-Iron-on-Glass-Top.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How to Protect Glass Top Stove from Cast Iron Cookware
 tags:
   - cast-iron-pans
@@ -33,7 +33,6 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 While glass top stoves are appealing and will add elegance to your kitchen, they can be difficult to manage. This is especially so if you are using cast iron cookware. 
 
 Due to these maintenance difficulties, you should try to avoid using [cast iron](https://en.wikipedia.org/wiki/Cast_iron) cookware if you have a glass stovetop.
@@ -41,8 +40,6 @@ Due to these maintenance difficulties, you should try to avoid using [cast iron]
 If you insist on using the rather incompatible cookware with your glass stovetop, then you must learn the basics of how to protect glass top stove from cast iron. This will ensure that you maintain the shiny luster of your stove while enjoying the efficacy of cast iron pots. 
 
 This guide offers a comprehensive analysis of the best techniques that you can use to resolve the question of how to protect glass top stove from cast iron. Read on for details. 
-
-![How to Protect Glass Top Stove from Cast Iron Cookware ](images/portablegasgrill.jpg)
 
 ## Can You Use a Cast Iron Pan on a Glass Cooktop?
 
@@ -58,23 +55,23 @@ A glass top stove exudes class and elegance. It epitomizes a stylish kitchen and
 
 Besides the unique fashion statement, here are other benefits that you can get from using a glass top stove in your kitchen:
 
--   **Ease of Cleaning.** Unlike other surfaces, dirt does not stick permanently on the glass. As such, all that will be required from you will be a casual wipe with minimal hassles!
--   **Ensures Even Heat Distribution.** Glass cooktop has a linear surface which ensures that every part of the pan that gets into contact with it gets an equal amount of heat energy. 
--   **No Gaps Between Coils.** Glass top stoves cover the coils, thus ensuring that there are no visible gaps between them. This will enhance the aesthetics of your kitchen while improving the durability of your coils.
+* **Ease of Cleaning.** Unlike other surfaces, dirt does not stick permanently on the glass. As such, all that will be required from you will be a casual wipe with minimal hassles!
+* **Ensures Even Heat Distribution.** Glass cooktop has a linear surface which ensures that every part of the pan that gets into contact with it gets an equal amount of heat energy. 
+* **No Gaps Between Coils.** Glass top stoves cover the coils, thus ensuring that there are no visible gaps between them. This will enhance the aesthetics of your kitchen while improving the durability of your coils.
 
 ## What are the Disadvantages of Glass Top Stoves
 
--   **They are Relatively Expensive.** Glass top stoves offer a relatively expensive cooking option
--   **Requires Specialized Cleaning Agents.** While cleaning the glass cooktops is a breeze, you’ll require special detergents and soft scrubbers, which adds to the cost of maintenance. 
--   **Highly Sensitive and Prone to Damage.** The cooktops can easily be scratched when using heavy cookware. For example, using cast iron cookware with glass top stoves will almost always lead to damage.
--   **Limits Your Use of Utensils.** This form of cooking will give you problems if you have bent or curved utensils.
--   **Not Easy to Replace.** Replacing or repairing glass cooktops is an expensive exercise. 
+* **They are Relatively Expensive.** Glass top stoves offer a relatively expensive cooking option
+* **Requires Specialized Cleaning Agents.** While cleaning the glass cooktops is a breeze, you’ll require special detergents and soft scrubbers, which adds to the cost of maintenance. 
+* **Highly Sensitive and Prone to Damage.** The cooktops can easily be scratched when using heavy cookware. For example, using cast iron cookware with glass top stoves will almost always lead to damage.
+* **Limits Your Use of Utensils.** This form of cooking will give you problems if you have bent or curved utensils.
+* **Not Easy to Replace.** Replacing or repairing glass cooktops is an expensive exercise. 
 
 ## How to Protect Your Glass Top Stove From Cast Iron Cookware
 
 If you must use cast iron cookware, then you must a heat diffuser for glass top stove. Additionally, ensures that you follow the following candid guidelines on how to protect your glass top stove from cast iron:
 
--   **Always Clean Your Cast Iron Cookware Before Use**
+* **Always Clean Your Cast Iron Cookware Before Use**
 
 [Washing](https://www.wikihow.com/Clean-Cast-Iron) your cookware helps in removing debris and other residues stuck on the bottom of your pots. If you fail to remove them, you’ll be risking carbonization which will lead to black marks on your stovetop.
 
@@ -82,23 +79,21 @@ Additionally, the carbonization process may lead to the creation of debris. Thes
 
 When cleaning your cast iron cookware, always ensure that you use warm soapy water and soft non-abrasive scrubbers. 
 
--   **Check the Texture of Your Cookware**
+* **Check the Texture of Your Cookware**
 
 You should always opt for cookware with a relatively smooth bottom. You can use your hands to detect uneven edges and other rough spots that can damage the cooktop.
 
 If you must use cast iron cookware, then you must be ready to replace damaged pans and pots fast before they cause damage to your cooktop.
 
--   **Heat the Cast Iron Cookware for Long**
+* **Heat the Cast Iron Cookware for Long**
 
 Before you start cooking, we advise that you heat your pans for some time to achieve even heat distribution. 
 
--   **Be Careful when Removing the Pan from the Stove Top**
+* **Be Careful when Removing the Pan from the Stove Top**
 
 Sliding the pan on the glass top stove will lead to scratches. Instead, you should always lift it carefully with both hands. Remove it entirely and place it on your counter. 
 
 Additionally, you should always be careful when placing the pan on the stovetop. Always be gentle, especially when the pans are as heavy as cast iron pots!
-
-![How to Clean Glass Top Stove](images/portablegasgrill.jpg)
 
 ## How to Protect Glass Top Stove from Cast Iron Using a Heat Diffuser 
 
@@ -106,25 +101,25 @@ What is a heat diffuser? How does it work? Well, a heat diffuser is a kitchen ga
 
 Here is a step-wise guide on how to protect glass top stove from cast iron using a heat diffuser:
 
--   **Choose Your Heat Diffuser Well**
+* **Choose Your Heat Diffuser Well**
 
 You should always choose a heat diffuser that fits perfectly on your stovetop. There are different types of diffusers in the market made from materials such as perforated aluminum, wire coils, and steel.
 
 When you place them on your glass top stove, they act as a buffer. They regulate the amount of heat that moves from your heater to the pan. 
 
-[***Here are some of the Heat Diffusers You can Consider***](https://www.amazon.com/s?k=heat+diffusers&crid=2SHH3DXS7FKS7?tag=kitchenpot-20)
+***[Here are some of the Heat Diffusers You can Consider](https://www.amazon.com/s?k=heat+diffusers&crid=2SHH3DXS7FKS7?tag=kitchenpot-20)***
 
--   **The Flat Side of Your Heat Diffuser Should Sit on the Stovetop** 
+* **The Flat Side of Your Heat Diffuser Should Sit on the Stovetop** 
 
 Ensuring that the flat side of the [heat diffuser](https://www.recipetips.com/glossary-term/t--38214/heat-diffuser.asp) sits on the cooktop surface eliminates any risk of shifting when cooking. If you skip this crucial step, the heat diffuser may move unexpectedly leading to spillage and possible accidents. 
 
--   **Place Your Cast Iron Pots Centrally on the Heat Diffuser** 
+* **Place Your Cast Iron Pots Centrally on the Heat Diffuser** 
 
 You should always ensure that you position your cast iron cookware at the center of the heat diffuser for even heat distribution.
 
 The diffuser also guarantees that you won’t get scratches on your glass top stove. 
 
--   **Always Clean Your Diffuser Regularly**
+* **Always Clean Your Diffuser Regularly**
 
 You should hand wash your diffuser regularly to ensure that it does not accumulate debris, which would scratch the top stove. 
 
@@ -146,10 +141,10 @@ If you use such cookware, you should follow all the tips provided herein on how 
 
 Other safety tips to consider when taking care of the glass top stove include:
 
--   **Never Place Your Used Utensils on Top of the Cooktop.** These utensils will exert too much force which may lead to cracking or scratching of the cooktop, thus reducing its durability.
--   **Never Keep Your Burner Enclosed.** After you’re through with cooking, you should leave your burner open to cool slowly. If you enclose it, you may trap some heat which will reduce its strength and may lead to shattering. 
--   **Do Not Use Over-sized Pans.** Avoiding overly large utensils ensure that you do not exert unnecessary pressure on the stovetop. This guarantees durability. 
--   **Always Clean Your Burners.** If you do not clean your burners regularly, they will clog. This will affect the functionality of your cooktop negatively. 
+* **Never Place Your Used Utensils on Top of the Cooktop.** These utensils will exert too much force which may lead to cracking or scratching of the cooktop, thus reducing its durability.
+* **Never Keep Your Burner Enclosed.** After you’re through with cooking, you should leave your burner open to cool slowly. If you enclose it, you may trap some heat which will reduce its strength and may lead to shattering. 
+* **Do Not Use Over-sized Pans.** Avoiding overly large utensils ensure that you do not exert unnecessary pressure on the stovetop. This guarantees durability. 
+* **Always Clean Your Burners.** If you do not clean your burners regularly, they will clog. This will affect the functionality of your cooktop negatively. 
 
 ## How to Protect Glass Top Stove from Cast Iron – The Bottom Line
 
