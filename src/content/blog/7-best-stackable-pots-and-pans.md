@@ -9,7 +9,7 @@ source: wordpress
 slug: 7-best-stackable-pots-and-pans
 pubDate: 2021-09-02
 modDate: 2026-02-01
-image: /images/stackable-pots-and-pans.jpg
+image: ""
 category: Kitchenware
 author: Boniface Muriuki
 authorImage: ""
