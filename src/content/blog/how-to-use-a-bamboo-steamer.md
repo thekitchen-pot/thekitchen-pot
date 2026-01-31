@@ -5,14 +5,14 @@ excerpt: Master the bamboo steamer for healthy, flavorful meals! Here is a
 showTableOfContents: true
 authorId: kitchenpot1
 title: How to Use a Bamboo Steamer
-source: How To
+source: wordpress
 slug: how-to-use-a-bamboo-steamer
 pubDate: 2021-01-27
 modDate: 2025-01-31
-image: src/content/blog/images/How-to-use-a-bamboo-steamer-2.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How to Use a Bamboo Steamer
 tags:
   - double-boiler
@@ -34,14 +34,11 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 Steaming is a healthier and faster method of preparing your meals. It requires no added fat or preservatives but allows the food to cook in its natural flavor.
 
 If you feel that you want to embrace steaming as a healthier cooking option, you should consider adding a **[bamboo steamer](https://www.amazon.com/BirdRock-Home-Traditional-dumplings-vegetables/dp/B01L9TJCE0/?tag=kitchenpot-20)** to your kitchen arsenal.
 
 This steamer will make the art of steaming any of your favorite meals a breeze. This guide elucidates the crucial tips on how to use a bamboo steamer to get the best results.
-
-![How to Use a Bamboo Steamer](images/portablegasgrill.jpg)
 
 ## What is a Bamboo Steamer?
 
@@ -61,53 +58,45 @@ Even better, the appliance has many basket segments, thus allowing you to cook m
 
 ## Best Bamboo Steamers to Consider
 
-1\. **[BirdRock Home 10 Inch Bamboo Steamer for Cooking Vegetables and Dumplings](https://www.amazon.com/BirdRock-Home-Traditional-dumplings-vegetables/dp/B01L9TJCE0/?tag=kitchenpot-20)** 
-
-![Best Bamboo Steamer for the Money](images/portablegasgrill.jpg)
+1. **[BirdRock Home 10 Inch Bamboo Steamer for Cooking Vegetables and Dumplings](https://www.amazon.com/BirdRock-Home-Traditional-dumplings-vegetables/dp/B01L9TJCE0/?tag=kitchenpot-20)** 
 
 **Features**
 
--   Designed using 100% bamboo giving you a natural option to cooking
--   Designed with 2 tiers letting you cook the meat separate from the vegetables and rice
--   Cooking Dimensions: Each Tier Offers 10″ Diameter x 2.4″ Depth; Interior Diameter: 9.25″
+* Designed using 100% bamboo giving you a natural option to cooking
+* Designed with 2 tiers letting you cook the meat separate from the vegetables and rice
+* Cooking Dimensions: Each Tier Offers 10″ Diameter x 2.4″ Depth; Interior Diameter: 9.25″
 
 [Check Price on Amazon](https://www.amazon.com/BirdRock-Home-Traditional-dumplings-vegetables/dp/B01L9TJCE0/?tag=kitchenpot-20)
 
-2\. **[Mister Kitchenware 10 Inch Handmade Bamboo Steamer](https://www.amazon.com/Mister-Kitchenware-Vegetables-Dumplings-Chopsticks/dp/B07GNBJK25/?tag=kitchenpot-20)**
-
-![How to use a bamboo steamer](images/portablegasgrill.jpg)
+2. **[Mister Kitchenware 10 Inch Handmade Bamboo Steamer](https://www.amazon.com/Mister-Kitchenware-Vegetables-Dumplings-Chopsticks/dp/B07GNBJK25/?tag=kitchenpot-20)**
 
 **Features**
 
--   Bamboo steamers can have stackable layers with slatted bottoms. Such multi-level steamers are highly efficient as they allow you to steam multiple items simultaneously
--   Each Tier Offers 10″ Diameter x 2.4″ Depth; Interior Diameter: 9.25″
--   60 Day 100% HASSLE FREE MONEY BACK GUARANTEE
+* Bamboo steamers can have stackable layers with slatted bottoms. Such multi-level steamers are highly efficient as they allow you to steam multiple items simultaneously
+* Each Tier Offers 10″ Diameter x 2.4″ Depth; Interior Diameter: 9.25″
+* 60 Day 100% HASSLE FREE MONEY BACK GUARANTEE
 
 [Check Price on Amazon](https://www.amazon.com/Mister-Kitchenware-Vegetables-Dumplings-Chopsticks/dp/B07GNBJK25/?tag=kitchenpot-20)
 
-**[3\. Prime Home Direct 12 inch Bamboo Steamer Basket](https://www.amazon.com/Prime-Home-Direct-Dumpling-Chopsticks/dp/B08B2WGTS5/?tag=kitchenpot-20)**
-
-![Best bamboo steamer](images/portablegasgrill.jpg)
+**[3. Prime Home Direct 12 inch Bamboo Steamer Basket](https://www.amazon.com/Prime-Home-Direct-Dumpling-Chopsticks/dp/B08B2WGTS5/?tag=kitchenpot-20)**
 
 **Features**
 
--   Bamboo steamer is made of 100% organic bamboo
--   Includes a 10” basket, two chopstick sets, 1 sauce dish and 50 liners
--   It is non-sticky and perfect to steam vegetables, meat and fish or it can even be used as a rice cooker.
--   Two stackable layers fitting on top of each other, Each level allows a cooking space of 12” diameter with 3” depth.
+* Bamboo steamer is made of 100% organic bamboo
+* Includes a 10” basket, two chopstick sets, 1 sauce dish and 50 liners
+* It is non-sticky and perfect to steam vegetables, meat and fish or it can even be used as a rice cooker.
+* Two stackable layers fitting on top of each other, Each level allows a cooking space of 12” diameter with 3” depth.
 
 [Check Price on Amazon](https://www.amazon.com/Prime-Home-Direct-Dumpling-Chopsticks/dp/B08B2WGTS5/?tag=kitchenpot-20)
 
-**4\. [Steami – Bamboo Steamer Basket (10 inch) with Liners and Recipe Guide](https://www.amazon.com/Steami-Bamboo-Steamer-Liners-Recipe/dp/B07PHR4FNS?tag=kitchenpot-20)**
-
-![What is a bamboo steamer and how does it work?](images/portablegasgrill.jpg)
+**4. [Steami – Bamboo Steamer Basket (10 inch) with Liners and Recipe Guide](https://www.amazon.com/Steami-Bamboo-Steamer-Liners-Recipe/dp/B07PHR4FNS?tag=kitchenpot-20)**
 
 **Features**
 
--   10 Liners that make clean up easy and prolong the life of your steamer.
--   Easy to follow recipes for steamed vegetables, soup dumplings and pork dumplings.
--   10 inch two-tier design is practical and versatile. Large enough to cook full meals. Racks are interchangeable and can be rotated during steaming to regulate cook time and temperature.
--    100% eco-friendly bamboo. The BPA free all bamboo construction
+* 10 Liners that make clean up easy and prolong the life of your steamer.
+* Easy to follow recipes for steamed vegetables, soup dumplings and pork dumplings.
+* 10 inch two-tier design is practical and versatile. Large enough to cook full meals. Racks are interchangeable and can be rotated during steaming to regulate cook time and temperature.
+*  100% eco-friendly bamboo. The BPA free all bamboo construction
 
 [Check Price on Amazon](https://www.amazon.com/Steami-Bamboo-Steamer-Liners-Recipe/dp/B07PHR4FNS?tag=kitchenpot-20)
 
@@ -119,30 +108,30 @@ As the water simmers, steam rises through the open ridges available on the botto
 
 If you’re new to using the bamboo steamer, you should follow these steps for the best results:
 
--   **Fill the Trays/Baskets.** You should put all your ingredients in the available trays. Ensure that you add food with the same cooking time to each tray. The ones with a shorter cook time should be at the top. Once you’re done, you should cover the steamer using the lid.
+* **Fill the Trays/Baskets.** You should put all your ingredients in the available trays. Ensure that you add food with the same cooking time to each tray. The ones with a shorter cook time should be at the top. Once you’re done, you should cover the steamer using the lid.
 
 ***When cooking food that may leave an odor, such as fish, you should always line the bottom of the basket with banana leaves or a perforated parchment paper.*** 
 
 Additionally, you should ensure that you space the food to prevent sticking and allow air circulation. 
 
--   **Prepare Your Wok.** You should fill your skillet/wok with approximately 3 inches of water. The water level should not exceed the rim of the bottom layer of the bamboo steamer. Once the water boils, you can reduce the heat to allow your food to simmer and slow cook. 
+* **Prepare Your Wok.** You should fill your skillet/wok with approximately 3 inches of water. The water level should not exceed the rim of the bottom layer of the bamboo steamer. Once the water boils, you can reduce the heat to allow your food to simmer and slow cook. 
 
 ***Do not allow your food to be submerged in water***.
 
--   **Place Your Bamboo Steamer.** Once the water starts simmering, you should place your steamer in the skillet/ wok. Always keep checking the water level. If it reduces to a low level, add more to prevent your food from burning. 
+* **Place Your Bamboo Steamer.** Once the water starts simmering, you should place your steamer in the skillet/ wok. Always keep checking the water level. If it reduces to a low level, add more to prevent your food from burning. 
 
 ## Advantages of a Bamboo Steamer 
 
--   **Lightweight.** When you compare this steamer with **[other cookware](https://thekitchenpot.com/blog/best-waterless-cookware-reviews//)**, you’ll be amazed at how light it is! It is easy to handle the appliance even when it has food in it.
--   **It is Stackable.** Like we’ve earlier indicated, the bamboo steamer comes with many stackable baskets. This way, you can steam more than one food item simultaneously.
--   **Highly Aesthetic.** A bamboo steamer is natural and attractive. It oozes elegance and class, and you can be sure that it will be a mark of excellence in your kitchen.
--   **Easy to Use.** Cooking with a bamboo steamer requires little supervision. The risk of your food burning is minimal. All that you’ll be required to do is check the water levels regularly.
--   **Relatively Affordable.** Compared with stainless steel, copper, and other exotic cookware, buying a bamboo steamer is undoubtedly affordable. 
+* **Lightweight.** When you compare this steamer with **[other cookware](https://thekitchenpot.com/blog/best-waterless-cookware-reviews//)**, you’ll be amazed at how light it is! It is easy to handle the appliance even when it has food in it.
+* **It is Stackable.** Like we’ve earlier indicated, the bamboo steamer comes with many stackable baskets. This way, you can steam more than one food item simultaneously.
+* **Highly Aesthetic.** A bamboo steamer is natural and attractive. It oozes elegance and class, and you can be sure that it will be a mark of excellence in your kitchen.
+* **Easy to Use.** Cooking with a bamboo steamer requires little supervision. The risk of your food burning is minimal. All that you’ll be required to do is check the water levels regularly.
+* **Relatively Affordable.** Compared with stainless steel, copper, and other exotic cookware, buying a bamboo steamer is undoubtedly affordable. 
 
 ## What are the Disadvantages of Bamboo Steamer?
 
--   **Absorbs Odor.** Bamboo steamers absorb odor! When you’re cooking fish, you should line the basket with banana leaves to prevent odor retention. 
--   **Relatively Difficult to Clean.** Washing the steamer after cooking can be a hassle. It is challenging to get rid of any odor form (you can use lemon or tea bags to eliminate the odor).
+* **Absorbs Odor.** Bamboo steamers absorb odor! When you’re cooking fish, you should line the basket with banana leaves to prevent odor retention. 
+* **Relatively Difficult to Clean.** Washing the steamer after cooking can be a hassle. It is challenging to get rid of any odor form (you can use lemon or tea bags to eliminate the odor).
 
 ## How to Clean Your Bamboo Steamer 
 
@@ -176,8 +165,6 @@ This is an optional step, but we highly recommend it. It prevents your steamer f
 
 After you’re through cleaning and drying, you should dip a paper towel into the oil and spread it all over the bamboo steamer. Dry it and store it for the next assignment. 
 
-![How to use a bamboo steamer](images/portablegasgrill.jpg)
-
 ## How to Use a Bamboo Steamer -The Bottom Line
 
 A bamboo steamer is a crucial kitchen appliance, especially if you love steamed meals. It has stackable baskets that allow you to cook many meals simultaneously.
@@ -188,18 +175,15 @@ As such, you can be sure that using a bamboo steamer is a healthy means of cooki
 
 ## How to Use a Bamboo Steamer – Frequently Asked Questions
 
-1.  ### What do I use to line a bamboo steamer?
-    
-    You can use parchment paper or banana leaves. The lining ensures that your steamer does not retain unwanted odors from the steaming food.  
-    
-2.  ### What is the difference between a bamboo steamer and a metallic one?
-    
-    A bamboo steamer is made out of 100% natural material, thus has a better safety profile. Also, a bamboo steamer absorbs most of the moisture, unlike the metallic one that recondenses the moisture and drops it into the food. Additionally, a metal steamer is hotter and may yield crispier meals. 
-    
-3.  ### Can I use aluminum foil in a bamboo steamer?
-    
-    Yes, you can use aluminum foil to line the steamer, thus preventing the food from sticking. This will further make cleaning a breeze.
-    
-4.  ### Is it safe to use bamboo steamers?
-    
-    Yes, using a bamboo steamer is healthy. It is made of natural materials and retains all flavors. You will also not be required to add any oil when cooking.
+1. ### What do I use to line a bamboo steamer?
+
+   You can use parchment paper or banana leaves. The lining ensures that your steamer does not retain unwanted odors from the steaming food.  
+2. ### What is the difference between a bamboo steamer and a metallic one?
+
+   A bamboo steamer is made out of 100% natural material, thus has a better safety profile. Also, a bamboo steamer absorbs most of the moisture, unlike the metallic one that recondenses the moisture and drops it into the food. Additionally, a metal steamer is hotter and may yield crispier meals. 
+3. ### Can I use aluminum foil in a bamboo steamer?
+
+   Yes, you can use aluminum foil to line the steamer, thus preventing the food from sticking. This will further make cleaning a breeze.
+4. ### Is it safe to use bamboo steamers?
+
+   Yes, using a bamboo steamer is healthy. It is made of natural materials and retains all flavors. You will also not be required to add any oil when cooking.
