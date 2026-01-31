@@ -9,7 +9,7 @@ source: wordpress
 slug: best-bakeware-sets
 pubDate: 2020-09-07
 modDate: 2025-01-21
-image: src/content/blog/images/Bakeware-set.png
+image: ""
 category: Bakeware
 author: Boniface Muriuki
 authorImage: ""
