@@ -5,14 +5,14 @@ excerpt: "Why your meat thermometer gives false readings? Food gunk alters
 showTableOfContents: true
 authorId: kitchenpot1
 title: How To Clean A Meat Thermometer in 4 Steps- Back To Basics
-source: How To
+source: wordpress
 slug: how-to-clean-a-meat-thermometer
 pubDate: 2022-01-18
 modDate: 2025-01-20
-image: src/content/blog/images/pop-meat-thermometers-1636735566.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How To Clean A Meat Thermometer in 4 Steps- Back To Basics
 tags:
   - best-candy-thermometer
@@ -34,14 +34,11 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 If you love BBQ, you probably use a **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//)** to ensure that you get perfect doneness every time you grill or **[smoke meat](https://thekitchenpot.com/blog/best-offset-smoker-for-beginners//)**.
 
 But if you don’t clean your thermometer after each use, bacteria from last week’s messy job could be making the rounds in your current meat packets.
 
 That’s why it’s important to know how to clean a meat thermometer properly. The good news is that it takes only a few minutes and requires very few supplies. Here is how you do it like a pro.
-
-![How to Clean a meat thermometer](images/portablegasgrill.jpg)
 
 ## **Do You Need to Clean Meat Thermometer?**
 
@@ -53,11 +50,9 @@ Remember, the tip of a **[digital meat thermometer](https://thekitchenpot.com/bl
 
 ## **How To Clean A Meat Thermometer: What You’ll Need**
 
--   Mild **[dishwashing liquid soap](https://www.amazon.com/s?k=cleaning+detergents&crid=2O29IQTTQISVE&sprefix=cleaning+detergen%2Caps%2C626&?tag=kitchenpot-20)**
--   A **[plastic brush](https://www.amazon.com/s?k=cleaning+brushes&crid=3BAR1FMSGCQ4T&sprefix=cleaning+brus%2Caps%2C861&?tag=kitchenpot-20)**
--   A clean, lint-free cloth (paper towels can shred and shed fibers in your thermometer).
-
-![What you need to clean a meat thermometer](images/portablegasgrill.jpg)
+* Mild **[dishwashing liquid soap](https://www.amazon.com/s?k=cleaning+detergents&crid=2O29IQTTQISVE&sprefix=cleaning+detergen%2Caps%2C626&?tag=kitchenpot-20)**
+* A **[plastic brush](https://www.amazon.com/s?k=cleaning+brushes&crid=3BAR1FMSGCQ4T&sprefix=cleaning+brus%2Caps%2C861&?tag=kitchenpot-20)**
+* A clean, lint-free cloth (paper towels can shred and shed fibers in your thermometer).
 
 ## **How to Clean A Meat Thermometer – Step-by-Step Guide**
 
@@ -106,8 +101,6 @@ Never lay your probe-type thermometer next to especially dirty items, such as sp
 If you use a digital meat thermometer, make sure the stem is completely dry before storing it away in a drawer or on a hook. Otherwise, liquids can seep into the storage compartment and damage the electronics.
 
 Don’t forget to clean your meat thermometer at least once a month, especially if you cook frequently throughout the day. This way, you can protect yourself from food poisoning and keep your guests safe, too.
-
-![How to Sanitize a Meat Thermometer](images/portablegasgrill.jpg)
 
 ## **How to Clean A Meat Thermometer – The Bottom Line**
 
