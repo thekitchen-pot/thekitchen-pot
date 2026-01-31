@@ -5,14 +5,14 @@ excerpt: Curious about the Lodge Cast Iron Skillet? This review reveals 6
 showTableOfContents: true
 authorId: kitchenpot1
 title: Lodge Cast Iron Skillet Review - 6 Reasons Why It Is Popular
-source: Skillet
+source: wordpress
 slug: lodge-cast-iron-skillet-review
 pubDate: 2021-01-21
 modDate: 2025-01-28
-image: src/content/blog/images/Lodge-cast.jpg
+image: ""
 category: Kitchenware
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: Lodge Cast Iron Skillet Review - 6 Reasons Why It Is Popular
 tags:
   - best-air-fryers
@@ -32,15 +32,14 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
-It’s hard to ignore the popularity of the [**Lodge cast iron skillet**](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88?tag=kitchenpot-20). It has become a favorite for many cooking enthusiasts, and we bought one to test its efficacy. 
+It’s hard to ignore the popularity of the **[Lodge cast iron skillet](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88?tag=kitchenpot-20)**. It has become a favorite for many cooking enthusiasts, and we bought one to test its efficacy. 
 
 This article outlines a personal experience with a Lodge cast iron skillet 12 inches. It highlights its performance in the following areas:
 
--   **Nonstick properties**
--   **Ease of cleaning**
--   **Heat diffusivity** 
--   **Design** 
+* **Nonstick properties**
+* **Ease of cleaning**
+* **Heat diffusivity** 
+* **Design** 
 
 Read on for a detailed lodge cast iron skillet review. Is it worth the investment? Let’s find out.
 
@@ -48,25 +47,23 @@ Read on for a detailed lodge cast iron skillet review. Is it worth the investmen
 
 If you’re about to buy this skillet, first read this comprehensive Lodge cast iron skillet review to make an informed decision. 
 
-![](images/portablegasgrill.jpg)
-
 What we Like
 
--   Made in USA
--   Assist handle for ease of handling
--   Easy to clean
--   Relatively deep
+* Made in USA
+* Assist handle for ease of handling
+* Easy to clean
+* Relatively deep
 
 What we Don’t Like
 
--   Requires seasoning
--   Heats up relatively slowly
+* Requires seasoning
+* Heats up relatively slowly
 
 [Check Latest Price on Amazon](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88?tag=kitchenpot-20)
 
 ## Lodge Cast Iron Manufacturer
 
-Lodge cast iron skillet is, without a doubt, the most popular skillet in the United States. The skillet is manufactured by [Lodge Manufacturing Company.](https://en.wikipedia.org/wiki/Lodge_\(company\)) 
+Lodge cast iron skillet is, without a doubt, the most popular skillet in the United States. The skillet is manufactured by [Lodge Manufacturing Company.](https://en.wikipedia.org/wiki/Lodge_(company)) 
 
 This company is a pioneer in the cookware industry. It was started in 1896 by Joseph Lodge, and it has become synonymous with cast iron cookware. 
 
@@ -82,12 +79,10 @@ This treatment makes the **cast iron non-malleable, hard, and brittle.** These c
 
 Compared to steel and aluminum cookware, the Lodge cast iron skillet offers the following benefits:
 
--   ***Exceptional ability to retain heat, making it ideal for searing***
--   ***Develops nonstick properties with time***
+* ***Exceptional ability to retain heat, making it ideal for searing***
+* ***Develops nonstick properties with time***
 
 However, the ability of cast iron to heat up fast is limited. It might take you longer to heat the skillet before you start cooking!
-
-![Lodge cast iron skillet review](images/portablegasgrill.jpg)
 
 ## How to Season Cast Iron Skillet
 
@@ -107,7 +102,7 @@ Let the oil heat for some time until you can see some smoke coming out of the pa
 
 This skillet has several unique features that have endeared it to cooking enthusiasts in the US and beyond. They include:
 
-**1\. Classic Design**
+**1. Classic Design**
 
 Lodge cast iron skillet is built with an elegant design that allows comfortability. While it’s relatively heavy compared to steel and aluminum cookware, it has an **ergonomic design that eases the lifting and handling** when cooking.
 
@@ -115,7 +110,7 @@ The skillet has a short handle that guarantees a firm grip. When you’re cookin
 
 When you order the Lodge cast iron skillet, you will also get a **handle holder to help you lift the pan without burning your hands**.
 
-**2\. Versatility** 
+**2. Versatility** 
 
 Lodge cast iron skillet is one of the most versatile kitchen appliances.
 
@@ -123,15 +118,13 @@ You’ll cook virtually anything in it! Be it frying eggs, preparing pancakes, o
 
 The pan is **conveniently deep to allow you to cook anything you want** without spillage. Using the Lodge cast iron 12-inch skillet, you can prepare breakfast for your entire family without a hassle.
 
-**3\. A Great Pouring Lip Addition**
-
-![Why Lodge Cast Iron Skillet is Popular](images/portablegasgrill.jpg)
+**3. A Great Pouring Lip Addition**
 
 The Lodge cast iron skillet has **two pouring lips on opposite sides**. While many people may consider this as a design addition, it’s an instrumental functionality booster. 
 
 The feature helps to drain grease or reduce your oil without messing the outer side of the pan. It reduces spillage and makes cleaning a breeze.
 
-**4\. Lodge Cast Iron Skillet Finish**
+**4. Lodge Cast Iron Skillet Finish**
 
 Far from it, the Lodge cast iron skillet is not elegant and classy. The finish is rugged and relatively dull.
 
@@ -139,7 +132,7 @@ Far from it, the Lodge cast iron skillet is not elegant and classy. The finish i
 
 While these misgivings do not affect the cooking in any way, I feel that the pan should have regular edges and a relatively smoother finish.
 
-**5\. Different Sizes for Flexibility** 
+**5. Different Sizes for Flexibility** 
 
 Lodge cast iron comes in different sizes to allow you to choose the ideal one for your needs. If you live iron, we recommend that you buy the **[Lodge cast iron 8-inch skillet.](https://www.amazon.com/Lodge-Skillet-Silicone-Handle-Holder/dp/B00WTSCY0U/?tag=kitchenpot-20)** 
 
@@ -147,7 +140,7 @@ However, you can be sure that the Lodge cast iron 12-inch skillet will offer you
 
 Besides the two sizes, the Lodge cast comes in **3.5 inches, [6.5 inches](https://www.amazon.com/Lodge-Skillet-Silicone-Handle-Holder/dp/B00WTSCY0U?tag=kitchenpot-20), [8 inches](https://www.amazon.com/Lodge-Skillet-Silicone-Handle-Holder/dp/B00WTSCY0U?tag=kitchenpot-20), 9 inches, [10 inches](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Sloped-Sautes/dp/B00008GKDJ?tag=kitchenpot-20), [10.25 inches](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-10-25-Inch-Silicone/dp/B00WTSCXIS?tag=kitchenpot-20), 13.25 inches, and 15 inches**.
 
-**6\. Ease of Cleaning**
+**6. Ease of Cleaning**
 
 Cleaning the Lodge cast iron skillet is a breeze. You will only require warm water and a non-abrasive cleaning towel.
 
@@ -165,10 +158,10 @@ While this feature is used for marketing this pan, it is not entirely true.
 
 However, you can resolve this problem by following the following simple steps:
 
--   After unpacking the skillet, you should clean it with hot water
--   After cleaning, you should apply a thin layer of canola oil (or any other oil)
--   Place the pan in an oven and heat it to 450 degrees
--   Heat it until you can see some smoke, then remove it and wipe it
+* After unpacking the skillet, you should clean it with hot water
+* After cleaning, you should apply a thin layer of canola oil (or any other oil)
+* Place the pan in an oven and heat it to 450 degrees
+* Heat it until you can see some smoke, then remove it and wipe it
 
 Every time you’re through cooking, you should apply a thin layer of oil before storing your skillet. 
 
