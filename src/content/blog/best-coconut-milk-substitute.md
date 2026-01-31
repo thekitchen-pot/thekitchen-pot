@@ -5,14 +5,14 @@ excerpt: Out of coconut milk? Get the best substitutes that bring creamy texture
 showTableOfContents: true
 authorId: kitchenpot1
 title: 12 Best Coconut Milk Substitute for Unique Recipes
-source: "Cooking Substitutes "
+source: wordpress
 slug: best-coconut-milk-substitute
 pubDate: 2021-01-30
 modDate: 2025-01-29
-image: src/content/blog/images/coconut-milk-substitute-1.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: 12 Best Coconut Milk Substitute for Unique Recipes
 tags:
   - best-blenders-for-protein-shakes
@@ -33,14 +33,11 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 You’ve found a unique recipe that you want to try out, and [coconut milk](https://en.wikipedia.org/wiki/Coconut_milk) is one of the main ingredients you require. You’ve run out of it or you are allergic to coconut. 
 
 So, what do you use instead of coconut milk?
 
 This article suggests a coconut milk substitute that will enable you to try your best recipes even when you’ve run out of the ingredient. 
-
-![Coconut Milk Substitute](images/portablegasgrill.jpg)
 
 ## What is Coconut Milk, and How Is It Used?
 
@@ -58,7 +55,7 @@ If you want high-quality coconut milk, you should ensure that it contains both c
 
 ## 12 Best Coconut Milk Substitutes
 
-1\. **Evaporated Milk**
+1. **Evaporated Milk**
 
 If you’ve been wondering whether you can use evaporated milk as a substitute for coconut milk, then worry no more!
 
@@ -70,7 +67,7 @@ Making evaporated milk is a straightforward process. It involves heating cow’s
 
 Heat approximately 2 ½ cups of regular cow milk until it gently boils. Ensure that you only remain with one cup of boiled milk. This process will have removed the water content in the milk to yield high-quality evaporated milk.
 
-2\. **Greek Yogurt**
+2. **Greek Yogurt**
 
 Yogurt is a healthy substitute for coconut milk. It is thick and has unmatched probiotic properties, which enhances the health of your gut.
 
@@ -78,27 +75,25 @@ However, you should avoid this option if you are to boil the mixture. In excessi
 
 If you want to replace one cup of coconut milk, you should mix one cup of **[Greek yogurt](https://www.amazon.com/EasiYo-Yogurt-Mix-Greek-Style/dp/B01LYK8I89?tag=kitchenpot-20)** with one tablespoon of water. This option is particularly significant when making smoothies. 
 
-![Greek Yogurt Substitute for Coconut Milk](images/portablegasgrill.jpg)
-
-**3\. Canned Tomatoes**
+**3. Canned Tomatoes**
 
 If you want to use coconut milk to make your curry or soup, you shouldn’t have a problem when you substitute it with canned potatoes. 
 
 You can also mix it with cream to get the best results. For example, use one cup of passata with ¼ of cream. The mixing thickens the paste, giving a tasty curry.
 
-**4\. Soy Milk**
+**4. Soy Milk**
 
 Soy is one of the most effective plant-based coconut milk substitutes. It has a lower fat content, and you can use it just like you’d have used your coconut milk – including the quantities. 
 
 Additionally, soy sauce is an excellent protein source that makes it one of the most outstanding options. One cup will provide more than 7 g of protein instead of 0.5 g that an equal amount of coconut oil would provide. 
 
-**5\. Heavy Cream**
+**5. Heavy Cream**
 
 Heavy cream is your best choice if you want thick soups and curries. It enriches your soup with a unique taste that will leave you yearning for more.
 
 To achieve the best results, you should use two parts of the heavy cream with 1 part of water. It is ideal for sauces, icecreams, and creamy sauces. 
 
-**6\. Almond Milk**
+**6. Almond Milk**
 
 **[Almond milk](https://www.amazon.com/Silk-Unsweetened-Flavored-Non-Dairy-Dairy-free/dp/B00PGXQ68Q?tag=kitchenpot-20)** is low in calories, making it the best coconut milk alternative, especially if you are dieting. 
 
@@ -108,39 +103,37 @@ Since almond milk is lower in fat content than coconut milk, you’re unlikely t
 
 If you like creamy dishes, it would be best to avoid using almond milk as a substitute for coconut milk. 
 
-**7\. Sour Cream** 
+**7. Sour Cream** 
 
 This dairy product is best when you want thick curries. It has a distinctive taste that almost equals that of Greek yogurt. 
 
 It is rich in probiotics, which guarantees a healthy gut. However, the sour cream is relatively sweeter, and you should use it sparingly if you don’t like sweetened curries and smoothies.
 
-**8\. Cashew Milk**
+**8. Cashew Milk**
 
 This is a milky substance obtained from cashew nuts. It works best in soup, sauces, and smoothies. It is low in calories and proteins but relatively high in fat.
 
 You swap it with coconut oil in a ratio of 1:1 to achieve the best results. You’ll be guaranteed of smoother and creamier texture in your smoothies and sauces. 
 
-![Cashew Milk as substitute for coconut milk](images/portablegasgrill.jpg)
-
-**9\. Coconut Cream**
+**9. Coconut Cream**
 
 The main difference between coconut milk and coconut cream is the thickness. The cream is more than four times thicker and has a richer taste. Additionally, coconut cream has a higher fat and calorie content than coconut milk. 
 
 You can dilute it with water or use it without dilution. Whichever option you choose, you will get creamy smoothies and curries!
 
-**10\. Oat Milk**
+**10. Oat Milk**
 
 This is your ideal option if you want to make coffees and latte. It has an excellent foaming ability and only contains moderate fat. The beta-glucan fiber is responsible for foaming, and you can be sure that it will provide better peristalsis and overall gut health. 
 
 Even better, **[oat milk](https://www.amazon.com/Califia-Farms-Unsweetened-Oatmilk-Gluten-Free/dp/B07PBFNYXV/?tag=kitchenpot-20)** is ideal when you’re cooking high-heat meals since it does not curdle. It is sweet and has more carb than coconut oil. Always substitute the coconut milk in the ratio of 1:1.
 
-**11\. Silken Tofu**
+**11. Silken Tofu**
 
 Tofu is made by hard-pressing condensed soy milk to form blocks. It is ideal for making desserts and smoothies.
 
 Tofu is high in proteins, and you can use it to replace coconut oil in the ratio of 1:1. If you use your **[best blender for smoothies](https://thekitchenpot.com/blog/best-blenders-for-smoothies//)**, you should get consistent and smooth soup and curry. 
 
-**12\. Hemp Milk**
+**12. Hemp Milk**
 
 This is sweet plant milk derived from the seeds of the hemp plant (Cannabis Sativa). However, it does not contain THC, which is the addictive component of marijuana. 
 
@@ -156,14 +149,12 @@ If you’re wondering which coconut milk substitute to choose, then this article
 
 ## Coconut Milk Substitute – Frequently Asked Questions
 
-1.  ### What can I use instead of coconut milk when preparing Thai curry?
-    
-    You can use many coconut milk substitutes, including hemp milk, Greek yogurt, cashew cream, almond milk, and oat milk. If you want to cook the curry under high temperature, we advise that you use the oat milk since it does not curdle when heated. 
-    
-2.  ### What is the difference between evaporated milk and coconut milk?
-    
-    Evaporated milk is high protein and top-notch creamy milk that produces thicker curries and smoothies than coconut milk. It is prepared by heating milk to remove up to 60% of its water content, resulting in creamy and sweeter milk.
-    
-3.  ### Can you substitute regular milk for coconut?
-    
-    Yes, you can use coconut milk substitute to make any meal of your choice—the substitute range from hemp milk to silken tofu.
+1. ### What can I use instead of coconut milk when preparing Thai curry?
+
+   You can use many coconut milk substitutes, including hemp milk, Greek yogurt, cashew cream, almond milk, and oat milk. If you want to cook the curry under high temperature, we advise that you use the oat milk since it does not curdle when heated. 
+2. ### What is the difference between evaporated milk and coconut milk?
+
+   Evaporated milk is high protein and top-notch creamy milk that produces thicker curries and smoothies than coconut milk. It is prepared by heating milk to remove up to 60% of its water content, resulting in creamy and sweeter milk.
+3. ### Can you substitute regular milk for coconut?
+
+   Yes, you can use coconut milk substitute to make any meal of your choice—the substitute range from hemp milk to silken tofu.
