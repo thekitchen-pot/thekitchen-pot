@@ -5,11 +5,11 @@ excerpt: "Chop, rinse, and prep with ease using the best over the sink cutting
 showTableOfContents: true
 authorId: kitchenpot1
 title: 10 Best Over the Sink Cutting Board to Make Food Prep a Breeze
-source: Cutting Board
+source: wordpress
 slug: best-over-the-sink-cutting-board
 pubDate: 2020-06-27
 modDate: 2025-02-20
-image: src/content/blog/images/cutting-boards.jpg
+image: ""
 category: Cookware Equipment
 author: Boniface Muriuki
 authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
@@ -18,7 +18,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   unique recipes and influencing the menu at the restaurant. He prides himself
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: 10 Best Over the Sink Cutting Board to Make Food Prep a Breeze
 tags:
   - cutting-boards
@@ -30,12 +30,9 @@ description: If you're looking to expand your cutting space and make meal prep
   These boards come with colanders for draining excess liquid and can even store
   veggies as you cut them, saving you time
 ---
-
 Do you want more cutting space when preparing your meals? Well, buying the best over the sink cutting board is a brilliant way to expand your cutting space over your sink.
 
 Most of these [boards](https://en.wikipedia.org/wiki/Cutting_board) have colanders that are essential in draining excess liquid, this providing a conducive working environment. Even better, you can use these hollow parts to store your potatoes and other veggies as you cut them.
-
-![](images/portablegasgrill.jpg)
 
 If your kitchen space is limited, then getting the best over the sink cutting board may just be the best decision you’ll ever make. It reduces your prep time and makes every step of the preparation fun.
 
@@ -47,19 +44,17 @@ This article enumerates the factors you should consider when shopping for the be
 
 ## Best Over the Sink Cutting Board – Comparison
 
-| Image | Name | Features |
-|---|---|---|
-|  | Cheff Buddy Cutting Board And A Wire Colander- 2 In 1 Chopping Board | -wooden cutting board has stainless steel expandable handles and will adjust to fit over most kitchen sinks with a gentle pull-made of solid wood that will eliminate dulling and damage of your knives. The stainless-steel wire straining basket is durable for long-term use.-Board Dimensions: 13.2” (L) x 11.5” (W) x .75 (H). Expands up to 24.75”. Mesh Tray Dimensions: 8.5” (L) x 3.25” (W) x 3” (H). |
-|  | Good Cook Cutting Board | -Hardwood all purpose board-Constructed of renewable material-Think green |
-|  | Dexas Over the Sink Board | -Board measures 11.5" x 20"-Features a 2-1/2 quart strainer that is removable and collapsible for easy storage Perfect for cleaning and chopping fruits and vegetables-Non-slip rubber edges grip surfaces to keep the board securely in place during use, while raised edges direct juices toward center |
-|  | Prepworks by Progressive PCB-3510G | -Colander collapses flat to ⅓ its original size for easy storage-dishwasher safe |
-|  | The Grande Epicure Extending Over The Sink Cutting Board | -Extendable handles-Saves counter space-11-inch by 12-inch by 3/4-inch-Handcrafted |
+| Image | Name                                                                 | Features                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       | Cheff Buddy Cutting Board And A Wire Colander- 2 In 1 Chopping Board | \-wooden cutting board has stainless steel expandable handles and will adjust to fit over most kitchen sinks with a gentle pull-made of solid wood that will eliminate dulling and damage of your knives. The stainless-steel wire straining basket is durable for long-term use.-Board Dimensions: 13.2” (L) x 11.5” (W) x .75 (H). Expands up to 24.75”. Mesh Tray Dimensions: 8.5” (L) x 3.25” (W) x 3” (H). |
+|       | Good Cook Cutting Board                                              | \-Hardwood all purpose board-Constructed of renewable material-Think green                                                                                                                                                                                                                                                                                                                                      |
+|       | Dexas Over the Sink Board                                            | \-Board measures 11.5" x 20"-Features a 2-1/2 quart strainer that is removable and collapsible for easy storage Perfect for cleaning and chopping fruits and vegetables-Non-slip rubber edges grip surfaces to keep the board securely in place during use, while raised edges direct juices toward center                                                                                                      |
+|       | Prepworks by Progressive PCB-3510G                                   | \-Colander collapses flat to ⅓ its original size for easy storage-dishwasher safe                                                                                                                                                                                                                                                                                                                               |
+|       | The Grande Epicure Extending Over The Sink Cutting Board             | \-Extendable handles-Saves counter space-11-inch by 12-inch by 3/4-inch-Handcrafted                                                                                                                                                                                                                                                                                                                             |
 
 ## 10 Best Over the Sink Cutting Board
 
-### **1\. [Cheff Buddy Cutting Board And A Wire Colander- 2 In 1 Chopping Board](https://www.amazon.com/Colander-Adjustable-Stainless-Chef-Buddy/dp/B00078WHME?tag=kitchenpot-20)**
-
-![](images/portablegasgrill.jpg)
+### **1. [Cheff Buddy Cutting Board And A Wire Colander- 2 In 1 Chopping Board](https://www.amazon.com/Colander-Adjustable-Stainless-Chef-Buddy/dp/B00078WHME?tag=kitchenpot-20)**
 
 The chef buddy chopping board features expandable handles that can be adjusted to fit on many kitchen sinks. It’s an amazing accessory that adds an extra counter space for kitchen users with a small prepping space.
 
@@ -75,19 +70,17 @@ The Chef Buddy offers a 185 square inches, and the board measures 3.5 inches by 
 
 **Pros** 
 
--   It’s made of wood that’s non-toxic
--   A relatively stable model
--   It has a removable colander
--   It’s a lightweight cutting board.
+* It’s made of wood that’s non-toxic
+* A relatively stable model
+* It has a removable colander
+* It’s a lightweight cutting board.
 
 **Cons**
 
--   Needs frequent oiling
--   The wood material can crack with time.
+* Needs frequent oiling
+* The wood material can crack with time.
 
-### **2\. [Good Cook Cutting Board](https://www.amazon.com/Good-Cook-Cutting-12-inch-16-inch/dp/B001CD1KCQ?tag=kitchenpot-20)** 
-
-![Best Over the Sink Cutting Board](images/portablegasgrill.jpg)
+### **2. [Good Cook Cutting Board](https://www.amazon.com/Good-Cook-Cutting-12-inch-16-inch/dp/B001CD1KCQ?tag=kitchenpot-20)** 
 
 This kitchen sink chopping board is sturdy, and a handy tool convenient for every kitchen user. It comes with an extra-long size that perfectly fits in every kitchen. The cutting board measures 1 inch by 11 inches by 19.7 inches and weighs 3 pounds with a removable colander that features a durable stainless steel rim.
 
@@ -99,19 +92,17 @@ More so, this board is dishwasher safe. In other words, you can chop pieces of f
 
 **Pros**
 
--   It comes with sturdy construction to enhance longevity
--   Its dishwasher safe to make the cleaning task a breeze
--   The colander is collapsible to facilitate easy cleaning
--   An extra-long board that fits easily on many kitchen sinks.
+* It comes with sturdy construction to enhance longevity
+* Its dishwasher safe to make the cleaning task a breeze
+* The colander is collapsible to facilitate easy cleaning
+* An extra-long board that fits easily on many kitchen sinks.
 
 **Cons**
 
--   The colander is too small
--   It’s challenging to store the cutting board.
+* The colander is too small
+* It’s challenging to store the cutting board.
 
-### **3\. [Dexas Over the Sink Board](https://www.amazon.com/Dexas-Over-Strainer-Board-Natural/dp/B00WHVANQ6?tag=kitchenpot-20)**
-
-![](images/portablegasgrill.jpg)
+### **3. [Dexas Over the Sink Board](https://www.amazon.com/Dexas-Over-Strainer-Board-Natural/dp/B00WHVANQ6?tag=kitchenpot-20)**
 
 Dexas comes with a budget-friendly price that fits you when on a squeezed budget. This plastic tool features a compact size that measures 11.5 inches by 20 inches. Therefore, it can fit into many kitchen sinks.
 
@@ -127,18 +118,16 @@ A big thanks to its innovative design and its lifetime warranty and comes with a
 
 **Pros**
 
--   It comes with a lifetime warranty
--   Features a concave shape to prevent unnecessary food spills
--   It comes with a budget-friendly price
--   Dishwasher safe to make the cleaning task easy.
+* It comes with a lifetime warranty
+* Features a concave shape to prevent unnecessary food spills
+* It comes with a budget-friendly price
+* Dishwasher safe to make the cleaning task easy.
 
 **Cons**
 
--   The colander isn’t durable enough and can wear out easily.
+* The colander isn’t durable enough and can wear out easily.
 
 ### **4[. Prepworks by Progressive PCB-3510G](https://www.amazon.com/Prepworks-Progressive-PCB-3510G-Collapsible-Dishwasher/dp/B00364Q9DE?tag=kitchenpot-20)**
-
-![](images/portablegasgrill.jpg)
 
 This over the sink cutting board from progressive is well-designed, practical, and a suitable model that’s designed to fit on many sinks. The price and the design make it a perfect over the sink cutting board.
 
@@ -152,19 +141,17 @@ Generally, this is a fantastic cutting board made from durable materials. its ea
 
 **Pros**
 
--   A well-designed sink cutting board
--   Its dishwasher safe for easy cleaning
--   It comes with an extra-large colander
--   The colander is spacious, extendable, and removable for easy storage.
+* A well-designed sink cutting board
+* Its dishwasher safe for easy cleaning
+* It comes with an extra-large colander
+* The colander is spacious, extendable, and removable for easy storage.
 
 **Cons**
 
--   The rubber feet can get lost
--   The board slips easily.
+* The rubber feet can get lost
+* The board slips easily.
 
-### [**5\. The Grande Epicure Extending Over The Sink Cutting Board**](https://www.amazon.com/Grande-Epicure-7C8320-Extendable-Handles/dp/B00OVLHO30?tag=kitchenpot-20)
-
-![](images/portablegasgrill.jpg)
+### **[5. The Grande Epicure Extending Over The Sink Cutting Board](https://www.amazon.com/Grande-Epicure-7C8320-Extendable-Handles/dp/B00OVLHO30?tag=kitchenpot-20)**
 
 The Grande Epicure is a fantastic, light, and an excellent choice over-the-sink cutting board if you need some extra space in your kitchen. It comes with long handles that make it easy to carry when cleaning.
 
@@ -178,19 +165,17 @@ This over-the-sink cutting board has a large surface to allow you to chop differ
 
 **Pros**
 
--   Extended handles to allot the tool fit on numerous kitchen sinks
--   It has a spacious surface that can be used for cutting different food types at once
--   Its dishwasher safe to make it easy to clean
--   It’s designed with a premium wood material to enhance durability.
+* Extended handles to allot the tool fit on numerous kitchen sinks
+* It has a spacious surface that can be used for cutting different food types at once
+* Its dishwasher safe to make it easy to clean
+* It’s designed with a premium wood material to enhance durability.
 
 **Cons**
 
--   The handles tend to slide after some time
--   It doesn’t have a colander.
+* The handles tend to slide after some time
+* It doesn’t have a colander.
 
-### **6\. [Catskill Craftsmen Over-the-Sink Board](https://www.amazon.com/Catskill-Craftsmen-Deluxe-Over-Cutting/dp/B01MRH4RZY?tag=kitchenpot-20)**
-
-![](images/portablegasgrill.jpg)
+### **6. [Catskill Craftsmen Over-the-Sink Board](https://www.amazon.com/Catskill-Craftsmen-Deluxe-Over-Cutting/dp/B01MRH4RZY?tag=kitchenpot-20)**
 
 If you have a tiny kitchen counter, and still in need of extra space, then this fantastic tool from Catskill craftsmen is your pick. Many people love it as it’s made from a non-endangered and self-replenishing tree.
 
@@ -202,19 +187,17 @@ Furthermore, the sink has hooks that keep it stable and steady as you cut the fr
 
 **Pros**
 
--   It’s designed to fit on many sinks
--   Made of a hardwood
--   It has a broad surface
--   The parts are extendable.
+* It’s designed to fit on many sinks
+* Made of a hardwood
+* It has a broad surface
+* The parts are extendable.
 
 **Cons** 
 
--   It lacks a colander
--   The wood can easily crack.
+* It lacks a colander
+* The wood can easily crack.
 
-### [**7\. Island Bamboo Cutting Board**](https://www.amazon.com/Island-Bamboo-40828-Cutting-Boards/dp/B006A5266K?tag=kitchenpot-20) 
-
-![](images/portablegasgrill.jpg)
+### **[7. Island Bamboo Cutting Board](https://www.amazon.com/Island-Bamboo-40828-Cutting-Boards/dp/B006A5266K?tag=kitchenpot-20)** 
 
 This island bamboo cutting board is constructed with an environmentally friendly material. It comes with proper dimensions measuring ten by 18 inches that can easily fit on your standard kitchen sink.
 
@@ -228,18 +211,16 @@ Nevertheless, you won’t regret buying this handy product as it comes with a 10
 
 **Pros**
 
--   Its dishwasher safe to make it easy to clean
--   It’s backed up with a lifetime warranty
--   The strainer is collapsible and can be used as a bowl.
--   The bamboo material is environmentally friendly.
+* Its dishwasher safe to make it easy to clean
+* It’s backed up with a lifetime warranty
+* The strainer is collapsible and can be used as a bowl.
+* The bamboo material is environmentally friendly.
 
 **Cons**
 
--   The quality can be improved.
+* The quality can be improved.
 
-### [**8\. Camco 43857 Sink-Mate chopping Board (White)**](https://www.amazon.com/Camco-Sink-Mate-Cutting-Board/dp/B000EDUUGM?tag=kitchenpot-20)
-
-![](images/portablegasgrill.jpg)
+### **[8. Camco 43857 Sink-Mate chopping Board (White)](https://www.amazon.com/Camco-Sink-Mate-Cutting-Board/dp/B000EDUUGM?tag=kitchenpot-20)**
 
 This small and all-white cutting board manufactured by Camco brand features perfect dimensions measuring 14,5 inches by 12,5 inches that can properly fit on your kitchen sink. Its polyethylene material is non-toxic, adding safety to your food as you prepare them.
 
@@ -253,18 +234,16 @@ Also, the chopping board has adjustable feet adapted to fit on your sink, and th
 
 **Pros**
 
--   Non-toxic polyethylene material that promises food safety
--   A lightweight model that can be used for outdoor food preparation solutions
--   It comes with adjustable feet that fit easily on your sink
--   Its dishwasher safe.
+* Non-toxic polyethylene material that promises food safety
+* A lightweight model that can be used for outdoor food preparation solutions
+* It comes with adjustable feet that fit easily on your sink
+* Its dishwasher safe.
 
 **Cons**
 
--   It’s an expensive model compared to other cutting boards.
+* It’s an expensive model compared to other cutting boards.
 
-### **9\. [Squish 41007 Cutting Board](https://www.amazon.com/Squish-41007-Cutting-Board-Green/dp/B008NPSIJE?tag=kitchenpot-20)**
-
-![](images/portablegasgrill.jpg)
+### **9. [Squish 41007 Cutting Board](https://www.amazon.com/Squish-41007-Cutting-Board-Green/dp/B008NPSIJE?tag=kitchenpot-20)**
 
 Do not hesitate to buy this plastic squish cutting board made of a BPA material that’s fully approved by the FDA to ensure that you are safe health-wise while using it. It features a perfect dimension and can easily fit on squeezed kitchen drawers as it measures 12.01 inches by 20.98 inches. The good news is that it can fit on any kitchen sink.
 
@@ -276,18 +255,16 @@ More so, it comes with gently curved rims, smooth sides, thoughtfully-placed pou
 
 **Pros**
 
--   It has a durable and sturdy surface that promises to serve you for long
--   The folding colander helps you store the tool easily
--   Perfect dimension to easily fit on any kitchen sink
--   Dishwasher safe for easy cleaning.
+* It has a durable and sturdy surface that promises to serve you for long
+* The folding colander helps you store the tool easily
+* Perfect dimension to easily fit on any kitchen sink
+* Dishwasher safe for easy cleaning.
 
 **Cons**
 
--   Its strainer doesn’t lock-in.
+* Its strainer doesn’t lock-in.
 
-### **10\. [Cuisinart CTG-00-CBC](https://www.amazon.com/Cuisinart-CTG-00-CBC-Cutting-Board-Colander/dp/B06W537Q85?tag=kitchenpot-20)** 
-
-![](images/portablegasgrill.jpg)
+### **10. [Cuisinart CTG-00-CBC](https://www.amazon.com/Cuisinart-CTG-00-CBC-Cutting-Board-Colander/dp/B06W537Q85?tag=kitchenpot-20)** 
 
 This is a flexible chopping board that kitchen users must grab in their lovely kitchens. It’s a plastic cutting board that measures 10.4 inches by 19.23 inches to fit in a standard kitchen sink. The good news is that this fantastic cutting board has an expandable length up to 28 inches that’s essential for dual sink set up.
 
@@ -299,36 +276,36 @@ In terms of construction, this cutting board is made of plastic material, thus m
 
 **Pros**
 
--   Its dishwasher safe
--   It has a sturdy plastic material
--   Comes with an expandable length to fit in any kitchen
--   The colander is removable and collapsible to make it easy to store the tool.
+* Its dishwasher safe
+* It has a sturdy plastic material
+* Comes with an expandable length to fit in any kitchen
+* The colander is removable and collapsible to make it easy to store the tool.
 
 **Cons**
 
--   This sink cutting board can bend when you add more weight in the middle.
+* This sink cutting board can bend when you add more weight in the middle.
 
 ## Best Over The Sink Cutting Boards – A Comprehensive Buyers’ Guide
 
 When selecting your best over the sink cutting board, you should consider the following factors to ensure that you enjoy optimal benefits:
 
--   **Quality**
+* **Quality**
 
 You should ensure that your over the sink cutting boards are made from sturdy materials. This way, you can be sure that you’ll use it for a prolonged time.
 
 Always remember that you’ll be using a knife on the surface. As such, a board that’s resistant to the scratches will serve you best.
 
--   **Ease of Cleaning**
+* **Ease of Cleaning**
 
 An [easy-to-clean over the sink board](https://www.wikihow.com/Clean-a-Cutting-Board) eliminates any chance of infectious disease. It guarantees a hygienic cooking environment.
 
--   **Health and Safety Measures**
+* **Health and Safety Measures**
 
 How easy is it for your over the sink board to leave undesired particles on your food? If this happens, it can easily expose your body to adverse effects.
 
 A board made of plastic should have relevant certification to ascertain their safety. This way, you’ll be confident when using such boards.
 
--   **Expandability of the Handles**
+* **Expandability of the Handles**
 
 If your best over the sink cutting board can change dimensions, then you can use it on any sink which guarantees flexibility.
 
