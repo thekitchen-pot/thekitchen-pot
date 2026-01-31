@@ -5,14 +5,14 @@ excerpt: Can you use non-induction cookware on an induction cooktop? Yes. No
 showTableOfContents: true
 authorId: kitchenpot1
 title: How To Use Non Induction Cookware On Induction Cooktop
-source: How To
+source: wordpress
 slug: how-to-use-non-induction-cookware-on-induction-cooktop
 pubDate: 2022-01-18
 modDate: 2025-01-17
-image: src/content/blog/images/Induction-cooktop.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How To Use Non Induction Cookware On Induction Cooktop
 tags:
   - best-induction-cooktops
@@ -34,12 +34,9 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 It can be frustrating to buy your best cookware set only to realize that it doesn’t work with your favorite **[induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money//)**. But all is not lost. There are a few things you can do to make it compatible with an induction cooktop.
 
 This guide offers tips on how to use non induction cookware on induction cooktops without a hassle. It is simple and easily implementable!
-
-![How to Use Non Induction Cookware on Induction Cooktop](images/portablegasgrill.jpg)
 
 ## **What is an Induction Cookware?**
 
@@ -55,8 +52,6 @@ There are several things that you can do to make your non induction cookware wor
 
 Converter disks/ magnetic disks contain a ferrous material that allows the induction current to flow through it. Simply place a converter disk between your pot and the induction cooktop to make your pot work.
 
-![How to Use a Converter Disk on an Induction Cooktop](images/portablegasgrill.jpg)
-
 Converter disks are widely available in **[departmental stores or online shops](https://www.amazon.com/Upromax-Induction-Embossed-Converter-Stainless/dp/B07D7FPYV1/?tag=kitchenpot-20)**. You can choose from among many different-sized converters depending on the size of your pot or pan. Here’s a **[link to Amazon for some converter disks](https://www.amazon.com/s?k=magnetic+disk%2Fconverter+disks&crid=3VQVMGKPHD8U7&sprefix=magnetic+disk%2Fconverter+disk%2Caps%2C365&?tag=kitchenpot-20)**.
 
 Read about some of the **[best heat diffusers](https://thekitchenpot.com/blog/how-to-protect-glass-top-stove-from-cast-iron//)** here
@@ -65,15 +60,15 @@ Read about some of the **[best heat diffusers](https://thekitchenpot.com/blog/ho
 
 If you are using a converter disk, follow these simple steps to make it work with your induction cooktop:
 
-1\. Place the converter disk on your induction cooktop.
+1. Place the converter disk on your induction cooktop.
 
-2\. Place your pot or pan on top of the converter disk.
+2. Place your pot or pan on top of the converter disk.
 
-3\. Turn on your induction cooktop and set the cooking temperature. For example, if you are using a pot with a temperature setting of “medium,” set your induction cooktop to “medium.”
+3. Turn on your induction cooktop and set the cooking temperature. For example, if you are using a pot with a temperature setting of “medium,” set your induction cooktop to “medium.”
 
-4\. The converter disk will start to heat up. Do not touch it. You will be able to feel the heat on the bottom of your pot or pan.
+4. The converter disk will start to heat up. Do not touch it. You will be able to feel the heat on the bottom of your pot or pan.
 
-5\. Cook until your food is ready.
+5. Cook until your food is ready.
 
 **Disadvantages of Using a Converter Disk**
 
@@ -85,8 +80,8 @@ As such, these air pockets reduce the rate at which heat is transferred from the
 
 In addition, you should avoid the following when using a converter disk:
 
--   Pouring cold water on it while still plugged in as this can cause a shock.
--   Leaving the converter disk plugged in for more than needed as this can damage or break your induction hob.
+* Pouring cold water on it while still plugged in as this can cause a shock.
+* Leaving the converter disk plugged in for more than needed as this can damage or break your induction hob.
 
 In general, using a converter disk should be avoided if you have induction-safe cookware available to use!
 
@@ -117,8 +112,6 @@ The thermal paste allows the transfer of heat from the induction cooker to your 
 The technique is very slow as compared to using induction-safe cookware. It may take time before you start seeing any bubbling.
 
 In addition, this method can only be used for a short time as you will need to reapply thermal paste whenever it loses its adhesive quality.
-
-![](images/portablegasgrill.jpg)
 
 ## How to Use Non Induction Cookware on an Induction Cooktop – Conclusion
 
