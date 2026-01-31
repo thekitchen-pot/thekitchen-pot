@@ -42,8 +42,6 @@ Additionally, the best wood burning stoves are eco-friendly. As such, you’ll e
 
 If you want to alleviate the pain of paying humongous power bills, then you shouldn’t hesitate from buying the best wood burning stove. Here’s a comprehensive buying guide as well as a list of the best [wood burning stoves](https://en.wikipedia.org/wiki/Wood-burning_stove) to consider. 
 
-![Best wood burning stoves](images/portablegasgrill.jpg)
-
 ## Best Wood Burning Stoves – Comparison
 
 | Image | Name                                                                                                                 | Features                                                                                                                                                                                                                               |
