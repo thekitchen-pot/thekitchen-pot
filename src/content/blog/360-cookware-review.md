@@ -9,7 +9,7 @@ source: wordpress
 slug: 360-cookware-review
 pubDate: 2021-06-09
 modDate: 2025-02-20
-image: src/content/blog/images/Group_10_1512x.jpg
+image: ""
 category: Pans And Pots
 author: Boniface Muriuki
 authorImage: /images/authors/chris-thompson.png
