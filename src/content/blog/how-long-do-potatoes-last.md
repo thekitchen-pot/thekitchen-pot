@@ -5,14 +5,14 @@ excerpt: How Long Do Potatoes Last? Well, it depends but definitely longer than
 showTableOfContents: true
 authorId: kitchenpot1
 title: How Long Do Potatoes Last? Unique Storage Tips
-source: How To
+source: wordpress
 slug: how-long-do-potatoes-last
 pubDate: 2021-01-31
 modDate: 2025-02-13
-image: src/content/blog/images/how-long-do-potatoes-last-1020x510-1.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How Long Do Potatoes Last? Unique Storage Tips
 tags:
   - best-airtight-containers
@@ -33,7 +33,6 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 While potatoes are classified as perishable, they have a relatively longer shelf-life than most food substances.
 
 However, the longevity is mainly dependent on factors such as storage conditions and whether they are cooked or raw.
@@ -44,14 +43,12 @@ How long do potatoes last? Do potatoes go bad? How do I know whether potatoes ha
 
 If you’ve found yourself asking these questions but have never found an answer, then you’re in the right place. This evidence-based article provides solutions to all your questions. 
 
-![How long do potatoes last?](images/portablegasgrill.jpg)
-
 ## What is the Shelf-Life of Potatoes?
 
 [Potatoes](https://www.healthline.com/nutrition/how-long-do-potatoes-last) have a more extended life shelf than many fruits and vegetables. However, longevity is determined by the following main factors:
 
--   ***How are the potatoes stored?***
--   ***Are the potatoes cooked or raw?***
+* ***How are the potatoes stored?***
+* ***Are the potatoes cooked or raw?***
 
 These two factors directly affect the shelf-life of potatoes. For example, **potatoes stored in a warm moist place will go bad faster than potatoes stored in a cool**, dry place. 
 
@@ -74,8 +71,6 @@ But the question is whether the potatoes will keep fresh even after refrigeratio
 Well, refrigerating raw potatoes are almost always a bad idea. The cold environment will convert the potato starch into sugar. As a result, you’re going to get sugary potatoes, a taste that you’ll not like! 
 
 If you must refrigerate raw potatoes, then they will last for 2-4 weeks. However, you must be ready to keep up with the sugary taste of your potatoes. 
-
-![Can Raw Potatoes Be Refrigerated?](images/portablegasgrill.jpg)
 
 ### ***How to Store Peeled/ Cut Potatoes in the Refrigerator/Freezer***
 
@@ -111,8 +106,6 @@ A strong smell coming from either the inside or the outside of the potato is a s
 
 **Sprouting** 
 
-![How to Know Whether Potatoes Have Gone Bad](images/portablegasgrill.jpg)
-
 Is it safe to eat sprouting potatoes? In the initial stages of potato sprouting, you can consume them without a fuss. However, you should start making plans to exhaust your stock since it will go bad in a few days/weeks from the day of initial sprouting. 
 
 Always ensure that you remove the sprouts since they are unsafe for eating. They contain high levels of toxic [glycoalkaloids, solanine, and chaconine](https://en.wikipedia.org/wiki/Solanine). These chemical compounds can lead to headaches, diarrhea, and nausea.
@@ -135,10 +128,10 @@ Even when the food is still fresh, you must re-heat adequately (165°F) to destr
 
 ## Tips for Storing Potatoes 
 
--   Separate the sprout and cut potatoes from the fresh ones
--   Store the potatoes in a mesh bag, basket, cardboards, and other regions with enough ventilation. Avoid using plastic bags.
--   Store your potatoes in a dark place
--   Never wash your potatoes unless you’re ready to cook them.
+* Separate the sprout and cut potatoes from the fresh ones
+* Store the potatoes in a mesh bag, basket, cardboards, and other regions with enough ventilation. Avoid using plastic bags.
+* Store your potatoes in a dark place
+* Never wash your potatoes unless you’re ready to cook them.
 
 ## How Long Do Potatoes Last – The Bottom Line
 
@@ -148,22 +141,18 @@ As such, you should always be sure to store your potatoes well, thus ensuring th
 
 ## How Long Do Potatoes Last – Frequently Asked Questions
 
-1.  ### How do I tell when potatoes are bad?
-    
-    When potatoes go bad, they will develop an unusual odor and start sprouting. If they form a green patch on the skin, they are being subjected to too much light. In that case, you can remove the green patch and eat the rest of the potato. 
-    
-2.  ### How long does a bag of potatoes last?
-    
-    You should avoid storing your potatoes in a bag since the environment can become hot and moist, thus encouraging sprouting and going bad. Potatoes in a bag may last for four weeks, while those spread on a dark, cool, and dry place may go for several months.
-    
-3.  ### When should you throw your potatoes away?
-    
-    When your potatoes start producing a stench, then you should throw them away. Also, it would be best if you did not eat moldy and musty potatoes.
-    
-4.  ### Should you keep potatoes in a fridge?
-    
-    Avoid cooking raw potatoes in a fridge since they darken and become sugary. However, cooked potatoes can last in a refrigerator for 3-4 days before going bad.
-    
-5.  ### How long do honey gold potatoes last?
-    
-    The shelf-life of honey gold potatoes depends on the storage conditions. If you store them in a dry and cool environment, the potatoes will last for three months.
+1. ### How do I tell when potatoes are bad?
+
+   When potatoes go bad, they will develop an unusual odor and start sprouting. If they form a green patch on the skin, they are being subjected to too much light. In that case, you can remove the green patch and eat the rest of the potato. 
+2. ### How long does a bag of potatoes last?
+
+   You should avoid storing your potatoes in a bag since the environment can become hot and moist, thus encouraging sprouting and going bad. Potatoes in a bag may last for four weeks, while those spread on a dark, cool, and dry place may go for several months.
+3. ### When should you throw your potatoes away?
+
+   When your potatoes start producing a stench, then you should throw them away. Also, it would be best if you did not eat moldy and musty potatoes.
+4. ### Should you keep potatoes in a fridge?
+
+   Avoid cooking raw potatoes in a fridge since they darken and become sugary. However, cooked potatoes can last in a refrigerator for 3-4 days before going bad.
+5. ### How long do honey gold potatoes last?
+
+   The shelf-life of honey gold potatoes depends on the storage conditions. If you store them in a dry and cool environment, the potatoes will last for three months.
