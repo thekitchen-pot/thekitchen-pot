@@ -9,7 +9,7 @@ source: wordpress
 slug: 6-best-ductless-range-hood
 pubDate: 2020-07-14
 modDate: 2025-02-04
-image: src/content/blog/images/Best-ductless-range-hoods.jpg
+image: ""
 category: Kitchenware
 author: Boniface Muriuki
 authorImage: /images/authors/chris-thompson.png
