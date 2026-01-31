@@ -5,14 +5,14 @@ excerpt: How Long Does Chicken Last in the Fridge? Stop guessing—learn exactly
 showTableOfContents: true
 authorId: kitchenpot1
 title: How Long Does Chicken Last in the Fridge
-source: How To
+source: wordpress
 slug: how-long-does-chicken-last-in-the-fridge
 pubDate: 2020-10-28
 modDate: 2025-01-16
-image: src/content/blog/images/raw-chicken-in-fridge.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How Long Does Chicken Last in the Fridge
 tags:
   - best-airtight-containers
@@ -33,7 +33,6 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 When **[buying a fridge](https://thekitchenpot.com/blog/best-side-by-side-refrigerator//)**, you hope to reduce your visits to the market, right? But did you know that refrigerating food for longer than the recommended time can be a [health hazard](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)? 
 
 So, how long does chicken last in the fridge? Well, this depend on how well you store it.
@@ -41,8 +40,6 @@ So, how long does chicken last in the fridge? Well, this depend on how well you 
 Food is prone to attracting microbes, which can potentially lead to life-threatening food poisonous. As such, you should always be cautious to observe all food storage guidelines for guaranteed safety.
 
 This article looks at one of the staple meat in most homes – chicken. So how long is cooked chicken good in the fridge? What about the raw one? Read on to get a comprehensive answer to “how long does chicken last in the fridge”. 
-
-![How Long Does a Chicken Last in a Fridge ](images/portablegasgrill.jpg)
 
 ## **How Long Can Raw Chicken Last in the Fridge**
 
@@ -70,8 +67,8 @@ As earlier indicated, the primary goal of refrigerating your chicken is to preve
 
 To achieve this, you must ensure the following:
 
--   Low temperatures
--   Limited air supply
+* Low temperatures
+* Limited air supply
 
 At 35 degrees Fahrenheit, it’s difficult for microbes to thrive. It even becomes harder if you deny them any trace of oxygen. 
 
@@ -81,9 +78,9 @@ As such, your chicken will be stored in a vacuum, which will increase the time t
 
 Use the following simple steps to vacuum seal your chicken:
 
--   Fill your vacuum bag with your chicken
--   Fasten the bar sealer and turn on your vacuum sealer machine
--   Remove (it’s now sealed) it and store
+* Fill your vacuum bag with your chicken
+* Fasten the bar sealer and turn on your vacuum sealer machine
+* Remove (it’s now sealed) it and store
 
 ## **How Long Does a Chicken Last in a Freezer?**
 
