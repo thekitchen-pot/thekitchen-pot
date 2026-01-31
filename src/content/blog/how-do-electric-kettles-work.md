@@ -5,14 +5,14 @@ excerpt: Ever wondered how your kettle heats water so fast? We explain all the
 showTableOfContents: true
 authorId: kitchenpot1
 title: How Do Electric Kettles Work? Complete Guide
-source: How To
+source: wordpress
 slug: how-do-electric-kettles-work
 pubDate: 2022-10-03
 modDate: 2025-02-27
-image: src/content/blog/images/default-cover.jpg
+image: ""
 category: Kitchenware
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How Do Electric Kettles Work? Complete Guide
 tags:
   - Featured
@@ -30,12 +30,9 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-
 Owning an electric kettle is a must for any tea lover. This small appliance can quickly boil water on your countertop, making it the perfect tool for whipping up a hot cup of tea or coffee in minutes. But how do electric kettles work?
 
 Here is an elaborate guide on how to use an electric **[kettle](https://thekitchenpot.com/blog/best-tea-kettle-for-gas-stove//)** to get the best results.
-
-![How does an electric kettle work?](images/portablegasgrill.jpg)
 
 ## **What is an Electric Kettle?**
 
@@ -55,57 +52,53 @@ Additionally, some electric kettles often have a whistling feature. This is a sp
 
 Yes, electric kettles are safe to use. They have been designed with safety features that prevent injuries or accidents. However, it is important to read the instruction manual before using an electric kettle for the first time. This will ensure that you know how to use the appliance safely and effectively.
 
-![How to Use an electric kettle](images/portablegasgrill.jpg)
-
 ## **How to Use an Electric Kettle**
 
 Here is a guide on how to use an electric kettle:
 
-1\. Plug in the electric kettle and turn it on. Some kettles have a switch that needs to be turned on to heat the water.
+1. Plug in the electric kettle and turn it on. Some kettles have a switch that needs to be turned on to heat the water.
 
-2\. Fill the electric kettle with water. The water should not exceed the max line.
+2. Fill the electric kettle with water. The water should not exceed the max line.
 
-3\. Put a teacup or coffee mug under the spout.
+3. Put a teacup or coffee mug under the spout.
 
-4\. Select the desired temperature, if applicable.
+4. Select the desired temperature, if applicable.
 
-5\. Press the button to boil the water. The kettle will start boiling and the water will be dispensed into the teacup or coffee mug.
+5. Press the button to boil the water. The kettle will start boiling and the water will be dispensed into the teacup or coffee mug.
 
-6\. Once the water has boiled, the kettle will turn off automatically. Remove the teacup or coffee mug and enjoy your hot beverage!
+6. Once the water has boiled, the kettle will turn off automatically. Remove the teacup or coffee mug and enjoy your hot beverage!
 
 ## **How to Clean an Electric Kettle**
 
 **[Cleaning an electric](https://thekitchenpot.com/blog/how-to-clean-an-electric-kettle//)** kettle is a quick and easy process. Here are the steps:
 
-1\. Unplug the electric kettle and let it cool down.
+1. Unplug the electric kettle and let it cool down.
 
-2\. Fill the electric kettle with warm water and add a few drops of dish soap.
+2. Fill the electric kettle with warm water and add a few drops of dish soap.
 
-3\. Swish the water around to coat the inside of the kettle.
+3. Swish the water around to coat the inside of the kettle.
 
-4\. Let the water sit for a few minutes.
+4. Let the water sit for a few minutes.
 
-5\. Wipe the kettle out with a sponge or dishcloth to get rid of any leftover food particles or soap scum.
+5. Wipe the kettle out with a sponge or dishcloth to get rid of any leftover food particles or soap scum.
 
-6\. Fill the electric kettle with clean water and let it heat up again. This will help ensure that all of the soap is removed from the inside of the kettle.
+6. Fill the electric kettle with clean water and let it heat up again. This will help ensure that all of the soap is removed from the inside of the kettle.
 
-7\. Once the electric kettle has cooled down, unplug it and store it away.
-
-![](images/portablegasgrill.jpg)
+7. Once the electric kettle has cooled down, unplug it and store it away.
 
 ## **How to Choose an Electric Kettle**
 
 There are a few things to consider when choosing an electric kettle. Here are some factors to keep in mind:
 
-1\. **Capacity –** How much water does the electric kettle hold? This will help you determine how large of a batch you can make at once.
+1. **Capacity –** How much water does the electric kettle hold? This will help you determine how large of a batch you can make at once.
 
 2. **Temperature settings –** Does the electric kettle have a temperature control setting? This is important if you want to heat the water to a specific temperature for **[making tea or coffee](https://thekitchenpot.com/blog/how-to-use-mr-coffee-iced-tea-maker//)**.
 
-3\. **Automatic shut-off –** Does the electric kettle have an automatic shut-off feature? This is important for safety reasons.
+3. **Automatic shut-off –** Does the electric kettle have an automatic shut-off feature? This is important for safety reasons.
 
-4\. **Price –** How much does the electric kettle cost? This will help you determine your budget.
+4. **Price –** How much does the electric kettle cost? This will help you determine your budget.
 
-5\. **Design –** What type of design do you prefer? Electric kettles come in a variety of shapes and sizes. Choose the one that best suits your needs.
+5. **Design –** What type of design do you prefer? Electric kettles come in a variety of shapes and sizes. Choose the one that best suits your needs.
 
 Read More:
 
