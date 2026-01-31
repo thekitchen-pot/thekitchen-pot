@@ -5,14 +5,14 @@ excerpt: Why your dishwasher isn't cleaning? Follow our 5-step monthly
 showTableOfContents: true
 authorId: kitchenpot1
 title: How to Clean a Dishwasher in 5 Easy Steps - A Definitive Guide
-source: How To
+source: wordpress
 slug: how-to-clean-a-dishwasher
 pubDate: 2020-11-01
 modDate: 2025-01-22
-image: src/content/blog/images/How-to-clean-a-dishwasher.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
-authorImage: /images/authors/chris-thompson.png
+authorImage: ""
 coverAlt: How to Clean a Dishwasher in 5 Easy Steps - A Definitive Guide
 tags:
   - air-fryer
