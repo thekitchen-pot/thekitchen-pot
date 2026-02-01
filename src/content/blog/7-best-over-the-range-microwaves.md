@@ -37,24 +37,13 @@ The importance of over the range microwaves cannot be overemphasized. Unlike the
 
 Consequently, these must-have appliances will help you to have a well-organized kitchen, even when you have limited space. Everybody would want to work in an orderly kitchen, right?
 
-Well, you’ll achieve this by purchasing the best over the [range microwave](https://spectrum.ieee.org/a-brief-history-of-the-microwave-oven). Besides space convenience, it comes with enhanced functionalities. Yes! You can roast turkey, preheat, and even control it via a smartphone. Even better, over-the-range microwaves eliminate food odors from your kitchen.
+Well, you’ll achieve this by purchasing the best over the range microwave. Besides space convenience, it comes with enhanced functionalities. Yes! You can roast turkey, preheat, and even control it via a smartphone. Even better, over-the-range microwaves eliminate food odors from your kitchen.
 
 Looking at all the benefits associated with the over the range microwaves, it makes absolute sense to buy one, right?
 
 This article will guide you through every step of purchasing the best over the range microwaves. We’ll advise you on what to consider before settling for your ideal appliance.
 
-Even more impressive, we’ve compiled a well-researched list of the best [over-the-counter microwaves](https://thorkitchen.com/what-is-over-the-range-microwave/) and why you should get one of them. Read on for more. 
-
-## Best Over the Range Microwaves – Comparison
-
-| Image | Name                                                                      | Features                                                                                                                                                                                                                                                                                                                                                    |
-| ----- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | GE JVM3162RJSS 30” Over-the-Range Microwave Oven                          | \-Cabinet Width required 30"-Convenience cooking controls - Operating made quick and easy-Auto and time defrost: Defrosting times and power levels are programmed automatically or manually for optimal results-1.6 Cu. ft. capacity - 950 Watts (IEC-705 test procedure)-Turntable on/off - Controls turntable operation-Two-speed, 300-CFM venting system |
-|       | GE JNM3163DJBB OTR Microwave                                              | \-1.6 cu. ft. Capacity Over the Range Microwave with Convertible Venting-Microwave Settings-Defrost,Popcorn                                                                                                                                                                                                                                                 |
-|       | Sharp R-1514 over- the- Range Microwave                                   | \-1000-watt 1-1/2-cubic-foot microwave with 19 automatic settings-Large, 14-1/8-inch-diameter carousel turntable adds capacity and versatility-11 Smart and Easy sensor settings                                                                                                                                                                            |
-|       | Samsung ME 16K3000AS OTR                                                  | \-Stainless Steel-1000 watts-1.6 cubic feet capacity                                                                                                                                                                                                                                                                                                        |
-|       | Frigidaire FFMV1645TH OTR Microwave                                       | \-Width: 29.87 " X Height: 16.41" X Depth: 15.25"-1.6 cu. ft. Capacity, 220 CFM, 10 Power Levels, 1000 Cooking Watts-Interior LED Lighting and Cooktop LED LightingMulti-Stage Cooking, One-Touch Controls and Two Speed Ventilation.                                                                                                                       |
-|       | Frigidaire FGMV176NTF 1.7 Cu Ft. Stainless Steel over the Range Microwave | \-One-Touch Options-Sensor Cooking-Cooktop LED Lighting                                                                                                                                                                                                                                                                                                     |
+Even more impressive, we’ve compiled a well-researched list of the best over-the-counter microwaves and why you should get one of them. Read on for more. 
 
 ## **Over the Range Microwave: Description** 
 
@@ -68,7 +57,7 @@ Cubic feet is the measurement used to indicate the volume of the inside of the m
 
 ### **Definition of Convection** 
 
-[Convection](https://en.wikipedia.org/wiki/Convection_(heat_transfer)) phenomenon is the effect that as hotter air rises (because it’s less dense), cold air falls under gravity’s influence, causing a more efficient heat transfer.
+Convection phenomenon is the effect that as hotter air rises (because it’s less dense), cold air falls under gravity’s influence, causing a more efficient heat transfer.
 
 In a convection oven, you’ll be able to circulate the hot air around the cooking space, unlike other conventional ovens. This helps you to bake and roast your food without a hassle.
 
