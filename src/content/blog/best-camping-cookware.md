@@ -32,7 +32,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-If you like camping and hiking, you should ensure that you carry the best camping cookware to spice up your adventure. [Outdoor cooking](https://en.wikipedia.org/wiki/Outdoor_cooking) has a way of rejuvenating your spirits! 
+If you like camping and hiking, you should ensure that you carry the best camping cookware to spice up your adventure. Outdoor cooking has a way of rejuvenating your spirits! 
 
 However, it can become quite a challenge if you use the wrong cookware. Never let heavy, and unstackable cookware destroy your camping moods. 
 
@@ -50,7 +50,7 @@ As such, a cookware set is a must-have. However, you should ensure that it is su
 
 **Stackable**
 
-You should always ensure that your camping cookware is easy-to-carry. When you can [stack the pans and pots](https://thekitchenpot.com/blog/7-best-stackable-pots-and-pans//) together, it will reduce the space requirements, making it easy for them to fit in your camping bag. 
+You should always ensure that your camping cookware is easy-to-carry. When you can [stack the pans and pots](https://thekitchenpot.com/blog/6-best-stackable-pots-and-pans//) together, it will reduce the space requirements, making it easy for them to fit in your camping bag. 
 
 **Reliable** 
 
@@ -375,7 +375,7 @@ This is a lightweight cookware option with superior heat conductivity. However, 
 
 **Hard-Anodized Aluminum**
 
-Most camping cookware sets are made out of this material. The material undergoes [electrochemical reactions](https://www.thespruceeats.com/anodized-cookware-construction-1907920) to harden it and prevent any reaction with acidic foods. It’s lightweight, making the best for hikers. However, it is relatively expensive.
+Most camping cookware sets are made out of this material. The material undergoes electrochemical reactions to harden it and prevent any reaction with acidic foods. It’s lightweight, making the best for hikers. However, it is relatively expensive.
 
 **Titanium**
 
@@ -395,7 +395,7 @@ These are the best for preparing eggs, pasta, noodles, and other quick-fixes. Ho
 
 ## **Source of Fire**
 
-The source of your fire will determine the camping cookware you select. If you want to use charcoal and [open fire](https://www.jamieoliver.com/features/open-fire-cooking/), ensure that you carry pots and pans to support such fire.
+The source of your fire will determine the camping cookware you select. If you want to use charcoal and open fire, ensure that you carry pots and pans to support such fire.
 
 Most importantly, carrying a portable induction cooktop must always be accompanied by induction-ready cookware. Any cookware with a magnetic base will do.
 
