@@ -36,7 +36,7 @@ Being a baker can be quite an interesting career and hobby. As a professional ba
 
 From the weighing of the ingredients to kneading so you can form the gluten network to form the good structure of the dough, everything is just captivating. 
 
-However, no matter how strictly you follow the instructions in [bread making](https://www.tasteofhome.com/recipes/basic-homemade-bread/) and even ensure you knead your dough carefully, you still can’t achieve a loaf of bread with good volume without proofing.
+However, no matter how strictly you follow the instructions in bread making and even ensure you knead your dough carefully, you still can’t achieve a loaf of bread with good volume without proofing.
 
 And yes! This is where you require the best bread proofing basket. And maybe you’re wondering what is bread proofing? It is simply rising of the bread dough through a process called fermentation where the yeast can react with the sugars and salts to rise your dough.
 
@@ -60,16 +60,6 @@ There are various types of bannetons. I prefer cane baskets but there are other 
 * **Cane wicker bannetons**– wicker makes a suitable container as it allows the air to circulate the dough helping it to rise well. Cane baskets are durable and they also give your bread a beautiful pattern.
 * **Lined bannetons**– linen-lined proofing baskets are also a great selection when choosing a proofing basket.
 * **Plastic bannetons**– plastic bannetons are not the best as they are not durable and they also don’t give a beautiful shape.
-
-## Best Proofing Baskets – Comparison
-
-| Image | Name                                                                                             | Features                                                                                                                                                                                                                                                                  |
-| ----- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | 9 Inch Proofing Basket – Excellent WERTIOO Bread Proofing Basket                                 | \-The rattan is pure natural,free from dye and chemicals,Design with confortable and convenient-Smooth surface and no splinter, don't need to worry about hurting hands                                                                                                   |
-|       | Oval Bread Banneton Proofing Basket-10 Inch Baskets                                              | \-Holds 1.5 pounds of dough with 10 inch (D) x 3.5 inch (H) size bread bosses basket-Works well with any recipe involving Flour Water Salt and Yeast such as Lahey No Knead, Tartine Country, Glutenfree recipes                                                          |
-|       | Forsun 8.5” Round Banneton Brotform Bread Dough Proofing Rising Rattan Basket and Liner          | \-Perfect size 8.5"(D) x 3.5"(H)sourdough bread proofing basket bowl can holds 1.5 pounds of dough ,making you convenient to make different kinds of handmade bread recipe such as Lahey No Knead, Tartine Country and French Bread-ECO-friendly, Food-Safe and Non-toxic |
-|       | Fideco 10 Inch and 9 Inch Banneton Bread Proofing Basket Set- Best Premium Bread Proofing Basket | \-Safe for human body, free from chemicals and dyes-Come with 1 stainless steel bench scraper and 1 bread lame (equipped with 4 replaceable blades and protective cover), food grade stainless steel are safe for human body than plastic bread tools                     |
-|       | 10 Inch Premium Round Banneton Basket with Liner                                                 | \-Natural rattan, absolutely free from dye and free from chemicals-Carefully crafted to always expose smooth surface                                                                                                                                                      |
 
 ## **6 Best Bread Proofing Baskets**
 
@@ -232,7 +222,7 @@ And for credibility purposes, the proofing basket complies with German food, art
 
 ### **What Does a Bread Proofing Basket Do?** 
 
-[Proofing of bread](https://www.seriouseats.com/how-to-make-and-proof-bread-dough) in a banneton basket starts by dusting just a small amount of dusting flour inside the proofing basket. Then you slowly place tucked round dough ball in the center and cover it with a cloth.
+Proofing of bread in a banneton basket starts by dusting just a small amount of dusting flour inside the proofing basket. Then you slowly place tucked round dough ball in the center and cover it with a cloth.
 
 As your dough rises it gets support from the sides of the proofing basket and its soft texture and grain will take the nice shape of the banneton basket.
 
