@@ -38,7 +38,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 
 Do you love a touch of sophistication on your cookware? If yes, then you will love the All-Clad D3 cookware set. 
 
-[All-Clad](https://en.wikipedia.org/wiki/All-Clad) D3 pots and pans are constructed using two different materials: aluminum and stainless steel.
+All-Clad D3 pots and pans are constructed using two different materials: aluminum and stainless steel.
 
 Aluminum brings in its superb heat conductivity while stainless steel brings in its non-reactivity and induction-compatibility features, a combo for great cookware.
 
@@ -155,8 +155,6 @@ All the parts of the pans are metallic and designed to withstand harsh environme
 
 **Oven-Safe**
 
-![Is All-Clad Cookware Oven Safe?]()
-
 You can use the All-Clad pans in an oven without any fear. Its versatility makes them ideal for baking, searing, sautéing, browning, braising, boiling among other kitchen uses. 
 
 The **[All-Clad Dutch oven](https://www.amazon.com/All-Clad-Copper-Dishwasher-Cookware-5-5-Quart/dp/B00005AL1N?tag=kitchenpot-20)** is even effective in baking bread! Yes, you will easily bake your favorite cakes, roast a chicken, or roast a brisket using the cookware. 
@@ -197,7 +195,7 @@ Overall, this cookware scores excellently on performance and durability. On clea
 
 No, all clad D3 is tri-ply while All-Clad D5 has 5 layers. The D3 comprises an aluminum layer sandwiched by two stainless steel layers. On the other hand, the D5 consists of 3 stainless steel layers and two sandwiched aluminum layers.
 
-### Does All-Clad offer a lifetime warranty on all its cookware?u003cbru003e
+### Does All-Clad offer a lifetime warranty on all its cookware?
 
 Yes, All-Clad offers a limited lifetime warranty on its cookware. The warranty covers all manufacturing defects and exempts all defects occasioned by careless handling.u003cbru003e
 
