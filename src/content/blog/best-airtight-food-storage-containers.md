@@ -290,63 +290,11 @@ Lately, most plastics available in the market are microwave and dishwasher safe.
 
 Acrylic is a strong, transparent, and stiff material used in making different forms of storage containers. It has glass-like properties but weighs half the weight of the glass. Acrylic food storage containers are ideal if you need a transparent and lightweight storage options.
 
-## **Acrylic vs. Plastic vs. Glass Airtight Food Storage Containers**
-
-Feature
-
-Airtight Acrylic Canisters
-
-Glass Storage Containers
-
-Plastic Storage Containers
-
-Strength
-
-Moderate
-
-Strongest
-
-Least
-
-Health
-
-Moderate (go for BPA Free Acrylic Canisters). Also, avoid using them in a microwave
-
-100% BPA and plasticizers free
-
-Risk of BPA
-
-Shatter
-
-Moderate chance of shattering
-
-High shattering possibility in case of a fall
-
-Least chance of shattering
-
-Scratch resistant
-
-Moderate
-
-Yes
-
-No
-
-Durability
-
-Moderate Durable
-
-Most Durable
-
-Least Durable
-
-Overall, acrylic airtight food storage containers offers the best convenience. They are lightweight and have all the features that you can get with glass airtight containers.
-
 ## **Benefits of Owning the Best Airtight Food Containers**
 
 * **Prevent Contamination**
 
-Airtight food storage containers keep you and your family safe from diseases and infections by [preventing harmful microbes from accessing your food during storage](https://www.betterhealth.vic.gov.au/health/healthyliving/food-safety-and-storage).
+Airtight food storage containers keep you and your family safe from diseases and infections by preventing harmful microbes from accessing your food during storage.
 
 If you leave your food uncovered, contamination of food by bacteria or microbes in the environment may occur, thus causing foodborne diseases.
 
