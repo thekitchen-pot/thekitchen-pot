@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-You’ve found a unique recipe that you want to try out, and [coconut milk](https://en.wikipedia.org/wiki/Coconut_milk) is one of the main ingredients you require. You’ve run out of it or you are allergic to coconut. 
+You’ve found a unique recipe that you want to try out, and coconut milk is one of the main ingredients you require. You’ve run out of it or you are allergic to coconut. 
 
 So, what do you use instead of coconut milk?
 
@@ -141,7 +141,7 @@ It is rich in protein and fat and is ideal for baking. Additionally, it can act 
 
 ## Coconut Milk Substitute – The Bottom Line 
 
-[Coconut milk](https://www.bbcgoodfood.com/howto/guide/ingredient-focus-coconut-milk) is a common ingredient when making soups, curries, and smoothies. It is also used when baking.
+Coconut milk is a common ingredient when making soups, curries, and smoothies. It is also used when baking.
 
 However, it is possible that you do not have coconut milk in your house or you are allergic to it. In such a case, you should never hesitate to use a coconut milk substitute since they offer similar or better taste in your smoothies.
 
