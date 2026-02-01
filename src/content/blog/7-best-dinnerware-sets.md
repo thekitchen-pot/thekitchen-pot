@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 If you ask any top-notch chef, they’ll tell you that the most crucial part of feeding your guests is not cooking delicious meals. Yes, you read that right! 
 
-While cooking scrumptious meals is part of the package, how you present it contributes to your family’s happiness significantly. One of the best ways to enhance your presentation skills is by purchasing the best [dinnerware](https://en.wikipedia.org/wiki/Plate_(dishware)) sets.
+While cooking scrumptious meals is part of the package, how you present it contributes to your family’s happiness significantly. One of the best ways to enhance your presentation skills is by purchasing the best dinnerware sets.
 
 The set has several items that will ensure that you have enough space to arrange different types of meals without mixing them unnecessarily. 
 
@@ -53,7 +53,7 @@ Here are some of the materials used:
 
 * **Bone China**
 
-This is one of the most [durable materials](https://en.wikipedia.org/wiki/Bone_china) used in the construction of dinnerware sets. It is prepared by adding bone ass to porcelain bone ash to ordinary porcelain. 
+This is one of the most durable materials used in the construction of dinnerware sets. It is prepared by adding bone ass to porcelain bone ash to ordinary porcelain. 
 
 The resulting material is lightweight, milky white, and slightly translucent glamor. It offers a luminous glaze that is superbly aesthetic!
 
@@ -63,7 +63,7 @@ As such, you should always read the instructions exhaustively before you settle 
 
 * **Porcelain** 
 
-This is a common [materia](https://www.southernliving.com/home/what-is-porcelain)l used in the construction of various cookware equipment. It is relatively affordable than bone china. 
+This is a common material used in the construction of various cookware equipment. It is relatively affordable than bone china. 
 
 It features a non-porous surface that offers significant durability and ease of cleaning (most of these dishes are dishwasher safe). You can also use porcelain dinnerware sets in a microwave with no worry. 
 
@@ -83,7 +83,7 @@ Due to their delicate nature, you should only buy a stoneware dinnerware set if 
 
 * **Vitrified Glass**
 
-This is a glass that has been [heated](https://en.wikipedia.org/wiki/Vitrification) using ultra-high temperature to achieve an opaque appearance. The material is super durable and difficult to break!
+This is a glass that has been heated using ultra-high temperature to achieve an opaque appearance. The material is super durable and difficult to break!
 
 However, you should ensure that it does not fall on a hard surface. In such a case, it’ll likely break. 
 
