@@ -35,7 +35,7 @@ Are you aware that your kitchen is the most used space in your home? Near full p
 
 Heaps of unsuited lids and containers can overflow from your cupboard, and paper plates can get stuffed in your storeroom alongside bags of bread and big boxes of cereal.
 
-Well, you don’t need to worry anymore, your best [lazy Susan kitchen](https://en.wikipedia.org/wiki/Lazy_Susan) organizers got you covered. And yes! Lazy Susan kitchen organizers are one the greatest ways to save space in your kitchen.
+Well, you don’t need to worry anymore, your best lazy Susan kitchen organizers got you covered. And yes! Lazy Susan kitchen organizers are one the greatest ways to save space in your kitchen.
 
 Additionally, you can use your best lazy Susan organizer if your family is condiments crazy. You can always grab this turntable and place it on your dining table. With that, everyone can pick and enjoy what they prefer.
 
@@ -45,19 +45,9 @@ This article will focus on 8 best lazy Susan kitchen organizers that will keep y
 
 A lazy Susan is a rotating tray that is set on the table and placed on a workbench or a table so that it helps in the distribution of condiments or food.
 
-The best [lazy Susan](https://www.housebeautiful.com/lifestyle/organizing-tips/g3320/lazy-susan-organization-ideas/) comes in circular shapes are constructed from different materials. The construction materials include plastic, glass, and wood.
+The best lazy Susan comes in circular shapes are constructed from different materials. The construction materials include plastic, glass, and wood.
 
 Besides having the [best dinnerware set](https://thekitchenpot.com/blog/7-best-dinnerware-sets//), lazy Susan is the other great technique to ensure that your visitors enjoy their meals on the dinner table. They also help in ensuring that you have a neat kitchen, thus an easy time preparing your meals.
-
-## **Best Lazy Susan Organizers- Comparison**
-
-| Image | Name                                                                                        | Features                                                                                                                                                                                                                                                                                                            | Price             |
-| ----- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-|       | Sagler 2 Tier Lazy Susan Turntable                                                          | \-Storage cabinets and pantry storage 360-degree Turntable-Made of durable stainless with brush surface prevent to make finger print-Great for condiments, napkins, spices, food, candles and more                                                                                                                  | View Amazon Price |
-|       | Imex Premium Kidney Shaped Lazy Susan Chrome Corner Organizer (Wire Susan 32” Kidney Shape) | \-Independently rotating kidney-shaped shelves-Features durable 1” chrome plated diameter shaft system with independent rotating hardware-Telescoping shaft \[9-1/4” (235 mm) upper & 22-1/2” (572 mm) lower] to accommodate 26” - 32” (661-813 mm) inner cabinet height-Features chrome hubs and mounting hardware | View Amazon Price |
-|       | Home Intuition Tier Twin Turntable Non-Skid Lazy Susan                                      | \-Measures 10 inch Diameter x 6.25 inch Height-360-degree spinning wheel provide smooth and silent turning effortlessly for all-angle access-Smart rimmed edge prevents items from slipping off the edge; any drips stay on the lazy susan as well as off your shelves-gray non skid surface                        | View Amazon Price |
-|       | Value Line 2 Shelf Lazy Susan with Independent Rotation                                     | \-Durable-Easy to reach your products                                                                                                                                                                                                                                                                               | View Amazon Price |
-|       | InterDesign Linus Lazy Susan Cabinet Turntable                                              | \- Products are easy to see and reach – white tray measures 14.5" diameter x 1.75".- Turntable revolves effortlessly – features durable stainless steel ball bearings.-Perfect for spices in the pantry, jars in the refrigerator or even cosmetics on the vanity                                                   | View Amazon Price |
 
 ## **8 Best Lazy Susan Organizers for Your Kitchen**
 
