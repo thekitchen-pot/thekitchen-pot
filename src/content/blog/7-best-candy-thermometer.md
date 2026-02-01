@@ -56,16 +56,6 @@ A candy thermometer is also known as a cooking thermometer, a sugar thermometer,
 
 A candy thermometer can also be defined as a thermometer designed for use specifically to ascertain the temperature of a cooking mixture of sugar and water.
 
-## **Best Candy Thermometers – Comparison** 
-
-| Image | Name                                                  | Features                                                                                                                                                                                                                                                                                             |
-| ----- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Oxo Good-Grips Glass Candy Thermometer                | \-Glass thermometer is offset to allow for large, easy-to-read graphics-Easy-to-read graphics include temperature ranges for different candy types-Measurement markings indicate temperature within two degrees in F and C                                                                           |
-|       | Polder THM-515 Candy /Jelly and Deep Fry Thermometer  | \-6 temperature zones-Insulated Handle-Pot Clip Attachment-TEMPERATURE RANGES in Celsius and Fahrenheit – 90°F to 400°F (30°C to 200°C). Great for making candy melting chocolate, yogurts, creams sauces, jams, deep frying and more.-DISHWASHER SAFE Rust-resistant stainless steel, top rack only |
-|       | Defull Hanging Hook/Pot Clip Candy Thermometer        | \-Temperature ranges in Celsius (40°C to 200°C) and Fahrenheit (100°F to 400°F).-Rust-proof stainless steel solid construction, pot clip attachment holds thermometer in place, insulated handled does not retain heat.-Dishwasher safe                                                              |
-|       | Habor Instant Read Digital Cooking, Candy Thermometer | \-4-6 seconds ultra fast response time with accuracy of ±1℃-he temp Range is -58℉ to 572℉-detect the core temp of meat; perfect for huge turkey, chicken, bread making, jam making, chocolate making, barbecue, hot water, hot milk, and even bath water                                             |
-|       | Digital Candy Thermometer CDN DTC450                  | \-Digital candy thermometer--essential tool for making your favorite sweets-Large easy-to-read display with temperature range of 40 to 450 degrees F-Dual progress display; preprogrammed and programmable; auto-off-Adjustable stainless steel clip; pocket clip; temperature guide on sheath       |
-
 ## **7 Best Candy Thermometers**
 
 ### **1. [Oxo Good-Grips Glass Candy Thermometer](https://www.amazon.com/OXO-Grips-Glass-Candy-Thermometer/dp/B00L9X2RZS?tag=kitchenpot-20)**
