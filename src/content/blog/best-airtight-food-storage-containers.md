@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Are you having trouble maintaining your food items as fresh as you bought them? Or have you had your cookies go soft and [tasteless](https://www.yuppiechef.com/spatula/common-cookie-problems-and-how-to-avoid-them/) just because you left them exposed in the open air? 
+Are you having trouble maintaining your food items as fresh as you bought them? Or have you had your cookies go soft and tasteless just because you left them exposed in the open air? 
 
 As a professional baker, I must admit that I enjoy my biscuits and cookies while they’re fresh and crunchy. But how do I achieve this? 
 
@@ -67,16 +67,6 @@ To get the ideal results from your best airtight food storage containers, you mu
 * Use moisture-detecting crystals. After adding the crystals into the container, ensure that you seal it entirely. Dip it in water for 2 minutes. If it leaks, the crystals will change from blue to pink. If they remain blue, then your container is airtight.
 
 Whichever method you choose, just ensure that you confirm the status of your lids and whether they can keep moisture and air at bay. If you detect any defect, you should consult the manufacturer/supplier immediately for a replacement (if the warranty provides for it).
-
-## **Best Airtight Food Storage Containers – Comparison** 
-
-| Image | Name                                                            | Features                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|       | Dwellza Kitchen Airtight Food Storage Containers with Lids      | \-Includes 6 small air tight containter that are all the same size. Each one has a 1-liter capacity (0.9 QT/ 4.2 cups/ 0.26 gallons), measures 5.2” L x 3.8” W x 6.25” H, great for kitchen organization and storage-Beautiful black lids and a clear body-No dealing with tainted flavors                                                                                                             |
-|       | Oggi 9322 5-Piece Acrylic Canister Set with Airtight Clamp Lids | \-Airtight lid with silicone gaskets to help preserve stored food items-Includes 1 each: 65 oz., 51 oz., 2-26 oz. & 22 oz.-Care and cleaning: Wipe clean with a damp cloth                                                                                                                                                                                                                             |
-|       | Rubbermaid Brilliance Food Storage Container, 14-Piece Set      | \-100 percent leak proof, airtight food storage containers feature crystal clear, BPA free triton plastic that offers 360 degree clarity, and helps keep food fresh and secure- Built in vents under the latches that allow splatter resistant microwave reheating with the lid on-Set includes two 0.5 Cup, two 1.3 Cup, two 3.2 Cup, and one 9.6 Cup containers, plus lids, for a total of 14 pieces |
-|       | Zepolli Air-Tight Food Storage Container                        | \-Liquid-friendly-Lid-lock mechanism-Easy to clean                                                                                                                                                                                                                                                                                                                                                     |
-|       | Bellemain 4 Piece Airtight Acrylic Canister Set                 | \- Include a silicone gasket and a clamp to ensure a tight fit every time-BPA free                                                                                                                                                                                                                                                                                                                     |
 
 ## **6 Best Airtight Food Storage Containers**
 
