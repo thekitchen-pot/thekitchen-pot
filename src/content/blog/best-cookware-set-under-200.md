@@ -88,8 +88,6 @@ Cuisinart 14 Piece Chef's Classic Non-Stick Hard Anodized Cookware Set
 
 [Check Price](https://www.amazon.com/Cuisinart-66-14N-Non-Stick-Anodized-Cookware/dp/B01IO776JS/?tag=kitchenpot-20)
 
-.wpdt-fs-000016 { font-size: 16px !important;} .wpdt-ff-000001 { font-family: Georgia, serif !important;}
-
 ## 10 **Best Cookware Set Under $200 Reviews** 
 
 ### **1. [Ninja Foodi NeverStick Premium Hard-Anodized 8-Piece Cookware Set](https://www.amazon.com/Ninja-C38000-NeverStick-Hard-Anodized-Cookware/dp/B08C1FFSBD/?tag=kitchenpot-20)**
@@ -202,7 +200,7 @@ Its triple-coating ensures that you won’t have to worry about scratches or war
 
 Induction compatibility also creates a versatile product that will meet all your needs by working across many surfaces including gas stovetops as well as electric ranges.
 
-What’s most important is its **[space-saving nature!](https://thekitchenpot.com/blog/7-best-stackable-pots-and-pans//)** The stacking system ensures that you can save on space while also taking up less room in your cabinet.
+What’s most important is its **[space-saving nature!](https://thekitchenpot.com/blog/6-best-stackable-pots-and-pans//)** The stacking system ensures that you can save on space while also taking up less room in your cabinet.
 
 It includes a 3.5-quart saucepan with lid, 8.5 inches frying pan, 10 inches fry pan with lid, 2.75-quart saucepan with lid, 3.5-quart fry basket, and 5.35-quart stockpot with lid.
 
