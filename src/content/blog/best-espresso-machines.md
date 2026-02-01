@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Are you among the majority that believes that the best [espresso machines](https://en.wikipedia.org/wiki/Espresso_machine) are a reserve of cafes and restaurants?
+Are you among the majority that believes that the best espresso machines are a reserve of cafes and restaurants?
 
 Well, let me surprise you:
 
@@ -45,17 +45,6 @@ An espresso machine is just what you need to make irresistible shots of espresso
 We’ve undertaken extensive research just to ensure that you get the best espresso machines in the market. Even better, we’ve incorporated several espresso machines under $200!
 
 Yes! You don’t have to break your bank to own an effective espresso machine. Read on to get a reliable buying guide. 
-
-## Best Espresso Machines – Comparison
-
-| Image | Name                                        | Features                                                                                                                                        |
-| ----- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Mr. Coffee Espresso Machine (Cafe’ Barista) | \-Material Stainless Steel-Wattage 1040 watts-Item Weight 10.4 Pounds                                                                           |
-|       | KRUPS EA8250 Espresso                       | \-Fully automatic 1450-watt espresso/coffee machine-Water tank capacity 1.8 L- intuitive LCD screen-Steam nozzle; 60-ounce removable water tank |
-|       | Breville BES870XL Barista                   | \-Material Steel-Capacity 1 cups-Voltage 120-Wattage 1600 watts                                                                                 |
-|       | DeLonghi EC702 Espresso Maker               | \-Model Name 15 bar Pump-Material Stainless Steel-Voltage 120 volts-Wattage 1100 watts-Item Weight 11.5 Pounds                                  |
-|       | Klarstein Passionata 20 Espresso Maker      | \-Easy Foam-removable water tank holds a volume of 1.3 qt. - enough water for 6 cups of coffee-                                                 |
-|       | Nespresso pixie Espresso Maker              | \-Material Aluminum-Item Weight 7.7 Pounds-Voice command Buttons-Model C60-US-TI-NE-Item Dimensions L x W x H 12.83 x 4.33 x 9.25 inches        |
 
 ## **Why You Should Have the Best Espresso Machine in Your Kitchen** 
 
@@ -71,7 +60,7 @@ You’ll not only enjoy the flexibility of making the beverage whenever you want
 
 Yes! It’s economical to make espresso at home. 
 
-You’ll be surprised at how much you save monthly after you stop taking [espresso](https://www.wikihow.com/Make-an-Espresso-%28Espresso-Machine-Coffee%29) from your favorite coffee shop and start making it at home. 
+You’ll be surprised at how much you save monthly after you stop taking espresso from your favorite coffee shop and start making it at home. 
 
 ### **Benefits of Owning the Best Espresso Machine**
 
@@ -205,7 +194,7 @@ If you want to froth your espresso, then you can turn on the machine’s manual 
 
 The DeLonghi EC702 Espresso Maker comes with a superb 44-ounce capacity supplemented by a 1.3 Liter removable water tank. As such, you can be sure that this espresso under $200 is ideal for any family size. 
 
-> ***When using the DeLonghi EC702 Espresso Maker, avoid temperatures that go below the freezing point (0 degree Celsius). The extreme temperatures can destroy it.***
+> **When using the DeLonghi EC702 Espresso Maker, avoid temperatures that go below the freezing point (0 degree Celsius). The extreme temperatures can destroy it.**
 
 **Pros**
 
@@ -281,7 +270,7 @@ Additionally, this espresso machine under $200 has unique back light indicators 
 
 Buying the best espresso machine is a step in the right direction. This is especially important if you don’t have a [coffee machine with a grinder](https://thekitchenpot.com/blog/best-coffee-maker-with-a-grinder//)! It will revolutionize your coffee brewing experience and save you time! 
 
-However, selecting the best [espresso machines](https://www.wikihow.com/Choose-an-Espresso-Machine) can be hectic. This is worse when you do not have the slightest idea of what you should consider when shopping.
+However, selecting the best espresso machines can be hectic. This is worse when you do not have the slightest idea of what you should consider when shopping.
 
 If you’ve found yourself in such shopping difficulties, then you shouldn’t worry! This article will outline the factors you should consider before settling for your best espresso machine.
 
@@ -317,7 +306,7 @@ On the contrary, it wouldn’t be necessary to have an overly big espresso machi
 
 * **Ease of Cleaning**
 
-How easy is it to [clean your best espresso machine](https://www.wikihow.com/Clean-an-Espresso-Machine)? These machines require constant and vigorous cleaning exercises. As such, getting an espresso machine with an easy cleaning procedure will be a plus for you. 
+How easy is it to clean your best espresso machine? These machines require constant and vigorous cleaning exercises. As such, getting an espresso machine with an easy cleaning procedure will be a plus for you. 
 
 * **Pressure Levels**
 
