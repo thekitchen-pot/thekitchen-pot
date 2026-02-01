@@ -34,8 +34,6 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-![All-Clad Copper Core Cookware Set ]()
-
 How much can you spend on a cookware set? Well, All-Clad has a cookware set that will set you back over $1000. But is it worth it?
 
 All-Clad Copper Core Cookware Set is heavy and durable. It comes with pots and pans that will last a lifetime, no doubt about that. 
@@ -78,7 +76,7 @@ Silver
 
 ## All-Clad Copper Core Cookware Construction 
 
-[All-Clad](https://en.wikipedia.org/wiki/All-Clad) pans are manufactured in the United State’s Pennsylvania region. The company has been in operation since 1972, mastering the art of manufacturing state-of-the-art cookware using high-quality materials. 
+All-Clad pans are manufactured in the United State’s Pennsylvania region. The company has been in operation since 1972, mastering the art of manufacturing state-of-the-art cookware using high-quality materials. 
 
 The use of a unique cladding construction technology (comprising several bonded metal layers) makes the cookware unique and relatively expensive. 
 
@@ -114,7 +112,7 @@ All All-Clad cookware sets are hand-crafted and checked at different stages for 
 
 The cookware is made out of high-quality stainless steel, aluminum, and copper arranged interchangeably in cladded layers. Here’s why this construction is necessary:
 
-* **Stainless Steel.** This [18/10 stainless steel layer](https://americankitchencookware.com/cookware-blog/understanding-1810-stainless-steel) is strategically placed on the inner and outer layers. It is heavier than aluminum and thus **holds heat for longer**. Additionally, the stainless steel layer is magnetic enough to allow the **use of induction hobs for cooking**. The material is also **corrosion-resistant** and easy to clean.
+* **Stainless Steel.** This 18/10 stainless steel layer is strategically placed on the inner and outer layers. It is heavier than aluminum and thus **holds heat for longer**. Additionally, the stainless steel layer is magnetic enough to allow the **use of induction hobs for cooking**. The material is also **corrosion-resistant** and easy to clean.
 * **Aluminum.** This metal is placed in the inner layers to improve heat conductivity. Compared to stainless steel, aluminum **offers better heat conductivity**. What’s even better is the fact that the **aluminum layer is light**, and thus will not add too much weight to the pans. The layer guarantees even heating. 
 * **Copper.** These pans come with a thick copper core. This layer strengthens the pans to ensure reliably responsiveness and offers **warp-free strength**. Additionally, copper is an exceptionally **good conductor of heat.** 
 
@@ -175,7 +173,7 @@ The three sets can also come together with a copper bonded frying pan, kitchen t
 
 All-Clad cookware sets are designed uniquely using cladding technology. This construction technique ensures that the different layers of metal are on both the sides and the bottom of the cookware.
 
-As such, you can be sure of uniform heat distribution and enhanced efficacy. It comes with a royal design complete with an [All-Clad logo](https://commons.wikimedia.org/wiki/File:All-Clad-Logo.svg) making them aesthetically appealing.
+As such, you can be sure of uniform heat distribution and enhanced efficacy. It comes with a royal design complete with an All-Clad logo making them aesthetically appealing.
 
 These 5-ply pans are quite heavy. They weigh approximately 9 pounds. Some users have complained that the weight is too much, making cleaning a bit hectic. However, we found cleaning the pans an average task and the small downside wouldn’t water down its benefits. 
 
