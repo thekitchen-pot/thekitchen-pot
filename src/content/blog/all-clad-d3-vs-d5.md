@@ -9,7 +9,7 @@ source: wordpress
 slug: all-clad-d3-vs-d5
 pubDate: 2021-03-16
 modDate: 2025-02-26
-image: src/content/blog/images/all-clad-d3-vs-d5-vs-d7.png
+image: ""
 category: Kitchenware
 author: Boniface Muriuki
 authorImage: ""
@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Owning an All-Clad cookware set is the ultimate desire of every cooking enthusiast. The pans and pots are crafted using [multi-ply technology](https://blog.metrokitchen.com/guides/tri-ply-clad-cookware-differences/) that ensures **superb heat conductivity, uniform heat distribution, and an overall ergonomic design.**
+Owning an All-Clad cookware set is the ultimate desire of every cooking enthusiast. The pans and pots are crafted using multi-ply technology that ensures **superb heat conductivity, uniform heat distribution, and an overall ergonomic design.**
 
 However, shopping for All-Clad pots and pans can be tricky. If you’ve been searching for a set, you must have come across the terms **[All-Clad D3](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E?tag=kitchenpot-20)** and **[All-Clad D5](https://www.amazon.com/All-Clad-BD005710-R-Stainless-Dishwasher-Cookware/dp/B006ZNCMBQ/?tag=kitchenpot-20)**. So, what’s the difference between the two constructions?
 
@@ -140,7 +140,7 @@ All-Clad D3 and All-Clad D5 cookware sets have a lot in common. Generally speaki
 
 The **cooking surface** of both All-Clad D3 and All-Clad D5 is made out of sturdy **18/10 stainless steel (chromium to nickel ratio).** 
 
-On the other hand, the **exterior surface** is made out of **[18/0 stainless steel](https://www.publickitchensupply.com/p-8653-stainless-steel-1810-vs-188-vs-180.aspx)** (this variation lacks nickel) which is induction-ready. 
+On the other hand, the **exterior surface** is made out of **18/0 stainless steel** (this variation lacks nickel) which is induction-ready. 
 
 Between the outer and inner layers is a bonded aluminum core (for All-Clad D3) or two aluminum layers (for All-Clad D5).
 
