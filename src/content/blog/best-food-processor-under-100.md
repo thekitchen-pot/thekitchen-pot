@@ -41,21 +41,11 @@ But one thing which scares people away is the price! Most people find the machin
 
 No need to tire yourself anymore by probing all over the market for an affordable appliance. This article will guide you through the best food processor under $100.
 
-We’ve heedfully analyzed the best [food processo](https://en.wikipedia.org/wiki/Food_processor)r under $100 and included the advantages and disadvantages of each product reviewed. This way, you can be sure that you’ll make a suitable choice of the best food processor.
-
-## Best Food Processor – Comparison
-
-| Image | Name                                | Features                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ----- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|       | Hamilton Beach 70725A 12-cup        | \-A Powerful 450 Watt Motor and 2 Speeds Plus Pulse-12 Cup Capacity: Sealed Bowl Helps Prevent Leaks When Mixing Liquids; Dimensions (Inches) 16.25 H X 9.55 W X 8.76 D; BPA Free in All Food Zones-Stainless Steel Blades: S Blade and Reversible Slice/Shred Disc Chop, Slice, Shred, MIX and Puree Just About AnythingLarge Feed Chute: Big Mouth Feed Chute Fits Whole Foods for Quick, Easy Processing and Less Prep Time |
-|       | Ninja Food Processor (QB900B)       | \-Frozen blending and perfect, even chopping-Anti spill splash guard, easy flip pour spout, and no slip base; 2 cup processor minces, dices, chops, blends and purees-Includes: 400 watt power pod, 48 ounce Pitcher, stacked blade assembly, pitcher splash guard, 16 ounce Chopper bowl, chopping blade assembly, chopper splash guard                                                                                       |
-|       | Cuisinart DLC-4CHB-4                | \-Mini food processor with 4-cup capacity work bowl . Cord length : 36 Inches                                                                                                                                                                                                                                                                                                                                                  |
-|       | Chef’s Best KitchenAid KFP0711ER    | \-Two speeds and Pulse-Simple, one-touch operation3.5 cup BPA-free work bowl with pour spout, handle and locking blade-Drizzle basin-Compact and lightweight                                                                                                                                                                                                                                                                   |
-|       | Black + Decker 8-Cup Food Processor | \-Stainless Steel Chopping Blade, Slicer, Shredder8-Cup Work Bowl - Plent of room to work with-Food Chute with Pusher - Helps guide food towards the slicing/shredding disk while the processor is going, for consistent results-Dishwasher-Safe -Removable Parts-Safety Interlocking System - Blades operate only when the lid is securely attached to the bowl                                                               |
+We’ve heedfully analyzed the best food processor under $100 and included the advantages and disadvantages of each product reviewed. This way, you can be sure that you’ll make a suitable choice of the best food processor.
 
 ## **Best Food Processor: Definition** 
 
-A [food processor](https://www.wikihow.com/Use-a-Food-Processor) is an electric appliance with interchangeable blades within a closed container. They are designed to enable you to insert food for shredding, mincing, slicing, chopping, pureeing, or processing at high speeds.
+A food processor is an electric appliance with interchangeable blades within a closed container. They are designed to enable you to insert food for shredding, mincing, slicing, chopping, pureeing, or processing at high speeds.
 
 While food processors have many similarities with [blenders](https://thekitchenpot.com/blog/best-blender-for-protein-shakes//), they differ significantly. For example, a food processor requires no liquid when in use. This way, you can process hard food items, thus making it more diverse and flexible than the blenders.
 
@@ -226,7 +216,7 @@ In this section, we’ll analyze everything that you need to consider when shopp
 
 ## **Best Food Processor Under $ 100- Why You Should Own One**
 
-The best [food processor](https://www.womanandhome.com/life/homes/how-to-use-a-food-processor-a-step-by-step-guide-386938/) is one of the most [amazing kitchen appliances](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy//) to own. You may be wondering why?
+The best food processor is one of the most [amazing kitchen appliances](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy//) to own. You may be wondering why?
 
 Well, the appliance saves you time and energy since you’ll get rid of many preparations of ingredients before you cook your food. 
 
