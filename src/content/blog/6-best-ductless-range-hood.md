@@ -34,21 +34,27 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   cookware for various recipes..
 ---
 If you have been considering getting a range hood, but you cannot vent it outdoors because of ductwork restrictions in your kitchen, then you might just have a new best friend: a ductless range
-hood. Also called recirculating hoods or non-vented hoods, they work by pulling in air, filtering out the grease, smoke, and odors and returning the filtered air back into your kitchen. 
+hood. 
+
+Also called recirculating hoods or non-vented hoods, they work by pulling in air, filtering out the grease, smoke, and odors and returning the filtered air back into your kitchen. 
 
 So, how do they really work?
 
-Essentially, air is extracted into the hood by a fan located inside the hood. Think of the extraction process as similar to the fan you may have in your bathroom. The air passes through a **grease filter** (typically aluminum mesh or stainless steel baffles), that captures airborne particles of grease. The filtered air then continues through the **activated charcoal filters** that eliminate odors and smoke. Lastly, the filtered air is returned back to the kitchen space.
+Essentially, air is extracted into the hood by a fan located inside the hood. 
 
-With ductless range hoods, there are no ducts. No outside venting. Just cleaner indoor air.
+Think of the extraction process as similar to the fan you may have in your bathroom. 
 
-Sounds great, right?
+The air passes through a **grease filter** (typically aluminum mesh or stainless steel baffles), that captures airborne particles of grease. The filtered air then continues through the **activated charcoal filters** that eliminate odors and smoke. Lastly, the filtered air is returned back to the kitchen space.
 
-But like any fantastic invention, it has its caveats. One major plus is **installation is very easy**. You can mount it on your wall, under a cabinet or on your ceiling if you want to get fancy. There is no ductwork and labor from a contractor involved, so it’s perfect for renters, for small homeowners or even for food truck operators.
+With ductless range hoods, there are no ducts. No outside venting. Just cleaner indoor air, making **installation very easy**. 
 
-Even though they do not fully remove moisture and heat (like the **ducted versions do**), the **latest models of ductless hoods** are quite effective, when equipped with **high capacity fans** and high quality filters, at controlling moisture, heat, and odor. In fact, many of the newest models come with **multi-layer filtration** with **multiple, adjustable speeds**, which increase effectiveness.
+You can mount it on your wall, under a cabinet or on your ceiling if you want to get fancy.  You can do it yourself, so it’s perfect for renters, for small homeowners or even for food truck operators.
 
-What's the catch? Depending on your cooking frequency, you will need to replace the charcoal filters every 3 to 6 months, and they may not be as effective at removing smoke and odor from high-output cooking (such as frying) as ducted models are.  
+Even though they do not fully remove moisture and heat (like the **ducted versions do**), the **latest models of ductless hoods** are quite effective, when equipped with **high capacity fans** and high quality filters. In fact, many of the newest models come with **multi-layer filtration** with **multiple, adjustable speeds**, which increase effectiveness.
+
+What's the catch though? 
+
+Depending on your cooking frequency, you will need to replace the charcoal filters every 3 to 6 months, and they may not be as effective at removing smoke and odor from high-output cooking (such as frying) as ducted models are.  
 
 But if you’re cooking in a condo, apartment, or a kitchen that doesn’t have access to an external vent, a ductless hood can be a huge solution.
 
