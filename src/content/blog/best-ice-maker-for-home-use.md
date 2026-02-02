@@ -32,7 +32,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-If you are in constant need of ice, then you should invest in the best [ice maker](https://en.wikipedia.org/wiki/Icemaker) for home use. The machine will make fresh ice cubes, which will revolutionize how you take your beverages.
+If you are in constant need of ice, then you should invest in the best ice maker for home use. The machine will make fresh ice cubes, which will revolutionize how you take your beverages.
 
 While most [**refrigerator**s](https://thekitchenpot.com/blog/best-mini-fridge-for-beer//) come with built-in ice makers, they can never be efficient as a dedicated ice maker for home use.
 
@@ -43,16 +43,6 @@ Additionally, you should be cautious about the capacity and size of each type. T
 An ice maker truly is one of those machines that you never knew you needed until you had it.
 
 In this article, we’ve put together handy information that explains how it works and with that, you won’t have sleepless nights on choosing the best ice maker for home use.
-
-## Best Ice Maker for Home Use – Comparison
-
-| Image | Name                                                                    | Features                                                                                                                                                                                                                                         |                                                                                                                                                                                                                             |
-| ----- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | IKICH Electric Ice Maker- Best Countertop Ice Maker                     | \-low noise level, fast cooling effect and low consumption with powerful compressor, high quality copper aluminum fin condenser and 21g R600a refrigerant-Measures just 8. 7 x 12. 3 x 12. 6 inches-IKICH offers 2-year and 45-day return policy |                                                                                                                                                                                                                             |
-|       | Frigidaire EFIC 102- Award Winning Ice Maker                            | \-Produce 26 Pounds of Ice Per Day - and Ice in as Little as 6 Minutes-Makes Ice in 2 Different Sizes-Digital LED Control Panel-2.3 Quart Water Reservoir Capacity                                                                               |                                                                                                                                                                                                                             |
-|       | GE Profile Opal                                                         | Countertop Nugget Ice Maker                                                                                                                                                                                                                      | \-No water hookup required, just plug it into any 120v grounded (standard) electrical outlet and fill the reservoir with water-The Opal produces 24 lbs. of ice per day-The bin holds 3 lbs-Built-In Bluetooth Connectivity |
-|       | Igloo ICEB26WH Automatic Portable Electric Countertop Ice Maker Machine | \-Produce 26 pounds of ice in a 24 hour-Water tank capACity : 3 quarts- Ice basket capACity: stores up to 2 pounds of ice at a time-Quick freezing ice: makes 9 small or large cylinder shaped ice cubes in as little as 7 minutes               |                                                                                                                                                                                                                             |
-|       | NewAir Portable Ice Maker 28 lb. Daily                                  | \-2 light indicators - ice full and water empty-It's cost-effective-It has low noise operation                                                                                                                                                   |                                                                                                                                                                                                                             |
 
 ## Best Ice Maker for Home Use: What Is It?
 
@@ -239,11 +229,11 @@ Another amazing attribute of this modular ice machine is that it has a high prod
 
 You can purchase this for use either indoors or outdoors depending on its overall model.
 
-This type of ice maker does not [require installation](https://www.wikihow.com/Install-an-Ice-Maker) and it’s free-standing. It’s created to fit well in lower cabinets, which is perfect for you if you can’t seem to keep ice in your automatic freezer tray.
+This type of ice maker does not require installation and it’s free-standing. It’s created to fit well in lower cabinets, which is perfect for you if you can’t seem to keep ice in your automatic freezer tray.
 
 3. **Portable Ice Makers Vs. Under Counter Ice Makers**
 
-The [two types of ice makers](https://learn.compactappliance.com/undercounter-vs-portable-ice-makers/) have distinct similarities and differences. As such, you should always evaluate the features of each before settling for your best ice maker for home use.
+The two types of ice makers have distinct similarities and differences. As such, you should always evaluate the features of each before settling for your best ice maker for home use.
 
 To help in the buying exercise, we will expound more on some of the pros and cons of the two types of ice makers.
 
@@ -267,7 +257,7 @@ As discussed in the article, portable ice makers are more convenient for home us
 
 **Under Counter Ice Makers**
 
-These ice makers [require installation](https://en.wikipedia.org/wiki/Icemaker). However, you’ll be guaranteed of unmatched efficacy if you use them appropriately.
+These ice makers require installation. However, you’ll be guaranteed of unmatched efficacy if you use them appropriately.
 
 **Advantages of Under Counter Ice Makers**
 
