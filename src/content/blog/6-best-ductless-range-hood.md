@@ -52,6 +52,10 @@ What's the catch? Depending on your cooking frequency, you will need to replace 
 
 But if you’re cooking in a condo, apartment, or a kitchen that doesn’t have access to an external vent, a ductless hood can be a huge solution.
 
+## **Quick Guide - Our Top Picks** 
+
+
+
 ## **Do Ductless Range Hoods Actually Work?**
 
 Let's be honest here: when someone asks, "Do ductless range hoods really work?" there is usually a degree of skepticism. And it is no wonder why! You want to make sure you are not buying a pretty decoration for the kitchen, but something that will help clean the air.
@@ -333,7 +337,7 @@ Check if the filter can be replaced without tools. Bonus points for models with 
 
 **Top Picks:**
 
-**1.Cosmo 5U30 Under-Cabinet Hood**
+### **1.[Cosmo 5U30 Under-Cabinet Hood](https://www.amazon.com/COS-5MU30-Ductless-Convertible-Reusable-Stainless/dp/B0DC21QMN9?tag=kitchenpot-20)**
 
 * **Airflow:** 250 CFM
 * **Highlights:** Dual fan motors, slim profile, aluminum mesh + charcoal filter
@@ -548,36 +552,7 @@ Just remember:
 
 A good ductless range hood won’t just remove smoke—it’ll make your kitchen fresher, cleaner, and more enjoyable to be in.
 
-## 6 Best Ductless Range Hoods – Comparison
 
-| Image | Name                                    | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ----- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Broan Aluminum Power Pack Range Hood    | \-centrifugal blower of 250CFM-comes with a 7-inch round duct which comprises a damper and adapter                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|       | Cosmo 63175 Ducted/Ductless Range Hood  | \-80 CFM removes smells and odors with ease for a clean kitchen. Only 65dB max noise level. Ducted range hood vents outside and away from your home.- Made of premium 430 grade, 20-Gauge thickness easy to clean brushed stainless steel-The energy-efficient, 2-watt LEDs are long-lasting and provide bright, high lumen lighting for better visibility at night                                                                                                                                                                           |
-|       | Broan 413004 Series Ductless Range Hood | \-provide 390 CFM of exhaust at 6.0 Sones for a reliable performance each use-The enclosed lighting area is home to dual incandescent 40-watt candelabra bulbs (sold separately)-One-piece, washable aluminum mesh filter means you can maintain optimum grease capture and keep the kitchen fresh                                                                                                                                                                                                                                            |
-|       | Cosmo 5MU30 Under Cabinet Range Hood    | \-3 speed motor, 56dB max. Cosmo’s vent hood filters your kitchen without the loudness and sounds of competing range hoods. Electrical Requirements: 120V, 3 Prong Plug-Durable reusable aluminum mesh filters included to trap grease and oil. Multi-layer filters trap grease more effectively. Uses 5-inch round duct for exhaust vent.. HVAC tape required for installation.-Product Dimensions: 29.75 x 19.75 x 5.5 inches                                                                                                               |
-|       | Cosmo QS75 Ducted/Ductless Range Hood   | \-Featuring 500 CFM airflow, backlit touchscreen, 4-speed fan and twin centrifugal motors; Quickly ventilate your kitchen without the noise of competing range hoods; Optional Carbon Filter Kit for ductless- Stainless Steel Permanent Filters are dishwasher-safe and extremely durable. Range hood can be used ductless with optional Carbon Filter Kit-Made of premium 430 grade, 18-Gauge thick stainless steel-energy-efficient, 1.5-watt LEDs are long-lasting and provide bright, high lumen lighting for better visibility at night |
-|       | Cosmo UMC30 Ductless Range Hood         | \-3-speed fan and touch controls, Cosmo’s under cabinet range hood quickly ventilates your kitchen reducing contaminants, grease, and odors with low noise levels. Ductless Carbon Filter Kit available-Made of premium 430 grade, 20-Gauge thickness stainless steel-energy-efficient, 2-watt LEDs are long-lasting and provide bright, high lumen LED lighting for better visibility at night                                                                                                                                               |
-
-## **What Are the Best Ductless Range Hoods?** 
-
-The best ductless range hoods are non-ducted hoods which recirculate air, rather than extracting it. Re-circulation enhances the air quality in the cooking perimeter by purifying and redistributing it around the stove area. 
-
-They recycle the air by sucking it using a fan of all the harmful pollutant agents.
-
-As compared to exhaust hoods, which emits air out, the ductless hood cleans the impure air into degreasing filters, followed by charcoal carbon filters, and then remitting the air back to the room. 
-
-Why is the best ductless range hood the right appliance for your kitchen?
-
-It’s because it is inexpensive and saves a lot of time and effort due to its lack of a ventilation ductwork system. This saves and creates a lot of kitchen space since you don’t need to sacrifice space for the air duct that comes with the ventilation system. 
-
-Therefore, let’s look at some of the best ductless range hood we have at the market; 
-
-1. Broan Aluminum Power Pack Range Hood 
-2. Cosmo 63190 Ducted/Ductless Range HoodBroan 413004 Series Ductless Range Hood 
-3. Cosmo 5MU30 Under Cabinet Range Hood
-4. Cosmo QS75 Ducted/Ductless Range Hood
-5. Cosmo UMC30 Ductless Range Hood 
 
 ## **Top 6 Best** **Ductless Range Hoods**
 
