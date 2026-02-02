@@ -339,13 +339,13 @@ Check if the filter can be replaced without tools. Bonus points for models with 
 
 ### **1.[Cosmo 5U30 Under-Cabinet Hood](https://www.amazon.com/COS-5MU30-Ductless-Convertible-Reusable-Stainless/dp/B0DC21QMN9?tag=kitchenpot-20)**
 
-* **Airflow:** 250 CFM
+* **Airflow:** 110 CFM
 * **Highlights:** Dual fan motors, slim profile, aluminum mesh + charcoal filter
-* **Why It’s Great:** Budget-friendly, easy to install, and comes with a reliable charcoal filtration system.
+* **Why It’s Great:** Budget-friendly, easy to install, and comes with a reliable charcoal filtration system. **Not ideal for a busy kitchen.**
 
-**2.Hauslane Chef Series WM-538**
+**2.[Hauslane Chef Series WM-538](https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B0G6GF4MT7?tag=kitchenpot-20)**
 
-* **Airflow:** 860 CFM
+* **Airflow:** 400 CFM - best for a busy kitchen.
 * **Highlights:** Heavy-duty charcoal filters, washable stainless-steel baffle filters
 * **Why It’s Great:** Designed for heavy cooking; filters both smoke and smell effectively.
 
