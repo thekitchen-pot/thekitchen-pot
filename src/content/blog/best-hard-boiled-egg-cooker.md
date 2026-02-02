@@ -33,24 +33,9 @@ Are you wondering how to cook best hard boiled eggs? Well, the best hard boiled 
 
 With this appliance, you can be sure that it’ll offer peace of mind. You’ll never again worry about overcooking eggs or taking too much time before getting enough eggs ready for breakfast. 
 
-However, you must only get the best [hard boiled egg](https://en.wikipedia.org/wiki/Boiled_egg) cooker to get the best out of it. If you have no idea what to consider when buying, then you shouldn’t worry!
+However, you must only get the best hard boiled egg cooker to get the best out of it. If you have no idea what to consider when buying, then you shouldn’t worry!
 
-This article details all the factors that you should consider when selecting your best hard boiled egg cooker. Even better, it lists the best 10 [hard cooked egg cookers](https://www.seriouseats.com/the-secrets-to-peeling-hard-boiled-eggs) for your consideration. 
-
-## Best Hard Boiled Egg Cooker
-
-| Image | Name                                                   | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | KRUPS F23070 Hard Boiled Egg Cooker                    | \-removable egg holder cooks up to 7 eggs at a time-Ideal for hard-boiled, soft-boiled, or poached eggs and omelets-Removable egg holder to cool eggs easily                                                                                                                                                                                                                                                                                                           |
-|       | Elite Platinum Maxi-Matic EGC-207                      | \-One year warranty-Cook up to 7 eggs in soft, medium, or hard boiled firmness-Dishwasher Safe Removable Parts                                                                                                                                                                                                                                                                                                                                                         |
-|       | Maxi Matic Elite-Cuisine EGC-007                       | \-Cook up to 7 eggs in soft, medium, or hard boiled firmness- lifetime warranty-ress the power button once and within minutes your eggs will be "Egg-Celent                                                                                                                                                                                                                                                                                                            |
-|       | Dash DEC012AQ Rapid Egg Cooker                         | \-Simply choose your preferred eggs (or steamed food) and set the timer-Hard boiled eggs, soft boiled eggs, poached eggs, scrambled eggs, and individual omelets, all within minutes of the push start button - it couldn’t be easier!- includes a poaching tray, omelet bowl, egg holder trays, measuring cup, recipe book and recipe database access (all non-electric parts are dishwasher safe)                                                                    |
-|       | Cuisinart CEC 10-Egg central Cooker                    | \-Cooks 10 eggs in shells to a hard, medium or soft consistency with the 600-watt heater-Poaching tray with 4-egg capacity and omelet tray with 3-egg capacity-Brushed stainless steel lid; blue LED indicator, audible alert and standby mode-Built-in cord storage for easy cleanup. MC Cubic Feet is 0.60                                                                                                                                                           |
-|       | Flexzion Electric Poacher Maker Steamer and Egg Cooker | \-It can boil 7 eggs at once, allowing to make omelets as well as poached and scrambled eggs-Easy-to-use & Auto Power Off-It includes an omelet tray, measuring cup, and 7 egg holder tray. The Removable egg holder allows the eggs to easily and quickly cool off                                                                                                                                                                                                    |
-|       | SimpleTaste Large Steamer                              | \-7 Eggs Capacity-Auto-off functionality along with over-temperature & low water protection ensure safe use-Not only steam eggs to hard-boiled perfection, but use the included BPA-free bowl to poach your eggs and steam vegetables and other food items-Easy to clean                                                                                                                                                                                               |
-|       | Medelon Egg Cooker and, Egg Boiler                     | \-High quality stainless steel with advanced auto-off functionality-single One-Touch Power Button-2 Year 100% Satisfaction Guarantee-Adjustable tenderness                                                                                                                                                                                                                                                                                                             |
-|       | Chefman Egg Boiler/Cooker, And Rapid Egg Maker         | \-Easily boil, poach, or steam up to 6 eggs in minutes, faster than stovetop method-BPA-Free lid, cooking and poaching trays are top rack dishwasher safe for easy cleaning-Not only can you steam eggs to hard-boiled perfection or create tender poached eggs, but you can also steam a variety of vegetables, making this an even more versatile kitchen tool for breakfast, lunch, dinner, and snack time                                                          |
-|       | VonShef Egg cooker and Poacher Sauce Pan               | \-Poach 4 eggs at once with the premium aluminum 2 in 1 removable poaching tray and saucepan from VonShef-Poacher pan comes with cool touch, ergonomically designed cast steel handle with a soft-grip silicone wrap for strength, comfort and durability-Use on electric, gas, halogen and induction hobs – remove the frame and egg cups to us as a saucepan-Made from quality 3.5mm aluminum with interior non-stick coating and attractive high-gloss black finish |
+This article details all the factors that you should consider when selecting your best hard boiled egg cooker. Even better, it lists the best 10 hard cooked egg cookers for your consideration. 
 
 ## Best Hard Boiled Egg Cooker
 
@@ -292,7 +277,7 @@ Furthermore, the pan has handles made of strong steel and comes with silicone co
 
 ## **Best Hard Boiled Egg Cooker – Buyers Guide**
 
-If you want to buy the best [hard boiled egg cooker](https://www.loveandlemons.com/how-to-make-hard-boiled-eggs/), you should consider several factors to ensure that you get optimal functionality. 
+If you want to buy the best hard boiled egg cooker, you should consider several factors to ensure that you get optimal functionality. 
 
 Here are some of the factors to consider when buying one:
 
@@ -324,7 +309,7 @@ If your best hard boiled egg cooker has safe handles and steam vents, then you c
 
 ## **Best Hard Boiled Egg Cooker – Bottom Line**
 
-Buying the [best hard boiled egg](https://www.wikihow.com/Use-an-Egg-Poacher) cooker is the best decision you’ll ever make! It simplifies your egg cooking and makes your family happier.
+Buying the best hard boiled egg cooker is the best decision you’ll ever make! It simplifies your egg cooking and makes your family happier.
 
 However, you should be careful when purchasing the egg cooker. Ensure that you get all the features necessary in boosting its efficacy. 
 
