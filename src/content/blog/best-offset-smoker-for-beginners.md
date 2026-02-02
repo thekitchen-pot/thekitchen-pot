@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Do you desire to make the tastiest BBQ for your family but you’re new to the game? Well, it all starts by owning the **[best offset smoker for beginners](https://shareasale.com/r.cfm?b=1450846&u=2750617&m=93090&urllink=&afftrack=)**!
+Do you desire to make the tastiest BBQ for your family but you’re new to the game? Well, it all starts by owning the **best offset smoker for beginners**!
 
 These simple yet effective smokers use ordinary charcoal and wood chips to achieve uniquely tasty meat. It allows you to grill your meat while regulating the temperature like a pro. 
 
@@ -45,7 +45,7 @@ If you find it difficult to select your best offset smoker for beginners, then w
 
 ## **What is an Offset Smoker**?
 
-An [offset smoker](https://www.smokedbbqsource.com/how-to-use-an-offset-smoker/) is a simple BBQ equipment that uses charcoal or wood chips. It is also called an offset barrel smoker, horizontal smoker, or a stick burner. 
+An offset smoker is a simple BBQ equipment that uses charcoal or wood chips. It is also called an offset barrel smoker, horizontal smoker, or a stick burner. 
 
 Your best offset smoker for beginners should have a large chamber where you can place your food when cooking. This chamber appears like a metal box and can come in different shapes depending on the manufacturer. 
 
@@ -55,23 +55,13 @@ It also has an intake damper and an exhaust vent. The intake supplies the fire w
 
 If you want to increase the intensity of the fire, you can open up the intake vent to allow in more oxygen. Closing it reduces the fire, thus enabling you to control the temperature. 
 
-## **Best Offset Smoker for Beginners – Comparison**
-
-| Product Image | Product Name                                                           | Product Features                                                                                                                                                                                                                                                                                                                                                          |
-| ------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|               | Z-Grill Series for Beginners                                           | \-Basic Series, 600 series, 700 Series, and 1000 series- Comes with a PID controller- Come with a hopper view window                                                                                                                                                                                                                                                      |
-|               | Dyna-Glo DGO1176BDC-D Vertical Offset Charcoal Smoker                  | \-784 square Inch of total smoking area; 1176 square inches of total cooking space with 25-pounds capacity per grate.-Porcelain-enameled steel charcoal chamber is designed to keep briquettes stacked tightly for improved burn efficiency-Smoke stack features an adjustable flue for additional flavor and temperature control-Built-in, stainless steel thermometer   |
-|               | Char-Broil 12201570-A1 American Gourmet Offset Smoker, Black, Standard | \-Combination Offset Smoker, BBQ & Charcoal Grill-290 square inch cooking surface in main chamber-140 sq. in. cooking surface in firebox chamber-Adjustable height steel fire grate                                                                                                                                                                                       |
-|               | Royal Gourmet CC1830F Charcoal Grill with Offset Smoker, Black         | \-Stainless Steel construction-Total 800 sq inches cooking surface, 438 sq inches of main chamber, 1/4” diameter porcelain steel cooking grates; 179 sq inches for chrome warming rack; offset smoker provides extra 183 sq inches cooking area with porcelain steel cooking grates-Heavy duty lid, with professional thermometer, big stack and cool-touch spring handle |
-|               | Dyna-Glo DGO1176BDC-D Vertical Offset Charcoal Smoker                  | \-784 square Inch of total smoking area; 1176 square inches of total cooking space with 25-pounds capacity per grate-Charcoal & ash management system with the charcoal chamber, grate, and sliding, removable steel ash pan                                                                                                                                              |
-
 ## **Best Offset Smoker for Beginners** 
 
-### 1. [Z-Grill Series](https://shareasale.com/r.cfm?b=1450846&u=2750617&m=93090&urllink=&afftrack=) – the Ultimate Smoker for a Beginner
+### 1. Z-Grill Series – the Ultimate Smoker for a Beginner
 
-[Check Latest Price from Z Grills](https://shareasale.com/r.cfm?b=1450846&u=2750617&m=93090&urllink=&afftrack=)
+Check Latest Price from Z Grills
 
-Z-Grill comes in different series ranging from **[Basic Series](https://shrsl.com/2yv4y)**, **[600 series](https://shrsl.com/2yv54)**, **[700 Series](https://shrsl.com/2yv50)**, and **[1000 series.](https://shrsl.com/2yv51)** Z series is a leader producer of grills and smokers that are not only efficient but also stylish.
+Z-Grill comes in different series ranging from **Basic Series**, **600 series**, **700 Series**, and **1000 series.** Z series is a leader producer of grills and smokers that are not only efficient but also stylish.
 
 The basic series would be the most ideal one of beginners. The model comes with a PID controller that helps in maintaining a steady temperature throughout the grilling process. It helps you to keep your temperature within a range of 5 degrees F for consistent results.
 
@@ -244,11 +234,11 @@ When the wood chip starts burning, you need to start monitoring the temperature.
 
 Once you’ve achieved the desired temperature( 225°F to 250°F), you can now reduce the opening of the fire chamber and adjust the chimney to be half-open. This helps to retain a relatively steady temperature, ideal for cooking.
 
-Place your meat on the grates and continue [smoking](https://en.wikipedia.org/wiki/Smoking_(cooking)) them until you achieve a soft and tasty BBQ. Always use your digital thermometer to monitor the meat’s temperature (including the innermost parts).
+Place your meat on the grates and continue smoking them until you achieve a soft and tasty BBQ. Always use your digital thermometer to monitor the meat’s temperature (including the innermost parts).
 
 ### **Offset Smoker Fire Management** 
 
-For a beginner, [managing fire](https://www.thebarbecuelab.com/offset-smoker-fire-management/) for an offset smoker can be tricky. It requires that you be keen on how you open and close the chimney and air inlets. However, this guide will make the process relatively easier for you:
+For a beginner, managing fire for an offset smoker can be tricky. It requires that you be keen on how you open and close the chimney and air inlets. However, this guide will make the process relatively easier for you:
 
 * **Check Your Wood Chips Regularly.** You should check/ add your wood chips after every one hour. However, this will depend on the capacity of your best offset smoker for beginners. 
 * **Monitor Your Temperature.** Always ensure that you regularly check your temperature readings. If it starts going down drastically, you should consider adding wood chips. Additionally, excessively white smoke on the chimney could signal a problem in the firebox. 
@@ -319,7 +309,7 @@ Some of the common problems associated with cheap smokers include:
 
 Considering that your best offset smoker is a lifetime investment, price should be the least of your factors to consider. 
 
-***If you want a [gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//) or an [ordinary gas grill](https://thekitchenpot.com/blog/best-gas-grills-under-500//), then here is a detailed guide.*** 
+**If you want a [gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//) or an [ordinary gas grill](https://thekitchenpot.com/blog/best-gas-grills-under-500//), then here is a detailed guide.** 
 
 ## **Best Offset Smoker for Beginners -The Bottom Line**
 
