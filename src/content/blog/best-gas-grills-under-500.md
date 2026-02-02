@@ -39,21 +39,11 @@ We’ve sifted through various gas grill options and compiled a list of the 8 Be
 
 Whether you’re a seasoned BBQ pro or just getting started, these budget-friendly grills promise a perfect blend of affordability and performance.
 
-## Best Gas Grills Under $500
-
-| Image                                                                                         | Name                                                                                          | Features                                                                                                               |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Weber 46510001 Spirit E310 Liquid Propane Gas Grill, Black                                    | Weber 46510001 Spirit E310 Liquid Propane Gas Grill, Black                                    | \-30,000 BTUs-measures 27 inches thick, 52 inches wide, and 44.5 inches high -10-year warranty                         |
-| Kenmore PG-40409SOLB Outdoor Patio 4 Burner Gas BBQ Propane Grill With Side Burner in , Black | Kenmore PG-40409SOLB Outdoor Patio 4 Burner Gas BBQ Propane Grill With Side Burner in , Black | \-13,000 BTU Side Burner-54.1 inches wide, 46.4 inches high, and 23.3 inches thick-made of stainless steel             |
-| Fuego Professional F24C                                                                       | Fuego Professional F24C                                                                       | \-Dual Burner System-26,500 BTUs.-elivers a 9-inch clearance away from the grill grates to the upper part of the cover |
-| Monument Grills 35633                                                                         | 3. Cuisinart CGG-7400 Full Size Gas Grill, Four-Burner                                        | \-Unique Blue LED Light Powered by AA Battery-Electronic Ignition-304 stainless steel burners                          |
-|                                                                                               | Weber 50060001 Q1000 Liquid Propane Grill, Chrome                                             | \-8500 BTU- per hour spread through its expansive 189 square-inch total cooking area                                   |
-
 ## **8 Best Gas Grills Under 500**
 
 ### **[Blackstone 36 Inch Cooking Station](https://www.amazon.com/Blackstone-Outdoor-Grill-Griddle-Station/dp/B00DYN0438?tag=kitchenpot-20)**
 
-This bad boy is a great all-rounder, offering plenty of cooking space and professional-grade features. With four adjustable burners giving you precise temperature control and an easy-to-clean [griddle surface](https://en.wikipedia.org/wiki/Griddle), this grill will be the star of your next cookout.
+This bad boy is a great all-rounder, offering plenty of cooking space and professional-grade features. With four adjustable burners giving you precise temperature control and an easy-to-clean griddle surface, this grill will be the star of your next cookout.
 
 Its powder-coated steel construction gives it a rugged and durable look, while the side shelf provides extra space for food prep. Its folding legs make it easy to transport or store away.
 
