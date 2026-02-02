@@ -55,19 +55,9 @@ Infrared grills help you to attain a better sear, this is due to the high temper
 
 Why would I spend my money on a simple infrared grill you may ask?
 
- Well, owning an infrared grill will help you to [cook faster](https://home.howstuffworks.com/infrared-grill.htm) than you can imagine, you’ll also be able to cook food that tastes better, and even achieve steakhouse quality searing.
+ Well, owning an infrared grill will help you to cook faster than you can imagine, you’ll also be able to cook food that tastes better, and even achieve steakhouse quality searing.
 
 And that’s not all, with an infrared grill, you can preheat at high temperatures for as little as 3-5 minutes, allowing you to start grilling in no time. An infrared grill is also energy efficient.
-
-## Best Infrared Grills for the Money – Comparison
-
-| Image | Name                                                                        | Features                                                                                                                                                                                                                                                                                                                         |
-| ----- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Char-Broil 463370719 Performance TRU-Infrared 3-Burner Cart Style Gas Grill | \-Exclusive stainless steel finish for increased style and durability-TRU-Infrared cooking technology prevents flare-ups, delivers even-heat and cooks juicier food-Reliable push-to-start electronic ignition-450-square-inches of primary cooking space is great for most cookouts                                             |
-|       | Char-Broil Grill2Go X200 Portable Infrared Liquid Propane Gas Grill         | \-Cast aluminum firebox and lid with dual stainless steel latches and temp gauge-High-impact frame with legs and carry handles-No flare-up TRU-Infrared cooking system-200 square inch stainless steel grilling grate                                                                                                            |
-|       | Magma Products Newport 2 Infrared Gourmet Series Gas Grill                  | \-Constructed of 100% 18-9 marine grade mirror polished stainless steel Full double lined lower shell Hermetically sealed thermometer-Uses standard 1 lb. disposable propane canisters or adapts to on-board LPG or CNG systems-New electronic ignition Infrared radiant screens                                                 |
-|       | Char-Broil The Big Easy TRU-Infrared Grill                                  | \-TRU-Infrared technology cooks food evenly and juicy with no flare-ups-Evenly cook turkey, ribs, roast, or other cuts of meat in the roasting basket-Holds up to 25 lbs for roasting and has 180 square inches of cooking area for grilling-Use the smoker box for added flavor; temperature control from 9,000 to 18,000 BTU's |
-|       | Solaire Sol-EV17A Everywhere Portable Infrared Grill                        | \-140 square inches of grilling area that fits six 4-inch burgers on special v-grate-Real infrared ceramic and stainless steel burner with electronic push-button ignition-                                                                                                                                                      |
 
 ## **7 Best Infrared Grills for the Money**
 
@@ -267,11 +257,11 @@ And that’s not all, the heat of the appliance doesn’t have to be adjusted as
 * Its grilling space is not spacious
 * The infrared light is too bright for the eyes
 
-***If you’d want the [best gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//), then here’s a comprehensive guide.*** 
+**If you’d want the [best gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//), then here’s a comprehensive guide.** 
 
 ## **Best Infrared Grills for the Money- Buying Guide**
 
-If you’re looking for the best infrared grills for the money, you should ensure that you only buy that which fulfills all your needs. To achieve this, you should [consider factors](https://outdoorcookingpros.com/blogs/news/infrared-grills-vs-gas-grills) such as ease of maintenance, portability, size, and efficacy among others.
+If you’re looking for the best infrared grills for the money, you should ensure that you only buy that which fulfills all your needs. To achieve this, you should consider factors such as ease of maintenance, portability, size, and efficacy among others.
 
 This section guides you through all the details that you need to know when buying the best infrared grills for the money. Is it a worthy investment for your kitchen? Find out here.
 
@@ -310,7 +300,7 @@ If you’ll be cooking for a large group of people, then you should consider one
 
 We all enjoy moist, tender-cooked BBQ meats, and delicious burgers. And we hope that this article will guide you on the best infrared grills for the money that will help you to attain this.
 
-With your [infrared grill](https://www.consumerreports.org/cro/news/2011/05/q-a-are-there-any-advantages-to-an-infrared-grill/index.htm), you’ll be able to easily produce a juicy, mouthwatering flavor when you grill, even if you’re not very skillful in cooking.
+With your infrared grill, you’ll be able to easily produce a juicy, mouthwatering flavor when you grill, even if you’re not very skillful in cooking.
 
 And aside from saving you time, infrared grills use up less energy and gas. This will allow you to save up a few coins in your pockets.
 
