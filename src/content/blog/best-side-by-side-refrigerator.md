@@ -33,11 +33,11 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-When you mention a [refrigerator](https://en.wikipedia.org/wiki/Refrigerator), what first comes to your mind are the big names like the top freezers, French doors which show all the glory. But you shouldn’t ignore the best side by side refrigerator.
+When you mention a refrigerator, what first comes to your mind are the big names like the top freezers, French doors which show all the glory. But you shouldn’t ignore the best side by side refrigerator.
 
 Each type of refrigerator has its advantages. The best side by side refrigerators save you space by placing the freezer next to the fridge compartment.
 
-While the best [side by side refrigerators](https://www.pcrichard.com/what-are-the-different-types-of-refrigerators/Blog-9377.html) aren’t as grand as French doors, they come with unique features like through-the-door ice dispensers.
+While the best side by side refrigerators aren’t as grand as French doors, they come with unique features like through-the-door ice dispensers.
 
 The appliance is well tested for storage flexibility, temperature consistency, and humidity retention. The three features help to determine how long your fridge can keep your green groceries fresh.
 
@@ -329,7 +329,7 @@ One of the unique features of the best side by side refrigerator are compressors
 
 The appliance functions independently of one another. If there’s a hitch on one part of the fridge like the freezer compartment, the fridge continues to perform efficiently without any problem whatsoever.
 
-The best [side by side refrigerators](https://www.uakc.com/blog/side-by-side-refrigerator-advantages-disadvantages/) have two cooling circuits meaning no transmission of bad odors.
+The best side by side refrigerators have two cooling circuits meaning no transmission of bad odors.
 
 Another amazing benefit of the best side by side refrigerator is that it features a water and ice dispenser in the freezer door. This provides a constant stream of cold water and crisp ice for all. 
 
