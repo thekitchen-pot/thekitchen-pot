@@ -33,24 +33,13 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Did you know that you can turn your gas grill into [smokers](https://www.recipetips.com/glossary-term/t--38705/smoker-box.asp)? Well, the best smoker box for gas grills will help you achieve that smoky flavor in your barbecue!
+Did you know that you can turn your gas grill into smokers? Well, the best smoker box for gas grills will help you achieve that smoky flavor in your barbecue!
 
 The smoker boxes for gas grills are prepared to allow you to use wood chips to achieve white smoke, which will transform your cooking experience for the better.
 
 While the smoker box for gas grills will help you achieve irresistible meals, purchasing one can be quite a hassle.
 
 There are a lot of factors that you should consider before settling on your best smoker box for gas grills! Here’s a comprehensive buying guide that’ll transform the entire process into a bliss!
-
-## Best Smoker Box for Gas Grills – Comparison
-
-| Image | Name                                                         | Features                                                                                                                                                                                                                                                                                                                                                       |
-| ----- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Cave Tools Smoker Box                                        | \-HINGED LID FOR EASY ACCESS - Easily add more wood chips in on the fly-LARGE WOOD CHIP CAPACITY - Fits perfectly between flavorizer bars and grill grate or directly on top of charcoals-COMES WITH 25 PROFESSIONAL BARBECUE RECIPES - step by step instructions and detailed grilling tutorial videos - Free Download Meat Smoking Journal iOS & Android App |
-|       | Weber 7576 Smoker Box                                        | \-Infuse food with smoky flavors-Durable stainless steel-Easily add chips while in use-Fits most sizes of grills-Out of Carton Dimensions: 9.7 x 4.7 x 2 inches                                                                                                                                                                                                |
-|       | Charcoal Companion V-Shape Smoker Box for Gas Grill          | \-V-shape fits between flame deflector bars on gas grills for the most intense smoke flavor-Sturdy stainless-steel construction withstands high grilling temps-Hinged lid allows for easy access to add wood chips (not included)-Ashes remain in smoker box, keeping your grill clean and ready to use-Measures 13 ¾” long                                    |
-|       | Skyflame Universal Smoker Box – Stainless Steel Construction | \-Thicker sturdy stainless steel construction will hold up great under the heat of the grill-dense wavy vent design provides more smoke and provides a larger smoked area for the food above-W-shape fits on flame deflector bars on gas grills for the most intense smoke flavor. Ashes remain in smoker box to keep your grill clean                         |
-|       | Char-Broil Cast Iron Smoker Box                              | \-Durable cast iron body and lid-Vented to direct smoke towards food-Add real smoke flavor to any cookout-Prevents wood from catching on fire-Works with most grills                                                                                                                                                                                           |
-|       | Grillaholics Smoker Box                                      | \-large capacity wood chip smoker box means you’ll spend less time refilling wood chips-MADE FROM EXTRA THICK STAMPED STAINLESS STEEL-HINGED LID FOR EASY ACCESS                                                                                                                                                                                               |
 
 ## **The Best Smoker Box for Gas Grills: How to Use it**
 
@@ -322,7 +311,7 @@ It has a flat base to sit on any gas grill comfortably. Place it on a grill then
 
 ## **Buying Guide for Best Smoker Box for Gas Grill**
 
-Buying your [best smoker box](https://en.wikipedia.org/wiki/Smoking_(cooking)) for gas grills requires intensive research to make the right choice. Some of the factors that you should always consider include the model, lid, and ease of cleaning.
+Buying your best smoker box for gas grills requires intensive research to make the right choice. Some of the factors that you should always consider include the model, lid, and ease of cleaning.
 
 Here’s a comprehensive guide of factors to consider when buying a smoker box for gas grills.
 
