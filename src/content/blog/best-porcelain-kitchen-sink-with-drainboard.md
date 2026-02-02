@@ -36,7 +36,7 @@ There are different kinds of sinks to choose from, including stainless steel, co
 
 ## **Why Choose Porcelain Kitchen Sink?**
 
-[Porcelain](https://en.wikipedia.org/wiki/Porcelain) kitchen sinks are a popular choice for many homeowners because of their style and durability. With the proper care, the porcelain sink will last you decades. It has color options that can match different kinds of décor to give your home an elegant look.
+Porcelain kitchen sinks are a popular choice for many homeowners because of their style and durability. With the proper care, the porcelain sink will last you decades. It has color options that can match different kinds of décor to give your home an elegant look.
 
 A sink with a drainboard is perfect for busy families who need the extra space to wash dishes. They are also easy to clean and maintain, making them a great choice for busy households.
 
