@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Technology has crept into different spheres of life – and the kitchen is certainly among the [biggest beneficiaries](https://wonderfulkitchens.com.au/kitchen-design/using-modern-technology-kitchens/). The invention of induction cooking is one of the most revolutionary occurrences. It has improved how we prepare our meals immensely.
+Technology has crept into different spheres of life – and the kitchen is certainly among the biggest beneficiaries. The invention of induction cooking is one of the most revolutionary occurrences. It has improved how we prepare our meals immensely.
 
 If you lay your hands on the best induction cooktop for the money, then you can be sure that you’ll never look back.  
 
@@ -43,7 +43,7 @@ Well, these questions may sound sophisticated now, but you’ll get every bit of
 
 ## **What is Induction Cooking** 
 
-[Induction cooking](https://en.wikipedia.org/wiki/Induction_cooking) refers to a cooking technology that uses electromagnetic currents to heat the pans directly. 
+Induction cooking refers to a cooking technology that uses electromagnetic currents to heat the pans directly. 
 
 Unlike traditional cooking, this method does not rely on conduction, convection, or radiation to heat your food. Consequently, heating occurs faster, thus resulting in a quicker cooking process. 
 
@@ -64,16 +64,6 @@ Also, the cookware must be thick enough to offer sufficient resistance to curren
 If you only own aluminum and copper cooking vessels, then you cannot use your best induction cooktop for the money.
 
 As such, shopping for the cooktop must always be accompanied by a budget for the ideal stainless steel, carbon steel, enameled, and cast iron cookware. 
-
-## **Best Induction Cooktop for the Money – Comparison**
-
-| Image | Name                                                                                                        | Features                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ----- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | NuWave Precision Induction Cooktop Pro Chef Commercial-Grade NSF-Certified 1800-watt Induction Cooktop      | \- A series of magnetic induction coils in the 8-inch cooking surface-Tested and certified by NSF International- NuWave Cooktop, you can sear a gourmet steak at 575°F or keep sauces warm at 100°F                                                                                                                                                                                                      |
-|       | Duxtop 1800W Portable Induction Cooktop Countertop Burner, Gold 8100MC/BT-180G3                             | \- Uses 120V 15 amp electrical outlet - standard in all North American homes; lightweight and compact for easy handling and storage-Built-in count-down digital timer with 1 minute increments up to 170 minutes; 10 temperature range from 140 °F to 460 °F; 10 power levels from 200 to 1800 Watts-The auto-pan detection will shut the unit automatically after 60 seconds if no cookware is detected |
-|       | NutriChef Double Induction Cooktop - Portable 120V Portable Digital Ceramic Dual Burner w/ Kids Safety Lock | \- 2 Circular Top Panel Heating Zones with Independent Configurable Temperature Zone Setting & a Digital LCD Display Screen-120v Electric Induction cooktop                                                                                                                                                                                                                                              |
-|       | Max Burton #6450 Digital LCD 1800 Watt Induction Cooktop Countertop Burner                                  | \-120V AC Power, standard in all homes. Energy efficient, portable, lightweight and easy to use.-Digital temperature control from 100°F to 450°F, in 25°F increments. Digital timer with 1 minute increments up to 180 minutes.                                                                                                                                                                          |
-|       | Rosewill Induction Cooker 1800 Watt, 5 Pre-Programmed Induction Cooktop                                     | \-5 Pre-Programmed Settings: Warm Milk, Soup, Stir Fry, Fry, Hot Pot-Polished A-grade Crystal Plate Surface-LED Large Screen Display, 4 digits                                                                                                                                                                                                                                                           |
 
 ## **Best Induction Cooktop for the Money**
 
@@ -269,7 +259,7 @@ Now that we’ve looked at various options available to you depending on your bu
 
 ### **How Induction Cooktops Work – Backed by Science**
 
-The working rationale of your best induction cooktop for the money is pretty straightforward. It uses the **concept of [Magnetic Induction](https://en.wikipedia.org/wiki/Electromagnetic_induction)** to generate heat instantly. 
+The working rationale of your best induction cooktop for the money is pretty straightforward. It uses the **concept of Magnetic Induction** to generate heat instantly. 
 
 For your induction cooking to be effective, you must have the following two necessities:
 
