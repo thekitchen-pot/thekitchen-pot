@@ -58,7 +58,7 @@ Whichever option you choose, just ensure that it offers enough space, has ergono
 
 **Best Overall**
 
-**[P](https://www.amazon.com/Paragon-8020-Merchandiser-Professional-Concessionaires/dp/B004E231VK?tag=kitchenpot-20)****[aragon 8020 Bun Warmer and Hot Dog Steamer Merchandiser](https://www.amazon.com/Paragon-8020-Merchandiser-Professional-Concessionaires/dp/B004E231VK?tag=kitchenpot-20)**
+**[P](https://www.amazon.com/Paragon-8020-Merchandiser-Professional-Concessionaires/dp/B004E231VK?tag=kitchenpot-20)\*\***[aragon 8020 Bun Warmer and Hot Dog Steamer Merchandiser](https://www.amazon.com/Paragon-8020-Merchandiser-Professional-Concessionaires/dp/B004E231VK?tag=kitchenpot-20)\*\*
 
 **Features**
 
@@ -70,21 +70,9 @@ Whichever option you choose, just ensure that it offers enough space, has ergono
 
 [Check Reviews on Amazon](https://www.amazon.com/Paragon-8020-Merchandiser-Professional-Concessionaires/dp/B004E231VK?tag=kitchenpot-20)
 
-## Best Hot Dog Steamer and Bun Warmer – Comparison
-
-| Image | Name                                                     | Features                                                                                                                                                                      |
-| ----- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Paragon 8020 Bun Warmer and Hot Dog Steamer              | \-Heavy duty 20 gauge stainless steel construction-200 dogs or sausages and 42 buns capacity-13 1/2"W x 20"H x 16"D. Electrical requirements: 120 Volts, 10 amps              |
-|       | Paragon Classic Hut Steamer Merchandiser Hot Dog Steamer | \-Heavy Duty 20 gauge stainless steel construction-Heat indicator light-Eight quart water reservoir for increase holding times is the largest in the business-Dishwasher safe |
-|       | Empura Hot Dog Steamer                                   | \-Stainless Steel-27.0 pounds-6.0 quarts                                                                                                                                      |
-|       | Nostalgia HDS248RD                                       | \-cooks upto 24 hot dogs at a time-bun warmer holds upto 12 buns at a time, keeping them warm and ready to enjoy-3-position cooking dial (high, Warm and off)                 |
-|       | Smart Planet HDS‐1                                       | \-Steams perfect hot dogs in 5 minutes-Hot dog recipe booklet included-Makes 4 buns and 8 hot dogs                                                                            |
-|       | CuiZen ST-1412 Steamer                                   | \-Steams up to 12 hotdogs in 12 minutes-Warmer can hold up to 12 buns-800 watts of power                                                                                      |
-|       | Maverick HC-01 Hot Dog Steamer                           | \- cooks up to 6 hot dogs in less than 9 minutes-stay-cool curved tail makes lifting the lid easy without burning your hand-Dishwasher safe                                   |
-
 ## Best Hot Dog Steamer and Bun Warmer
 
-1. **[P](https://www.amazon.com/Paragon-8020-Merchandiser-Professional-Concessionaires/dp/B004E231VK?tag=kitchenpot-20)****[aragon 8020 Bun Warmer and Hot Dog Steamer Merchandiser](https://www.amazon.com/Paragon-8020-Merchandiser-Professional-Concessionaires/dp/B004E231VK?tag=kitchenpot-20)**
+1. **[P](https://www.amazon.com/Paragon-8020-Merchandiser-Professional-Concessionaires/dp/B004E231VK?tag=kitchenpot-20)**[aragon 8020 Bun Warmer and Hot Dog Steamer Merchandiser](https://www.amazon.com/Paragon-8020-Merchandiser-Professional-Concessionaires/dp/B004E231VK?tag=kitchenpot-20)
 
 **Features**
 
