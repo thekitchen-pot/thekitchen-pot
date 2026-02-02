@@ -156,7 +156,7 @@ Serrated
 
 [Check Latest Price On Amazon](https://www.amazon.com/Farberware-5152501-Sharpening-High-Carbon-Stainless/dp/B01DB285NW?tag=kitchenpot-20)
 
-This is the best [knife set](https://www.recipetips.com/glossary-term/t--37978/knife-block.asp) under $50 has **non-slip handles** made from **triple-riveted poly material for guaranteed strength and durability.** All the knives have **uniquely textured handles that ensure that you get a firm grip**, thus eliminating any chance of the hand slipping towards the blades. 
+This is the best knife set under $50 has **non-slip handles** made from **triple-riveted poly material for guaranteed strength and durability.** All the knives have **uniquely textured handles that ensure that you get a firm grip**, thus eliminating any chance of the hand slipping towards the blades. 
 
 Additionally, this knife set is ideal for beginners and newbie chefs. Its ergonomic nature allows you to cut, slice, and dice for a long time without your hand feeling fatigued. 
 
@@ -180,7 +180,7 @@ The Farberware set includes:
 
 All the pieces are covered by a limited lifetime warranty against the manufacturer’s defects. It is recommended that you hand wash your knives with warm water and detergent. Ensure that you dry them before storage. 
 
-### **[3](https://www.amazon.com/Cuisinart-C77SS-15PK-15-Piece-Stainless-Hollow/dp/B00GIBKC3K?tag=kitchenpot-20)\*\***[. Cuisinart 15-Piece Stainless Steel Knife Set](https://www.amazon.com/Cuisinart-C77SS-15PK-15-Piece-Stainless-Hollow/dp/B00GIBKC3K?tag=kitchenpot-20)\*\*
+### **[3](https://www.amazon.com/Cuisinart-C77SS-15PK-15-Piece-Stainless-Hollow/dp/B00GIBKC3K?tag=kitchenpot-20)**[. Cuisinart 15-Piece Stainless Steel Knife Set](https://www.amazon.com/Cuisinart-C77SS-15PK-15-Piece-Stainless-Hollow/dp/B00GIBKC3K?tag=kitchenpot-20)
 
 **Features**
 
@@ -263,7 +263,7 @@ Additionally, Vremi 10-piece knife set comes with fun rainbow colors. More so, t
 The Vremi knife set includes the following:
 
 * A serrated knife 
-* A [chef knife](https://www.finecooking.com/article/how-to-choose-a-chefs-knife) 
+* A chef knife 
 * A utility knife
 * A carving knife
 * A paring knife
@@ -496,4 +496,4 @@ The knife sets under 100 reviewed here are currently the best-priced in the mark
 
 Of the reviewed knife sets under 100, McCook takes the leading.
 
-This knife set has a high carbon stainless steel, an ergonomic handle, and boasts [FDA](https://www.fda.gov/home)-approved materials and generally.
+This knife set has a high carbon stainless steel, an ergonomic handle, and boasts FDA-approved materials and generally.
