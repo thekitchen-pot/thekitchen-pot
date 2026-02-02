@@ -64,15 +64,13 @@ But if you’re cooking in a condo, apartment, or a kitchen that doesn’t have 
 
 ## **Do Ductless Range Hoods Actually Work?**
 
-Let's be honest here: when someone asks, "Do ductless range hoods really work?" there is usually a degree of skepticism. And it is no wonder why! You want to make sure you are not buying a pretty decoration for the kitchen, but something that will help clean the air.
+When someone asks, "Do ductless range hoods really work?" there is usually a degree of skepticism. And it is no wonder why! You want to make sure you are not buying a pretty decoration for the kitchen, but something that will help clean the air.
 
 So here is the fact: yes, **ductless range hoods do work**, but a **few things influence the capabilities.**
 
-First: **Filter Type.** Cheap charcoal filters will do little more than trap light odors. Higher quality activated carbon filters can reduce cooking smells heavily, even after cooking things like bacon and sautéed garlic. Always check the filter grade!
-
-Second: **Fan Power**. If you do regular cooking, look for hoods with a minimal engine power rating of around **200-400 CFM (cubic feet per minute).** Anything lower could be weak and perform little more than light duty chores. If you cook regularly as a stir fry master or grill indoors, you need higher, like 600+ CFM.
-
-Third: **Cooking Style.** While I find a ductless hood enough for light cooking, like boiling pasta or heating up leftovers, it can be severely ineffective if you sear, fry, or cook with bold spices regularly. In that case, I recommend that you get a ducted model, preferably one with multi-layer filtration and/or dual fan motors for more circulation.
+* **Filter Type.** Cheap charcoal filters will do little more than trap light odors. Higher quality activated carbon filters can reduce cooking smells heavily, even after cooking things like bacon and sautéed garlic. Always check the filter grade!
+* **Fan Power**. If you do regular cooking, look for hoods with a minimal engine power rating of around **200-400 CFM (cubic feet per minute).** Anything lower could be weak and perform little more than light duty chores. If you cook regularly as a stir fry master or grill indoors, you need higher, like 600+ CFM.
+* **Cooking Style.** While I find a ductless hood enough for light cooking, like boiling pasta or heating up leftovers, it can be severely ineffective if you sear, fry, or cook with bold spices regularly. In that case, I recommend that you get a ducted model, preferably one with multi-layer filtration and/or dual fan motors for more circulation.
 
 So, who benefits most from these hoods?
 
