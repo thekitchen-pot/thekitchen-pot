@@ -33,6 +33,8 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
+![Ductless Range Hood](/images/ductless-range-hood.jpg)
+
 If you have been considering getting a range hood, but you cannot vent it outdoors because of ductwork restrictions in your kitchen, then you might just have a new best friend: a ductless range
 hood. 
 
