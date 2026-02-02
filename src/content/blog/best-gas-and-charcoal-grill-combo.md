@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Summer vacation is just around the corner, and it’s always a [grilling](https://en.wikipedia.org/wiki/Grilling) season, having fun and relaxing. When choosing an excellent way to cook pork chops or sear up steaks, you have to find the best gas and charcoal grill combo.
+Summer vacation is just around the corner, and it’s always a grilling season, having fun and relaxing. When choosing an excellent way to cook pork chops or sear up steaks, you have to find the best gas and charcoal grill combo.
 
 Whether you are camping in the backyard, picnics, at the lakes, neighborhood parties, or family meals, you’ll want to enjoy life at a slower yet interesting pace. 
 
