@@ -48,7 +48,7 @@ The air passes through a **grease filter** (typically aluminum mesh or stainless
 
 With ductless range hoods, there are no ducts. No outside venting. Just cleaner indoor air, making **installation very easy**. 
 
-You can mount it on your wall, under a cabinet or on your ceiling if you want to get fancy.  You can do it yourself, so it’s perfect for renters, for small homeowners or even for food truck operators.
+You can mount it on your wall, **[under a cabinet](https://thekitchenpot.com/blog/best-under-cabinet-range-hood/)** or on your ceiling if you want to get fancy.  You can do it yourself, so it’s perfect for renters, for small homeowners or even for food truck operators.
 
 Even though they do not fully remove moisture and heat (like the **ducted versions do**), the **latest models of ductless hoods** are quite effective, when equipped with **high capacity fans** and high quality filters. In fact, many of the newest models come with **multi-layer filtration** with **multiple, adjustable speeds**, which increase effectiveness.
 
