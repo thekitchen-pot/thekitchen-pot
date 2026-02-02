@@ -347,13 +347,13 @@ Check if the filter can be replaced without tools. Bonus points for models with 
 * **Highlights:** Dual fan motors, slim profile, aluminum mesh + charcoal filter
 * **Why It’s Great:** Budget-friendly, easy to install, and comes with a reliable charcoal filtration system. **Not ideal for a busy kitchen.**
 
-**2.[Hauslane Chef Series WM-538](https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B0G6GF4MT7?tag=kitchenpot-20)**
+### **2.[Hauslane Chef Series WM-538](https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B0G6GF4MT7?tag=kitchenpot-20)**
 
 * **Airflow:** 400 CFM - best for a busy kitchen.
 * **Highlights:** Heavy-duty charcoal filters, washable stainless-steel baffle filters
 * **Why It’s Great:** Designed for heavy cooking; filters both smoke and smell effectively.
 
-**3. [Broan-NuTone BCSQ130SS](https://www.amazon.com/BCSQ130SS-Three-Speed-Glacier-Under-Cabinet-Stainless/dp/B00NHJMHPC?tag=kitchenpot-20)**
+### **3. [Broan-NuTone BCSQ130SS](https://www.amazon.com/BCSQ130SS-Three-Speed-Glacier-Under-Cabinet-Stainless/dp/B00NHJMHPC?tag=kitchenpot-20)**
 
 * **Airflow:** 375 CFM
 * **Highlights:** High-efficiency hybrid charcoal filters
