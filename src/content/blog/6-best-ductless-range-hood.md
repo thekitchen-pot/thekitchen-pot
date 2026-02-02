@@ -349,7 +349,7 @@ Check if the filter can be replaced without tools. Bonus points for models with 
 * **Highlights:** Heavy-duty charcoal filters, washable stainless-steel baffle filters
 * **Why It’s Great:** Designed for heavy cooking; filters both smoke and smell effectively.
 
-**3. Broan-NuTone BCSQ130SS**
+**3. [Broan-NuTone BCSQ130SS](https://www.amazon.com/BCSQ130SS-Three-Speed-Glacier-Under-Cabinet-Stainless/dp/B00NHJMHPC?tag=kitchenpot-20)**
 
 * **Airflow:** 375 CFM
 * **Highlights:** High-efficiency hybrid charcoal filters
