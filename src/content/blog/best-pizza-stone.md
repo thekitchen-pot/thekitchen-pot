@@ -34,24 +34,13 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Are you aware that you can make your pizza at your convenience? Well, all that you need to achieve this milestone is the best pizza stone! 
 
-Having pizza is fun! It’s always awesome to go out and enjoy [pizza](https://sallysbakingaddiction.com/homemade-pizza-crust-recipe/) with friends and family at your favorite pizzeria.
+Having pizza is fun! It’s always awesome to go out and enjoy pizza with friends and family at your favorite pizzeria.
 
 However, these regular pizza outings can be expensive! You’ll require to fritter away your money, which will make no economic sense in the long run. 
 
 As such, you should find an alternative to cap your expenditure without denying yourself your favorite pizza. The best way to achieve this is by cooking the same amazing pizzas at home.
 
-In this article, we’ll analyze some of the best [pizza stones](https://en.wikipedia.org/wiki/Baking_stone) ideal for you. If you want to impress your friends or family with an oven-fired pizza, then read on to find out some of the best pizza stones that are perfectly fit for you.
-
-## Best Pizza Stones – Comparison
-
-| Image | Name                                                          | Features                                                                                                                                                                                                                                                                                                                                                                                                |
-| ----- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Love This Kitchen the Ultimate Pizza Stone for Oven and Grill | \- Designed to withstand up to 1500 degrees-16" stone highly absorbent pores extract moisture out of the pizza/bread dough and simulates restaurant pizza ovens for that perfectly baked pie-hot, melty & delicious!-At .83" thick, our stone superior engineering provides greater heat retention than thinner brands and is less prone to breakage; bottom has a ledge, making it easier to handle it |
-|       | Heritage 15” Black Ceramic Pizza Stone                        | \-Pre-heats up to 2 times faster than other pizza stones-Does not smoke and will keep your pizza tasting great-Will not stain from grease or burn crust and washes to like new condition every time.                                                                                                                                                                                                    |
-|       | Emile Henry Flame Top Pizza Stone                             | \-Safe to use on gas, charcoal and natural wood grills up to 900 degrees F-Scratch Resistant-Dishwasher Safe, easily cleaned with soap or water-10 YEAR GUARANTEE against manufacturing defects                                                                                                                                                                                                         |
-|       | Solido 14 x 16-Inch Pizza Stone                               | \- Has a bigger surface area, yet still fits all standard ovens.-Has a heat spiral heats your Solido pizza stone faster and stores heat in the center                                                                                                                                                                                                                                                   |
-|       | Culinary- Couture Pizza Stone For Grill and Oven              | \-3/4" thick, much thicker than our competitors’ stones - engineered to achieve a crispy pizza crust, every single time-Made from superior cordierite material, this sturdy stone allows baking up to a whopping 1000 °F                                                                                                                                                                                |
-|       | Honey- Can- Do Stone Oven Round Pizza Stone                   | \-Makes restaurant quality pizzas, bread, pastries and vegetables-Durable, non-cracking; crafted from a blend of lead-free clays-Absorbs oven heat and transfers it evenly.Do not clean the stone with soap-Recommended for up to 500 degrees in a standard home oven                                                                                                                                   |
+In this article, we’ll analyze some of the best pizza stones ideal for you. If you want to impress your friends or family with an oven-fired pizza, then read on to find out some of the best pizza stones that are perfectly fit for you.
 
 ## **What Is A Pizza Stone?**
 
@@ -61,7 +50,7 @@ The best pizza stone is a thick, flat baking stone. It comes in different shapes
 
 ## **Best Pizza Stones: How do They Work?**
 
-[Position your stone](https://www.wikihow.com/Cook-Pizza-on-a-Pizza-Stone) on the middle rack or bottom of the oven and preheat the oven.
+Position your stone on the middle rack or bottom of the oven and preheat the oven.
 
 Once the pizza is placed onto the stone, the stone’s porous material absorbs and holds the heat of the oven which is then transferred to the pizza.
 
@@ -81,7 +70,7 @@ They radiate heat evenly, which is essential to baking a tasty pizza. The stones
 
 * **Cordierite**
 
-[Cordierite](https://en.wikipedia.org/wiki/Cordierite) has a place in the heart of pizza lovers everywhere. The reason being it’s the most common material used for pizza stones.
+Cordierite has a place in the heart of pizza lovers everywhere. The reason being it’s the most common material used for pizza stones.
 
 Cordierite is a mineral that is well known for its ability to handle high temperatures. Cordierite is also resistant to thermal shock, this means you can transition it from cool temperatures to hot temperatures without breaking it.
 
