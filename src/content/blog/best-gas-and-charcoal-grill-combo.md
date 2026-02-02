@@ -43,19 +43,9 @@ Both [gas grills](https://thekitchenpot.com/blog/best-gas-grills-under-500//) a
 
 When going out to shop for the best gas and charcoal grill combo, you can get spoilt for options given a myriad options available in the market.
 
-But how can you choose the best [gas and charcoal grill combo](https://www.wikihow.com/Use-a-Charcoal-Grill) to suit your lifestyle perfectly?
+But how can you choose the best gas and charcoal grill combo to suit your lifestyle perfectly?
 
 That’s the plan of this review. We’ve pointed out the best gas and charcoal grills with a combo and offered a comprehensive buyers guide. 
-
-## Best Gas and Charcoal Grill Combo -Comparison
-
-| Image                                          | Name                                           | Unique Features                                                                                                                                          |
-| ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Char-Broil Gas2Coal 3-Burner                   | Char-Broil Gas2Coal 3-Burner                   | \-540 square inch total cooking area-40,000-BTU’s for three main burners with 12000 BTU side burner-Easy conversion from gas to charcoal grill           |
-| Char-Griller Duo charcoal/Gas Model 5050 Grill | Char-Griller Duo charcoal/Gas Model 5050 Grill | \-1260 square inches of cooking space-40,800 BTU gas grill with 12,000 BTU side burner-Measures 60″ X 25″ X 50″-Adjustable grate height                  |
-| Dyna-Glo DGB730SNB-D                           | Dyna-Glo DGB730SNB-D                           | \-952 square Inch of total cooking area-24,000 total BTUs-Commercial grade stainless steelElectric pulse ignition system-Adjustable charcoal tray system |
-| Oklahoma Joe's LP Gas/Charcoal Smoker Combo    | Oklahoma Joe's LP Gas/Charcoal Smoker Combo    | \-1,060 total square inch cooking area-36,000 BTUs spread in three burners-12,000 BTU side burner-6 grates                                               |
-| Smoke Hollow 4-In-1 Charcoal Gas Grill PS9900  | Smoke Hollow 4-In-1 Charcoal Gas Grill PS9900  | \-Adjustable charcoal pan-Ceramic infrared side burner-Four (4) Grilling optionsan cook up to 20 hamburgers at a time                                    |
 
 ## Top 5 Gas and Charcoal Grill Combos
 
@@ -65,9 +55,9 @@ That’s the plan of this review. We’ve pointed out the best gas and charcoal 
 
 **Features**
 
-* ***540 square inch total cooking area***
-* ***40,000-BTU’s for three main burners with 12000 BTU side burner***
-* ***Easy conversion from gas to charcoal grill***
+* **540 square inch total cooking area**
+* **40,000-BTU’s for three main burners with 12000 BTU side burner**
+* **Easy conversion from gas to charcoal grill**
 
 Many people say that owning a top-notch gas and charcoal grill combo means that you’ll have to go deeper inside your pockets. 
 
@@ -105,10 +95,10 @@ Besides that, grates are essential things when you want to make visible sear mar
 
 [Check Price on Amazon](https://www.amazon.com/Char-Griller-5050-Duo-Gas-and-Charcoal-Grill/dp/B001CJKUO4/?tag=kitchenpot-20)
 
-* **1*260 square inches of cooking space***
-* ***40,800 BTU gas grill with 12,000 BTU side burner***
-* ***Measures 60″ X 25″ X 50″***
-* ***Adjustable grate height***
+* **1260 square inches of cooking space**
+* **40,800 BTU gas grill with 12,000 BTU side burner**
+* **Measures 60″ X 25″ X 50″**
+* **Adjustable grate height**
 
 If you are looking for a good-sized gas and charcoal grill combo, then Char-Griller Model 5050 is ideal. 
 
@@ -146,11 +136,11 @@ In terms of storage, it has an underneath the shelf and a condiment basket for e
 
 [Check Price on Amazon](https://www.amazon.com/Dyna-Glo-DGB730SNB-D-Dual-Fuel-Grill/dp/B00BQ59SYM?tag=kitchenpot-20)
 
-* ***952 square Inch of total cooking area*** 
-* ***24,000 total BTUs***
-* ***Commercial grade stainless steel***
-* ***Electric pulse ignition system***
-* ***Adjustable charcoal tray sy***stem
+* **952 square Inch of total cooking area** 
+* **24,000 total BTUs**
+* **Commercial grade stainless steel**
+* **Electric pulse ignition system**
+* **Adjustable charcoal tray sy**stem
 
  Dyna-Glo DGB730SNB-D is a powerful gas and charcoal grill combo. It features a lightweight and elegant design. 
 
@@ -190,10 +180,10 @@ The commercial-grade, as well as the stainless steel burners, deliver up to 2400
 
 **Features**
 
-* ***1,060 total square inch cooking area***
-* ***36,000 BTUs spread in three burners***
-* ***12,000 BTU side burner*** 
-* ***6 grates***
+* **1,060 total square inch cooking area**
+* **36,000 BTUs spread in three burners**
+* **12,000 BTU side burner** 
+* **6 grates**
 
 Oklahoma Joe’s LP Gas/Charcoal Smoker Combo features charcoal and propane but even wood chips can be used too as a source of fuel.
 
@@ -229,10 +219,10 @@ This amazing grilling product has a lifetime warranty, and it’s designed with 
 
 **Features**
 
-* ***Adjustable charcoal pan***
-* ***Ceramic infrared side burner***
-* ***Four (4) Grilling options***
-* ***an cook up to 20 hamburgers at a time***
+* **Adjustable charcoal pan**
+* **Ceramic infrared side burner**
+* **Four (4) Grilling options**
+* **an cook up to 20 hamburgers at a time**
 
 The 4-in-1 part makes this model sounds intriguing, right? 
 
@@ -314,7 +304,7 @@ As heat output is essential, and so is the heat distribution. If your target gas
 
 Check on the grids and the grates of the grill. Are they made of perfect materials that can do an excellent heat distribution?
 
-[Porcelain-coated cast iron](https://www.thespruceeats.com/choose-the-best-grate-for-grill-335047) will work better, and your food will cook evenly.
+Porcelain-coated cast iron will work better, and your food will cook evenly.
 
 ## **The Final Verdict: Best Gas and Charcoal Grill Combo**
 
@@ -322,7 +312,7 @@ That has been a review on the best gas and charcoal grill combo and the buyer’
 
 However, before purchasing, there are some excellent aspects that you need to understand concerning gas and charcoal grill combos. Firstly, they can make your cooking work easy as they are versatile, built with charcoal grill and gas grill. Some come with a side burner to help you do side cooking.
 
-Secondly, grills are meant to [boost the overall cooking experience](https://www.nytimes.com/2017/05/23/dining/grill-charcoal-or-gas.html) and can be used in extraordinary events. Every product on this list is fundamental and grills your meat perfectly, although you can’t buy them all! Unless you are planning to open a meat grilling company. But if you stay alone or in a family set up, then you” only need one.
+Secondly, grills are meant to boost the overall cooking experience and can be used in extraordinary events. Every product on this list is fundamental and grills your meat perfectly, although you can’t buy them all! Unless you are planning to open a meat grilling company. But if you stay alone or in a family set up, then you” only need one.
 
 So in our list, Char-Griller Model 5050 can be your all-time favorite charcoal and gas grill combo. It has a durable stainless steel built quality that ranks it top among the best gas grills in the market.
 
