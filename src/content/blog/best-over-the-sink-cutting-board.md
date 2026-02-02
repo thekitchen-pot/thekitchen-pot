@@ -32,7 +32,7 @@ description: If you're looking to expand your cutting space and make meal prep
 ---
 Do you want more cutting space when preparing your meals? Well, buying the best over the sink cutting board is a brilliant way to expand your cutting space over your sink.
 
-Most of these [boards](https://en.wikipedia.org/wiki/Cutting_board) have colanders that are essential in draining excess liquid, this providing a conducive working environment. Even better, you can use these hollow parts to store your potatoes and other veggies as you cut them.
+Most of these boards have colanders that are essential in draining excess liquid, this providing a conducive working environment. Even better, you can use these hollow parts to store your potatoes and other veggies as you cut them.
 
 If your kitchen space is limited, then getting the best over the sink cutting board may just be the best decision you’ll ever make. It reduces your prep time and makes every step of the preparation fun.
 
@@ -40,17 +40,7 @@ However, you must choose the best over the sink cutting board to get the benefit
 
 Also, you should be sure that you’ll have no problems using your best [set of knives](https://thekitchenpot.com/blog/best-knife-set-under-100//) on it. It should not be too light to be damaged by the knives.
 
-This article enumerates the factors you should consider when shopping for the best [over the sink cutting board](https://www.wikihow.com/Choose-a-Cutting-Board). Also, it includes a comprehensive list of the best over the sink cutting boards in the market.
-
-## Best Over the Sink Cutting Board – Comparison
-
-| Image | Name                                                                 | Features                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ----- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Cheff Buddy Cutting Board And A Wire Colander- 2 In 1 Chopping Board | \-wooden cutting board has stainless steel expandable handles and will adjust to fit over most kitchen sinks with a gentle pull-made of solid wood that will eliminate dulling and damage of your knives. The stainless-steel wire straining basket is durable for long-term use.-Board Dimensions: 13.2” (L) x 11.5” (W) x .75 (H). Expands up to 24.75”. Mesh Tray Dimensions: 8.5” (L) x 3.25” (W) x 3” (H). |
-|       | Good Cook Cutting Board                                              | \-Hardwood all purpose board-Constructed of renewable material-Think green                                                                                                                                                                                                                                                                                                                                      |
-|       | Dexas Over the Sink Board                                            | \-Board measures 11.5" x 20"-Features a 2-1/2 quart strainer that is removable and collapsible for easy storage Perfect for cleaning and chopping fruits and vegetables-Non-slip rubber edges grip surfaces to keep the board securely in place during use, while raised edges direct juices toward center                                                                                                      |
-|       | Prepworks by Progressive PCB-3510G                                   | \-Colander collapses flat to ⅓ its original size for easy storage-dishwasher safe                                                                                                                                                                                                                                                                                                                               |
-|       | The Grande Epicure Extending Over The Sink Cutting Board             | \-Extendable handles-Saves counter space-11-inch by 12-inch by 3/4-inch-Handcrafted                                                                                                                                                                                                                                                                                                                             |
+This article enumerates the factors you should consider when shopping for the best over the sink cutting board. Also, it includes a comprehensive list of the best over the sink cutting boards in the market.
 
 ## 10 Best Over the Sink Cutting Board
 
@@ -297,7 +287,7 @@ Always remember that you’ll be using a knife on the surface. As such, a board 
 
 * **Ease of Cleaning**
 
-An [easy-to-clean over the sink board](https://www.wikihow.com/Clean-a-Cutting-Board) eliminates any chance of infectious disease. It guarantees a hygienic cooking environment.
+An easy-to-clean over the sink board eliminates any chance of infectious disease. It guarantees a hygienic cooking environment.
 
 * **Health and Safety Measures**
 
