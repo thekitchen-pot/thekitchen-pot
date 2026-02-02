@@ -34,11 +34,11 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 If you love cooking, you’ll agree that preparing brown rice for your family is one of the trickiest exercise, right?
 
-If you’re in such a situation, you should buy the best [rice cooker](https://en.wikipedia.org/wiki/Rice_cooker) for brown rice! Here’s a comprehensive guide on what to check when shopping for one.
+If you’re in such a situation, you should buy the best rice cooker for brown rice! Here’s a comprehensive guide on what to check when shopping for one.
 
 ## Why is it Tricky to Cook Brown Rice?
 
-While brown rice has a [nutritious germ and bran](https://www.sunrice.com.au/how-to-cook-brown-rice/), it is sometimes hard to cook it compared to the regular white rice.
+While brown rice has a nutritious germ and bran, it is sometimes hard to cook it compared to the regular white rice.
 
 It requires you to achieve a tricky water to rice ratio and ensure that you maintain adequate heat! This exercise can be a nightmare especially if you do not have the best rice cooker for brown rice!
 
@@ -77,16 +77,6 @@ Automatic
 Yes
 
 [Check Latest Price on Amazon](https://www.amazon.com/Instant-Pot-Multi-Use-Programmable-Pressure/dp/B00FLYWNYQ/?tag=kitchenpot-20)
-
-## Best Rice Cooker for Brown Rice – Comparison
-
-| Image | Name                                                                                     | Features                                                                                                                                                                                                                                                                                                                           |
-| ----- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Hamilton Beach Digital Programmable Rice Cooker & Food Steamer                           | \-Digital Programmable Rice-Stainless Steel (37518)-64 Fluid Ounces                                                                                                                                                                                                                                                                |
-|       | Zojirushi NS-YAC18 Umami Micom 10-Cup (Uncooked) Rice Cooker and Warmer                  | \- Micro-computerized cooker with fuzzy-logic technology-Titanium-coated, extra-thick, 2-1/2 mm non-stick inner pot for optimal cooking-Multi-menu -selections; slow-cook, keep warm, and reheat function-Easy-to-read measuring marks; LCD clock with 24-hour timer                                                               |
-|       | Aroma Housewares 2-8-Cups (Cooked) Digital Cool-Touch Rice Grain Cooker and Food Steamer | \-Micro computerized -Fuzzy logic technologyUmami setting soaks and steams rice longer for enhanced flavor-Slow cook function for soups and other menus-Automatic keep warm feature-Easy to read LCD control panel                                                                                                                 |
-|       | BLACK+DECKER 16-Cup Cooked/8-Cup Uncooked Rice Cooker and Food Steamer, White, RC516     | \-Digital programmable controls with 5 versatile cooking functions: white rice, brown rice, steam, breakfast, and soup-Locking lid forms an airtight seal and stays cool to the touch-Nonstick inner pot is dishwasher safe for easy cleanup-Cord length: 28"Watts: 700W                                                           |
-|       | Cuisinart CRC-400P1 CRC-400 Rice Cooker, 4-Cup, Silver                                   | \-Electric rice cooker with -Cuisinart rice cooker steams rice, meats and vegetables-Square modern shape finished in brushed stainless steel-Includes: Stainless-steel steaming basket, -Non-stick, coated anodized aluminum cooking bowl, glass lid, paddle and measuring cup-Automatically switches to warm when cooking is done |
 
 ## Why You Should Cook Brown Rice for Your Family
 
@@ -362,7 +352,7 @@ If yes, then buy a big size cooker that comes with a steaming tray.
 
 **Ease of Use**
 
-Most people prefer buying a [rice cooker](https://www.wikihow.com/Clean-a-Rice-Cooker) for brown rice as it makes their typical day-to-day cooking task easier. If that’s your target, then ensure you find a cooker that’s simple and easy to use.
+Most people prefer buying a rice cooker for brown rice as it makes their typical day-to-day cooking task easier. If that’s your target, then ensure you find a cooker that’s simple and easy to use.
 
 Usually, the simpler the outlook, the less you will have to figure out. 
 
@@ -410,7 +400,7 @@ This model delivers delicious and soft rice for your visitors. Buy it and live a
 
 ## **Best Rice Cooker for Brown Rice: The Final Verdict**
 
-A [rice cooker for brown rice](https://www.simplyrecipes.com/a_guide_to_rice_cookers/) is a must have for any family! Making use of this kitchen equipment to prepare meals for your friends is as easy as adding an appropriate quantity of water to rice, then pressing the button on your cooker.
+A rice cooker for brown rice is a must have for any family! Making use of this kitchen equipment to prepare meals for your friends is as easy as adding an appropriate quantity of water to rice, then pressing the button on your cooker.
 
 Whether you’re preparing Basmati rice, white rice, healthy brown rice, or Jasmine rice, this cooker will serve you right!
 
