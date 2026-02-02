@@ -32,7 +32,7 @@ description: Are you looking for a healthier way to make popcorn? Consider
 ---
 Do you want a healthy technique to make your popcorn? Well, buying the best hot air popcorn popper for the money is the first step towards this crucial journey.
 
-Unlike other techniques, hot air popcorn popper uses air only! You don’t need oil or butter to pop them. Consequently, you can be certain that you’ll have reduced [consumption of trans-fatty acids](https://academic.oup.com/ajcn/article/66/4/1006S/4656011), which guarantee perfect health!
+Unlike other techniques, hot air popcorn popper uses air only! You don’t need oil or butter to pop them. Consequently, you can be certain that you’ll have reduced consumption of trans-fatty acids, which guarantee perfect health!
 
 While the best hot air popcorn popper is an excellent tool for making your popcorn, getting the ideal one can be a hassle. That’s why we’ve compiled a comprehensive guide that’ll help you when purchasing your best hot air popcorn popper.
 
