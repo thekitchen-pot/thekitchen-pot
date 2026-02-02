@@ -49,7 +49,7 @@ However, this is not always the case! The workers find themselves wasting lots o
 
 If this is your situation, then worry no more. The invention of the best lunch cooler for construction workers will resolve your problems – and efficiently. 
 
-This article guides you on everything you need to know about this [top-notch technology](https://www.chemicalsafetyfacts.org/keeping-lunch-cool-the-chemistry-of-lunchboxes/) and suggests the most effective lunch coolers for your consideration. 
+This article guides you on everything you need to know about this top-notch technology and suggests the most effective lunch coolers for your consideration. 
 
 **Best Overall**
 
@@ -81,7 +81,7 @@ Moss
 
 This Titan zipperless cooler is unbeatable when it comes to performance. It keeps ice up to 2 days and ensures that you get high performance insulation. Its ColdBlock base and radiant heat barrier keep your food fresh for long. If you are looking for the best lunch box for men, then you will never go wrong with this Arctic Titan brand. 
 
-Its exterior is made up of a tough and [water-resistant](https://www.beanbagsrus.com.au/blog/what-kind-of-fabric-is-waterproof/) Rhino-Tech material. It can accommodate the pressure from construction sites without getting damaged easily. Also, the cleaning is a breeze! All that you’ll need is to wipe it off with a kitchen towel and it’ll regain its sparkle in minutes. 
+Its exterior is made up of a tough and water-resistant Rhino-Tech material. It can accommodate the pressure from construction sites without getting damaged easily. Also, the cleaning is a breeze! All that you’ll need is to wipe it off with a kitchen towel and it’ll regain its sparkle in minutes. 
 
 The interior comes with a SmartShelf to allow you to separate your hard stuff (such as bottled beverages) from the soft ones (such as sandwiches). As such, you can be sure that the soft food will not be crushed even when the environment is quite shaky/hostile. 
 
@@ -130,8 +130,6 @@ If you do not add any gels, the food will still be fresh 2-3 hours if it’s hot
 ## 8 Best Lunch Cooler for Construction Workers Reviews
 
 ### **1. [HSD Lunch Bag, Insulated Cooler, Thermal Lunch Box](https://www.amazon.com/HSD-Tactical-Lunch-Bag-Adjustable/dp/B0746ND955/?tag=kitchenpot-20)** 
-
-![Best lunch box for men](images/portablegasgrill.jpg)
 
 **Features**
 
