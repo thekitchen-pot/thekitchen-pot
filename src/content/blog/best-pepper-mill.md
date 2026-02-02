@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Are you aware that [fresh ground pepper](https://missvickie.com/fresh-ground-pepper-vs-pre-ground-pepper/) makes simple soups a little spicy? Well, a finely seasoned pepper-crusted steak is always a fan favorite. 
+Are you aware that fresh ground pepper makes simple soups a little spicy? Well, a finely seasoned pepper-crusted steak is always a fan favorite. 
 
 Did you also know that pre-ground pepper or commercially ground pepper has a shelf life and oxidation? Making it lose most of its health benefits. The whole peppercorn does not have a shelf life.
 
@@ -47,17 +47,7 @@ You’d be excited to know that cranking your whole peppercorn will allow you to
 
 We’ve taken the time to test and review many of the best pepper mills on the market today. We’ve created this list of the 7 best from our research.
 
-Plenty of pepper mills do an adequate job of [grinding pepper](https://en.wikipedia.org/wiki/Peppermill), but these 7 best pepper mills do an excellent job of grinding fine to coarse pepper.
-
-## Best Pepper Mills – Comparison
-
-| Image | Name                                                                     | Features                                                                                                                                                                                                                                                                                                                                                  |
-| ----- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Peugeot Paris U’ Select Pepper Mill                                      | \-Warranty- Lifetime on the mechanism, 5 years on the body of the mill-Proprietary 2-stage pepper grinding mechanism made of case-hardened steel specially treated to keep the teeth razor sharp and protect from corrosion-Safe, comfortable grip helps get high, consistent output with minimal effort                                                  |
-|       | Cole and Mason Capstan Wood Pepper Grinder                               | \-Machine cut carbon steel precision mechanism creates a smooth and even turn-Easily fill the pepper grinder by removing the top-Conveniently select between fine or coarse granules by adjusting the knob on top-Traditional 12.5 inch tall wooden design with premium balance and weight-Lifetime Guarantee, hand wash with damp cloth, do not submerge |
-|       | Le Creuset MG600-17 Pepper Mill                                          | \-Ceramic grinder-Hand wash only-Size: 8" x 2 1/2"-Matches any decor in the kitchen-Limited 10-year warranty                                                                                                                                                                                                                                              |
-|       | Cole and Mason Derwent Gourmet Precision Copper Salt and Pepper Mill Set | \-High-quality clear acrylic salt and pepper mills with a stylish stainless-steel finish-The clear acrylic shaker body highlights the level of your spice and is easy to refill-Adjustable Settings: Up to 6 precise grinding levels that offer fine or coarse granules                                                                                   |
-|       | OLDE Thompson Imperial- Wood Pepper Mill                                 | \-10.5" walnut stained wood pepper mill-Professional quality carbon steel pepper grinder is fully adjustable-Lifetime guarantee!                                                                                                                                                                                                                          |
+Plenty of pepper mills do an adequate job of grinding pepper, but these 7 best pepper mills do an excellent job of grinding fine to coarse pepper.
 
 ## **Types of Pepper Mills**   
 
@@ -342,7 +332,7 @@ Do you need more salt and pepper grinders? [Check here for a comprehensive user�
 
 ## **How to Choose the Best Pepper Mill- Buying Guide**
 
-If you want to buy the best pepper mill, you must be careful to evaluate all its features. This will enable you to get that which will [meet all your needs](https://www.frontiercoop.com/community/guides/the-ultimate-guide-to-pepper) effortlessly. 
+If you want to buy the best pepper mill, you must be careful to evaluate all its features. This will enable you to get that which will meet all your needs effortlessly. 
 
 In this section, we’ll take into consideration all the features you’ll need when shopping for the best pepper mill.
 
