@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-If you’ve been planning to buy the best [tea kettles](https://en.wikipedia.org/wiki/Kettle) for gas stove, then you are in the right place. A tea kettle is a handy equipment that makes your work easy with reduced cooking time .
+If you’ve been planning to buy the best tea kettles for gas stove, then you are in the right place. A tea kettle is a handy equipment that makes your work easy with reduced cooking time .
 
 With a tea kettle for gas stove, you don’t have to worry about your safety anytime you’re preparing a cup of tea. Place the kettle on the gas and make your best beverage in a short period.
 
@@ -224,7 +224,7 @@ Let’s have a look
 
 1. **Check On the Features**
 
-Firstly, you need to understand the features of a kettle that you’re going to buy. Tea kettles for gas stove with big lids are fantastic, but why? Because they have little fill in and [cleaning procedures](https://www.wikihow.com/Clean-Stove-Grease-off-Your-Tea-Kettle).
+Firstly, you need to understand the features of a kettle that you’re going to buy. Tea kettles for gas stove with big lids are fantastic, but why? Because they have little fill in and cleaning procedures.
 
 Then, gas stove tea kettles that feature heatproof handles are the best as they’ll keep your hands from safe boils and burns. Some have an in-built thermometer to help you control the speed and temperature of the water inside the kettle.
 
@@ -264,7 +264,7 @@ If you are not a tea addict, then you can purchase a cheap kettle. But if you kn
 
 Congratulations on taking the time to read over the review on the **best tea kettle for gas stove**. We believe that you are now safe that you have an idea of what to look for when buying a kettle.
 
-But before signing off, we’d like to tell you that every kettle on this list is [essential](https://www.wikihow.com/Descale-a-Kettle) and cooks the best tea leaving you with a pleasant experience. But you can’t buy all of them. You’ll only need one.
+But before signing off, we’d like to tell you that every kettle on this list is essential and cooks the best tea leaving you with a pleasant experience. But you can’t buy all of them. You’ll only need one.
 
 So Vescoware tea kettle for gas stove and Red whistling tea kettle for gas stove take the lead in the list, and we hope they took your attention too for being cheap with proper functionality as well.
 
@@ -273,5 +273,3 @@ Also, both of them have a pleasant whistle sound, are easy to operate, and have 
 They have brilliant performance, and you will receive unexpected results when making tea for a great crowd. However, if you wish to spend more cash on kitchen accessories and tools, then Chef’s Secret KTTKC Kettle for gas stove would be a perfect inclusion to your kitchen countertop.
 
 Whichever kettle you wish to buy, start by checking the requirements first since people have their preferences. What will impress someone else may fail to impress you. To sum it up, look at this review with open eyes and minds to make a great pick.
-
-Good luck!
