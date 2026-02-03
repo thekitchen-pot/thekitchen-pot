@@ -108,16 +108,6 @@ However, the pots have relatively low conductivity (due to their steel constitue
 
 > **\***Since stainless steel offers poor heat distribution, many companies have made stainless steel stockpots with an aluminum base. This improves the heat conductivity but limits induction compatibility.**\*** 
 
-## **Best Stock Pots with a Lid – Comparison Table**
-
-| Image | Name                                                                                          | Features                                                                                                                                                                                                                                    |
-| ----- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Cuisinart 77-412 Chef's Classic Stainless 4-Piece 12-Quart Pasta/Steamer Set, Stainless Steel | \-Dishwasher Safe-Solid stainless steel riveted handle stays cool on the stovetop-Aluminum encapsulated base heats quickly and spreads heat evenly                                                                                          |
-|       | T-fal B36262 Specialty Total Nonstick Dishwasher Safe Oven Safe Stockpot Cookware             | \-Superior nonstick interior and exterior make it easy to cook and clean-Heavy gauge aluminum construction for better heat conductivity than Stainless Steel-Dishwasher safe; Oven safe up to 350 degrees F; Limited lifetime warranty      |
-|       | Cook N Home 12 Stainless Steel Saucepot with a Lid Quart Stockpot, QT, Silver                 | \-Made of mirror polished 18-10 stainless steel for durability and easy cleaning-Aluminum disc layered bottom for even heat distribution and prevents hot spots-Tempered glass lid with steam vent to view food;-Riveted handles stays cool |
-|       | Update International SPS-20 Induction Stock Pot, 20-Quart, Silver                             | \-Ergonomic Handles - Large ergonomic handles are securely riveted to safely lift and transport-Superior Heat Distribution - Heavy duty 3-ply bottom for superior heat distribution                                                         |
-|       | http://HOMI CHEF Large NICKEL FREE Stainless Steel Stock Pot 16 Quart with a Lid              | \-Nickel Free Stainless Steel-Finish Type Mirror Polished                                                                                                                                                                                   |
-
 ## **8 Best Stock Pots with a Lid – According to Reviews**
 
 ### 1. **[Cuisinart 77-412 Chef’s Classic Stainless 4-Piece 12-Quart Pasta/Steamer Set, Stainless Steel](https://www.amazon.com/Cuisinart-77-412-Classic-Stainless-12-Quart/dp/B0000UV01S?tag=kitchenpot-20)**
@@ -401,7 +391,7 @@ Defining these needs will help you to settle for the ideal pasta pot for the mon
 
 If you’re wondering how to know whether a stockpot is induction friendly, then you can check for an induction-compatible sticker or use a magnet. **[ALL INDUCTION COOKWARE ARE MAGNETIC](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)**. For convenience, your best stock pot for induction cooktop should have a flat base. 
 
-* If your primary need is a stock pot for soup storage, you should go for a deep one. It should also have a strong lid to keep your soup/broth from [contamination](https://www.canr.msu.edu/news/food_safety_tips_for_soup).
+* If your primary need is a stock pot for soup storage, you should go for a deep one. It should also have a strong lid to keep your soup/broth from contamination.
 
 ## **How to Use a Stock Pot for Canning**
 
@@ -442,18 +432,18 @@ This article outlines some of the factors you should consider before settling fo
 
 ## Best stockpot with Lid – Frequently Asked Questions
 
-1. ### What is the difference between a stock pot and a Dutch oven?u003cbru003e
+1. ### What is the difference between a stock pot and a Dutch oven?
 
-   A stockpot is designed to store broth and other liquid meals. As such, it is relatively tall and comes with a lid and strong handles. On the other hand, a Dutch oven is a shorter but heavy braising pan that you use on a stovetop or in the oven. u003cbru003e
-2. ### Can I use a stock pot for canning?u003cbru003e
+   A stockpot is designed to store broth and other liquid meals. As such, it is relatively tall and comes with a lid and strong handles. On the other hand, a Dutch oven is a shorter but heavy braising pan that you use on a stovetop or in the oven. 
+2. ### Can I use a stock pot for canning?
 
-   Yes, a large stockpot (approximately 20 quarts) is ideal for canning. However, it would help if you ALWAYS used a kitchen towel to ensure that your jars do not come into direct contact with the stockpot when heating. u003cbru003e
-3. ### Is Le Creuset stockpot worth it?u003cbru003e
+   Yes, a large stockpot (approximately 20 quarts) is ideal for canning. However, it would help if you ALWAYS used a kitchen towel to ensure that your jars do not come into direct contact with the stockpot when heating. 
+3. ### Is Le Creuset stockpot worth it?
 
-   Yes. Le Creuset is an expensive brand. However, the stockpot is made using classic designs, and durability is guaranteed. If you’re working on a budget, you should consider this stockpot. u003cbru003e
-4. ### What stock pot recipes are the easiest to implement?u003cbru003e
+   Yes. Le Creuset is an expensive brand. However, the stockpot is made using classic designs, and durability is guaranteed. If you’re working on a budget, you should consider this stockpot. 
+4. ### What stock pot recipes are the easiest to implement?
 
    You can cook anything using your stockpot. You can use it to make pasta, make soup, or boil potatoes.u003cbru003e
-5. ### What is a beef stock pot?u003cbru003e
+5. ### What is a beef stock pot?
 
-   It is a carefully selected beef simmered together with herbs and spices in a large stockpot. Slow cooking allows it to achieve unique flavors. It is further melted into hot water and stored as future stock. u003cbru003e
+   It is a carefully selected beef simmered together with herbs and spices in a large stockpot. Slow cooking allows it to achieve unique flavors. It is further melted into hot water and stored as future stock.
