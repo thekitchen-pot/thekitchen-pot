@@ -37,7 +37,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Whole milk is an essential ingredient for baking and cooking. However, you shouldn’t freak out when you realize that you’ve run out of it in the middle of preparing a meal. You can always use substitutes for whole milk without compromising the taste of your meal. 
 
-But what exactly can you use instead of [whole milk](https://recipes.howstuffworks.com/dairy/what-percentage-is-whole-milk.htm)?
+But what exactly can you use instead of whole milk?
 
 Several substitutes will give you the same baking/cooking results. They include sour cream, half & half, evaporated milk, and powdered milk. This article offers a comprehensive guide on how you can use each of the whole milk substitutes to get the best results.
 
@@ -55,7 +55,7 @@ For example, if you do not need lots of fat in your meal, you can substitute who
 
 Additionally, some homogenized milk **artificially adds rich nutrients such as Vitamin D.** As such, you may go for processed milk if you want specific nutrients that are not available in whole milk.
 
-Finally, whole milk substitution is common among **[lactose-intolerant individuals](https://www.mayoclinic.org/diseases-conditions/lactose-intolerance/symptoms-causes/syc-20374232).** When cooking for such individuals, you will need lactose-free milk or any other substitute that will not affect them adversely. 
+Finally, whole milk substitution is common among **lactose-intolerant individuals.** When cooking for such individuals, you will need lactose-free milk or any other substitute that will not affect them adversely. 
 
 ## Types of Milk Used In Baking/ Cooking 
 
@@ -139,7 +139,7 @@ This milk alternative offers a creamy and sweet soup. It is rich in vitamin D an
 
 ## Substitute for Whole Milk -The Bottom Line
 
-[Whole milk](https://www.medicalnewstoday.com/articles/296564) is undoubtedly one of the main ingredients in many recipes. If you’re [lactose intolerant](https://www.mayoclinic.org/diseases-conditions/lactose-intolerance/symptoms-causes/syc-20374232#:~:text=People%20with%20lactose%20intolerance%20are,its%20symptoms%20can%20be%20uncomfortable.) or a strict vegan, you’ll have to look for substitutes for whole milk.
+Whole milk is undoubtedly one of the main ingredients in many recipes. If you’re lactose intolerant or a strict vegan, you’ll have to look for substitutes for whole milk.
 
 If that sounds like a hassle, then worry no more!
 
