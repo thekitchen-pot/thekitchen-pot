@@ -54,7 +54,7 @@ The appliance has the following unique features:
 * **Two Handles.** Stockpots have two strong handles on both sides. Always ensure that the handles are strong enough to handle the weight, even when full. 
 * **A Lid (With a Handle on Top).** Most of the stockpots come with a lid. These lids are designed with an ergonomic handle, thus guaranteeing comfort, convenience, and safety. 
 
-These features [distinguish](https://yummiestfood.com/pasta-pot-vs-stock-pot-major-differences/) stockpots from pasta pots. The question of stockpots vs. pasta pots has been rife among many cooking enthusiasts. However, you must note the two cooking appliances are different (see below for a comprehensive pasta pot vs. stockpot comparison.)
+These features distinguish stockpots from pasta pots. The question of stockpots vs. pasta pots has been rife among many cooking enthusiasts. However, you must note the two cooking appliances are different (see below for a comprehensive pasta pot vs. stockpot comparison.)
 
 ## **Best Stock Pot with a Lid: Material Considerations** 
 
