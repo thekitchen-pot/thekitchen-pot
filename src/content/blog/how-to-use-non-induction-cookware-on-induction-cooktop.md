@@ -40,7 +40,7 @@ This guide offers tips on how to use non induction cookware on induction cooktop
 
 ## **What is an Induction Cookware?**
 
-**[Induction cookware](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)** is a pot or pan that is designed to work with an **[induction cooktop](https://thekitchenpot.com/blog/nuwave-induction-cooktop-review//)**. The bottom of the cookware is made from a [ferrous material,](https://www.metalsupermarkets.com/the-difference-between-ferrous-and-non-ferrous-metal/) such as cast iron, which must be strongly magnetic. This material allows the induction current to flow through it.
+**[Induction cookware](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)** is a pot or pan that is designed to work with an **[induction cooktop](https://thekitchenpot.com/blog/nuwave-induction-cooktop-review//)**. The bottom of the cookware is made from a ferrous material, such as cast iron, which must be strongly magnetic. This material allows the induction current to flow through it.
 
 Noninduction cookware will not work with an induction cooktop because it does not have a ferrous bottom. So, is there a way you can modify the non-magnetic cookware to work with induction cooktops? Let’s find out here:
 
@@ -61,13 +61,9 @@ Read about some of the **[best heat diffusers](https://thekitchenpot.com/blog/ho
 If you are using a converter disk, follow these simple steps to make it work with your induction cooktop:
 
 1. Place the converter disk on your induction cooktop.
-
 2. Place your pot or pan on top of the converter disk.
-
 3. Turn on your induction cooktop and set the cooking temperature. For example, if you are using a pot with a temperature setting of “medium,” set your induction cooktop to “medium.”
-
 4. The converter disk will start to heat up. Do not touch it. You will be able to feel the heat on the bottom of your pot or pan.
-
 5. Cook until your food is ready.
 
 **Disadvantages of Using a Converter Disk**
