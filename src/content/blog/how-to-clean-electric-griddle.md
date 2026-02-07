@@ -33,11 +33,11 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Did you know that you can prepare Hamburgers, pancakes, and [Paninis](https://www.foodnetwork.com/recipes/articles/50-panini) at home without a hassle? Well, all you need is an electric griddle! Despite its benefits, how to clean electric griddle fast is a headache for many kitchen lovers! If you’re in such a situation, then this guide is for you! 
+Did you know that you can prepare Hamburgers, pancakes, and Paninis at home without a hassle? Well, all you need is an electric griddle! Despite its benefits, how to clean electric griddle fast is a headache for many kitchen lovers! If you’re in such a situation, then this guide is for you! 
 
 It’s essential to maintain the griddle surface clean to extend its useful lifespan. Luckily, the cleaning process is not challenging. Even if the pancakes burned on its surface, cleaning the appliance is easy.
 
-There are numerous ways to clean an electric griddle. While cleaning procedures and materials vary from person to person, the goal is universal: a nice looking, and a [clean griddle](https://www.wikihow.com/Clean-a-Griddle) that allows for delicious and efficient cooking of unadulterated meals.
+There are numerous ways to clean an electric griddle. While cleaning procedures and materials vary from person to person, the goal is universal: a nice looking, and a clean griddle that allows for delicious and efficient cooking of unadulterated meals.
 
 ## How to Clean Electric Griddle
 
@@ -63,7 +63,7 @@ When it comes to the cleaning task, patience is fundamental! You must take ample
 
 * Start by disconnecting the griddle from the power source. Safety First!
 
-> An [electric griddle is an electric appliance.](https://content.etilize.com/User-Manual/1036203115.pdf) So unplugging it won’t cause damage to the device (or to you). From there, you can continue safely.
+> An electric griddle is an electric appliance. So unplugging it won’t cause damage to the device (or to you). From there, you can continue safely.
 
 Also, griddles can be hot and can burn you badly when handled with less care.
 
