@@ -71,7 +71,7 @@ From this construction, you can be sure that HexClad cookware will deliver effic
 
 ## HexClad Unique Patented Laser Etching Design 
 
-[HexClad](https://africa.businessinsider.com/reviews/hexclad-skillets-work-for-any-and-all-cooktops-heres-why-its-the-only-nonstick-pan/vsl8hw7) uses patented technology to design its pots and pans. It guarantees nonstick surfaces that are easy to clean. Its laser etching design yields highly ergonomic and efficient cookware.
+HexClad uses patented technology to design its pots and pans. It guarantees nonstick surfaces that are easy to clean. Its laser etching design yields highly ergonomic and efficient cookware.
 
 Here are the benefits of the technology:
 
@@ -110,7 +110,7 @@ Additionally, the cookware ensures that you use the least amount of oil as its v
 * Durable tri-ply construction
 * Unique HexClad hexagon design is created through a laser etching process
 * Compatible with all cooktops
-* [PFOA-free](https://madeincookware.com/blogs/what-is-pfoa), oven safe up to 500 degrees
+* PFOA-free, oven safe up to 500 degrees
 * Scratch resistant and won’t scuff or wear down from use of metal utensils
 
 [Check Latest Price on Amazon](https://www.amazon.com/Hexclad-Nonstick-Cookware-Utensil-Induction/dp/B07L36PTD9/?tag=kitchenpot-20)
@@ -176,7 +176,7 @@ Use warm water and soap to clean the cookware. This removes dust particles and e
 
 **Season It** 
 
-You should NEVER start using your pans before you [season](https://www.wikihow.com/Season-a-Stainless-Steel-Pan) them. This will guarantee nonstick cooking and improve your overall cooking experiences. To achieve this, follow the following simple steps:
+You should NEVER start using your pans before you season them. This will guarantee nonstick cooking and improve your overall cooking experiences. To achieve this, follow the following simple steps:
 
 * Place your pan on any cooktop
 * Heat it under medium-low heat 
