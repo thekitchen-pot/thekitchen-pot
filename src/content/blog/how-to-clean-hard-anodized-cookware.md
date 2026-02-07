@@ -42,13 +42,13 @@ However, you must learn how to clean hard anodized cookware exterior and interio
 
 ## What are Hard Anodized Cookware?
 
-Before we learn the basics of how to clean hard [anodized cookware](https://en.wikipedia.org/wiki/Anodizing), you must understand what exactly they are. 
+Before we learn the basics of how to clean hard anodized cookware, you must understand what exactly they are. 
 
 Well, hard anodized cookware are pans and pots made of aluminum metal that has been hardened through a complex electrochemical process. They are approximately 30% harder than ordinary stainless steel. 
 
 ## How are Hard Anodized Cookware Made?
 
-The process of making hard anodized cookware is straightforward. The [concept](https://patents.google.com/patent/US9139926B2/en) is to subject aluminum to electrical charges. 
+The process of making hard anodized cookware is straightforward. The concept is to subject aluminum to electrical charges. 
 
 To achieve this, the aluminum is passed through an acid bath. As a result, oxidation occurs leading to a coat of aluminum oxide. This process is responsible for the hardening of aluminum.
 
@@ -78,7 +78,7 @@ Hard anodized pans are a must-have if you want to revolutionize your cooking exp
 
 ## How to Clean Hard Anodized Cookware Interior
 
-If you want to achieve optimum performance of your hard anodized cookware, you should always [clean it immediately after use](https://www.wikihow.com/Clean-Anodized-Cookware).
+If you want to achieve optimum performance of your hard anodized cookware, you should always clean it immediately after use.
 
 However, you should never place it immediately in cold water before it cools. If you do this, it is likely to warp, which will reduce its longevity. 
 
