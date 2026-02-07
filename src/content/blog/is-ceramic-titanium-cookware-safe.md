@@ -43,7 +43,7 @@ Let’s now delve into answering the question: Is ceramic-titanium cookware safe
 
 ## What is Ceramic-Titanium Cookware?
 
-[Ceramic titanium](https://www.alices.kitchen/cookware/is-ceramic-titanium-cookware-safe/) cookware is made out of **titanium metal but is coated with a ceramic layer** to give it a glassy look and nonstick properties. 
+Ceramic titanium cookware is made out of **titanium metal but is coated with a ceramic layer** to give it a glassy look and nonstick properties. 
 
 It is crucial to note that ceramic-titanium cookware is primarily made of titanium. Only a tiny percentage of ceramic material is used to coat the pan. 
 
@@ -59,7 +59,7 @@ Here are several properties of titanium metal that influence its use as raw mate
 * **Acid-Resistant.** Titanium is an acid-resistant metal, thus ensuring that your cookware will not react with your food leading to hazardous compounds or unwanted smell.
 * **Scratch Resistant.** When titanium is exposed to oxygen, it forms a thin layer of titanium oxide. This layer protects the metal from degradation. Whenever the titanium pans are scratched, the layer will quickly regenerate to restore its original shiny appearance. 
 
-Titanium is highly [compatible](https://www.researchgate.net/publication/230256793_Compatibility_of_Titanium_in_Soft_and_Hard_Tissue_-_The_Ultimate_is_Osseointegration) with human tissue. Besides making cookware, the metal has been applied heavily in the medical field. 
+Titanium is highly compatible with human tissue. Besides making cookware, the metal has been applied heavily in the medical field. 
 
 ### **Downsides of Titanium Metal when Used for Cookware**
 
@@ -71,7 +71,7 @@ However, modifications and infusions have helped to improve the functionality of
 
 ## Why Ceramic Coating on Titanium?
 
-Using a [nonstick cookware](https://en.wikipedia.org/wiki/Non-stick_surface) makes cooking blissful. Since titanium is not nonstick, manufacturers found it necessary to infuse the titanium with a ceramic coating to give it the nonstick properties.
+Using a nonstick cookware makes cooking blissful. Since titanium is not nonstick, manufacturers found it necessary to infuse the titanium with a ceramic coating to give it the nonstick properties.
 
 While there are many other nonstick coatings, **[ceramic is preferred](https://thekitchenpot.com/blog/best-ceramic-cookware-set//)** due to its high safety profile. 
 
