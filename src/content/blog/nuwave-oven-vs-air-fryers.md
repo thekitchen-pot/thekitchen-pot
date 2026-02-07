@@ -60,7 +60,7 @@ Nuwave oven vs air fryers? Do you want to settle for one but you are not sure wh
 
 ## **What is an Air Fryer?**
 
-An [air fryer](https://en.wikipedia.org/wiki/Air_fryer) is a kitchen appliance that cooks by circulating hot air around the food using the convection mechanism. 
+An air fryer is a kitchen appliance that cooks by circulating hot air around the food using the convection mechanism. 
 
 A mechanical fan circulates the hot air around the food at high speed. The food is then cooked producing a crispy layer via the browning reactions of caramelization and mail lard reaction.
 
@@ -136,7 +136,7 @@ To read more about [Air Fryers, how they work, and the best products to consider
 
 ## **What is a NuWave Oven?**
 
-The [Nu Wave infrared oven](https://greengarageblog.org/15-nuwave-oven-pros-and-cons) is simply a new method of cooking that uses three different systems simultaneously; infrared conduction, and convection.
+The Nu Wave infrared oven is simply a new method of cooking that uses three different systems simultaneously; infrared conduction, and convection.
 
 Infrared is an invisible, radiant form of heat. It penetrates through food to cook the inside, while browning the outside.
 
@@ -255,7 +255,7 @@ Nuwave oven vs Air fryers? It’s fair to say that the differences between these
 
 ## **Nuwave Oven vs Air Fryers – The Bottom Line**
 
-[Nuwave Oven](https://hewise.com/how-nuwave-oven-pro-work/) vs Air Fryers? Wondering which one to buy? Well, both the air fryer and the nuwave oven will definitely simplify the way you cook your meals.
+Nuwave Oven vs Air Fryers? Wondering which one to buy? Well, both the air fryer and the nuwave oven will definitely simplify the way you cook your meals.
 
 However, your choice will depend on your preferences and what you really enjoy cooking. If you love fried foods, then an air fryer is ideal for you. If you prefer baked products, then a nuwave oven is the way to go.
 
