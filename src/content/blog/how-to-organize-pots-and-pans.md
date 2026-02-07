@@ -57,7 +57,7 @@ Additionally, you should always ensure that the pans that you use regularly are 
 
 ## How to Organize Your Pots and Pans In a Lazy Susan Organizer
 
-[Lazy susans](https://en.wikipedia.org/wiki/Lazy_Susan) allow you to organize your items in the fridge, cabinets, and countertops. They come in different shapes and sizes to accommodate both small and large cookware. 
+Lazy susans allow you to organize your items in the fridge, cabinets, and countertops. They come in different shapes and sizes to accommodate both small and large cookware. 
 
 To achieve the pots and pans organization using lazy Susan organizers, the first step is deciding on which type of lazy Susan organizer to buy. 
 
