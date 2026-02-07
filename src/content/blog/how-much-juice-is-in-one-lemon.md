@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-A kitchen without lemon is incomplete! The small, rounded fruit has many [crucial roles](https://www.wikihow.com/Use-Lemons) ranging from cleaning stained cookware to juicing.
+A kitchen without lemon is incomplete! The small, rounded fruit has many crucial roles ranging from cleaning stained cookware to juicing.
 
 If you want to get the best from a lemon, you should extract its juice and store it in **[airtight containers](https://thekitchenpot.com/blog/best-airtight-food-storage-containers//)**. This way, you can drink it, cook with it, or use it for cleaning any time you want.
 
@@ -86,7 +86,7 @@ Once cut, you can use your fork to loosen up the membranes. Place a container be
 
 **Use a Lemon Squeezer**
 
-There are many [lemon squeezers](https://en.wikipedia.org/wiki/Lemon_squeezer) you can try out. These crucial kitchen gadgets offer an ergonomic grip, thus allowing you to press the lemon hard enough to extract all the juice.
+There are many lemon squeezers you can try out. These crucial kitchen gadgets offer an ergonomic grip, thus allowing you to press the lemon hard enough to extract all the juice.
 
 **Here’s a guide on [how to use a lemon juicer effectively](https://thekitchenpot.com/blog/how-to-use-a-lemon-juicer//)**
 
