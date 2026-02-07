@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-What comes to your mind when you hear about Le Creuset cast iron skillet? For many, this [brand](https://en.wikipedia.org/wiki/Le_Creuset) is associated with sophistication, elegance, and bold pricing.  
+What comes to your mind when you hear about Le Creuset cast iron skillet? For many, this brand is associated with sophistication, elegance, and bold pricing.  
 
 But what makes Le Creuset cast iron skillets expensive? And are they any better than the **[Lodge pre-seasoned cast iron skillet?](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88/?tag=kitchenpot-20)**  
 
@@ -103,7 +103,7 @@ In this section, we delve into the characteristics of these prestigious skillets
 
 Branding
 
-Le Creuset is a [prestigious](https://www.lecreuset.com/about-le-creuset/about-le-creuset.html) brand associated with deluxe French cookware. It was started in the 1920s and has since built its reputation by producing top-notch cooking equipment. 
+Le Creuset is a prestigious brand associated with deluxe French cookware. It was started in the 1920s and has since built its reputation by producing top-notch cooking equipment. 
 
 It has a unique choice of color that makes its cookware ooze with the elegance that befits high-end kitchens. Its classic Flame color is incredibly exceptional. 
 
@@ -197,7 +197,7 @@ However, when using a cast iron pan that is not enameled, you must season it oft
 
 Having used Le Creuset Enameled Skillet for the longest time, I will not hesitate to recommend the skillet to any lover of quality cookware. 
 
-While the product will set you back a few hundred dollars, the top-notch functionality, durability, and elegance of the product are undoubtedly [worth every coin](https://www.booniehicks.com/why-buy-le-creuset/). 
+While the product will set you back a few hundred dollars, the top-notch functionality, durability, and elegance of the product are undoubtedly worth every coin. 
 
 I can assure you that this pan does not warp and is chip-resistant. Interestingly, no need to season, and the non-reactive nature of enamel guarantees safety. 
 
