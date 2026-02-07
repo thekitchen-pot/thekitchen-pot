@@ -42,7 +42,7 @@ Keurig uses k-cups to help you make coffee of your desired concentration. The ma
 
 ## What is a Keurig Coffee Maker?
 
-Before we proceed, it would best if you understand what Keurig means. Well, [Keurig](https://en.wikipedia.org/wiki/Keurig) is a beverage brewing system for home or commercial use. 
+Before we proceed, it would best if you understand what Keurig means. Well, Keurig is a beverage brewing system for home or commercial use. 
 
 The machines are named after the founder, Keurig Dr. Pepper. The main products from Keurig include single-serve coffee machines, commercial multiple-cups machines, K-Cup pods, and many other beverage pods. 
 
@@ -104,7 +104,7 @@ Press the BREW button and wait for your coffee. The brewing takes anywhere betwe
 
 ## How to Clean and Maintain Your Keurig Coffee Maker Machine
 
-[Cleaning](https://www.goodhousekeeping.com/home/cleaning/a35532/how-to-clean-a-keurig-coffee-maker/) and maintaining your coffee maker is essential as it improves efficacy and guarantees longevity. We recommend that you descale your Keurig machine after every 3-6 months, depending on the frequency of use. 
+Cleaning and maintaining your coffee maker is essential as it improves efficacy and guarantees longevity. We recommend that you descale your Keurig machine after every 3-6 months, depending on the frequency of use. 
 
 ### **Descaling Keurig Coffee Maker Using White Vinegar**
 
