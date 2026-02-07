@@ -36,7 +36,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Whether you’re making a sour or sweet lemon dessert, a citrus salad dressing, or preparing a fresh batch of lemonade, the chances are that you’ll be using a handheld lemon squeezer. However, how to use a lemon juicer perfectly is a constantly pain for many cooks!
 
-For many, the [lemon-juicing](https://en.wikipedia.org/wiki/Lemon_squeezer) process is like: cutting the lemon into pieces, placing the pieces on a squeezer with the cut side facing down, and then squeezing.
+For many, the lemon-juicing process is like: cutting the lemon into pieces, placing the pieces on a squeezer with the cut side facing down, and then squeezing.
 
 But that juicing process is lengthy and cumbersome!
 
@@ -46,7 +46,7 @@ Now the question is how to use a lemon squeezer to get perfect results. This art
 
 ## How to Use a Lemon Juicer
 
-In this section, we’ll look at 3 perfect answers to; how to use a [lemon juicer](https://www.countryliving.com/food-drinks/a43942/best-way-to-use-lemon-juicer/). Each section will give a unique juicing method alongside a step-by-step guide on the requirements and the methodology.
+In this section, we’ll look at 3 perfect answers to; how to use a lemon juicer. Each section will give a unique juicing method alongside a step-by-step guide on the requirements and the methodology.
 
 1. **How to Use a Lemon Juicer – Citrus Juicers**
 
@@ -87,7 +87,7 @@ After that, the juicer crushes the lemon fruit then emits the juice in a differe
 
 > A masticating juicer needs ample time to juice as it operates slowly and controlled speed.
 
-However, apart from being slow, the juice produced is fresh, thick, and [full of nutrients](https://www.healthline.com/nutrition/foods/lemons) and can stay for an extended period as they squeeze fruits slowly.
+However, apart from being slow, the juice produced is fresh, thick, and full of nutrients and can stay for an extended period as they squeeze fruits slowly.
 
 ### **3. How to Use a Lemon Juicer – Centrifugal Lemon Juicers** 
 
@@ -100,6 +100,6 @@ These juicers function precisely like a blender as they have a high-speed rotati
 
 ## **How to Use a Lemon Juicer – Final Words** 
 
-Using a [lemon juicer](https://www.wikihow.com/Juice-a-Lemon) to produce lemon juice is not an easy task! The way you juice the lemon can affect its final taste. For instance, if you use a handheld method, the final result will be a natural and real lemon juice. 
+Using a lemon juicer to produce lemon juice is not an easy task! The way you juice the lemon can affect its final taste. For instance, if you use a handheld method, the final result will be a natural and real lemon juice. 
 
 But the quality won’t be the same as that processed using a juicer as they squeeze the lemon with the peel. But if you want to save time, prepare fresh lemon juice using a lemon juicer!
