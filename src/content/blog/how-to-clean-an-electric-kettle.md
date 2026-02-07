@@ -40,7 +40,7 @@ However, you may want to get rid of it since it’s ugly and makes the inside of
 
 ## Why You Should Get Rid of Limescale in Your Electric Kettle
 
-Like we’ve already indicated, limescale is [not harmful to human beings](https://nj.gov/health/eoh/rtkweb/documents/fs/4001.pdf). It is made of calcium carbonate, often used as a supplement for healthy bones and muscles, and antacids. 
+Like we’ve already indicated, limescale is not harmful to human beings. It is made of calcium carbonate, often used as a supplement for healthy bones and muscles, and antacids. 
 
 So, why should you bother to remove it, yet it is harmless? These two reasons may necessitate the removal of the limescale:
 
@@ -51,7 +51,7 @@ If you want to make your electric kettle cleaning easy, you should always ensure
 
 ## How Descaling an Electric Kettle Works
 
-[Descaling your electric kettles](https://www.wikihow.com/Clean-an-Electric-Kettle) involves removing chemical compounds that are formed due to reactions between the kettle’s surface and the chemical elements found in hard water.
+Descaling your electric kettles involves removing chemical compounds that are formed due to reactions between the kettle’s surface and the chemical elements found in hard water.
 
 One of the most common debris that forms on an electric kettle is **calcium carbonate**. This is an alkaline substance that forms inside the kettle, making it ugly and ineffective.
 
@@ -85,7 +85,7 @@ If there are any stubborn spots left, you should use a non-abrasive scrubber to 
 
 Vinegar is a superior cleaning agent that can help you to descale your electric kettle in a few minutes! You will require:
 
-* [Apple cider vinegar solution](https://www.instructables.com/How-to-Descale-a-Tea-Kettle/)/ White vinegar
+* Apple cider vinegar solution/ White vinegar
 * Water
 * Scrubber
 
