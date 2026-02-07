@@ -9,7 +9,7 @@ source: wordpress
 slug: how-to-clean-an-air-fryer-basket
 pubDate: 2020-06-02
 modDate: 2025-01-17
-image: src/content/blog/images/cleaning-an-air-fryer-basket-scaled.jpg
+image: ""
 category: How To Guides
 author: Boniface Muriuki
 authorImage: ""
@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-You recently bought an [air fryer](https://en.wikipedia.org/wiki/Air_fryer). You love everything about it! Yes, you can cook fast and and your family is happy about your well-dried fries, right? But there is a problem! How to clean an air fryer basket has been the biggest headache since you bought your air fryer.
+You recently bought an air fryer. You love everything about it! Yes, you can cook fast and and your family is happy about your well-dried fries, right? But there is a problem! How to clean an air fryer basket has been the biggest headache since you bought your air fryer.
 
 If you’re in such a situation, then worry no more! This article offers a comprehensive guide that’ll help revolutionize the process of cleaning your air fryer basket.
 
@@ -45,7 +45,7 @@ But what’s the solution? Clean your air fryer.
 
 But how to clean an air fryer basket? Well, all you need is soapy hot water with a gentle sponge to get the oil and grease off the air fryer’s basket. Like other kitchen appliances, you must properly maintain and clean it if you want guaranteed efficacy and durability. 
 
-If you fail to take optimum care for your air fryer, it will accumulate undesirable flavors and smells. Additionally, dirty [air fryer baskets](https://www.wikihow.com/Use-a-Nuwave-Air-Fryer) can cause the appliance to smoke, thus reducing the quality of food being cooked.
+If you fail to take optimum care for your air fryer, it will accumulate undesirable flavors and smells. Additionally, dirty air fryer baskets can cause the appliance to smoke, thus reducing the quality of food being cooked.
 
 ## How to Clean an Air Fryer – What to Avoid
 
@@ -74,7 +74,6 @@ The air fryer basket cleaning process is incredibly easy, but there are activiti
 * *Perhaps you’ll position the basket on the sink or on some paper towel pieces to trap any grease drip*s.
 
 3. If you spot some grease or dirt on the bottom side of the basket, ensure you remove this before you start washing the basket with soapy water. Grip the pan on top of a lidded disposable container like a plastic tub or a glass jar. 
-
 4. With that, gently tip out the grease into it. Immediately you’ve removed all the oil, make sure you seal the container then discard it.
 
 * *Liquid fats can easily get out, but solid fats can be a bit stressful to remove. But you can use a plastic utensil. Never use a metal stick as it can scratch the nonstick coating.*
@@ -85,7 +84,6 @@ The air fryer basket cleaning process is incredibly easy, but there are activiti
 * *If the appliance isn’t extremely dirty, and there are no greasy spots, skip this step.*
 
 6. After you soak the basket for 10 minutes, lift it then scrub off the grease and food residue. Make use of warm soapy water and a soft-bristled brush on both sides of the mesh. You can also use a sponge.
-
 7. Rinse the basket then set it aside. 
 
 ***Note: avoid using steel wire sponges or stiff-bristled brushes to wash the air fryer’ basket as these can ruin the nonstick coating.***
