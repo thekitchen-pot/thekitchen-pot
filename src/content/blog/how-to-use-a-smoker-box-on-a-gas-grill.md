@@ -38,7 +38,7 @@ On its own, the [gas grill](https://thekitchenpot.com/blog/best-gas-grills-under
 
 But the question is:
 
-Is it possible to smoke meat using a [gas grill](https://en.wikipedia.org/wiki/Barbecue_grill)? The simple answer is yes. But you must have a smoker box. Gas grills are designed with lids that permit smoke and heat to easily escape leading to the production of poor quality food compared to food cooked on a smoker.
+Is it possible to smoke meat using a gas grill? The simple answer is yes. But you must have a smoker box. Gas grills are designed with lids that permit smoke and heat to easily escape leading to the production of poor quality food compared to food cooked on a smoker.
 
 And if all you have in your kitchen is a gas grill, never think that you will miss those delicious barbecues that spices up your summer outings with family and friends.
 
@@ -62,11 +62,11 @@ No big deal; the main goal here is to even the heat inside the grill to save you
 
 Again, you’ll have to [use a smoker box](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills//). You can construct one for your own or rather buy. Both ways work, although commercial smoker boxes are made of durable materials that can be recycled.
 
-If you prefer [constructing a smoker box](https://www.foodandwine.com/cooking-techniques/grilling/diy-smoker-box-mad-genius-tips) on your own, ensure you use an aluminum foil to build a ball with wood chips inside. After that, load wood chips on the tray then poke some holes on top to allow smoke escape.
+If you prefer constructing a smoker box on your own, ensure you use an aluminum foil to build a ball with wood chips inside. After that, load wood chips on the tray then poke some holes on top to allow smoke escape.
 
 * **Load the Wood Chips on the Smoker Box** 
 
-Once the [smoker box](https://www.wikihow.com/Use-a-Smoker) is ready, just load the wood chips (your preferred choice) then close it. The type of wood chips you use depends on the food cooked and your preferred taste.
+Once the smoker box is ready, just load the wood chips (your preferred choice) then close it. The type of wood chips you use depends on the food cooked and your preferred taste.
 
 Also, you can decide to soak the chips before loading them to your gas drill. Soaking helps to increase the density of the smoke. However, it’s not mandatory and you may skip it!
 
@@ -112,4 +112,4 @@ Who doesn’t like a little char on their BBQ? To many folks, owning a grill is 
 
 These gadgets work great on gas grills to result in tasty and delicious meals with some amount of char and smokiness.
 
-How to use a [smoker box](https://blog.cavetools.com/how-to-use-your-smoker-box-a-complete-guide/) on a gas grill? Read this comprehensive guide for all the tips. You’ll achieve the best smoke level that you want. However, if you don’t have a smoker box, buy one! This will boost your grilling game to the next level.
+How to use a smoker box on a gas grill? Read this comprehensive guide for all the tips. You’ll achieve the best smoke level that you want. However, if you don’t have a smoker box, buy one! This will boost your grilling game to the next level.
