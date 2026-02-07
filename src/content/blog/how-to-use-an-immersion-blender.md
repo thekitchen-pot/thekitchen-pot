@@ -43,7 +43,7 @@ Well, you don’t have to sweat it anymore. It’s easy and user friendly. This 
 
 ### **What is an Immersion Blender?**
 
-An [immersion blender](https://en.wikipedia.org/wiki/Immersion_blender) is a kitchen tool or handheld electric appliance used for grinding or blending sauces, soups, and other liquids. it has a protected blade that can be submerged in food being processed without any adverse effect. 
+An immersion blender is a kitchen tool or handheld electric appliance used for grinding or blending sauces, soups, and other liquids. it has a protected blade that can be submerged in food being processed without any adverse effect. 
 
 This magical device is the epitome of efficiency and convenience! It’s small-sized and highly portable to allow use it wherever you wish. You can hold it as you immerse it into your soup/sauce and watch as it refines your meals.
 
@@ -57,7 +57,7 @@ This magical device is the epitome of efficiency and convenience! It’s small-s
 
 ## **How to use an immersion blender – Detailed Guide**
 
-An [immersion blender](https://www.wikihow.com/Use-an-Immersion-Blender) is made up of a motor that connects at the end of a long shaft. The function of the motor is to revolve the cutting blades placed at the other end of the long shaft.
+An immersion blender is made up of a motor that connects at the end of a long shaft. The function of the motor is to revolve the cutting blades placed at the other end of the long shaft.
 
 The blades in the blender should be sharp and easy to detach for easy cleaning. The long shaft in the appliance allows immersion into your bowl where your food is being blended.
 
@@ -84,7 +84,7 @@ Ensure that you read the manufacturer’s guide on how to use an immersion blend
 
 * **Always Keep the Power Off at Expository Times**
 
-When [using](https://www.wikihow.com/Use-an-Immersion-Blender) your immersion blender always ensure you unplug before detaching or attaching any of its parts. Also, ensure you take off the power from your appliance before cleaning it
+When using your immersion blender always ensure you unplug before detaching or attaching any of its parts. Also, ensure you take off the power from your appliance before cleaning it
 
 * **Wash Your Immersion Blender After Using It**
 
