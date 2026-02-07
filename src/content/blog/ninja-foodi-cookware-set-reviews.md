@@ -59,7 +59,7 @@ Ninja Foodi cookware set is marketed as having been optimized to offer unmatched
 
 [Check Latest Price on Amazon](https://www.amazon.com/Ninja-C39900-NeverStick-Hard-Anodized-16-Piece/dp/B08C1K2XF8?tag=kitchenpot-20)
 
-**While these pans are marked dishwasher safe, we recommend that you [hand-wash them](https://www.cleaninginstitute.org/cleaning-tips/dishes/dishwashing-made-easy). We noticed that they discolor after using a dishwasher several times. To maintain the aesthetics, use warm, soapy water and a sponge to clean them.** 
+**While these pans are marked dishwasher safe, we recommend that you hand-wash them. We noticed that they discolor after using a dishwasher several times. To maintain the aesthetics, use warm, soapy water and a sponge to clean them.** 
 
 ## Ninja Foodi NeverStick Cookware Set: What’s in the Box
 
@@ -114,7 +114,7 @@ I am convinced that the textured surface contributes significantly to its durabi
 
 **NeverStick Surface**
 
-Ninja Foodi NeverStick Premium [Hard-Anodized](https://en.wikipedia.org/wiki/Anodizing) 8-Piece Cookware Set lives up to its name. Its surface is nonstick and resistant to chipping & flaking. Additionally, its surface guarantees an excellent food release – you will not struggle to get off your omelet from the pan!
+Ninja Foodi NeverStick Premium Hard-Anodized 8-Piece Cookware Set lives up to its name. Its surface is nonstick and resistant to chipping & flaking. Additionally, its surface guarantees an excellent food release – you will not struggle to get off your omelet from the pan!
 
 It comes complete with a textured surface that’s designed to offer metal-utensil safe cooking. As such, you will use your metallic spatulas without the worry of scratching the nonstick surface which would otherwise lead to the loss of the NeverStick feature. 
 
