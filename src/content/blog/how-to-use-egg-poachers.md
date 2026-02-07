@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-You’re probably wondering how to [poach eggs](https://en.wikipedia.org/wiki/Poached_egg) like a professional. Well, the process is easier said than done! And that’s why you should use an egg poacher! This article gives a step-by-step guide on how to use egg poachers. 
+You’re probably wondering how to poach eggs like a professional. Well, the process is easier said than done! And that’s why you should use an egg poacher! This article gives a step-by-step guide on how to use egg poachers. 
 
 ## **How to Use Egg Poachers: Why You Must Learn the Art**
 
@@ -48,7 +48,7 @@ Each type has its particular user guide with detailed instructions on how to use
 
 And who wants the fate of their eggs to be determined by sheer luck? None! 
 
-That’s why we’ve come up with this procedure (a step by step guide) on how to use egg poachers. You’ll never miss on the immense [benefits of poached eggs](https://www.healthline.com/nutrition/10-proven-health-benefits-of-eggs) again!
+That’s why we’ve come up with this procedure (a step by step guide) on how to use egg poachers. You’ll never miss on the immense benefits of poached eggs again!
 
 ### **How to use Silicone Egg Poacher** 
 
@@ -57,7 +57,6 @@ That’s why we’ve come up with this procedure (a step by step guide) on how t
 * ***You can use a paper towel dipped inside the oil or a cooking spray to coat the inner part of the pod. But if you target to give your egg some extra flavor, you can use a thin layer of butter to coat the inner part of the pod.***
 
 2. Boil approximately 1.3 cm (1/2 inch) of water inside a pot. Ensure you cover the pot with a lid. Put the pot on a medium heat on a stove then allow it to heat for approximately 5 minutes or so.
-
 3. Crack your egg on the silicone egg poacher then place the pod on the pot. Be careful not to crack the egg’s yolk when breaking it inside the pod. Remember to set the flat side of the poacher up to make it float on the surface.
 
 * ***Try as much as possible to avoid water from getting inside the egg poacher after placing it on the pot. The egg might not be ruined in case water gets inside the pod, but the results may not come out perfectly as you may want it to be.***
@@ -67,8 +66,6 @@ That’s why we’ve come up with this procedure (a step by step guide) on how t
 * ***If you find it hard removing the egg away from the pod, you can run a spoon all over the edges then pop your egg out.***
 
 5. Finally, serve the poached eggs immediately. If you leave them to sit for long, they can develop a rubbery feeling.
-
-### ![How to use egg poachers](images/portablegasgrill.jpg)
 
 ### **How to use a Microwave egg Poacher** 
 
@@ -85,9 +82,7 @@ That’s why we’ve come up with this procedure (a step by step guide) on how t
 * ***Add a little water on the cups you aren’t using.***
 
 4. After that, slice each egg yolk using a fork when using a microwave poacher. If you don’t pierce the egg yolks, the high temperatures in the microwave can explode the yolk. However, for a perfect outcome, never pierce the eggs more than once.
-
 5. Finally, ensure you add some water on each egg, then shut the poacher’s lid, and position it on the microwave. After that, run your microwave for about 30 seconds then check whether the eggs are ready.
-
 6. If they aren’t ready, rerun the microwave for 30 seconds until the eggs are white with soft yolks. The whole process takes around 4 minutes if you want your eggs to be properly cooked.
 
 * ***When your eggs get poached, the timer shuts immediately.***
@@ -95,17 +90,14 @@ That’s why we’ve come up with this procedure (a step by step guide) on how t
 ### **How to Use Stove Top Egg Poacher** 
 
 1. Add 1⁄2 inch of water to a simmer on a pan. Ensure that the water touches the bottom of the cups once you place it on the pan.
-
 2. Put the pan over high heat on a stovetop to add water to simmer. You can use medium heat to get rid of messes that may be occasioned by water boiling vigorously. When that happens, the egg whites can create a mess through splashing out.
-
 3. Crack one egg on each poaching cup. However, to prevent the sticking of eggs, spray the poacher’s cups with cooking oil then add the eggs. To make things easier, you can crack the eggs on a measuring cup then add on the poaching cup.
 
 * ***Also, when not using all the cups, you can add water into the extra cups to prevent any burning.***
 
 4. Position the poaching cups on the pan then add the lid on top. The cap must protect the top of the pan to protect the steam heat from running away.
-
 5. Cook your eggs for 3 minutes, then remove them away from the pan. You can as well poach the eggs for up to 5 minutes, although this depends on how the yolk will be.
 
 * ***The outer parts of the eggs will be pale white with a soft yolk. The longer you use the egg poacher for cooking the eggs, the less runny and firmer the yolk will be.***
 
-Voila! As you can see, the guide on how to use [egg poachers](https://www.recipetips.com/glossary-term/t--36255/egg-poacher.asp) is straightforward process; you can now feast on the poached eggs. They can be sweeter on toasted English muffins.
+Voila! As you can see, the guide on how to use egg poachers is straightforward process; you can now feast on the poached eggs. They can be sweeter on toasted English muffins.
