@@ -50,7 +50,7 @@ This article will carefully guide you on the best bread proofing basket to choos
 
 ## **What is Bread Proofing?**
 
-[Proofing of bread](https://en.wikipedia.org/wiki/Proofing_(baking_technique)) refers to a process where yeast converts sugar to carbon dioxide and alcohol in the absence of oxygen, causing the dough to rise.
+Proofing of bread refers to a process where yeast converts sugar to carbon dioxide and alcohol in the absence of oxygen, causing the dough to rise.
 
 ## **Best Bread Proofing Baskets – Types of Banneton Baskets**
 
