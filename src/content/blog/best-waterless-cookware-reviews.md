@@ -47,16 +47,6 @@ The results?
 
 You’ll get delicious and healthy food at the end! If that sounds interesting, then it is the right time to shop for the best waterless cookware. This article guides you through every shopping step.
 
-## **Best Waterless Cookware – Comparison** 
-
-| Image | Name                                                                         | Features                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ----- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Cuisinart MCP-12N Multiclad Pro Stainless Steel 12-Piece Cookware Set        | \-Polished cooking surface does not discolor, react with food or alter flavors-Features cool grip handles secured with stainless steel rivets and self-basting, tight fitting lids, Triple-Ply construction includes the unsurpassed heat conductivity of a pure aluminum core-Oven safe up to 550F-Dishwasher safe                                                                                            |
-|       | Cooks Standard 10 Piece Multi-Ply Clad Cookware Set, Stainless Steel         | \-Stainless steel for durability and appearance; Aluminum core for even/quick heat distribution-Secure-fitting lids trap in heat/moisture to seal flavor; Riveted handles stay cool and comfortable-Works on Induction, gas, electric, glass, ceramic, halogen, etc.; Oven safe to 500F; Dishwasher safe                                                                                                       |
-|       | Maxam 9-Element Waterless Cookware Set, 17-Pieces                            | \-Forged out of corrosive-resistant T304 surgical stainless steel-Temperature is controlled via Steam Control Valves-Spreading heat quickly and evenly throughout their 5-ply base                                                                                                                                                                                                                             |
-|       | Duxtop SSIB-17 Professional 17 Pieces Stainless Steel Induction Cookware Set | \-Constructed with 18/10 commercial grade stainless steel, heavy gauge impact-bonded aluminum encapsulated bottom, build to last for a life time-Ergonomically shaped handle with anti-slippery satin finish, handle is riveted to pan provide durability-Dishwasher-safe; oven-safe to 550 degrees F; freezer-safe for food storage; Lifetime Limited warranty                                                |
-|       | Calphalon Classic Pots And Pans Set, 10-Piece Cookware Set, Stainless Steel  | \-Impact bonded aluminum bases provide fast, even heating; Safe for the stove, oven, broiler, and dishwasher-Long, ergonomic handles provide a secure grip even with full, heavy pans, stay cool even when pan is hot, and are double riveted by hand-Fill lines make measuring easy, and covers have straining holes that line up with pour spouts to drain liquids without having to use a separate colander |
-
 ## **What is Waterless Cooking?**
 
 Just like the name suggests, waterless cooking challenges you to cook without adding water to your dish. Wondering how this is possible?
@@ -71,7 +61,7 @@ However, when cooking dry food such as rice, you’ll require a little water. Th
 
 ## **Why is Waterfree Cooking Healthy?**
 
-Like we’ve already indicated, the waterless cooking technique uses its [natural juice](https://www.livestrong.com/article/350652-percentage-of-water-in-fruits-vegetables/). As such, you can be sure that you’ll retain many nutrients and minerals to benefit your body.
+Like we’ve already indicated, the waterless cooking technique uses its natural juice. As such, you can be sure that you’ll retain many nutrients and minerals to benefit your body.
 
 Here’s what makes waterless cooking a healthier option:
 
@@ -289,7 +279,7 @@ All the pots are completed with a steam control knob to help you regulate the te
 The set comprises of:
 
 * 1. 5qt saucepan with cover 
-* 1. 5qt stockpot with cover 
+  2. 5qt stockpot with cover 
 * 2qt stockpot with cover 
 * 3qt stockpot with cover 
 * 6qt stockpot with cover 
@@ -367,7 +357,7 @@ However, you should never compromise on quality. You’d rather spend an extra b
 
 ## **Best Waterless Cookware – The Bottom Line**
 
-There are many benefits of using your best waterless cookware. These appliances are designed in a way to [minimize the need of using oil and water](https://cookpad.com/ke/search/waterless) when cooking your meals. 
+There are many benefits of using your best waterless cookware. These appliances are designed in a way to minimize the need of using oil and water when cooking your meals. 
 
 As such, you can be sure that you’ll retain the natural flavor and nutrients in your meals. This guarantees a healthy meal for your family. 
 
