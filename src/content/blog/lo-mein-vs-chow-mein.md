@@ -64,7 +64,7 @@ The preparation involves the use of wheat-flour noodles. For Chow Mein, **noodle
 
 ### **What is Chow Mein?**
 
-[Chow](https://www.thespruceeats.com/lo-mein-vs-chow-mein-694238) means fried, and Mein means noodles. So, Chow Mein means fried noodles. They are cooked on a **[flat pan or a wok](https://thekitchenpot.com/blog/best-wok-for-electric-stove//)** to achieve a unique crispness that makes leaves an excellent taste on your mouth. 
+Chow means fried, and Mein means noodles. So, Chow Mein means fried noodles. They are cooked on a **[flat pan or a wok](https://thekitchenpot.com/blog/best-wok-for-electric-stove//)** to achieve a unique crispness that makes leaves an excellent taste on your mouth. 
 
 The exact taste of Chow Mein depends on the meat and vegetables used in its preparation. It can be spicy, have lots of vegetables, or even include Tofu. 
 
@@ -127,7 +127,7 @@ Lo Mein is high in carbs and salts. The calories increase if you use a sauce mad
 
 ## Lo Mein vs. Chow Mein – What Exactly is the Difference 
 
-The primary [difference](https://thekitchencommunity.org/chow-mein-vs-lo-mein-noodles/) between the two dishes is in the prep method. Chow Mein’s noodles are stir-fried, which gives them a relatively crispy feel.
+The primary difference between the two dishes is in the prep method. Chow Mein’s noodles are stir-fried, which gives them a relatively crispy feel.
 
 On the other hand, Lo Mein’s noodles are boiled. As such, they are relatively soft. 
 
