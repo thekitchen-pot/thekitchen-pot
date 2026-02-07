@@ -43,7 +43,7 @@ This article explores how to clean ceramic pan for guaranteed longevity and top-
 
 ## The History of Ceramic Cookware 
 
-Interestingly, ceramic pans are among the [earlies](https://www.xtrema.com/blogs/blog/history-of-ceramic)[t](https://www.xtrema.com/blogs/blog/history-of-ceramic) cooking appliances. The human race started making them thousands of years ago to aid them in cooking. 
+Interestingly, ceramic pans are among the earlies[t](https://www.xtrema.com/blogs/blog/history-of-ceramic) cooking appliances. The human race started making them thousands of years ago to aid them in cooking. 
 
 The initial cookware sets were made from a mixture of animal fat, bone ash, and smooth clay-like material. 
 
@@ -53,7 +53,7 @@ However, the inventions of technologically advanced cooking pans masked the use 
 
 Due to their enhanced functionality, the ceramic cookware items have been accepted in the current world. Top manufacturers, including T-Fall, Calphalon, Rachael Ray, and [Paula Deen](https://thekitchenpot.com/blog/paula-deen-cookware-reviews//), are making unique ceramic cookware. 
 
-If you’re to get the best out of these appliances, you should learn the basics of how to [clean ceramic](https://www.wikihow.com/Clean-Ceramic-Pans) pan. This article will give you all the tips to care for your cookware optimally. 
+If you’re to get the best out of these appliances, you should learn the basics of how to clean ceramic pan. This article will give you all the tips to care for your cookware optimally. 
 
 ## Ceramic Cookware vs Ceramic-Coated Cookware – What is the Difference?
 
@@ -79,7 +79,7 @@ Before you understand crucial details on how to clean ceramic pans, you should u
 
 Yes, ceramic cookware remains among the safest cooking appliances in the market today. The pans are made of 100% ceramic material which eliminates any chemical reactions that may impact the quality of your food negatively.
 
-Additionally, these pans are free from [PFOA and Teflon](https://www.cancer.org/cancer/cancer-causes/teflon-and-perfluorooctanoic-acid-pfoa.html). They have no added layer, which eliminates any risk of flaking and peeling.
+Additionally, these pans are free from PFOA and Teflon. They have no added layer, which eliminates any risk of flaking and peeling.
 
 As such, you can be sure that cooking using ceramic cookware is efficient, safe, and super convenient. 
 
@@ -111,7 +111,7 @@ When cleaning the bottom of your pan, you can use 3% hydrogen peroxide to remove
 
 ### **How to Clean Ceramic Pan Interior** 
 
-To [clean](https://www.ceramices.com/how-to-clean-a-burnt-ceramic-pan/) the interior of your ceramic cookware, you’ll follow the same procedure as described above (the exterior section). However, you should be relatively gentle when cleaning the interior.
+To clean the interior of your ceramic cookware, you’ll follow the same procedure as described above (the exterior section). However, you should be relatively gentle when cleaning the interior.
 
 Unlike the exterior cleaning, you should never use scorching powder when cleaning it unless all the other methods to remove debris have failed.
 
