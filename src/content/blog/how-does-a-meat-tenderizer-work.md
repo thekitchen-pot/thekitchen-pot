@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-There is nothing as frustrating as encountering a [chewy chunk of meat](https://prime-13.com/what-does-tough-and-chewy-steak-mean/) when enjoying your meal. It not only takes away your appetite but raises the chances of choking!
+There is nothing as frustrating as encountering a chewy chunk of meat when enjoying your meal. It not only takes away your appetite but raises the chances of choking!
 
 If you’ve found yourself in such situations, then it is the right time to invest in the right meat tenderizer. 
 
@@ -53,7 +53,7 @@ Alternatively, you may use a manual tenderizer such as a mallet or **[ultrasharp
 
 ## **How Meat Tenderizer Powder Works**
 
-[Meat tenderizer](https://en.wikipedia.org/wiki/Meat_tenderizer) powders work by breaking down the connective tissues in your meat. They contain **proteolytic enzymes.** 
+Meat tenderizer powders work by breaking down the connective tissues in your meat. They contain **proteolytic enzymes.** 
 
 But what are connective tissues? Why does breaking the tissue make the meat tender? To help you understand how a meat tenderizer works, you should first fathom the meat’s structure. 
 
@@ -113,7 +113,7 @@ The salt will break down connective tissues, making the meat tender. However, it
 
 ## **10 Best Meat Tenderizers and How They Work** 
 
-Besides the meat tenderizer powders, there are other [DIY techniques](https://www.thespruceeats.com/homemade-meat-tenderizer-1388329) to soften your meat before cooking. Interestingly, most of these tenderizers are readily available on your kitchen shelf.
+Besides the meat tenderizer powders, there are other DIY techniques to soften your meat before cooking. Interestingly, most of these tenderizers are readily available on your kitchen shelf.
 
 They include:
 
