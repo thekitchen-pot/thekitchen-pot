@@ -42,7 +42,7 @@ So, what is the difference between the two blenders? This article provides in-de
 
 ## Ninja Blender Vs NutriBullet – Why You Need One
 
-While fruits contain critical nutrients, we find it difficult to eat the [recommended amount](https://www.myplate.gov/eat-healthy/fruits). This is largely due to our busy life schedules, making it hard to find time to eat hard fruits.
+While fruits contain critical nutrients, we find it difficult to eat the recommended amount. This is largely due to our busy life schedules, making it hard to find time to eat hard fruits.
 
 However, eating fruits is not optional!
 
@@ -145,7 +145,7 @@ So, what do you check when choosing the best blender for the money. This section
 
 ## **Nutribullet Blender** Reviews
 
-[Nutribullet Blenders](https://www.amazon.com/s?k=nutribullet+blender&rh=n%3A1055398%2Cp_89%3ANutriBullet&dc&crid=227C81V2L8E85&qid=1635268179&rnid=2528832011&sprefix=nutrib%2Caps%2C444?tag=kitchenpot-20) are renowned for making low-volume [smoothies](https://downshiftology.com/best-smoothie-recipes/) for personal use. The company has, for a long time, specialized with small and compact blenders. 
+[Nutribullet Blenders](https://www.amazon.com/s?k=nutribullet+blender&rh=n%3A1055398%2Cp_89%3ANutriBullet&dc&crid=227C81V2L8E85&qid=1635268179&rnid=2528832011&sprefix=nutrib%2Caps%2C444?tag=kitchenpot-20) are renowned for making low-volume smoothies for personal use. The company has, for a long time, specialized with small and compact blenders. 
 
 Some of its [products](https://www.amazon.com/s?k=nutribullet+blender&rh=n%3A1055398%2Cp_89%3ANutriBullet&dc&crid=227C81V2L8E85&qid=1635268179&rnid=2528832011&sprefix=nutrib%2Caps%2C444?tag=kitchenpot-20) include Nutribullet RX n17 1001 blender, Nutribullet 12-Piece high-speed blender/mixer system, Magic Bullet Nutribullet pro 900 blender/mixer (15 pieces), and Nutribullet NBR-1201 12-piece high-speed blender/mixer system (600 watts).
 
@@ -173,7 +173,7 @@ While this blender may sound relatively weak on blending hard stuff, it is not e
 
 ### **A Major Advantage of NutriBullet Blender Combo**
 
-One of the greatest wins of this blender is the **inclusion of vented pitches**. This makes this [blender](https://en.wikipedia.org/wiki/Blender) the best for blending hot food. 
+One of the greatest wins of this blender is the **inclusion of vented pitches**. This makes this blender the best for blending hot food. 
 
 There is no chance, whatsoever, that hot air will accumulate in the pitcher. This eliminates the risk of an explosion/ blow of food contents which could result in an accident. 
 
