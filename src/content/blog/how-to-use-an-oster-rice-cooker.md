@@ -47,7 +47,7 @@ If you’ve found yourself in such a quagmire, then you’ll require an Oster Ri
 
 ## What is an [Oster Rice Cooker](https://www.amazon.com/Oster-6-Cup-Cooker-Steam-CKSTRCMS65/dp/B007JNNN5U?tag=kitchenpot-20)?
 
-An Oster [Rice Cooker](https://en.wikipedia.org/wiki/Rice_cooker) is a rice cooking appliance that automates the process of cooking your rice. This way, it saves you the hassle of manually regulating heat and determining the amount of water needed. 
+An Oster Rice Cooker is a rice cooking appliance that automates the process of cooking your rice. This way, it saves you the hassle of manually regulating heat and determining the amount of water needed. 
 
 The cooker comes with its measuring cup, which ensures that you only cook within the acceptable capacity limits. Also, the existence of these cups enables you to measure the exact water required to cook the specific volume of rice. 
 
@@ -111,7 +111,7 @@ If you want to enjoy soft rice, you can let it sit in the cooker for another 15 
 
 ## **How to Use an Oster Rice Cooker – Steaming Vegetables** 
 
-Besides using your oster rice cooker for rice cooking, you can use it for [steaming](https://www.allrecipes.com/recipes/17713/everyday-cooking/cookware-and-equipment/rice-cooker/) your favorite vegetables, proteins, and corn. 
+Besides using your oster rice cooker for rice cooking, you can use it for steaming your favorite vegetables, proteins, and corn. 
 
 When well-used, you can be sure that you’ll preserve the nutrients, color, and the original taste of all your vegetables. 
 
