@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 While glass top stoves are appealing and will add elegance to your kitchen, they can be difficult to manage. This is especially so if you are using cast iron cookware. 
 
-Due to these maintenance difficulties, you should try to avoid using [cast iron](https://en.wikipedia.org/wiki/Cast_iron) cookware if you have a glass stovetop.
+Due to these maintenance difficulties, you should try to avoid using cast iron cookware if you have a glass stovetop.
 
 If you insist on using the rather incompatible cookware with your glass stovetop, then you must learn the basics of how to protect glass top stove from cast iron. This will ensure that you maintain the shiny luster of your stove while enjoying the efficacy of cast iron pots. 
 
@@ -73,7 +73,7 @@ If you must use cast iron cookware, then you must a heat diffuser for glass top 
 
 * **Always Clean Your Cast Iron Cookware Before Use**
 
-[Washing](https://www.wikihow.com/Clean-Cast-Iron) your cookware helps in removing debris and other residues stuck on the bottom of your pots. If you fail to remove them, you’ll be risking carbonization which will lead to black marks on your stovetop.
+Washing your cookware helps in removing debris and other residues stuck on the bottom of your pots. If you fail to remove them, you’ll be risking carbonization which will lead to black marks on your stovetop.
 
 Additionally, the carbonization process may lead to the creation of debris. These hard materials will scratch the glass cooktop, thus destroying its aesthetics. 
 
@@ -111,7 +111,7 @@ When you place them on your glass top stove, they act as a buffer. They regulate
 
 * **The Flat Side of Your Heat Diffuser Should Sit on the Stovetop** 
 
-Ensuring that the flat side of the [heat diffuser](https://www.recipetips.com/glossary-term/t--38214/heat-diffuser.asp) sits on the cooktop surface eliminates any risk of shifting when cooking. If you skip this crucial step, the heat diffuser may move unexpectedly leading to spillage and possible accidents. 
+Ensuring that the flat side of the heat diffuser sits on the cooktop surface eliminates any risk of shifting when cooking. If you skip this crucial step, the heat diffuser may move unexpectedly leading to spillage and possible accidents. 
 
 * **Place Your Cast Iron Pots Centrally on the Heat Diffuser** 
 
