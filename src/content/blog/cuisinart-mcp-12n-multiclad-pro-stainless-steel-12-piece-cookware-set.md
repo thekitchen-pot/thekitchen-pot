@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Cuisinart MCP-12n Multiclad Pro Stainless Steel 12-Piece Cookware Set is one of the most polished cookware you can add to your kitchen arsenal. The set epitomizes excellence, efficacy, and elegance – a combo that’ll bring phenomenal transformation to your cooking escapades. 
 
-This set has a polished shiny surface and a highly ergonomic design. It is made out of [high-grade stainless steel](https://www.reliance-foundry.com/blog/304-vs-316-stainless-steel) and an aluminum core, guaranteeing uniform heat distribution. It is also ideal for use with an induction cooktop.
+This set has a polished shiny surface and a highly ergonomic design. It is made out of high-grade stainless steel and an aluminum core, guaranteeing uniform heat distribution. It is also ideal for use with an induction cooktop.
 
 The Cuisinart MCP-12n Cookware Set includes:
 
@@ -186,9 +186,6 @@ If you want a relatively smaller saucepan, you should consider the [**719-16 Che
 
 ### **2. [All-Clad 4203 Sauce Pan with Lid, 3-Quart, Silver](https://www.amazon.com/All-Clad-Stainless-Tri-Ply-Dishwasher-Cookware/dp/B004T6PS80?tag=kitchenpot-20)**
 
-![
-All-Clad 4203 Sauce Pan with Lid, 3-Quart, Silver](images/portablegasgrill.jpg)
-
 **Features**
 
 * Features high, straight sides to assist with stirring a smaller surface area to hold heat and limit evaporation
@@ -203,7 +200,7 @@ All-Clad 4203 Sauce Pan with Lid, 3-Quart, Silver](images/portablegasgrill.jpg)
 
 Cuisinart MCP-12n Multiclad Pro Stainless Steel 12-Piece Cookware Set is a worthwhile investment that offers everything that you’d desire in an excellent set. If you purchase the set, you’ll be guaranteed superior heating, ease of cleaning, and top-notch functionality. 
 
-However, you must be keen to [season](https://www.wikihow.com/Season-a-Wok) the set since it can quickly burn your foods when you use it for the first time. Additionally, the Cuisinart MCP-12n Multiclad Pro Stainless Steel 12-Piece Cookware Set may produce some buzz sounds when using an induction cooktop, especially when using high heat settings. 
+However, you must be keen to season the set since it can quickly burn your foods when you use it for the first time. Additionally, the Cuisinart MCP-12n Multiclad Pro Stainless Steel 12-Piece Cookware Set may produce some buzz sounds when using an induction cooktop, especially when using high heat settings. 
 
 Overall, the Cuisinart MCP-12n Multiclad Pro Stainless Steel 12-Piece Cookware Set is ideal cookware that did not disappoint! We enjoyed every minute of using this superb cookware, and we believe that it will also suit you best. However, you must have adequate storage space if you want to get the best convenience from the set. 
 
