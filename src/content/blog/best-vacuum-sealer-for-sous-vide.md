@@ -36,24 +36,11 @@ But how do sous vide work?
 
 Well, sous vide allows you to cook your meat/other meals under vacuum. It allows you to achieve exceptionally soft meat that’s neither overcooked or under cooked.
 
-However, before you’ll need to put your food into an [airtight bag](https://en.wikipedia.org/wiki/Vacuum_packing). While this may sound simple, it can be frustrating! As such, you should invest in the best vacuum sealer for sous vide.
+However, before you’ll need to put your food into an airtight bag. While this may sound simple, it can be frustrating! As such, you should invest in the best vacuum sealer for sous vide.
 
 Does that sound confusing? 
 
 Well, we’ll break it down for you in an easy-to-understand buying guide! Get unmatched buying tips and a comprehensive list of the best vacuum sealer for sous vide. 
-
-## Best Vacuum Sealer for Sous Vide
-
-| Image | Name                                         | Features                                                                                                                                                                                                                                                                           |
-| ----- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | NutriChef Vacuum Sealer                      | \-automatic simple electric plug in design-two selectable modes- includes a wine stopper cork, 5 medium vacuum bags (78 x 118 inch ) and one extra long vacuum bag roll (78 x 790 inch ); reusable and waterproof                                                                  |
-|       | FoodSaver V4840 2-In-1                       | \-includes: (1) 11"x10' Roll, (3) Qt Heat-Seal Bags, (2) Gal Heat-Seal Bags, (3) Qt Zipper Bags, (2) Gal Zipper Bags-Multi-ply material prevents freezer burn                                                                                                                      |
-|       | Nesco VS-12 130W Vacuum Sealer, Black/Silver | \-Roll storage compartment with bag cutter and sealing tray that fits up to 11.8” wide roll bag material-Includes Bag Material – 2 Rolls 8.66” x 9.8', 5 flat 8.66” x 11.8” and 5 flat 11” x 11.8”                                                                                 |
-|       | Impeccable Culinary Objects Vacuum Sealer    | \-Takes up 30% less counter-space than horizontal models like the FoodSaver V2244-certified phthalate free and BPA free bags (5x 1-quart size included) and rolls (1x 7.9"x2.6' included) design for sous vide                                                                     |
-|       | Crenova V60 Plus                             | \-built-in cutting knife-select Dry, Moist, Soft or Delicate Mode for perfect sealing- comes with everything you need to get started, including 1 air suction hose, 5 medium vacuum bags (7.8” x 11.8”), 5 large bags (11” x 12.5”) and 1 extra-long vacuum bag roll (7.8” x 80’’) |
-|       | KOIOS Vacuum Sealer                          | \-withstand temperatures of up to 300℉-Built-in cutter                                                                                                                                                                                                                             |
-|       | FoodSaver FM5200-000                         | \-express bag maker reduces bag making steps by 50% compared to foodsaver v4000 model- backed by a 5-year limited                                                                                                                                                                  |
-|       | SARKI Vacuum Sealer Machine                  | \-automatic one-touch operation design-includes 5 x vacuum sealer bags(8"*11.8"), 1 x vacuum sealer bag roll(8"*79") and 1 x air suction hose(17.7"), 1 x user manual                                                                                                              |
 
 ## Best Vacuum Sealer for Sous Vide
 
@@ -336,7 +323,7 @@ Here are a few considerations to make: 
 
 What is the suction power for your best vacuum sealer for sous vide? Different of these gadgets have varying powers, which translates to different sealing powers. 
 
-The [higher the suction power](https://thedaringkitchen.com/how-to-use-a-vacuum-sealer/), the easier it’ll be for your best vacuum sealer for sous vide to suck out the air out of large bags. Additionally, the best vacuum sealer for sous vide should have enough suction power to ensure efficient sealing within the shortest time possible. 
+The higher the suction power, the easier it’ll be for your best vacuum sealer for sous vide to suck out the air out of large bags. Additionally, the best vacuum sealer for sous vide should have enough suction power to ensure efficient sealing within the shortest time possible. 
 
 * **Storage Considerations**
 
