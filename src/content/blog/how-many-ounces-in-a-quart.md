@@ -73,7 +73,7 @@ As such, the solid and liquid measurement metrics will always vary depending on 
 
 ### So, How Many Ounces are In a Quart?
 
-According to the [US conversion](https://www.nist.gov/system/files/documents/pml/wmd/metric/1136a.pdf) metrics:
+According to the US conversion metrics:
 
 **One Quart = 32 Ounces / 2 Pints**
 
@@ -105,7 +105,7 @@ Therefore, if a recipe asks that you use two pints of milk, you can use 4 cups. 
 
 ### **What is the Difference Between Tablespoon and Teaspoon?**
 
-A [tablespoon](https://en.wikipedia.org/wiki/Tablespoon) is ideally a large spoon that is used for serving food/ eating. On the contrary, a teaspoon is a smaller spoon used to add sugar and stirring tea.
+A tablespoon is ideally a large spoon that is used for serving food/ eating. On the contrary, a teaspoon is a smaller spoon used to add sugar and stirring tea.
 
 **1 tablespoon = 3 teaspoons** 
 
