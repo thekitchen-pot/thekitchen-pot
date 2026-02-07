@@ -51,13 +51,13 @@ But is the red copper pan really made of copper?
 
 Well, not exactly! 
 
-These pans have a negligible percentage of copper metal, which explains their affordability. You cannot get **[pure copper cookware](https://shareasale.com/r.cfm?b=1704740&u=2750617&m=106011&urllink=&afftrack=)** anywhere at the price of these red copper pans (some even below $100 for a set).
+These pans have a negligible percentage of copper metal, which explains their affordability. You cannot get **pure copper cookware** anywhere at the price of these red copper pans (some even below $100 for a set).
 
 So, what are red copper pans made of?
 
 These pans are constructed using **aluminum but have a copper-infused ceramic nonstick coating**. As such, they are largely your ordinary aluminum pan, but with an attractive copper polish on the outer layer. 
 
-Therefore, you shouldn’t be misled that red copper pans are equal to **[pure copper cookware](https://shareasale.com/r.cfm?b=1704740&u=2750617&m=106011&urllink=&afftrack=)**; they are a world apart.
+Therefore, you shouldn’t be misled that red copper pans are equal to **pure copper cookware**; they are a world apart.
 
 However, you can still buy the red copper pans and pots if you need a nonstick pan. It has an advantage over Teflon-coated pans.
 
@@ -159,7 +159,7 @@ While it’s rated dishwasher safe, we recommend that you hand wash it using war
 
 When you step out to buy red copper cookware, you’re likely to be overwhelmed by the many brands available in the market. 
 
-First, it is crucial to note that there is a **[difference](https://www.simplyhealthyfamily.org/copper-chef-vs-red-copper/) between red copper/ copper-coated cookware and copper cookware.** 
+First, it is crucial to note that there is a **difference between red copper/ copper-coated cookware and copper cookware.** 
 
 When a manufacturer indicates that their pans are made out of red copper, it means that the set consists of aluminum/ stainless steel and a ceramic-copper coating. On the other hand, copper pots and pans are made of pure copper coated with tin. 
 
@@ -238,7 +238,7 @@ Once you’re through with cleaning, you should dry your red copper pans using a
 
 Failure to **[season your red copper pans](https://thekitchenpot.com/blog/how-to-season-red-copper-pan//)** can result in a frustrating cooking experience. In most cases, this omission will make you curse the day you bought the pans, quite literally. It will lead to the burning of food and difficult cleaning!
 
-As such, you should be careful to [season your copper pans](https://www.wikihow.com/Season-a-Red-Copper-Pan) to get the best out of them. But why is seasoning important? Well, the process fills tiny spaces on the surface of the pans, which boosts their non-stick properties. 
+As such, you should be careful to season your copper pans to get the best out of them. But why is seasoning important? Well, the process fills tiny spaces on the surface of the pans, which boosts their non-stick properties. 
 
 To get the best out of your red copper pans, we recommend that you follow these steps to season your pans without a hassle:
 
