@@ -51,7 +51,7 @@ Well, the surest way to enliven your kitchen is by purchasing helpful appliances
 
 ## 12 Cute Kitchen Appliances to Buy
 
-Do you want to offer a gift to a friend? Well, you can buy a [smart kitchen appliance](https://openei.org/wiki/Definition:Smart_Appliance) for them! You can be sure a kitchen appliance will be a constant reminder of your attachment to them.
+Do you want to offer a gift to a friend? Well, you can buy a smart kitchen appliance for them! You can be sure a kitchen appliance will be a constant reminder of your attachment to them.
 
 Here are a few of the coolest kitchen appliances for the money:
 
@@ -133,7 +133,7 @@ An espresso machine will use less water and minimum pressure bars. This shortens
 
 There are several types of espresso makers in the market today. You can choose to purchase a fully-automated, super-automatic, automatic, semi-automatic, or manual machine. 
 
-If you’re not an expert in making coffee, we advise that you avoid the [manual espresso makers](https://www.nytimes.com/wirecutter/kitchen-dining/coffee/) since they are a bit technical. 
+If you’re not an expert in making coffee, we advise that you avoid the manual espresso makers since they are a bit technical. 
 
 We recommend that you shop for **[Breville BES870XL Barista Express Espresso Machine, Brushed Stainless Steel.](https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU?tag=kitchenpot-20)**
 
@@ -263,7 +263,7 @@ The downside is that this electric knife sharpener is quite pricey. But, we can 
 
 ### **11. Mandoline Slicers**
 
-A [mandoline slicer](https://www.lacucinaitaliana.com/glossary/mandoline) cuts your food prep time significantly. Instead of cutting your vegetables using a knife, you can use this unique kitchen appliance! 
+A mandoline slicer cuts your food prep time significantly. Instead of cutting your vegetables using a knife, you can use this unique kitchen appliance! 
 
 The appliance consists of two parallel working surfaces that make it highly versatile. You can slice your vegetables into pieces of different sizes and shapes. 
 
