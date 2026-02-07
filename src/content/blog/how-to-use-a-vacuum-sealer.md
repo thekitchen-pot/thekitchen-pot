@@ -48,7 +48,7 @@ Here are three scenarios when a vacuum sealer will make life easy for you:
 
 **When Storing Food** 
 
-If you’re not careful with the method you use to [store food leftovers](https://www.wikihow.com/Store-Food), you’re likely to experience food poisoning. Storing the food on an open surface creates a perfect environment for harmful bacteria to multiply, which can cause severe health complications. 
+If you’re not careful with the method you use to store food leftovers, you’re likely to experience food poisoning. Storing the food on an open surface creates a perfect environment for harmful bacteria to multiply, which can cause severe health complications. 
 
 As such, you should ensure that you store the food in an environment that’s free of contamination. One of the surest ways to achieve that is by using a **[vacuum sealer](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide//)**. 
 
@@ -144,6 +144,6 @@ All you need to achieve this is a clean, damp cloth. Ensure that you soak it usi
 
 A vacuum sealer is essential when you want to preserve your meals for a long time. If you’re a fan of bulk buying or you use sous vide machine frequently, then a vacuum sealer is a necessity. 
 
-However, many people struggle [using the vacuum seale](https://www.cnet.com/home/smart-home/why-you-should-buy-a-vacuum-sealer/)r. As a result, they do not get the expected results. 
+However, many people struggle using the vacuum sealer. As a result, they do not get the expected results. 
 
 If you’ve struggled with how to use a vacuum sealer, then this guide is for you. We offer 3 simple steps that will revolutionize your use of the machine. It will be fun and highly efficient.
