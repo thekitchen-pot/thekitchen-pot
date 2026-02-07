@@ -37,7 +37,7 @@ Stargazer cast iron skillet appears quite dull on unpacking – certainly not a 
 
 But, appearance aside.
 
-The skillet performed beyond my expectations. I experienced no sticking or [hotspots](https://www.latimes.com/archives/la-xpm-1990-05-03-fo-58-story.html#:~:text=Hot%20spots%3A%20Nearly%20every%20microwave,nearly%20every%20oven%20has%20them.) whatsoever. This article gives you first-hand information on what to expect with Stargazer cast iron skillet.
+The skillet performed beyond my expectations. I experienced no sticking or hotspots whatsoever. This article gives you first-hand information on what to expect with Stargazer cast iron skillet.
 
 It gives an in-depth analysis of its construction, ergonomics, performance, ease-of-cleaning, among other parameters that will help you to make an informed buying decision. 
 
@@ -136,15 +136,15 @@ A 12-inch is ideal if you have a big family, or you’ll be using the skillet fo
 
 However, a 10.5-inch skillet will suffice if your family is small. Remember that the larger the skillet, the higher the pricing. As such, it wouldn’t make economic sense to buy a large skillet that you don’t need. 
 
-[10.5 Inch Price from Manufacturer](https://shrsl.com/2yzux)
+10.5 Inch Price from Manufacturer
 
-[12 Inch Price from Manufacturer](https://shrsl.com/2yzus)
+12 Inch Price from Manufacturer
 
 ## Bonus Offers from Stargazer
 
 Besides the cast iron skillets, Stargazer has some branded t-shirts and a unique kitchen apron for men and women. Here are their features and pricing:
 
-**1. [Stargazer Embroidered Logo Apron](https://shrsl.com/2yzve)**
+**1. Stargazer Embroidered Logo Apron**
 
 Features
 
@@ -152,11 +152,9 @@ Features
 * Stain-resistant cotton twill, 7.5 oz/sq yd
 * Large front pocket (with a divider)
 * Adjustable neck strap
-* 34 inches long and 24 inches wide
+* 34 inches long and 24 inches wide[](https://shrsl.com/2yzve)
 
-[Check Price at Stargazer.com](https://shrsl.com/2yzve)
-
-**2. [Stargazer Logo T-Shirt](https://shareasale.com/r.cfm?b=1323656&u=2750617&m=86485&urllink=stargazercastiron%2Ecom%2Fproducts%2Fjust%2Dkeep%2Dcooking%2Dt%2Dshirt&afftrack=)**
+**2. Stargazer Logo T-Shirt**
 
 Features
 
