@@ -76,7 +76,7 @@ Overall, good quality stainless steel cookware can be more expensive than the al
 
 ## How to Clean Stainless Steel Pans: Step by Step Guide 
 
-If you want to achieve a shiny pan, you should follow the following stainless steel [cleaning steps](https://www.wikihow.com/Clean-Brushed-Stainless-Steel) to the letter:
+If you want to achieve a shiny pan, you should follow the following stainless steel cleaning steps to the letter:
 
 * **Let the Pan Cool.** You should always wait for the pan to cool before you start the cleaning process. If you throw it into cold water when hot, it will warp, thus reducing its longevity.
 * **Use Warm Water.** Always use warm and soapy water when cleaning your stainless steel pans. This will ensure that you remove all food materials stuck on the surface of the pan.
@@ -88,7 +88,7 @@ If you want to achieve a shiny pan, you should follow the following stainless st
 
 If you want your pan to remain with the shiny appeal, you should always ensure that you get rid of all stains and water spots. 
 
-To achieve this, you should [use vinegar solution](https://www.nytimes.com/wirecutter/blog/how-to-clean-stainless-steel-pans/) to clean it regularly. There are two methods that you can use to achieve this. Follow the following guidelines for guaranteed results:
+To achieve this, you should use vinegar solution to clean it regularly. There are two methods that you can use to achieve this. Follow the following guidelines for guaranteed results:
 
 * **Method 1:** 
 
