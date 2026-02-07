@@ -84,7 +84,7 @@ Use the following simple steps to vacuum seal your chicken:
 
 ## **How Long Does a Chicken Last in a Freezer?**
 
-Freezing chicken guarantees that it will [last longer](https://ask.usda.gov/s/article/How-long-can-you-freeze-chicken) than when refrigerated. If you store **raw chicken in a vacuum-sealed container and freeze it, it can last for up to 12 months (for whole chicken) and 9 months (if in pieces)**.
+Freezing chicken guarantees that it will last longer than when refrigerated. If you store **raw chicken in a vacuum-sealed container and freeze it, it can last for up to 12 months (for whole chicken) and 9 months (if in pieces)**.
 
 On the other hand, **cooked chicken can last in a freezer for about 4 months**. 
 
