@@ -42,7 +42,7 @@ This steamer will make the art of steaming any of your favorite meals a breeze. 
 
 ## What is a Bamboo Steamer?
 
-When you think of a [bamboo steamer](https://thewoksoflife.com/how-to-use-bamboo-steamer/), what should come to your mind is a basket. Yes! A bamboo steamer is made using the same concept as the traditional baskets.
+When you think of a bamboo steamer, what should come to your mind is a basket. Yes! A bamboo steamer is made using the same concept as the traditional baskets.
 
 The steamer consists of interlocking baskets that are stuck on top of each other. It also has a woven lid that comes on the top.
 
@@ -102,7 +102,7 @@ Even better, the appliance has many basket segments, thus allowing you to cook m
 
 ## Bamboo Steamer Set Up 
 
-A [bamboo steamer](https://www.recipetips.com/glossary-term/t--37356/bamboo-steamer.asp) works by steaming your meals to unmatched doneness. The steamer is placed on top of a wok of simmering water.
+A bamboo steamer works by steaming your meals to unmatched doneness. The steamer is placed on top of a wok of simmering water.
 
 As the water simmers, steam rises through the open ridges available on the bottom of each basket. It rises through the layers of the bamboo steamer, cooking everything that is inside the baskets. 
 
@@ -135,7 +135,7 @@ Additionally, you should ensure that you space the food to prevent sticking and 
 
 ## How to Clean Your Bamboo Steamer 
 
-[Cleaning your bamboo steamer](https://www.wikihow.com/Clean-a-Bamboo-Steamer) is one of the essential maintenance tips. Ensure that you clean it thoroughly after every use. Follow these steps:
+Cleaning your bamboo steamer is one of the essential maintenance tips. Ensure that you clean it thoroughly after every use. Follow these steps:
 
 **Rinse the Steamer**
 
