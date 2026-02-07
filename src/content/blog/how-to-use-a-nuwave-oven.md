@@ -52,7 +52,7 @@ The appliance combines convection, conduction, and infrared systems to ensure th
 
 ## **How Does a Nuwave Oven Work**
 
-Nuwave Oven is possibly one of the most advanced cooking appliances you’ll ever get. I surely believe that it is a perfect enhancement of [air fryers](https://en.wikipedia.org/wiki/Air_fryer).
+Nuwave Oven is possibly one of the most advanced cooking appliances you’ll ever get. I surely believe that it is a perfect enhancement of air fryers.
 
 **[Read a comprehensive NuWave Oven vs Air Fryer’s comparison here](https://thekitchenpot.com/blog/nuwave-oven-vs-air-fryers//)**
 
@@ -80,7 +80,7 @@ Since the development of infrared cooking and the release of Nuwave Oven in the 
 
 Consequently, multiple research studies have been conducted to determine the efficacy and possible health hazards of using this cooking approach.
 
-In [one of the studies](https://www.mdpi.com/1420-3049/24/22/4125/htm), researchers endeavored to determine the effect of infrared on physicochemical properties and nutritional value of various foods. The findings showed that infrared, when used at the right dosage, is an environmentally friendly method of cooking.
+In one of the studies, researchers endeavored to determine the effect of infrared on physicochemical properties and nutritional value of various foods. The findings showed that infrared, when used at the right dosage, is an environmentally friendly method of cooking.
 
 As such, you should never fear using your Nuwave Infrared Oven. It will offer one of the safest and quickest methods to cook your meals!
 
@@ -114,7 +114,7 @@ This appliance is highly versatile and it offers you numerous cooking options. I
 While this is a must-have appliance, it has a few shortcomings. They include:
 
 * Difficult to bake
-* Requires [cleaning](https://homeguides.sfgate.com/how-to-clean-nuwave-ovens-and-power-heads-13409594.html) after every use
+* Requires cleaning after every use
 
 ## **How to Use a Nuwave Oven Effectively – Unique Tips**
 
@@ -149,7 +149,7 @@ Additionally, you should avoid using highly abrasive cleansers on the plastic an
 
 ## **How to Use a Nuwave Oven -The Bottom Line**
 
-You’ve recently bought your Nuwave Oven but you have no idea how to use it. If you want to [unlock its benefits](https://delishably.com/cooking-equipment/infrared-nuwave-oven-review), you’ll need to learn all the basics of how to use a nuwave oven. 
+You’ve recently bought your Nuwave Oven but you have no idea how to use it. If you want to unlock its benefits, you’ll need to learn all the basics of how to use a nuwave oven. 
 
 The kitchen appliance will help to unlock your cooking potential. It combines convection, conduction, and infrared cooking approaches, making it one of the most advanced kitchen appliances. 
 
