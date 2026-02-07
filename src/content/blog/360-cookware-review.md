@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-360 pans and pots are hand-crafted with precision in a [Green E-Certified](https://www.green-e.org/) factory located in West Bend, Wisconsin. The company has specialized in the production of heavy-duty cookware with vapor seal to allow waterless cookware. 
+360 pans and pots are hand-crafted with precision in a Green E-Certified factory located in West Bend, Wisconsin. The company has specialized in the production of heavy-duty cookware with vapor seal to allow waterless cookware. 
 
 If you’re looking to upgrade your kitchen arsenal, then you should consider this healthy cookware option. This 360 cookware review offers an in-depth analysis of the cookware’s pros and cons. 
 
@@ -81,7 +81,7 @@ To achieve this, 360 cookware comes with unique lids with the following features
 * The **inner layer is made of T-304 surgical-grade stainless steel**. This metal is non-porous and does not react with your food. As such, you can be sure of safety and food free from metallic taste. 
 * The **outer layer is made out of T-400 stainless steel**, which is mixed with nickel and carbon making it stronger, durable, and compatible with all stovetops, including induction cooktops. 
 
-Additionally, 360 cookware uses [11-gauge metal](https://www.metalsupermarkets.com/sheet-metal-gauge-chart/) in all the construction work. This metal grade is thick enough to guarantee durability, superb heat retention, and adequate heat distribution. 
+Additionally, 360 cookware uses 11-gauge metal in all the construction work. This metal grade is thick enough to guarantee durability, superb heat retention, and adequate heat distribution. 
 
 ### Surgical-Grade Stainless Steel Construction -Why It is Important
 
