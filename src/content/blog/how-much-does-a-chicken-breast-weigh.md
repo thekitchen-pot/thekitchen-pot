@@ -36,7 +36,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Knowing the weight of your chicken breast is an absolute necessity if you value serving even food rations. It helps you ensure that you’re taking the recommended chicken portions, thus facilitating healthy eating.
 
-However, it might not be practical to use a [weighing machine](https://en.wikipedia.org/wiki/Weighing_scale) every time you want to cook and serve your chicken. As such, there is a universally accepted range that will guide you on the weight of different parts of your adult chicken.
+However, it might not be practical to use a weighing machine every time you want to cook and serve your chicken. As such, there is a universally accepted range that will guide you on the weight of different parts of your adult chicken.
 
 So, how much does a chicken breast weigh?
 
@@ -50,7 +50,7 @@ However, the weight reduces significantly after being cooked. A cooked chicken b
 
 ## How Many Chicken Breasts in a Pound?
 
-If you’re a chef and wondering [how many](https://boatbasincafe.com/how-many-chicken-breast-are-in-a-pound/) chicken breasts or boneless chicken breasts are in a pound, then you’re not alone!
+If you’re a chef and wondering how many chicken breasts or boneless chicken breasts are in a pound, then you’re not alone!
 
 This question is a bit confusing because it doesn’t have a definite answer. The number of chicken breasts in a pound will depend significantly on the size of the chicken.
 
