@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Owning an elegant and efficient cookware set is a dream of every cooking enthusiast. It gives unmatched satisfaction and creates an insatiable urge to test different recipes.
 
-Such pots must have high conductivity, superb [heat retention](https://sciencing.com/heat-retention-science-projects-6526365.html), and an ergonomic design. In this article, we put the Blue Diamond Cookware into a test. Will it meet all the requirements of an ideal cookware set?
+Such pots must have high conductivity, superb heat retention, and an ergonomic design. In this article, we put the Blue Diamond Cookware into a test. Will it meet all the requirements of an ideal cookware set?
 
 Let’s find out in this comprehensive Blue Diamond Cookware review. We highlight its features, functionality, pros, and cons. Read on.  
 
@@ -85,7 +85,7 @@ However, the warranty does not cover any damage resulting from careless handling
 
 ## **Blue Diamond Ceramic Cookware Sets Review**s
 
-All Blue Diamond cookware sets are made of heavy-duty materials and coated with a [diamond-infused nonstick coating](https://healthy-cookware.com/diamond-coated-cookware/). The base is carefully crafted to resist warping and wobbling, which guarantees durability and unmatched functionality. 
+All Blue Diamond cookware sets are made of heavy-duty materials and coated with a diamond-infused nonstick coating. The base is carefully crafted to resist warping and wobbling, which guarantees durability and unmatched functionality. 
 
 While Blue Diamond markets its products as Metal utensils safe, **we recommend that you do not use metal-based scrubbers when cleaning them**. The longevity of the cookware sets will significantly be enhanced by using gentle and soft cleaning agents. 
 
