@@ -90,7 +90,7 @@ If you look at the adverts, you’re likely to be misled that the Lodge cast iro
 
 Well, I found this to be untrue.
 
-Initially, it **would be best if you [seasoned your cast iron skillet](https://www.wikihow.com/Season-Cast-Iron-Cookware)** to prevent food from sticking on the pan’s surface. 
+Initially, it **would be best if you seasoned your cast iron skillet** to prevent food from sticking on the pan’s surface. 
 
 To achieve this, you should place the pan on the stovetop and let it heat before adding oil (vegetable oil such as canola is best).
 
@@ -150,7 +150,7 @@ Wipe the skillet after use and apply a layer of oil before storage.
 
 ## Lodge Cast Iron Skillet Nonstick Property Test 
 
-The lodge skillet is pre-seasoned – meaning that it is covered with a layer of oil that prevents [food from sticking](https://cooking.nytimes.com/recipes/1016334-cast-iron-steak) on the pan’s surface.
+The lodge skillet is pre-seasoned – meaning that it is covered with a layer of oil that prevents food from sticking on the pan’s surface.
 
 While this feature is used for marketing this pan, it is not entirely true.
 
@@ -191,18 +191,18 @@ You’ll be guaranteed of performance and durability. However, always ensure tha
 
 While Lodge claims that this skillet is pre-seasoned, we found it necessary to season it before using it. The seasoning ensures that your food does not stick on the pan, resulting in difficult cleaning. Also, ensure that you spread a layer of oil on the skillet before storing it.
 
-### What is the largest Lodge cast iron skillet?u003cbru003e
+### What is the largest Lodge cast iron skillet?
 
-The largest Lodge skillet is 15 inches. The skillet is large enough to cook meals enough to feed a moderately large family. The most popular among cooking enthusiasts are the Lodge cast iron 12-inch skillet, Lodge cast iron skillet 10-inch, and the Lodge cast iron 8-inch skillet.u003cbru003e
+The largest Lodge skillet is 15 inches. The skillet is large enough to cook meals enough to feed a moderately large family. The most popular among cooking enthusiasts are the Lodge cast iron 12-inch skillet, Lodge cast iron skillet 10-inch, and the Lodge cast iron 8-inch skillet.
 
-### Is Lodge the best cast iron?u003cbru003e
+### Is Lodge the best cast iron?
 
-The Lodge is one of the oldest cast iron manufacturing companies in the United States. Since its inception in 1896, Lodge has gained a remarkable reputation, and the Lodge cast iron skillet is certainly the most popular skillet in the US.u003cbru003e
+The Lodge is one of the oldest cast iron manufacturing companies in the United States. Since its inception in 1896, Lodge has gained a remarkable reputation, and the Lodge cast iron skillet is certainly the most popular skillet in the US.
 
-### How do I clean my Lodge cast iron skillet?u003cbru003e
+### How do I clean my Lodge cast iron skillet?
 
-Simply clean the skillet using warm water. Avoid using soap and abrasive cleaning agents. It would be best if you also seasoned it after cleaning.u003cbru003e
+Simply clean the skillet using warm water. Avoid using soap and abrasive cleaning agents. It would be best if you also seasoned it after cleaning.
 
-### How do I restore my Lodge cast iron skillet?u003cbru003e
+### How do I restore my Lodge cast iron skillet?
 
-Season it! If you want to restore the pan’s functionality, you should clean it, dry it, apply oil, and bake it at approximately 450 degrees until you can see smoke coming from the pan. u003cbru003e
+Season it! If you want to restore the pan’s functionality, you should clean it, dry it, apply oil, and bake it at approximately 450 degrees until you can see smoke coming from the pan.
