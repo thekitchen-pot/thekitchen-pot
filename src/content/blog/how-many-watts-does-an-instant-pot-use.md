@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 One of the biggest fear for most people when it comes to electric appliances is the amount of energy they use. And it’s a valid concern given that the amount of energy an item uses determine how much you have to pay for your electric bill.
 
-So, how many [watts](https://en.wikipedia.org/wiki/Watt) does an Instant Pot use? The answer is simple: 700-1200 watts depending on the capacity and brand.
+So, how many watts does an Instant Pot use? The answer is simple: 700-1200 watts depending on the capacity and brand.
 
 It’s something that you might want to know as it’ll help you estimate your electric bill. Also, since the **[Instant Pot is a kitchen appliance](https://thekitchenpot.com/blog/instant-pot-vs-ninja-foodi//)** that pretty much everyone knows about now, it’s good to know what to expect before purchasing one. Here is a comprehensive guide.
 
