@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Cooking from your kitchen can be monotonous, right? You’d need to try [outdoor recipes](https://www.countryliving.com/food-drinks/g2444/campfire-recipes/) with your family as you bond. But there is a problem:
+Cooking from your kitchen can be monotonous, right? You’d need to try outdoor recipes with your family as you bond. But there is a problem:
 
 You only own a heavy electric cooktop!
 
@@ -76,7 +76,7 @@ These unique NuWave cooktop features make it ideal for outdoor cooking. Addition
 
 ## **Benefits of Owning a Nuwave Induction Cooktop**
 
-Several [advantages](https://www.frigidaire.com/Collections/Induction-Appliances-Collection/The-Benefits-Of-Induction-Cooking/) make using a NuWave induction cooktop more fulfilling than using other conventional cooktops. These benefits include:
+Several advantages make using a NuWave induction cooktop more fulfilling than using other conventional cooktops. These benefits include:
 
 **Unique Programming Capabilities** 
 
@@ -120,7 +120,7 @@ As such, you will only require a kitchen towel to wipe off the mess in seconds!�
 
 These cooktops use magnetic fields to achieve the heating effect. As such, it cannot heat unless you place an **induction-ready pan** on it. Here is a summary of the security features associated with NuWave induction cooktops:
 
-* Only the [pan surface gets heated up](https://en.wikipedia.org/wiki/Induction_cooking). O**ther parts of the cooking surface remain cold**, thus eliminating the chance of accidental burns. 
+* Only the pan surface gets heated up. O**ther parts of the cooking surface remain cold**, thus eliminating the chance of accidental burns. 
 * Focused heating ensures that the **burner cools almost immediately after removing the pan**.
 * **Automatic shut-off.** Once you remove the pan from the burner, the heating process stops immediately. As such, you can walk away after removing the pan without the worry that you’ll burn your kitchen. 
 * **No open flames.** These cooktops have no open flames that guarantee safety, even when you have children and pets around. 
