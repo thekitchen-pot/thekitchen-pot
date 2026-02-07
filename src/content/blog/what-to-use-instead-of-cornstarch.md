@@ -41,7 +41,7 @@ Well, if you’re not sure of what to use instead of cornstarch, then this artic
 
 **[Cornstarch](https://www.amazon.com/Argo-100-Pure-Corn-Starch/dp/B00JPT9BFW?tag=kitchenpot-20)** is a thickening agent that you can use when making soup, custards, gravies, and other liquid-based meals. 
 
-It is made of [long chains of starch molecules](https://en.wikipedia.org/wiki/Corn_starch) that break down upon exposure to heat, leading to gelatinization. The swelling leads to the thickening of your meals without altering their taste. 
+It is made of long chains of starch molecules that break down upon exposure to heat, leading to gelatinization. The swelling leads to the thickening of your meals without altering their taste. 
 
 ## **What is the Use of Cornstarch in Cooking and Baking** 
 
@@ -67,7 +67,7 @@ Your meal is ready for serving. Always ensure that you don’t overcook since yo
 
 ## **Is Cornstarch the Same as Corn Flour?**
 
-Cornstarch vs. corn flour debate can be confusing, especially since the [two products have relatively close names and are obtained from corn](https://www.healthline.com/nutrition/cornstarch-vs-corn-flour). 
+Cornstarch vs. corn flour debate can be confusing, especially since the two products have relatively close names and are obtained from corn. 
 
 However, these two are not the same and they serve different purposes when cooking. Here is an elaborate comparison and contrast analysis:
 
