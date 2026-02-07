@@ -56,16 +56,6 @@ Investing in a stackable cookware set has numerous benefits. It not only keeps y
 * **Reduce Chances of Accidents.** With stackable pans and pots, you will have a clean countertop and reduce the chances of cookware falls. As such, it will be safer for you and your children. 
 * **Easy to Clean.** Some stackable pots and pans come with [removable handles](https://www.amazon.com/Abizoe-Non-Stick-Removable-Efficient-Excellent/dp/B08BFGG3KQ?tag=kitchenpot-20). They also have interchangeable lids/covers. 
 
-## Best Stackable Pots and Pans – Comparison Table
-
-| Image | Name                                                                                  | Features                                                                                                                        |                                                                              |
-| ----- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-|       | 360 Cookware 3- Piece Fry Pan Set With Short Handles                                  | \-Oven safe up to 500 degrees-Dishwasher Safe-Shiny and Elegant                                                                 |                                                                              |
-|       | Calphalon Premier Space-Saving Pots and Pans Set                                      | \- 3-layer nonstick interior-Hard-anodized aluminum does not react with your food-Compatible with all cooktops except induction |                                                                              |
-|       | Gotham Steel Stackmaster Pots & Pans Set                                              | Space Saving 15 Piece Stackable Nonstick Cookware Set                                                                           | \-Superior Nonstick Performance -Easy to Clean -Stay-Cool Handles for Safety |
-|       | GreenPan Levels Stackable Hard Anodized Ceramic Nonstick, Cookware Pots, and Pans Set | \-Easily stackable to save space-Oven safe up to 400 degrees F and 350 degrees F for lids -Dishwasher-safe                      |                                                                              |
-|       | COOKLOVER Stackable Cookware Set Space Saving with Cooking Utensils 13 Piece          | \-Ergonomic handle that’s easy to grip and its anti-scald-Compatible with induction cooktops-Easy to clean                      |                                                                              |
-
 ## Best Stackable Pots and Pans for Gas Stoves
 
 ### 1. **[360 Cookware 3- Piece Fry Pan Set With Short Handles](https://shareasale.com/r.cfm?b=1585061&u=2750617&m=99639&urllink=www%2E360cookware%2Ecom%2Fcollections%2Fsets%2Fproducts%2F3%2Dpiece%2Dfry%2Dpan%2Dset%2Dwith%2Dshort%2Dhandles&afftrack=)**
@@ -272,7 +262,7 @@ If you intend to buy space-saving cookware, you should evaluate your needs befor
 
 ### **Shopping Based on Need**
 
-If you intend to buy stack cooking pots for camping, we recommend that you buy lightweight cookware that you can carry without a hassle. Additionally, camping cookware must be versatile for use in [open fires](https://en.wikipedia.org/wiki/Outdoor_cooking).
+If you intend to buy stack cooking pots for camping, we recommend that you buy lightweight cookware that you can carry without a hassle. Additionally, camping cookware must be versatile for use in open fires.
 
 ### **Stackability** 
 
@@ -295,7 +285,7 @@ One of the biggest worries among homeowners is that their stackable pots and pan
 * **Clean the Pots After Use.** You should always clean your pots immediately after use. However, we recommend that you avoid abrasive materials. Instead, use a soft sponge, warm water, and soap to wipe off the debris.
 * **Dry Your Pans.** Before storing your pans, you should always ensure that your pans are dry. 
 
-Additionally, we advise that you do not store [cast iron cookware](https://thekitchenpot.com/blog/lodge-cast-iron-skillet-review//) together with your stackable cookware. Instead, learn [how to store cookware here](https://www.wikihow.com/Store-Cast-Iron-Cookware).
+Additionally, we advise that you do not store [cast iron cookware](https://thekitchenpot.com/blog/lodge-cast-iron-skillet-review//) together with your stackable cookware. Instead, learn how to store cookware here.
 
 ## Where to Buy Stackable Pots and Pans at Affordable Prices
 
@@ -316,7 +306,7 @@ If you’re confused about settling for the best stackable pots and pans, then w
 This cookware has the following features:
 
 * Durable and easy to clean
-* Made out of heavy-gauge aluminum with porcelain exterior finish. It is further reinforced with non-stick coating made without [cadmium, PFOA, and lead](https://pubmed.ncbi.nlm.nih.gov/30504076/)
+* Made out of heavy-gauge aluminum with porcelain exterior finish. It is further reinforced with non-stick coating made without cadmium, PFOA, and lead
 * Highly aesthetic
 * Oven safe up to 350 degrees F
 * Dishwasher safe
