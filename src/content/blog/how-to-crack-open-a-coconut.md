@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 ![How to Crack Open a Coconut]()
 
-Coconut has many [health benefits](https://www.healthline.com/nutrition/coconut-nutrition). The fruit is rich in fatty acids, fiber, and other nutrients necessary for your well-being.
+Coconut has many health benefits. The fruit is rich in fatty acids, fiber, and other nutrients necessary for your well-being.
 
 The fruit is obtained from the coconut palm, and you can use it for its water, oil, milk, and tasty white meat (also referred to as coconut kernel).
 
@@ -45,7 +45,7 @@ If you’ve been frustrated when trying to break open a coconut, then this artic
 
 ## How to Open a Coconut – Why is It So Hard?
 
-Cracking and [opening a coconut](https://www.wikihow.com/Open-a-Coconut) is not for the faint-hearted. If done incorrectly, it can result in accidents!
+Cracking and opening a coconut is not for the faint-hearted. If done incorrectly, it can result in accidents!
 
 The circular shape of coconuts makes it worse since the fruit cannot sit stable. If you’re using a hammer/mallet, you should be careful to ensure that the coconut does not roll away. If it does and you miss it, then you’ll experience a whole lot of pain!
 
