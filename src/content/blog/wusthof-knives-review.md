@@ -32,7 +32,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Wusthof has built a global reputation as one of the best knife makers in the world. This [German company](https://en.wikipedia.org/wiki/W%C3%BCsthof) makes heavy-duty knives that are a desire for any enthusiastic chef.
+Wusthof has built a global reputation as one of the best knife makers in the world. This German company makes heavy-duty knives that are a desire for any enthusiastic chef.
 
 However, Wusthof knives are not cheap! 
 
@@ -169,11 +169,11 @@ Here are our top choices of the Wusthof knives:
 
 ## How Wusthof Knives are Made
 
-[Wusthof](https://www.metrokitchen.com/wusthof/) uses state-of-the-art precision technology that automates most of the Wusthof knife manufacturing processes.
+Wusthof uses state-of-the-art precision technology that automates most of the Wusthof knife manufacturing processes.
 
 The use of modern technology enables the manufacturer to achieve stylish knives with super-sharp blades. 
 
-The manufacturing process **uses [X50CrMoV15 stainless steel](https://knifeuser.com/x50crmov15-steel-review/)**. This heavy-duty material contains vanadium and molybdenum, which adds to its hardness, corrosion-resistance, and durability. Here are the steps that Wusthof use to manufacture the knives:
+The manufacturing process **uses X50CrMoV15 stainless steel**. This heavy-duty material contains vanadium and molybdenum, which adds to its hardness, corrosion-resistance, and durability. Here are the steps that Wusthof use to manufacture the knives:
 
 * **Raw Material Processing.** This is a highly automated process that involves cutting stainless steel into rectangular bars. The material is then heated to approximately 2,200 degrees Fahrenheit. 
 * **Shaping the Knife.** Once the molten stainless steel is ready, a machine-precision technique is used to forge the bolster. Each bar is laser-cut into the shape of the blade (curved or straight). The blade is then heated to 1,950 degrees and then cooled rapidly until it gets to a 58 hardened mark on the Rockwell Scale. 
@@ -224,7 +224,7 @@ This material is extraordinary since it ensures that you get a set of knives tha
 
 The balance of the materials to achieve a hardness of 58 on the Rockwell scale ensures that your knife will handle all activities without the risk of breaking. 
 
-***Most [Japanese knife manufacturers](https://selfdefensecorp.com/how-to-use-a-pocket-knife-for-self-defense/) use materials with a hardness of 60 on the Rockwell scale, making them prone to chipping. However, any knife between 55-60 should serve you well. The lower the score, the better.*** 
+***Most Japanese knife manufacturers use materials with a hardness of 60 on the Rockwell scale, making them prone to chipping. However, any knife between 55-60 should serve you well. The lower the score, the better.*** 
 
 **3. Unique Designs** 
 
