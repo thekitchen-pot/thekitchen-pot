@@ -41,7 +41,7 @@ If you’ve recently acquired the **[Masterbuilt smoker](https://www.amazon.com/
 
 Before you regret buying the smoker, read this guide on how to use Masterbuilt electric smoker, and you’ll realize how easy it is to use it. Once you have the tips, you’ll appreciate the day you decided to purchase one!
 
-It will offer exceptional convenience and unmatched efficacy that will enable you to grill your meat like a pro. The smoking element is well-thought-out, and you can be sure that all you’ll get is a tasty [BBQ](https://en.wikipedia.org/wiki/Barbecue) that will leave you yearning for the next grilling session. 
+It will offer exceptional convenience and unmatched efficacy that will enable you to grill your meat like a pro. The smoking element is well-thought-out, and you can be sure that all you’ll get is a tasty BBQ that will leave you yearning for the next grilling session. 
 
 ## Masterbuilt Electric Smoker Review -Overview
 
@@ -271,7 +271,7 @@ The cleaning should aim at removing grease, dirt, residue, and burnt food. We ad
 
 ## Masterbuilt Electric Smoker Recipes
 
-This [smoker](https://www.bbqqueens.com/how-to-use-a-masterbuilt-electric-smoker/) is one of the most versatile kitchen appliances that you’ll ever find. It allows you to cook different meals without a hassle. Some of the popular meals you can cook with the Masterbuilt electric smoker include:
+This smoker is one of the most versatile kitchen appliances that you’ll ever find. It allows you to cook different meals without a hassle. Some of the popular meals you can cook with the Masterbuilt electric smoker include:
 
 * **Smoked pork shoulder**
 * **Smoked chicken breast** 
@@ -282,7 +282,7 @@ This [smoker](https://www.bbqqueens.com/how-to-use-a-masterbuilt-electric-smoker
 * **Smoked salmon brine**
 * **Smoked brisket rub**
 
-These are just a [few of the meals](https://www.masterbuiltsmokers.com.au/recipes/) you can cook in the smoker. To achieve the best results, ensure that you follow the smoking procedure we’ve detailed herein. Do not skip a step lest you regret your smoking escapades. 
+These are just a few of the meals you can cook in the smoker. To achieve the best results, ensure that you follow the smoking procedure we’ve detailed herein. Do not skip a step lest you regret your smoking escapades. 
 
 *Always use you **[heat-resistant gloves when grilling](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking//)** your meat to avoid burns*
 
