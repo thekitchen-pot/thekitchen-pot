@@ -37,7 +37,7 @@ Any cooking enthusiast values an elegant yet effective pan. If you’d want one 
 
 These pans boast of superb heat-conducting ability and have unique sophistication that will enhance the design of your kitchen’s interior. 
 
-However, you must learn how to season red copper pan if you want to achieve optimal benefits from it. This article offers a detailed guide on how to [season](https://www.wikihow.com/Season-a-Red-Copper-Pan) red copper pan effectively. Read on for unique tips.
+However, you must learn how to season red copper pan if you want to achieve optimal benefits from it. This article offers a detailed guide on how to season red copper pan effectively. Read on for unique tips.
 
 ## **Red Copper Pans Reviews**
 
@@ -121,7 +121,7 @@ Also, we advise that you avoid exposing your pans to highly active foods such as
 
 ## **Are Red Copper Pans Toxic?**
 
-Using red copper pans is [safe](https://www.bookstocooks.com/are-red-copper-pans-safe). However, you should always ensure that you use those pans that have been lined with aluminum or stainless steel. 
+Using red copper pans is safe. However, you should always ensure that you use those pans that have been lined with aluminum or stainless steel. 
 
 This way, you’ll have eliminated the risk of corrosion that may occur when copper pans are exposed to highly alkaline or acidic food substances (such as tomato paste and lemon).
 
