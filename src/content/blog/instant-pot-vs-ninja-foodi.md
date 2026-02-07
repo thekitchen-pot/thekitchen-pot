@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-If you feel like you spend too much time in the kitchen, then it’s time to consider purchasing either an [instant pot](https://en.wikipedia.org/wiki/Instant_Pot) or a ninja foodi. The crucial kitchenware will reduce your cooking time by at least 50%!
+If you feel like you spend too much time in the kitchen, then it’s time to consider purchasing either an instant pot or a ninja foodi. The crucial kitchenware will reduce your cooking time by at least 50%!
 
 Wondering which of the two is ideal for your kitchen?
 
@@ -64,7 +64,7 @@ They have different characteristics, each one uniquely designated to help you in
 
 ### **How Does an Instant Pot Work?**
 
-Instant pots are a brand of electric pressure cookers. They [work](https://www.wikihow.com/Use-an-Instant-Pot) by creating heat under a tight seal, so the temperature is much higher than the boiling point of water and the steam can’t escape.
+Instant pots are a brand of electric pressure cookers. They work by creating heat under a tight seal, so the temperature is much higher than the boiling point of water and the steam can’t escape.
 
 The steam cooks food much more quickly than traditional stovetop or oven cooking.
 
@@ -156,7 +156,7 @@ The appliance also comes fitted with a wire trivet for which the handles reverse
 
 ### **Ninja Foodi Pros**
 
-With a ninja foodi, you can pressure cook your food item like French fries and then [crisp them immediately.](https://www.tomsguide.com/news/ninja-foodi-review)
+With a ninja foodi, you can pressure cook your food item like French fries and then crisp them immediately.
 
 This can also work well with a meal like chicken: you can pressure cook to make it tender, and then tender-crisp it so that the skin gets crispy.
 
