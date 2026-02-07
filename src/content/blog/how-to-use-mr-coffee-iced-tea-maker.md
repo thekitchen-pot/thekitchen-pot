@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-The joy that comes with [fall/autumn](https://en.wikipedia.org/wiki/Autumn) is unrivaled. The warm weather and the spectacular sight of sunrise are incredibly refreshing. Considering that you’ve endured the long winter days, too much heat can lead to a little discomfort. 
+The joy that comes with fall/autumn is unrivaled. The warm weather and the spectacular sight of sunrise are incredibly refreshing. Considering that you’ve endured the long winter days, too much heat can lead to a little discomfort. 
 
 To enable you to enjoy your fall to the fullest, you should have cold refreshing tea! We recommend that you buy [Mr. **Coffee Iced Tea Maker**](https://www.amazon.com/Mr-Coffee-2-Quart-Iced-Maker/dp/B00005OTXI?tag=kitchenpot-20) for all your iced tea needs. 
 
@@ -74,7 +74,7 @@ Only select an iced tea maker that suits your preferences – both in design and
 
 ## **How to Make Iced Tea in a Mr. Coffee Iced Tea Maker**
 
-To [make](https://www.wikihow.com/Use-the-Breville-One-Touch-Tea-Maker) the best cup of iced tea, you’ll need to follow the following easy steps:
+To make the best cup of iced tea, you’ll need to follow the following easy steps:
 
 * **Step 1: Water Measurement**
 
@@ -126,7 +126,7 @@ Now that you’ve learned how to use Mr. Coffee Iced Tea Maker, it’s time you 
 
 * **Hydration.** Iced-tea is not only refreshing but rejuvenating. It keeps your body hydrated, thus giving you an incredible glow and stamina to handle your daily chores. A break to take your favorite cup of iced-tea could be all that you need to unlock your day!
 * **Improves Concentration.** Iced tea has a substantial amount of caffeine, which helps to keep your body alert. 
-* **Helps in Weight Loss.** Iced **[tea lowers the cortisol hormon](https://pubmed.ncbi.nlm.nih.gov/17013636/)**[e](https://pubmed.ncbi.nlm.nih.gov/17013636/), which is responsible for fat accumulation in the body. Consequently, the tea comes in handy when you want to lose weight. 
+* **Helps in Weight Loss.** Iced **tea lowers the cortisol hormon**[e](https://pubmed.ncbi.nlm.nih.gov/17013636/), which is responsible for fat accumulation in the body. Consequently, the tea comes in handy when you want to lose weight. 
 * **Has Anti-Inflammatory Properties.** Iced tea will help you reduce muscle and body pain. As such, it’s quite helpful when you’re working out. 
 
 Iced tea has immense health benefits and you can be sure that a cup a day will boost your stamina and boost your mood. 
@@ -157,7 +157,7 @@ To remove them, you’ll be required to soak your appliance in white vinegar for
 
 ## **How to Use Mr. Coffee Iced Tea Maker – Wrap Up** 
 
-Initially, I thought that Mr. Coffee Iced Tea Maker was hype until I acquired it. It has now transformed my life for the better, considering that I [love tea](https://cookpad.com/ke/search/iced%20tea). 
+Initially, I thought that Mr. Coffee Iced Tea Maker was hype until I acquired it. It has now transformed my life for the better, considering that I love tea. 
 
 What I found more interesting is its versatility. Despite the fact that we’ve detailed how to use Mr. Coffee Iced Tea Maker with a tea bias, you can actually use it to make your favorite cup of coffee. 
 
