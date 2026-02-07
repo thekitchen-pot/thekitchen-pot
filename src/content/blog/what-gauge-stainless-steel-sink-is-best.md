@@ -52,7 +52,7 @@ We’ve got you covered. The article focuses on helping you make the right decis
 
 It’s a metal alloy that comprises 10.5% chromium and steel. Chromium gives steel its stainless properties. 
 
-Additionally, [stainless steel](https://www.aperam.com/stainless/what-is-stainless-steel/) has other components such as titanium, nickel, copper, and molybdenum that increase its formability, durability, and strength.
+Additionally, stainless steel has other components such as titanium, nickel, copper, and molybdenum that increase its formability, durability, and strength.
 
 As such, stainless steel sinks deliver a clean look that matches your **[best stainless steel cookware sets](https://thekitchenpot.com/blog/best-cookware-set-under-200//)**, thus giving your kitchen an unmatched elegance.
 
@@ -72,7 +72,7 @@ Most kitchen sinks have 18 or 16 gauge that is extremely heavy to withstand rust
 
 **Thin Gauges (Higher Gauge Number)** 
 
-Thin stainless steel [gauges](https://www.seattletimes.com/life/lifestyle/whats-the-gauge-on-stainless-steel-sinks/) are outstanding for small kitchen sinks. Although they are prone to bowing, dings, and denting, they are highly effective and affordable for small households. 
+Thin stainless steel gauges are outstanding for small kitchen sinks. Although they are prone to bowing, dings, and denting, they are highly effective and affordable for small households. 
 
 However, sturdy [pans and pots](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//) can easily damage thin gauge stainless steel sinks as they are weaker when compared to thick gauges. More so, thin gauge sinks are highly susceptible to denting and vibrating. 
 
@@ -111,7 +111,7 @@ The difference in pricing is minimal but significant. The little bucks you spend
 
 ## **Bottom Line: What Gauge Stainless Steel Sink Is Best for You?**
 
-With numerous [stainless steel sinks](https://www.ruvati.com/16-gauge-vs-18-gauge-stainless-steel-sink/) available on the market, you can easily get confused with a range of styles and variety they have.
+With numerous stainless steel sinks available on the market, you can easily get confused with a range of styles and variety they have.
 
 Remember!
 
