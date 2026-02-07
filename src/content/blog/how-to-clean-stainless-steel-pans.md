@@ -72,7 +72,7 @@ These modifications are meant to enhance your cooking experience and they will, 
 
 Overall, good quality stainless steel cookware can be more expensive than the aluminum ones. 
 
-***See the [Prices of More Stainless Steel Cookware](https://www.amazon.com/s?k=Stainless+steel+pans%3Ftag%3Dkitchenpot-20) here. Sample different types of cookware with varying materials of construction*** 
+***See the [Prices of More Stainless Steel Cookware](https://www.amazon.com/s?k=Stainless+steel+pans%3Ftag%3Dkitchenpot-20) here. Sample different types of cookware with varying materials of construction***
 
 ## How to Clean Stainless Steel Pans: Step by Step Guide 
 
