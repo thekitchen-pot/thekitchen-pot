@@ -40,7 +40,7 @@ However, you can also use an oven to obtain a unique taste of evenly baked sausa
 
 ## Can I Cook Sausages In the Oven?
 
-Yes, [cooking sausages in the oven](https://www.wikihow.com/Oven-Cook-Sausages) is one of the fascinating ways to make your snacks. It gives your sausages a unique crunchy taste that will leave you asking for more. 
+Yes, cooking sausages in the oven is one of the fascinating ways to make your snacks. It gives your sausages a unique crunchy taste that will leave you asking for more. 
 
 Even better, cooking sausages in the oven is relatively straightforward. You can regulate the temperature and time to achieve your desired doneness.
 
@@ -96,7 +96,7 @@ Fortunately, you can use your oven to make a large number of sausages simultaneo
 **Method** 
 
 * Remove your sausages from the refrigerator approximately 15 minutes before cooking them
-* [Preheat your oven](https://www.wikihow.com/Preheat-an-Oven) to 400 degrees Fahrenheit
+* Preheat your oven to 400 degrees Fahrenheit
 * Take out your baking pan and layer it with parchment paper or an aluminum foil
 * Place your sausages on the parchment paper/aluminum foil (ensure that they do not touch each other)
 * Place your baking pan (with sausages) in the heated oven
@@ -115,7 +115,7 @@ While baking your sausage for 30 minutes at 400 degrees will almost always achie
 
 The change of color and the timing can be quite misleading. You should always be keen to avoid undercooked sausages since they may cause adverse health effects.
 
-> ***According to the*** ***[Center for Disease Control and Prevention (CDC)](https://www.cdc.gov/parasites/trichinellosis/), undercooked meat may introduce the Trichinella parasite to the body, which will result in a Trichinosis disease.***
+> **According to the** **[Center for Disease Control and Prevention (CDC)](https://www.cdc.gov/parasites/trichinellosis/), undercooked meat may introduce the Trichinella parasite to the body, which will result in a Trichinosis disease.**
 
 As such, you must ensure that your sausages are well done. To achieve this, ensure that you use your **[meat thermometer](https://www.amazon.com/ThermoPro-TP-17-Digital-Backlight-Thermometer/dp/B07477NMF4?tag=kitchenpot-20)** to ensure that your **sausages’ internal temperature is at least 165 degrees Fahrenheit.**
 
@@ -159,7 +159,7 @@ This is the unhealthiest method of cooking your sausages. It involves complete i
 
 To deep-fry your sausage, you should into a deep fryer containing heated oil (of up to 375°F). Cook the sausages until they are done (after approximately 5 minutes).
 
-***To get the best results, use oils with a high smoke point. Viable options include coconut oil, olive oil, and avocado oil***.
+**To get the best results, use oils with a high smoke point. Viable options include coconut oil, olive oil, and avocado oil**.
 
 Additionally, you can egg wash (eggs and cream/milk) and cover them with breadcrumb to make them even tastier.
 
@@ -173,7 +173,7 @@ The most unhealthy option is deep frying. This method increases the calories and
 
 ## How to Cook Sausages in the Oven -The Bottom Line 
 
-[Cooking sausages](https://www.bbcgoodfood.com/howto/guide/how-cook-sausages) in the oven is one of the healthiest cooking options you can have. It assures you of delicious meals with relatively low calories and fat levels.
+Cooking sausages in the oven is one of the healthiest cooking options you can have. It assures you of delicious meals with relatively low calories and fat levels.
 
 If you’ve been wondering how to cook sausages in the oven to get the best results, then this article offers you a step-by-step guide. 
 
