@@ -43,11 +43,11 @@ As a result, smoking became a common way of flavoring, browning, and preserving 
 
 However, there have been tremendous improvements in the smoking techniques and the equipment applied in the process. One of the most remarkable improvements is the invention of electric smokers.
 
-This article will offer insights on how to [use an electric smoker](https://www.wikihow.com/Use-an-Electric-Smoker) to achieve the tastiest and healthiest meat! Read on to get the tips!
+This article will offer insights on how to use an electric smoker to achieve the tastiest and healthiest meat! Read on to get the tips!
 
 ## **What is Smoking?** 
 
-S[moking](https://en.wikipedia.org/wiki/Smoking_(cooking)) is an ancient technique that was used to dry and preserve food. In the process, the users discovered that smoked food tasted better and had a unique flavor. 
+Smoking is an ancient technique that was used to dry and preserve food. In the process, the users discovered that smoked food tasted better and had a unique flavor. 
 
 Consequently, human beings adopted smoking as a cooking technique. It helps in browning, cooking, and preserving food.
 
@@ -61,7 +61,7 @@ If you’re a meat lover, you’ll opine that smoked meat is exceptionally tasty
 
 ## **Types of Smoking Techniques**
 
-There are [different smoking techniques](https://en.wikipedia.org/wiki/Smoked_meat) applied when you want to achieve a smoky flavor in your meals. They include:
+There are different smoking techniques applied when you want to achieve a smoky flavor in your meals. They include:
 
 * **Cold Smoking** 
 
@@ -115,7 +115,7 @@ Additionally, this may offer safety challenges and require close monitoring, esp
 
 ## **How Does an Electric Smoker Work?**
 
-An [electric smoker](https://www.masterclass.com/articles/tips-for-smoking-meat-with-an-electric-smoker) is ideally useful for meat smoking. It has a cooking chamber, where you should place your meat/meal to cook. 
+An electric smoker is ideally useful for meat smoking. It has a cooking chamber, where you should place your meat/meal to cook. 
 
 The cooking chamber has heating rods that are connected to your electricity source through a plug-in socket. Once you switch on the power, these rods are heated, thus providing the much-desired heat to the cooking chamber. 
 
