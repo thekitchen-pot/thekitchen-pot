@@ -43,7 +43,7 @@ By the end of it, you will be mesmerized by how easy it is to use your rice cook
 
 A **[rice cooker](https://www.amazon.com/Ninja-FD401-Fryer-Stainless-Pressure-8-Quart/dp/B07S85TPLG/?tag=kitchenpot-20)** is one of the most versatile kitchen appliances you can ever have. It allows you to cook any rice, including Basmati, Jasmine, and brown rice. 
 
-When you learn the [tricks of using the appliance](https://www.wikihow.com/Cook-Rice-in-a-Rice-Cooker), you will forget the pain of having overcooked or undercooked rice at your disposal. The absolute level of cooking that rice cookers offer will amaze you. Below are some of the benefits of using a rice cooker for cooking your rice:
+When you learn the tricks of using the appliance, you will forget the pain of having overcooked or undercooked rice at your disposal. The absolute level of cooking that rice cookers offer will amaze you. Below are some of the benefits of using a rice cooker for cooking your rice:
 
 **Consistent Results** 
 
@@ -135,7 +135,7 @@ Basmati or Jasmine
 
 No more than 1 1/2 cups
 
-Cooking brown rice in a rice cooker requires the most water, while cooking Jasmine/[basmati rice](https://www.wikihow.com/Cook-Basmati-Brown-Rice) requires the least. 
+Cooking brown rice in a rice cooker requires the most water, while cooking Jasmine/basmati rice requires the least. 
 
 It would also be best to follow the manufacturer’s instructions. If a given rice brand requires that you use 2 cups of water for every cup of rice, then you should try it out. After all, you can adjust the quantities in the future to meet your cooking needs. 
 
