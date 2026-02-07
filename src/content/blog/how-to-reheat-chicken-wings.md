@@ -52,7 +52,7 @@ Additionally, you must cook it for a relatively prolonged duration, especially i
 
 ## **How to Reheat Chicken Wings – A Comprehensive Guide**
 
-There are several methods that you can use to [reheat your chicken wings](https://www.wikihow.com/Fry-Chicken-Wings). They include using an oven, microwave, or even pans on cooktops.
+There are several methods that you can use to reheat your chicken wings. They include using an oven, microwave, or even pans on cooktops.
 
 However, we strongly recommend that you use an oven.
 
@@ -77,7 +77,6 @@ Here is a step-by-step guide on how to reheat chicken wings using your home oven
 > ***Check the [best meat thermometers here](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//)***
 
 6. Use the thermometer on the thickest part of the wings. Once it reads 165 degrees Fahrenheit, then the chicken wings will be ready. 
-
 7. Remove it from the oven and place it on a heat-proof bowl (preferably metallic)
 
 ***When removing from the oven, you should be careful not to burn your hands. We recommend that you use [heat-resistant cooking gloves for the best oven use experience](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking//).*** 
@@ -157,7 +156,7 @@ To be safer, you should always reheat your chicken wings adequately. This elimin
 
 ## **How to Reheat Chicken Wings – Wrap Up**
 
-[Chicken wings](https://www.goodhousekeeping.com/food-recipes/g4992/chicken-wings-recipes/) are undoubtedly delicious. It’s their attractiveness that makes it easy to underestimate quantity, thus having lots of leftovers.
+Chicken wings are undoubtedly delicious. It’s their attractiveness that makes it easy to underestimate quantity, thus having lots of leftovers.
 
 When you have leftovers for your chicken wings, you should not panic! It will not go to waste as long as you use the right reheating technique. 
 
