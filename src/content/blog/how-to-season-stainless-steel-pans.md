@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 When using your stainless steel pans for the first time, you should season it to achieve optimal performance. Seasoning will keep your food from sticking to the pan, which will improve your cooking experience significantly. 
 
-But how do you [season](https://www.wikihow.com/Season-a-Stainless-Steel-Pan) a new stainless steel pan?
+But how do you season a new stainless steel pan?
 
 Here is a step-by-step guide on how to season stainless steel pans which will make the process a breeze. Ensure that you follow each step to the letter for the best results. 
 
@@ -113,7 +113,7 @@ Matter of factly, stainless steel is the leading contemporary cookware – and f
 
 ## How to Season Stainless Steel Pans -The Bottom Line
 
-If you want to get the best from your [stainless steel](https://en.wikipedia.org/wiki/Stainless_steel) pans, you should ensure that you season them regularly. This way, you’ll seal all the pores, creating a smooth and non-stick surface.
+If you want to get the best from your stainless steel pans, you should ensure that you season them regularly. This way, you’ll seal all the pores, creating a smooth and non-stick surface.
 
 If you’re wondering how to season stainless steel pans, then worry no more! This article offers a comprehensive guide on how to season stainless steel pans. Additionally, it highlights the benefits and disadvantages of using stainless steel cookware.
 
