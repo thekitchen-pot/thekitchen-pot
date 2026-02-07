@@ -32,7 +32,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-How to use a [mandoline](https://en.wikipedia.org/wiki/Mandoline)? This is a common question that arises among kitchen enthusiasts. While they would want an easier way of slicing, they are kept out of mandoline due to safety misconceptions and overall beliefs that the tool is hard to use.
+How to use a mandoline? This is a common question that arises among kitchen enthusiasts. While they would want an easier way of slicing, they are kept out of mandoline due to safety misconceptions and overall beliefs that the tool is hard to use.
 
 If you’ve been in such quagmires, then you’re in the right place. We’ll handle all your queries on how to use a mandoline in a simple easy-to-decipher fashion. 
 
@@ -48,7 +48,7 @@ However, whatever food you are preparing with the mandoline, here is the guide o
 
 ## **How to Use a Mandoline: Safety Measures**
 
-You don’t have to be [worried on how to use a mandoline](https://www.washingtonpost.com/news/voraciously/wp/2019/11/05/a-mandoline-slices-faster-and-easier-than-a-knife-if-you-know-how-to-use-it/) to prepare your foods. It’s not harmful! But the tool will work well if you follow these instructions.
+You don’t have to be worried on how to use a mandoline to prepare your foods. It’s not harmful! But the tool will work well if you follow these instructions.
 
 1. Always use a finger guard if the tool came with one. But if you don’t have one, never worry! You can use your palm to run the product on the mandoline or buy a cut-resistant glove.
 2. Avoid placing your fingers or hand below the mandoline. Lift it always to retrieve the slices.
@@ -64,13 +64,11 @@ Having known the mandoline safety measurements, here’s how to use it.
 * ***Ensure the cutting board is tidy as it will come into contact with your food.***
 
 2. With that, let the mandoline sit on you perpendicularly. Make sure that the raised end is closer to you. Setting the mandoline parallel to you can cause a side-to-side slice that will result in uneven cuts or slipping.
-
 3. Cut your food to create a flat surface. When cutting lemons or potato or other vegetables, cut them in half as a mandoline can only slice flat surfaces. Also, make the other end round to make an easy grip.
 
 * ***Ensure you cut the fruit into smaller pieces to make it fit on the hand-guard.***
 
 4. After that, wet the runway. But this is optional. When cutting starchy foods, or potatoes, sprinkle some water on the cutting surface. This makes the food slide on the mandoline easily. Although juicy fruits always have adequate moisture on their own.
-
 5. Having done that, put your food on the machine’s hand-guard to make the flat sides face the runway then after that, slot the hand-guard on top of the mandoline ( nearly all mandolines comes with a hand-guard that looks like a cylinder or bell).
 
 * While using the machine, ensure you put on a cut-resistant glove that offers additional protection.
@@ -99,9 +97,7 @@ Additionally, some mandolines have only one fixed table with several plastic run
 ## **How to Use a Mandoline: Maintenance Tips** 
 
 1. Before you start cleaning the mandoline, ensure you adjust all blades for safety purposes. If you had an extra blade feature like julienning, place it back to its initial hidden position. If the main blade can be adjusted, position it to its lowest position.
-
 2. Wipe the blade gently using a wet and a soapy cloth from the tip to the base to prevent the chances of cutting yourself. After the food stains or scraps are gone, rinse the soap on the mandoline with running water.
-
 3. Finally, dry the tool thoroughly by placing it outside on a rack to dry. Alternatively, you can use a towel to dry it carefully.
 
 * ***If you store the mandoline with water droplets can make it rust easily.***
@@ -112,4 +108,4 @@ Consequently, place the tool on a labelled container. Please don’t put it on a
 
 ## **How to Use a Mandoline: Bottom Line** 
 
-If you love cooking, and you frequently cook, you’ll probably spend more time preparing your veggies. A kitchen knife is an essential tool in cutting the fruits and vegetables in the kitchen, but a [mandoline](https://www.wikihow.com/Use-a-Mandoline)—a countertop or a handheld gadget with a cutting guide and a stationary blade—can save much time off your prep
+If you love cooking, and you frequently cook, you’ll probably spend more time preparing your veggies. A kitchen knife is an essential tool in cutting the fruits and vegetables in the kitchen, but a mandoline—a countertop or a handheld gadget with a cutting guide and a stationary blade—can save much time off your prep
