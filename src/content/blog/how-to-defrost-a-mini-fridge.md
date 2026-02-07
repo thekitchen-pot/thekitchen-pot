@@ -39,7 +39,7 @@ Well, the first very crucial step is to learn how to defrost a mini fridge. How 
 
 Worried that you have no idea how to achieve that?
 
-Well, you shouldn’t worry anymore! This article offers the best tips on how to [defrost](https://en.wikipedia.org/wiki/Defrosting) a mini fridge to achieve the best results. 
+Well, you shouldn’t worry anymore! This article offers the best tips on how to defrost a mini fridge to achieve the best results. 
 
 ## What is a Mini Fridge?
 
@@ -76,7 +76,7 @@ Defrosting your mini fridge is a simple exercise that lasts a few minutes-hours 
 
 If you regularly defrost your mini fridge, you’ll not need hours to defrost it. 
 
-> ***You should defrost your mini fridge 24-48 hours before leaving for a trip that will last more than 2 weeks.***
+> **You should defrost your mini fridge 24-48 hours before leaving for a trip that will last more than 2 weeks.**
 
 If too much frost has accumulated, you may need to defrost your mini fridge overnight.
 
@@ -188,6 +188,6 @@ After approximately 15 minutes, you can return your items. By this time, the tem
 
 When you buy your mini fridge, you must learn the tips for maintaining it. This ensures that you get consistent results without incurring huge repair bills.
 
-One crucial maintenance skill is on how to [defrost a mini fridge](https://www.cleanipedia.com/gb/kitchen-cleaning/how-to-defrost-a-fridge.html). Defrosting ensures that you free the storage space from frost while ensuring top-notch energy efficiency.
+One crucial maintenance skill is on how to defrost a mini fridge. Defrosting ensures that you free the storage space from frost while ensuring top-notch energy efficiency.
 
 This guide offers a comprehensive guide on how to defrost a mini fridge. You’ll get the dos and the don’ts.
