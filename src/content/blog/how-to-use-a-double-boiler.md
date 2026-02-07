@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Have you ever tried melting chocolate over high heat? Well, this will almost always end up in disappointment. Your chocolate is likely to become a lump!
 
-If you’ve found yourself in such a situation, then you should consider investing in a **[double boiler](https://www.amazon.com/Farberware-Classic-Stainless-2-Quart-Covered/dp/B00004RGB7/?tag=kitchenpot-20)**. This appliance (also known as [Bain-Marie](https://en.wikipedia.org/wiki/Bain-marie)) allows you to **slowly and evenly heat** foodstuff that requires gentle & slow cooking. 
+If you’ve found yourself in such a situation, then you should consider investing in a **[double boiler](https://www.amazon.com/Farberware-Classic-Stainless-2-Quart-Covered/dp/B00004RGB7/?tag=kitchenpot-20)**. This appliance (also known as Bain-Marie) allows you to **slowly and evenly heat** foodstuff that requires gentle & slow cooking. 
 
 This article offers a comprehensive guide on how to use a double boiler. Read on to get handy tips.
 
@@ -101,7 +101,7 @@ You should check the water levels on the lower bowl periodically and fill it up 
 
 ## When to Use a Double Boiler
 
-A [double boiler](https://www.thespruceeats.com/what-is-a-double-boiler-995647) is one of the most underestimated kitchen appliances! It allows you to slow cook your meals. These are the main situations that require a double boiler in the kitchen:
+A double boiler is one of the most underestimated kitchen appliances! It allows you to slow cook your meals. These are the main situations that require a double boiler in the kitchen:
 
 1. **Melting Chocolate** 
 
@@ -131,7 +131,7 @@ You can get double boilers at as low as $15 to as high as $200. The price differ
 
 ## How to Make a Double Boiler at Home (DIY)
 
-[Making a double boiler](https://www.wikihow.com/Make-a-Double-Boiler-%28Bain-Marie%29) is relatively straightforward. All you will need is a pot and a bowl. Ensure that the bowl can fit perfectly around the mouth of the pot.
+Making a double boiler is relatively straightforward. All you will need is a pot and a bowl. Ensure that the bowl can fit perfectly around the mouth of the pot.
 
 Once you fill your pot with water and it starts boiling, you should place the boil on top and put your ingredients therein. Voila! You have a double boiler.
 
@@ -159,7 +159,7 @@ After one hour, pour the mixture and use your ordinary scouring pad to clean the
 
 ## How to Use a Double Boiler – the Bottom Line
 
-A [double boiler](https://www.webstaurantstore.com/blog/2406/what-is-a-double-boiler.html) is a useful kitchen appliance, especially if you like trying out new recipes. You will need the appliance to slow cook food items that do not require intense heating or direct contact with heat. 
+A double boiler is a useful kitchen appliance, especially if you like trying out new recipes. You will need the appliance to slow cook food items that do not require intense heating or direct contact with heat. 
 
 To get the best results, you should always ensure that you do not fill the lower pan. This way, you’ll be sure that your food will only be steamed (there will be no direct contact with heat whatsoever).
 
