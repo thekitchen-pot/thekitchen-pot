@@ -485,7 +485,7 @@ Additionally, you should always find a way of coiling the cord. You can wrap it 
 
 ## Best Immersion Blenders: Bottom Line 
 
-There is no doubt whatsoever that the best [immersion blenders](https://www.savannahnow.com/entertainmentlife/20200303/food-for-thought-there-are-benefits-to-immersion-blender) are a great addition to your kitchen arsenal. These small, lightweight kitchen appliances will help you to make the best puree, soup, and smoothies with unmatched convenience. 
+There is no doubt whatsoever that the best immersion blenders are a great addition to your kitchen arsenal. These small, lightweight kitchen appliances will help you to make the best puree, soup, and smoothies with unmatched convenience. 
 
 Even more impressive, most of the best immersion blenders come with accessories/ attachments that further enhance its functionality. This way, you can be sure that having these gadgets will be equal to owning powerful mixers and food processors. 
 
