@@ -36,7 +36,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 You’re set to try out a recipe with cream cheese as a primary ingredient. And, you buy the cream cheese ready to prepare a tasty meal.
 
-But then an emergency comes up, and you’ll no longer be able to make your meal. What happens next? Can you [freeze cream cheese,](https://www.wikihow.com/Freeze-Cream) or will it go to waste?
+But then an emergency comes up, and you’ll no longer be able to make your meal. What happens next? Can you freeze cream cheese, or will it go to waste?
 
 This article offers a detailed guide on whether or not to freeze cream cheese. Read on. 
 
