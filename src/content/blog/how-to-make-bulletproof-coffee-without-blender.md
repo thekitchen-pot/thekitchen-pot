@@ -38,7 +38,7 @@ Well, you shouldn’t worry anymore! This article will teach you how to make bul
 
 ## **What is Bulletproof Coffee? The Story Behind Bulletproof Coffee**
 
-Bulletproof coffee is a [high-calorie beverage](https://www.healthline.com/nutrition/bulletproof-coffee-benefits) that was developed and promoted by Dave Asprey, an American entrepreneur. 
+Bulletproof coffee is a high-calorie beverage that was developed and promoted by Dave Asprey, an American entrepreneur. 
 
 He developed the bulletproof coffee while hiking in Tibet where he tasted yak-butter tea. On returning to the US, he tried making buttered drinks.
 
@@ -108,7 +108,7 @@ Here are some of the best grass-fed butter brands to consider:
 
 ## How to Make Bulletproof Coffee Without Blender 
 
-Have you gone camping and you can’t resist the urge to have your favorite cup of [bulletproof coffee](https://www.bulletproof.com/recipes/bulletproof-diet-recipes/bulletproof-coffee-recipe/)? Well, this can be frustrating since you, most likely, didn’t carry a blender.
+Have you gone camping and you can’t resist the urge to have your favorite cup of bulletproof coffee? Well, this can be frustrating since you, most likely, didn’t carry a blender.
 
 However, you shouldn’t worry! We’ve got a solution for you. 
 
