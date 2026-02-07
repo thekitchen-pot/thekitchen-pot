@@ -34,11 +34,11 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Nothing beats the scrumptiousness of freshly [homemade tortillas](https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/)! The pride of preparing them in your kitchen as opposed to buying them from the grocery stores is exceptional. If you’re still uncertain on how to use a tortilla press for the best tortillas, then this article is all you need!
+Nothing beats the scrumptiousness of freshly homemade tortillas! The pride of preparing them in your kitchen as opposed to buying them from the grocery stores is exceptional. If you’re still uncertain on how to use a tortilla press for the best tortillas, then this article is all you need!
 
 ## **What is a Tortilla Press?** 
 
-A tortilla press is a kitchen gadget that uses leverage to press a small dough ball into a flat tortilla. As compared to a rolling pin, using a tortilla press is quicker, produces less mess, and delivers uniformly made [tortillas](https://en.wikipedia.org/wiki/Tortilla).
+A tortilla press is a kitchen gadget that uses leverage to press a small dough ball into a flat tortilla. As compared to a rolling pin, using a tortilla press is quicker, produces less mess, and delivers uniformly made tortillas.
 
 The tortilla press is made of cast iron, wood, and aluminum, and it comes with an upper disc and a handle. While this may appear straightforward, there are still many questions on how to use a tortilla press to make homemade tortillas. 
 
@@ -46,9 +46,9 @@ So the article explains how to use a tortilla press in your kitchen conveniently
 
 ## **Choosing the Best Tortilla** 
 
-[Tortilla press](https://en.wikipedia.org/wiki/Tortilla_press) comes in two different types. One is an electric tortilla press, and the other is a manual hand crank.
+Tortilla press comes in two different types. One is an electric tortilla press, and the other is a manual hand crank.
 
-Electric tortilla presses flatten as well as cook the [tortilla](https://www.sciencedirect.com/topics/food-science/tortilla) dough. While they save your kitchen from getting smoky, electric tortillas are a bit bulkier to store. 
+Electric tortilla presses flatten as well as cook the tortilla dough. While they save your kitchen from getting smoky, electric tortillas are a bit bulkier to store. 
 
 On the contrary:
 
