@@ -96,7 +96,7 @@ Always rinse your meat thermometer with fresh water after sanitizing it. This wi
 
 Every time you put away your meat thermometer, be sure to store it in a safe place where it won’t come into contact with other utensils.
 
-Never lay your probe-type thermometer next to especially dirty items, such as sponges or soiled dishcloths. This will prevent **[cross-contamination](https://www.health.state.mn.us/people/foodsafety/clean/xcontamination.html)** and protect the probe from damage.
+Never lay your probe-type thermometer next to especially dirty items, such as sponges or soiled dishcloths. This will prevent **cross-contamination** and protect the probe from damage.
 
 If you use a digital meat thermometer, make sure the stem is completely dry before storing it away in a drawer or on a hook. Otherwise, liquids can seep into the storage compartment and damage the electronics.
 
