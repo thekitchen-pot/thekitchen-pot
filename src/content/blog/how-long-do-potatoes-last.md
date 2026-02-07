@@ -45,7 +45,7 @@ If you’ve found yourself asking these questions but have never found an answer
 
 ## What is the Shelf-Life of Potatoes?
 
-[Potatoes](https://www.healthline.com/nutrition/how-long-do-potatoes-last) have a more extended life shelf than many fruits and vegetables. However, longevity is determined by the following main factors:
+Potatoes have a more extended life shelf than many fruits and vegetables. However, longevity is determined by the following main factors:
 
 * ***How are the potatoes stored?***
 * ***Are the potatoes cooked or raw?***
@@ -108,7 +108,7 @@ A strong smell coming from either the inside or the outside of the potato is a s
 
 Is it safe to eat sprouting potatoes? In the initial stages of potato sprouting, you can consume them without a fuss. However, you should start making plans to exhaust your stock since it will go bad in a few days/weeks from the day of initial sprouting. 
 
-Always ensure that you remove the sprouts since they are unsafe for eating. They contain high levels of toxic [glycoalkaloids, solanine, and chaconine](https://en.wikipedia.org/wiki/Solanine). These chemical compounds can lead to headaches, diarrhea, and nausea.
+Always ensure that you remove the sprouts since they are unsafe for eating. They contain high levels of toxic glycoalkaloids, solanine, and chaconine. These chemical compounds can lead to headaches, diarrhea, and nausea.
 
 ## Are Potatoes with Green Spots Spoilt?
 
@@ -135,7 +135,7 @@ Even when the food is still fresh, you must re-heat adequately (165°F) to destr
 
 ## How Long Do Potatoes Last – The Bottom Line
 
-It is possible to forget potatoes in your pantry since you assume that they rarely go bad. However, [potatoes go bad](https://www.myrecipes.com/how-to/cooking-questions/what-are-non-perishable-foods) after approximately four weeks or several months, depending on the environment. 
+It is possible to forget potatoes in your pantry since you assume that they rarely go bad. However, potatoes go bad after approximately four weeks or several months, depending on the environment. 
 
 As such, you should always be sure to store your potatoes well, thus ensuring that they remain fresh for long. This article offers some of the proven tips that you can use to avoid early potatoes spoilage and ensure that you do not feed on spoiled ones. 
 
