@@ -35,7 +35,7 @@ This article provides the best tips on how to bake cookies in a convection oven.
 
 ## **How to Bake Cookies in a Convection Oven: But What is a Convection Oven?**
 
-So what is a [convection oven](https://en.wikipedia.org/wiki/Convection_oven), and what makes it different from the others? 
+So what is a convection oven, and what makes it different from the others? 
 
 A convection oven has a small fan whose function is to distribute the heat evenly inside the appliance so that the food is heated uniformly. Furthermore, with this system, cooking is accelerated, working 20% faster than other ovens.
 
@@ -55,8 +55,8 @@ Immediately you start cooking with a convection oven, decrease the temperature i
 * One pinch of salt
 * One teaspoon of vanilla essence 
 * One handful of lemon zest
-* + 500g of pastry flour
-* + 6 tablespoons of milk
+* * 500g of pastry flour
+* * 6 tablespoons of milk
 
 ### **How to Bake Cookies in a Convection Oven – Preparation**
 
@@ -84,7 +84,7 @@ Next, cut the butter cookies into the shape you want. If you do not have a cooki
 
 **Step Four**
 
-With the [oven preheated](https://www.thekitchn.com/whats-a-convection-oven-and-when-do-i-use-it-appliance-guides-from-the-kitchen-216549) at 180 degrees, insert the cookie sheet into the middle of the oven. And you leave the cookies baking for about 15 minutes at 160 degrees. (always use [heat resistant gloves](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking//) to protect your hands from heat-induced injuries).
+With the oven preheated at 180 degrees, insert the cookie sheet into the middle of the oven. And you leave the cookies baking for about 15 minutes at 160 degrees. (always use [heat resistant gloves](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking//) to protect your hands from heat-induced injuries).
 
 Depending on the power of your oven, they may take less time, but you should watch them, so they don’t burn. When they are golden brown, carefully remove them from the oven and let them cool.
 
