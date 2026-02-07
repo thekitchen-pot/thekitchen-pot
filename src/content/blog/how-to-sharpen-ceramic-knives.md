@@ -32,7 +32,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Using the best [ceramic knife](https://en.wikipedia.org/wiki/Ceramic_knife) is all fun until it is blunt. Unlike stainless steel knives, sharpening a ceramic knife is an art. 
+Using the best ceramic knife is all fun until it is blunt. Unlike stainless steel knives, sharpening a ceramic knife is an art. 
 
 In case you’re stranded wondering how to sharpen ceramic knives, then this article will offer several useful tips.
 
@@ -54,7 +54,7 @@ In fact, the ceramic material used to make knives is super hard! It comes second
 
 It is harder than carbide, titanium, and high carbon steel. 
 
-This [advanced ceramic](https://www.sciencedirect.com/topics/materials-science/yttrium-oxide) is made out of yttrium oxide and zirconium oxide. A combination of the two compounds creates a stable material called [TTZ](http://www.uniceramusa.com/yscttz.htm) (Transformation Toughened Zirconia).
+This advanced ceramic is made out of yttrium oxide and zirconium oxide. A combination of the two compounds creates a stable material called TTZ (Transformation Toughened Zirconia).
 
 While this hardness is ideal for superior functionality, it is the exact reason why sharpening ceramic knives is a hassle.
 
@@ -134,7 +134,7 @@ The blocks are designed with unmatched versatility for ease of storage. You can 
 
 ## **How to Sharpen Ceramic Knives – The Bottom Line**
 
-If you have purchased a ceramic knife set and you’re wondering how to [sharpen ceramic knives](https://www.wikihow.com/Category:Sharpening-Knives), then you shouldn’t worry. There are several professional sharpeners that you can contact to have the service delivered at a fee (check whether your manufacturer offers the service).
+If you have purchased a ceramic knife set and you’re wondering how to sharpen ceramic knives, then you shouldn’t worry. There are several professional sharpeners that you can contact to have the service delivered at a fee (check whether your manufacturer offers the service).
 
 That said, you can be sure that sharpening your ceramic knives will not be an easy task. As such, you should do everything possible to ensure that your blades remain sharp for long.
 
