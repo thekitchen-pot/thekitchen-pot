@@ -38,7 +38,7 @@ The quality of cookware you use will determine how fulfilling your cooking exper
 
 However, these cookware sets will not be cheap. But it is better to invest in a kitchen appliance that will serve you for a long, regardless of the price. The price tag should be the least of your consideration if you want the best for your kitchen!
 
-This article offers all-inclusive Rachael Ray cookware reviews. Rachael Ray, a [TV personality](https://en.wikipedia.org/wiki/Rachael_Ray), created both traditional and nonstick cookware that is **exceptionally bold and visually appealing.** 
+This article offers all-inclusive Rachael Ray cookware reviews. Rachael Ray, a TV personality, created both traditional and nonstick cookware that is **exceptionally bold and visually appealing.** 
 
 But is the performance of the cookware as outstanding as the appearance? Let’s find out. 
 
@@ -124,7 +124,7 @@ It is not compatible with an induction cooktop. 
 
 If you do not want many pots, then you can consider buying this set of fry pan and skillet. The set is made of hard-anodized aluminum that guarantees even heat distribution and no hot spots. 
 
-The interior nonstick surface is [PFOA](https://www.hungryhuy.com/what-is-pfoa/)-free and easy to clean. However, you should not use abrasive materials when cleaning. Instead, you should soak the pan in warm, soapy water and allow it to sit for 5 minutes. After that, cleaning will be an absolute breeze. 
+The interior nonstick surface is PFOA-free and easy to clean. However, you should not use abrasive materials when cleaning. Instead, you should soak the pan in warm, soapy water and allow it to sit for 5 minutes. After that, cleaning will be an absolute breeze. 
 
 The exterior is also sturdy and completed with colorful porcelain to add to their longevity and style. The pans are oven safe up to 350 degrees and come with a rubberized handle to offer a comfortable grip and stay-cool feature. 
 
