@@ -41,19 +41,19 @@ Bid goodbye to fast foods. With only a bag of frozen French fries and an air fry
 
 If you have no idea how to cook Frozen fries in an air fryer, then worry no more! This article provides a comprehensive guide on the best approaches to use to cook your french fries like a pro!
 
-You can be sure that they’ll taste better than your normal French fries in fast foods. Just use your air fryer to [cook frozen French fries](https://www.potatochipsmachinery.com/news/frozen-french-fries-making.html) and liberate yourself the energy, time and kilo-calories of deep frying or baking.
+You can be sure that they’ll taste better than your normal French fries in fast foods. Just use your air fryer to cook frozen French fries and liberate yourself the energy, time and kilo-calories of deep frying or baking.
 
 ## **How to Cook Frozen French Fries in an Air Fryer – Definitions**
 
 ### **Description of Air Fryer**
 
-An [air fryer](https://en.wikipedia.org/wiki/Air_fryer) is a kitchen appliance that cooks by circulating hot air around the food using the convection mechanism.
+An air fryer is a kitchen appliance that cooks by circulating hot air around the food using the convection mechanism.
 
 A mechanical fan circulates the hot air around the food at high speed, cooking the food and producing a crispy layer via the browning and mallard reactions
 
 ### **Description of Frozen French Fries** 
 
-Frozen [French fries](https://en.wikipedia.org/wiki/French_fries) are raw potatoes that are first chopped and cut into strips. They then go through the process of washing, blanching, drying, frying and then freezing.
+Frozen French fries are raw potatoes that are first chopped and cut into strips. They then go through the process of washing, blanching, drying, frying and then freezing.
 
 ## **Amazing Benefits of Air Fried Frozen French Fries**
 
@@ -86,7 +86,7 @@ Another incredible benefit of frozen French fries is that potatoes contain vitam
 
 ## **How to Cook Frozen French Fries in an Air Fryer : A Complete Guide**
 
-[Cooking frozen fries](https://cookpad.com/ke/search/air%20fryer%20french%20fries) in your air fryer has never been this amazing. It’ simple, all you need to do is follow this steps and you will be good to go;
+Cooking frozen fries in your air fryer has never been this amazing. It’ simple, all you need to do is follow this steps and you will be good to go;
 
 * Preheat your air fryer to 400f, sprinkle the basket with some oil
 * In a separate bowl, sprinkle the fries with some oil. Season the fries as you desire maybe some white pepper, cinnamon, and soy sauce.
@@ -119,7 +119,7 @@ Another incredible benefit of frozen French fries is that potatoes contain vitam
 | Sugar               | 8                      |
 | Protein             | 7                      |
 
-[Nutritional information](https://www.nutritionix.com/food/frozen-french-fries) is approximated based on the cooking instructions, as described in different recipes and is considered to be used for information purposes only.
+Nutritional information is approximated based on the cooking instructions, as described in different recipes and is considered to be used for information purposes only.
 
 Always note that nutrition details vary on the basis of origin, methods of preparation and freshness of the ingredients maybe your potatoes being used in the recipe.
 
