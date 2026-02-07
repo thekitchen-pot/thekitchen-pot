@@ -55,7 +55,7 @@ Features
 
 ## Griswold History
 
-[Griswold](https://en.wikipedia.org/wiki/Griswold_Manufacturing) is a manufacturing company that was located in Pennsylvania. It was founded by Matthew Griswold in 1865.
+Griswold is a manufacturing company that was located in Pennsylvania. It was founded by Matthew Griswold in 1865.
 
 Until 1957, the company was known to produce the best cast-iron products. Their skillets were hand-crafted and made with unmatched precision.
 
@@ -94,7 +94,7 @@ Some of the rarest Griswold cast iron skillets are “Erie” and “Erie Spider
 
 ## Griswold Cast Iron Skillet Weight and Thickness
 
-If you’re a fan of cast iron skillet, you’ll opine that they are quite heavy. However, Griswold [cast iron skillet](https://en.wikipedia.org/wiki/Cast-iron_cookware) is an exception. This **skillet is amazingly lightweight!** It weighs approximately 3.8 lb., which is almost half of what the **[Lodge cast iron skillet](https://thekitchenpot.com/blog/lodge-cast-iron-skillet-review//)** will weigh. 
+If you’re a fan of cast iron skillet, you’ll opine that they are quite heavy. However, Griswold cast iron skillet is an exception. This **skillet is amazingly lightweight!** It weighs approximately 3.8 lb., which is almost half of what the **[Lodge cast iron skillet](https://thekitchenpot.com/blog/lodge-cast-iron-skillet-review//)** will weigh. 
 
 Additionally, the Griswold cast iron skillet is thinner than most modern skillets. Its thickness is a mere 0.12 inches, while that of Lodge is approximately 0.15 inches.
 
