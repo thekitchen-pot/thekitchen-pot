@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 A fondue pot is one of the oldest kitchen appliances that just never loses its usefulness. This appliance will help you to unlock your A-game in matters serving desserts and appetizers.
 
-The pot originates from Swiss and is famous for [fondue’s communal serving](https://en.wikipedia.org/wiki/Fondue) (melted cheese blended with wine and a little seasoning).
+The pot originates from Swiss and is famous for fondue’s communal serving (melted cheese blended with wine and a little seasoning).
 
 This article answers all your questions on how to use a fondue pot. We also recommend the top 3 fondue pots that you should consider.
 
@@ -52,7 +52,7 @@ This pot is essential when you’re serving a meal to a small group of people. I
 
 ## Types of Fuels for Fondue Pot
 
-A [fondue pot](https://www.recipetips.com/glossary-term/t--36180/fondue-pot.asp) can use different types of fuel. While it was initially designed to use candle and spirit lamp, technology has led to modifications allowing more fuel use. Some of the fondue pot fuels that you can use include:
+A fondue pot can use different types of fuel. While it was initially designed to use candle and spirit lamp, technology has led to modifications allowing more fuel use. Some of the fondue pot fuels that you can use include:
 
 1. **Electricity**
 
@@ -185,7 +185,7 @@ When using your fondue pot, you should undertake the following precautionary mea
 
 ## How to Clean Your Fondue Pot
 
-Before you [start cleaning](https://www.wikihow.com/Clean-a-Fondue-Pot), you should always ensure that your fondue pot has cooled down entirely. 
+Before you start cleaning, you should always ensure that your fondue pot has cooled down entirely. 
 
 * Use warm and soapy water
 * We recommend that you hand wash. However, ceramic fondue pot is dishwasher-friendly
