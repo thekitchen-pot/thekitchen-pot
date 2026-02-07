@@ -61,9 +61,9 @@ After the treatment, the apple juice is pasteurized and packaged for sale. Ordin
 
 ## **I**s Apple Cider Healthier than Apple Juice?
 
-Yes, [apple cider](https://www.countryliving.com/food-drinks/a28634446/apple-cider-vs-apple-juice-difference/) is generally a healthier option compared to apple juice. It contains more fiber and is untreated. As such, you can be sure that the beverage will help with the peristaltic movement and improve the overall health of your gut. 
+Yes, apple cider is generally a healthier option compared to apple juice. It contains more fiber and is untreated. As such, you can be sure that the beverage will help with the peristaltic movement and improve the overall health of your gut. 
 
-Additionally, apple cider has more [polyphenols and organic acids](https://onlinelibrary.wiley.com/doi/full/10.1002/jsfa.6639) (increases if fermentation occurs). These compounds are highly beneficial to the human body and their consumption improves your overall well-being.
+Additionally, apple cider has more polyphenols and organic acids (increases if fermentation occurs). These compounds are highly beneficial to the human body and their consumption improves your overall well-being.
 
 On the contrary, apple juice is highly filtered. It does not contain roughage, which removes the health benefits to the gut. Additionally, the juice has preservatives and sweeteners, which compromise the natural constituents of organic elements. 
 
@@ -105,7 +105,7 @@ The difference between apple juice and apple cider is minute. It boils down to t
 
 Additionally, you should avoid apple cider if you’re buying the drink for children. Apple juice is more palatable and will certainly receive a better reception from children. 
 
-If you’re looking for [nutritional benefits](https://www.healthline.com/nutrition/6-proven-health-benefits-of-apple-cider-vinegar), then we recommend apple cider. It has more roughage and other organic constituents, which makes it healthier. However, the beverage has a shorter life span and will not serve you for long.
+If you’re looking for nutritional benefits, then we recommend apple cider. It has more roughage and other organic constituents, which makes it healthier. However, the beverage has a shorter life span and will not serve you for long.
 
 ## **What is the Difference Between Apple Cider and Apple Cider Vinegar?**
 
