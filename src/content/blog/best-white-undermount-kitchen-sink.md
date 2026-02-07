@@ -42,7 +42,7 @@ If that sounds like the sink for you, take a look at these best white undermount
 
 ## **Why Upgrade Your Kitchen Sink?**
 
-By upgrading your **[kitchen sink](https://www.signaturehardware.com/lc_buying-guide-kitchen-sink)**, you’ll be able to add a touch of your style to your home.
+By upgrading your **kitchen sink**, you’ll be able to add a touch of your style to your home.
 
 If you’re tired of the boring look of stainless steel or if you want a softer material that’s easier on the environment, you have plenty of options with quartz and granite sinks. These materials come in a wide range of colors and designs to match any type of kitchen.
 
