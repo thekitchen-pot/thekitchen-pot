@@ -1,5 +1,5 @@
 ---
-title: Is Teflon Non-Stick Cookware Safe?
+title: What Gauge Stainless Steel Sink Is Best?
 slug: Is-teflon-nonstick-cookware-safe
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-02-28
@@ -15,6 +15,8 @@ description: |-
   kitchen or just curious, this guide dives deep into which gauge stainless
   steel sink is best, comparing 16 vs 18 gauge, 14 gauge, and other options.
 category: Kitchenware
+tags:
+  - Kitchen Sink
 showTableOfContents: true
 source: decap
 ---
