@@ -13,6 +13,8 @@ description: Whether you're a beginner in the kitchen, a seasoned pro, or
   someone just trying to up their home cooking game, we’ve got everything you
   need to make an informed choice.
 category: Kitchenware
+tags:
+  - Kitchen, knives, forged
 showTableOfContents: true
 source: decap
 ---
