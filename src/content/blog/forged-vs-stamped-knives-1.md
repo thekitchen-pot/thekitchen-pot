@@ -14,7 +14,9 @@ description: Whether you're a beginner in the kitchen, a seasoned pro, or
   need to make an informed choice.
 category: Kitchenware
 tags:
-  - Kitchen, knives, forged
+  - Kitchen
+  - forged
+  - Knives
 showTableOfContents: true
 source: decap
 ---
