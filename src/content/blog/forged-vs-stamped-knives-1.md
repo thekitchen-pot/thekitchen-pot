@@ -1,6 +1,6 @@
 ---
 title: "Forged vs. Stamped Knives: Which Is Better for You?"
-slug: forged-vs-stamped-knives
+slug: best-forged-knives
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-03-02
 modDate: 2026-03-02
