@@ -1,9 +1,9 @@
 ---
-title: "Forged vs Stamped Knives: Which Is Better for You?"
-slug: forged-vs-stamped-knives
+title: Best Knife to Buy in 2026
+slug: best-knife-to-buy-in-2026
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-03-03
-modDate: 2026-03-02
+modDate: 2026-03-05
 postAuthor: boniface-muriuki
 image: /images/blog/default-cover.jpg
 excerpt: Whether you're a beginner in the kitchen, a seasoned pro, or someone
