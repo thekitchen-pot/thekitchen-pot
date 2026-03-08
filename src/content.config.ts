@@ -17,7 +17,7 @@ const blog = defineCollection({
     slug: z.string(),
     pubDate: z.date().default(today),
     modDate: z.date().default(today),
-    author: z.string(),
+    author: z.string().optional(),
     authorBio: z.string().optional(),
     authorId: z.string().optional(),
     authorImage: z.string().optional(),
