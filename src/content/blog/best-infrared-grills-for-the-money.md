@@ -7,8 +7,8 @@ authorId: kitchenpot1
 title: 7 Best Infrared Grills for the Money
 source: wordpress
 slug: best-infrared-grills-for-the-money
-pubDate: 2020-10-13
-modDate: 2025-01-25
+pubDate: 2026-03-10
+modDate: 2026-03-10
 image: ""
 category: Gas And Charcoal Grills
 author: Boniface Muriuki
